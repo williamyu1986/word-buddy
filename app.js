@@ -148,6 +148,7 @@ const WORDS = [
 
 const EXAM_BANKS = typeof EXAM_WORD_BANKS === "undefined" ? {} : EXAM_WORD_BANKS;
 const FULL_WORD_BANKS = {
+  zhongkao: typeof ZHONGKAO_WORDS === "undefined" ? [] : ZHONGKAO_WORDS,
   ket: typeof KET_WORDS === "undefined" ? [] : KET_WORDS
 };
 const FULL_WORDS = Object.values(FULL_WORD_BANKS).flat();
@@ -347,8 +348,9 @@ async function saveCloudStateNow(silent = false) {
 
 function allWords() {
   const fullLibraries = new Set(Object.keys(FULL_WORD_BANKS).filter(library => FULL_WORD_BANKS[library].length));
+  const baseWords = FULL_WORD_BANKS.zhongkao.length ? [] : WORDS;
   const starterWords = EXAM_WORDS.filter(word => !fullLibraries.has(word.library));
-  return [...WORDS, ...starterWords, ...FULL_WORDS, ...UNICORN_WORDS, ...state.customWords];
+  return [...baseWords, ...starterWords, ...FULL_WORDS, ...UNICORN_WORDS, ...state.customWords];
 }
 
 function activeWords() {
@@ -367,11 +369,11 @@ function libraryMeta() {
   const unitLabel = unicornUnitLabel(state.selectedUnicornUnit);
   const metas = {
     zhongkao: {
-      title: "中考核心词",
-      short: "中考核心词",
-      badge: "中考核心",
-      subtitle: `中考核心词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
-      empty: "可以切换到中考词库，或在家长设置里导入自定义词。",
+      title: "黑龙江中考词库",
+      short: "黑龙江中考",
+      badge: "黑龙江中考",
+      subtitle: `黑龙江中考基础版 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
+      empty: "可以切换到黑龙江中考词库，或在家长设置里导入自定义词。",
     },
     gaokao: {
       title: "高考核心词",
@@ -772,7 +774,7 @@ function renderLibrary() {
         <div class="sticker">本</div>
       </header>
       <div class="library-list">
-        ${libraryCard("zhongkao", "中考核心词", `${WORDS.length} 个示例词`, "已开放")}
+        ${libraryCard("zhongkao", "黑龙江中考词库", `${examCount("zhongkao")} 个基础词`, "基础版")}
         ${libraryCard("gaokao", "高考核心词", `${examCount("gaokao")} 个核心词`, "高考")}
         ${libraryCard("ket", "KET 常用词", `${examCount("ket")} 个常用词`, "KET")}
         ${libraryCard("pet", "PET 常用词", `${examCount("pet")} 个常用词`, "PET")}
