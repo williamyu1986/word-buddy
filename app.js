@@ -576,13 +576,18 @@ function escapeHtml(value) {
 function wordPart(word) {
   const raw = String(word.part || word.pos || inferredPartFromMeaning(word.meaning) || "").trim();
   if (!raw) return "";
-  return raw
+  return normalizedPartLabels(raw)[0] || "";
+}
+
+function normalizedPartLabels(raw) {
+  return String(raw || "")
     .replaceAll("preposition", "prep.")
     .replaceAll("determiner", "det.")
-    .replace(/\b(phr v|prep phr|exclam|adj|adv|prep|conj|pron|det|n|v)\b\.?/g, "$1.")
+    .replace(/\b(phr v|prep phr|exclam|adj|adv|prep|conj|pron|det|num|n|v)\b\.?/g, "$1.")
     .replace(/\s+/g, " ")
-    .replace(/\.$/, ".")
-    .trim();
+    .split(/[,/&]+|\s+and\s+|\s+or\s+/i)
+    .map(part => part.trim().replace(/\.$/, "") + ".")
+    .filter(part => /^(phr v|prep phr|exclam|adj|adv|prep|conj|pron|det|num|n|v)\.$/.test(part));
 }
 
 function inferredPartFromMeaning(meaning) {
