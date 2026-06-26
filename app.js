@@ -574,7 +574,7 @@ function escapeHtml(value) {
 }
 
 function wordPart(word) {
-  const raw = String(word.part || word.pos || "").trim();
+  const raw = String(word.part || word.pos || inferredPartFromMeaning(word.meaning) || "").trim();
   if (!raw) return "";
   return raw
     .replaceAll("preposition", "prep.")
@@ -585,9 +585,32 @@ function wordPart(word) {
     .trim();
 }
 
+function inferredPartFromMeaning(meaning) {
+  const text = String(meaning || "").trim();
+  const suffix = text.match(/\s+(n|v|adj|adv|prep|conj|pron|det|phr)\.?$/i);
+  if (suffix) return suffix[1].toLowerCase();
+  const prefix = text.match(/^(n|v|vi|vt|adj|adv|a|prep|conj|pron|det)\.\s*/i);
+  if (!prefix) return "";
+  const value = prefix[1].toLowerCase();
+  if (value === "a") return "adj";
+  if (value === "vt" || value === "vi") return "v";
+  return value;
+}
+
+function cleanMeaningForDisplay(word) {
+  let meaning = String(word.meaning || "").trim();
+  if (wordPart(word)) {
+    meaning = meaning
+      .replace(/^(n|v|vi|vt|adj|adv|a|prep|conj|pron|det)\.\s*/i, "")
+      .replace(/\s+(n|v|adj|adv|prep|conj|pron|det|phr)\.?$/i, "")
+      .trim();
+  }
+  return meaning;
+}
+
 function formattedMeaning(word) {
   const part = wordPart(word);
-  return `${part ? `${part} ` : ""}${word.meaning}`;
+  return `${part ? `${part} ` : ""}${cleanMeaningForDisplay(word)}`;
 }
 
 function phoneticLine(word) {

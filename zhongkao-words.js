@@ -7,7 +7,7 @@ const ZHONGKAO_WORDS = [
     "example": "I have a book in my bag.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "det"
   },
   {
     "id": "zhongkao-full-2",
@@ -17,7 +17,7 @@ const ZHONGKAO_WORDS = [
     "example": "She has the ability to solve the problem.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-3",
@@ -27,7 +27,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"able\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-4",
@@ -37,7 +37,7 @@ const ZHONGKAO_WORDS = [
     "example": "This story is about school life.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-5",
@@ -47,7 +47,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"above\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv, adj"
   },
   {
     "id": "zhongkao-full-6",
@@ -57,7 +57,7 @@ const ZHONGKAO_WORDS = [
     "example": "My cousin studies abroad.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv, adj"
   },
   {
     "id": "zhongkao-full-7",
@@ -67,7 +67,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"absent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-8",
@@ -77,7 +77,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"accent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-9",
@@ -87,7 +87,7 @@ const ZHONGKAO_WORDS = [
     "example": "Please accept my thanks.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-10",
@@ -97,7 +97,7 @@ const ZHONGKAO_WORDS = [
     "example": "He was late because of a traffic accident.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-11",
@@ -107,7 +107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ache\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-12",
@@ -117,7 +117,7 @@ const ZHONGKAO_WORDS = [
     "example": "Work hard and you can achieve your dream.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-13",
@@ -127,7 +127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"across\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-14",
@@ -137,7 +137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"act\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-15",
@@ -147,7 +147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"action\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-16",
@@ -157,7 +157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"active\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-17",
@@ -167,7 +167,7 @@ const ZHONGKAO_WORDS = [
     "example": "The school activity starts at nine.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-18",
@@ -177,7 +177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"add\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-19",
@@ -187,7 +187,7 @@ const ZHONGKAO_WORDS = [
     "example": "Write your address on the form.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-20",
@@ -197,7 +197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"advantage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-21",
@@ -207,7 +207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"advertisement\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-22",
@@ -217,7 +217,7 @@ const ZHONGKAO_WORDS = [
     "example": "Can you give me some advice?",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-23",
@@ -227,7 +227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"advise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-24",
@@ -237,7 +237,7 @@ const ZHONGKAO_WORDS = [
     "example": "They cannot afford a new bike.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-25",
@@ -247,7 +247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"afraid\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-26",
@@ -257,7 +257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"after\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep, conj, adv"
   },
   {
     "id": "zhongkao-full-27",
@@ -267,7 +267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"afternoon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-28",
@@ -277,7 +277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"again\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-29",
@@ -287,7 +287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"against\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-30",
@@ -297,7 +297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"age\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-31",
@@ -307,7 +307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ago\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-32",
@@ -317,7 +317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I agree with your idea.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-33",
@@ -327,7 +327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"agreement\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-34",
@@ -337,7 +337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"air\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-35",
@@ -347,7 +347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"airline\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-36",
@@ -357,7 +357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"airplane\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-37",
@@ -367,7 +367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"airport\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-38",
@@ -377,7 +377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"alive\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-39",
@@ -387,7 +387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"all\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv, pron"
   },
   {
     "id": "zhongkao-full-40",
@@ -397,7 +397,7 @@ const ZHONGKAO_WORDS = [
     "example": "Our teacher does not allow phones in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-41",
@@ -407,7 +407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"almost\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-42",
@@ -417,7 +417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"alone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-43",
@@ -427,7 +427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"along\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "zhongkao-full-44",
@@ -437,7 +437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"aloud\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-45",
@@ -447,7 +447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"already\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-46",
@@ -457,7 +457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"also\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-47",
@@ -467,7 +467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"although\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "zhongkao-full-48",
@@ -477,7 +477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"always\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-49",
@@ -487,7 +487,7 @@ const ZHONGKAO_WORDS = [
     "example": "She visited America last year.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-50",
@@ -497,7 +497,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about American in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-51",
@@ -507,7 +507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"among\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-52",
@@ -517,7 +517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ancient\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-53",
@@ -527,7 +527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"and\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "zhongkao-full-54",
@@ -537,7 +537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"angry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-55",
@@ -547,7 +547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"animal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-56",
@@ -557,7 +557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"another\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "zhongkao-full-57",
@@ -567,7 +567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"answer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-58",
@@ -577,7 +577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-59",
@@ -587,7 +587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"any\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "zhongkao-full-60",
@@ -597,7 +597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"anybody\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "pron, n"
   },
   {
     "id": "zhongkao-full-61",
@@ -607,7 +607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"anyone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-62",
@@ -617,7 +617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"anything\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-63",
@@ -627,7 +627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"anyway\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-64",
@@ -637,7 +637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"anywhere\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-65",
@@ -647,7 +647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"appear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-66",
@@ -657,7 +657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"apple\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-67",
@@ -667,7 +667,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about April in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-68",
@@ -677,7 +677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"area\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-69",
@@ -687,7 +687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"arm\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-70",
@@ -697,7 +697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"army\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-71",
@@ -707,7 +707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"around\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-72",
@@ -717,7 +717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"arrive\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-73",
@@ -727,7 +727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"art\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-74",
@@ -737,7 +737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"article\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-75",
@@ -747,7 +747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"as\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv, prep, conj"
   },
   {
     "id": "zhongkao-full-76",
@@ -757,7 +757,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Asia in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-77",
@@ -767,7 +767,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Asian in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-78",
@@ -777,7 +777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ask\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-79",
@@ -787,7 +787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"asleep\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-80",
@@ -797,7 +797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"at\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-81",
@@ -807,7 +807,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Atlantic in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-82",
@@ -817,7 +817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"attention\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-83",
@@ -827,7 +827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"august\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-84",
@@ -837,7 +837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"aunt\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-85",
@@ -847,7 +847,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Australia in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-86",
@@ -857,7 +857,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Australian in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-87",
@@ -867,7 +867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"autumn\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-88",
@@ -877,7 +877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"available\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-89",
@@ -887,7 +887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"avoid\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-90",
@@ -897,7 +897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"awake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-91",
@@ -907,7 +907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"away\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-92",
@@ -917,7 +917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"baby\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-93",
@@ -927,7 +927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"back\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-94",
@@ -937,7 +937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"background\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-95",
@@ -947,7 +947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bad\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "zhongkao-full-96",
@@ -957,7 +957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bag\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-97",
@@ -967,7 +967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ball\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-98",
@@ -977,7 +977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"balloon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-99",
@@ -987,7 +987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bamboo\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-100",
@@ -997,7 +997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"banana\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-101",
@@ -1007,7 +1007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bank\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-102",
@@ -1017,7 +1017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"baseball\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-103",
@@ -1027,7 +1027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"basic\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-104",
@@ -1037,7 +1037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"basket\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-105",
@@ -1047,7 +1047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"basketball\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-106",
@@ -1057,7 +1057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bathroom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-107",
@@ -1067,7 +1067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"be\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-108",
@@ -1077,7 +1077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"beach\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-109",
@@ -1087,7 +1087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"beat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-110",
@@ -1097,7 +1097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"beautiful\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-111",
@@ -1107,7 +1107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"because\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "zhongkao-full-112",
@@ -1117,7 +1117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"become\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-113",
@@ -1127,7 +1127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bed\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-114",
@@ -1137,7 +1137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bedroom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-115",
@@ -1147,7 +1147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bee\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-116",
@@ -1157,7 +1157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"beef\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-117",
@@ -1167,7 +1167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"before\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep, conj, adv"
   },
   {
     "id": "zhongkao-full-118",
@@ -1177,7 +1177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"begin\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-119",
@@ -1187,7 +1187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"behaviour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-120",
@@ -1197,7 +1197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"behind\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "zhongkao-full-121",
@@ -1207,7 +1207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"believe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-122",
@@ -1217,7 +1217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bell\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-123",
@@ -1227,7 +1227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"below\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-124",
@@ -1237,7 +1237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"beside\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-125",
@@ -1247,7 +1247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"besides\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-126",
@@ -1257,7 +1257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"between\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-127",
@@ -1267,7 +1267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"beyond\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv, n"
   },
   {
     "id": "zhongkao-full-128",
@@ -1277,7 +1277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bicycle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-129",
@@ -1287,7 +1287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"big\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-130",
@@ -1297,7 +1297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bike\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-131",
@@ -1307,7 +1307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bill\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-132",
@@ -1317,7 +1317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bird\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-133",
@@ -1327,7 +1327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"birth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-134",
@@ -1337,7 +1337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"birthday\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-135",
@@ -1347,7 +1347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"biscuit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-136",
@@ -1357,7 +1357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-137",
@@ -1367,7 +1367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bitter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "zhongkao-full-138",
@@ -1377,7 +1377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"black\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-139",
@@ -1387,7 +1387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"blackboard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-140",
@@ -1397,7 +1397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"blind\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-141",
@@ -1407,7 +1407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"blood\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-142",
@@ -1417,7 +1417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"blow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-143",
@@ -1427,7 +1427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"board\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-144",
@@ -1437,7 +1437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"boat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-145",
@@ -1447,7 +1447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"body\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-146",
@@ -1457,7 +1457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"book\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-147",
@@ -1467,7 +1467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"boring\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-148",
@@ -1477,7 +1477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"born\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-149",
@@ -1487,7 +1487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"borrow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-150",
@@ -1497,7 +1497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"boss\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-151",
@@ -1507,7 +1507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"both\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv, pron"
   },
   {
     "id": "zhongkao-full-152",
@@ -1517,7 +1517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bottle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-153",
@@ -1527,7 +1527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bottom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-154",
@@ -1537,7 +1537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bowl\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-155",
@@ -1547,7 +1547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"box\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-156",
@@ -1557,7 +1557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"boy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-157",
@@ -1567,7 +1567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"brain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-158",
@@ -1577,7 +1577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"brave\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "zhongkao-full-159",
@@ -1587,7 +1587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bread\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-160",
@@ -1597,7 +1597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"break\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-161",
@@ -1607,7 +1607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"breakfast\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-162",
@@ -1617,7 +1617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"breath\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-163",
@@ -1627,7 +1627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"breathe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-164",
@@ -1637,7 +1637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bridge\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-165",
@@ -1647,7 +1647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bright\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-166",
@@ -1657,7 +1657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bring\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-167",
@@ -1667,7 +1667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"brother\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-168",
@@ -1677,7 +1677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"brown\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-169",
@@ -1687,7 +1687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"brush\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-170",
@@ -1697,7 +1697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"build\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-171",
@@ -1707,7 +1707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"building\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-172",
@@ -1717,7 +1717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"burn\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-173",
@@ -1727,7 +1727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bus\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-174",
@@ -1737,7 +1737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"business\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-175",
@@ -1747,7 +1747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"busy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-176",
@@ -1757,7 +1757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"but\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep, conj, adv"
   },
   {
     "id": "zhongkao-full-177",
@@ -1767,7 +1767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"butter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-178",
@@ -1777,7 +1777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"butterfly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-179",
@@ -1787,7 +1787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"buy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-180",
@@ -1797,7 +1797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"by\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-181",
@@ -1807,7 +1807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"bye\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "B",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "zhongkao-full-182",
@@ -1817,7 +1817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cabbage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-183",
@@ -1827,7 +1827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-184",
@@ -1837,7 +1837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"call\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-185",
@@ -1847,7 +1847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"camel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-186",
@@ -1857,7 +1857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"camera\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-187",
@@ -1867,7 +1867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"camp\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-188",
@@ -1877,7 +1877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"can\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-189",
@@ -1887,7 +1887,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Canada in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-190",
@@ -1897,7 +1897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cancel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-191",
@@ -1907,7 +1907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cancer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-192",
@@ -1917,7 +1917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"candle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-193",
@@ -1927,7 +1927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"candy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-194",
@@ -1937,7 +1937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cap\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-195",
@@ -1947,7 +1947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"capital\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-196",
@@ -1957,7 +1957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"captain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-197",
@@ -1967,7 +1967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"car\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-198",
@@ -1977,7 +1977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"card\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-199",
@@ -1987,7 +1987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"care\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-200",
@@ -1997,7 +1997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"careful\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-201",
@@ -2007,7 +2007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"careless\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-202",
@@ -2017,7 +2017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"carry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-203",
@@ -2027,7 +2027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-204",
@@ -2037,7 +2037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"catch\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-205",
@@ -2047,7 +2047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cause\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-206",
@@ -2057,7 +2057,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about CD in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-207",
@@ -2067,7 +2067,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about CD-ROM in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-208",
@@ -2077,7 +2077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ceiling\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-209",
@@ -2087,7 +2087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"celebrate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-210",
@@ -2097,7 +2097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-211",
@@ -2107,7 +2107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"centre\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-212",
@@ -2117,7 +2117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"century\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-213",
@@ -2127,7 +2127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"certain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-214",
@@ -2137,7 +2137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chair\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-215",
@@ -2147,7 +2147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chairman\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-216",
@@ -2157,7 +2157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chalk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-217",
@@ -2167,7 +2167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chance\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-218",
@@ -2177,7 +2177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"change\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-219",
@@ -2187,7 +2187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-220",
@@ -2197,7 +2197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cheap\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-221",
@@ -2207,7 +2207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cheat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-222",
@@ -2217,7 +2217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"check\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-223",
@@ -2227,7 +2227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cheer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-224",
@@ -2237,7 +2237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cheese\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-225",
@@ -2247,7 +2247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chemistry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-226",
@@ -2257,7 +2257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chess\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-227",
@@ -2267,7 +2267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-228",
@@ -2277,7 +2277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chicken\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-229",
@@ -2287,7 +2287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"child\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-230",
@@ -2297,7 +2297,7 @@ const ZHONGKAO_WORDS = [
     "example": "China has a long history.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-231",
@@ -2307,7 +2307,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Chinese in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-232",
@@ -2317,7 +2317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chocolate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-233",
@@ -2327,7 +2327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"choice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-234",
@@ -2337,7 +2337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"choose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-235",
@@ -2347,7 +2347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"chopsticks\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-236",
@@ -2357,7 +2357,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Christmas in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-237",
@@ -2367,7 +2367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"church\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-238",
@@ -2377,7 +2377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cinema\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-239",
@@ -2387,7 +2387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"circle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-240",
@@ -2397,7 +2397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"city\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-241",
@@ -2407,7 +2407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clap\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-242",
@@ -2417,7 +2417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"class\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-243",
@@ -2427,7 +2427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"classmate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-244",
@@ -2437,7 +2437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"classroom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-245",
@@ -2447,7 +2447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clean\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "zhongkao-full-246",
@@ -2457,7 +2457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "zhongkao-full-247",
@@ -2467,7 +2467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clever\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-248",
@@ -2477,7 +2477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"climb\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-249",
@@ -2487,7 +2487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clock\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-250",
@@ -2497,7 +2497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-251",
@@ -2507,7 +2507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"close\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-252",
@@ -2517,7 +2517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"clothes\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-253",
@@ -2527,7 +2527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cloud\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-254",
@@ -2537,7 +2537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cloudy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-255",
@@ -2547,7 +2547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"club\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-256",
@@ -2557,7 +2557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coach\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-257",
@@ -2567,7 +2567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-258",
@@ -2577,7 +2577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coast\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-259",
@@ -2587,7 +2587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-260",
@@ -2597,7 +2597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coffee\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-261",
@@ -2607,7 +2607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coin\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-262",
@@ -2617,7 +2617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"coke\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-263",
@@ -2627,7 +2627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cold\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-264",
@@ -2637,7 +2637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"collect\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v, adj, adv"
   },
   {
     "id": "zhongkao-full-265",
@@ -2647,7 +2647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"college\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-266",
@@ -2657,7 +2657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"colour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-267",
@@ -2667,7 +2667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"come\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-268",
@@ -2677,7 +2677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"comfortable\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-269",
@@ -2687,7 +2687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"common\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-270",
@@ -2697,7 +2697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"communicate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-271",
@@ -2707,7 +2707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"communication\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-272",
@@ -2717,7 +2717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"company\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-273",
@@ -2727,7 +2727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"compare\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-274",
@@ -2737,7 +2737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"competition\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-275",
@@ -2747,7 +2747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"complete\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-276",
@@ -2757,7 +2757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"composition\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-277",
@@ -2767,7 +2767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"computer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-278",
@@ -2777,7 +2777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"concert\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-279",
@@ -2787,7 +2787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"condition\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-280",
@@ -2797,7 +2797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"conference\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-281",
@@ -2807,7 +2807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"connect\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-282",
@@ -2817,7 +2817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"consider\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-283",
@@ -2827,7 +2827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"continue\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-284",
@@ -2837,7 +2837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"control\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-285",
@@ -2847,7 +2847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"conversation\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-286",
@@ -2857,7 +2857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cook\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-287",
@@ -2867,7 +2867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cooker\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-288",
@@ -2877,7 +2877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cool\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-289",
@@ -2887,7 +2887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"copy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-290",
@@ -2897,7 +2897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"corner\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-291",
@@ -2907,7 +2907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"correct\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-292",
@@ -2917,7 +2917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cost\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-293",
@@ -2927,7 +2927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cotton\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-294",
@@ -2937,7 +2937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cough\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-295",
@@ -2947,7 +2947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"could\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-296",
@@ -2957,7 +2957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"count\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-297",
@@ -2967,7 +2967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"country\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-298",
@@ -2977,7 +2977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"countryside\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-299",
@@ -2987,7 +2987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"couple\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-300",
@@ -2997,7 +2997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"courage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-301",
@@ -3007,7 +3007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"course\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-302",
@@ -3017,7 +3017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cousin\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-303",
@@ -3027,7 +3027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cover\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-304",
@@ -3037,7 +3037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-305",
@@ -3047,7 +3047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"crayon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-306",
@@ -3057,7 +3057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"crazy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-307",
@@ -3067,7 +3067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"create\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-308",
@@ -3077,7 +3077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cross\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-309",
@@ -3087,7 +3087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cruel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-310",
@@ -3097,7 +3097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-311",
@@ -3107,7 +3107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"culture\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-312",
@@ -3117,7 +3117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cup\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-313",
@@ -3127,7 +3127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"cut\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-314",
@@ -3137,7 +3137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dad\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-315",
@@ -3147,7 +3147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"daily\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-316",
@@ -3157,7 +3157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dance\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-317",
@@ -3167,7 +3167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"danger\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-318",
@@ -3177,7 +3177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dangerous\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-319",
@@ -3187,7 +3187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dare\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-320",
@@ -3197,7 +3197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dark\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-321",
@@ -3207,7 +3207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"date\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-322",
@@ -3217,7 +3217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"daughter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-323",
@@ -3227,7 +3227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"day\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-324",
@@ -3237,7 +3237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dead\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "zhongkao-full-325",
@@ -3247,7 +3247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"deaf\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-326",
@@ -3257,7 +3257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"deal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-327",
@@ -3267,7 +3267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-328",
@@ -3277,7 +3277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"death\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-329",
@@ -3287,7 +3287,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about December in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-330",
@@ -3297,7 +3297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"decide\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-331",
@@ -3307,7 +3307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"decision\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-332",
@@ -3317,7 +3317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"deep\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-333",
@@ -3327,7 +3327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"degree\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-334",
@@ -3337,7 +3337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"delicious\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-335",
@@ -3347,7 +3347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dentist\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-336",
@@ -3357,7 +3357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"depend\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-337",
@@ -3367,7 +3367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"describe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-338",
@@ -3377,7 +3377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"desk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-339",
@@ -3387,7 +3387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"develop\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-340",
@@ -3397,7 +3397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"development\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-341",
@@ -3407,7 +3407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dialogue\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-342",
@@ -3417,7 +3417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"diary\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-343",
@@ -3427,7 +3427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dictionary\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-344",
@@ -3437,7 +3437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"die\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-345",
@@ -3447,7 +3447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"difference\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-346",
@@ -3457,7 +3457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"different\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-347",
@@ -3467,7 +3467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"difficult\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-348",
@@ -3477,7 +3477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"difficulty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-349",
@@ -3487,7 +3487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dig\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-350",
@@ -3497,7 +3497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dinner\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-351",
@@ -3507,7 +3507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"direct\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-352",
@@ -3517,7 +3517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"direction\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-353",
@@ -3527,7 +3527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"director\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-354",
@@ -3537,7 +3537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dirty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-355",
@@ -3547,7 +3547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"discover\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-356",
@@ -3557,7 +3557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"discovery\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-357",
@@ -3567,7 +3567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"discuss\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-358",
@@ -3577,7 +3577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"discussion\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-359",
@@ -3587,7 +3587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"disease\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-360",
@@ -3597,7 +3597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dish\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-361",
@@ -3607,7 +3607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dismiss\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-362",
@@ -3617,7 +3617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"disturb\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-363",
@@ -3627,7 +3627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"divide\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-364",
@@ -3637,7 +3637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"do\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-365",
@@ -3647,7 +3647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"doctor\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-366",
@@ -3657,7 +3657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dog\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-367",
@@ -3667,7 +3667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"doll\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-368",
@@ -3677,7 +3677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dollar\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-369",
@@ -3687,7 +3687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"door\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-370",
@@ -3697,7 +3697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"double\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-371",
@@ -3707,7 +3707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"doubt\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-372",
@@ -3717,7 +3717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"down\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "zhongkao-full-373",
@@ -3727,7 +3727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"downstairs\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-374",
@@ -3737,7 +3737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dozen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-375",
@@ -3747,7 +3747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"draw\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-376",
@@ -3757,7 +3757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"drawer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-377",
@@ -3767,7 +3767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dream\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-378",
@@ -3777,7 +3777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dress\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-379",
@@ -3787,7 +3787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"drink\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-380",
@@ -3797,7 +3797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"drive\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-381",
@@ -3807,7 +3807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"driver\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-382",
@@ -3817,7 +3817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"drop\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-383",
@@ -3827,7 +3827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"drug\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-384",
@@ -3837,7 +3837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"drum\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-385",
@@ -3847,7 +3847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-386",
@@ -3857,7 +3857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"duck\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-387",
@@ -3867,7 +3867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"dumpling\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-388",
@@ -3877,7 +3877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"during\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-389",
@@ -3887,7 +3887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"duty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-390",
@@ -3897,7 +3897,7 @@ const ZHONGKAO_WORDS = [
     "example": "We watched a film on DVD.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-391",
@@ -3907,7 +3907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"each\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv, pron"
   },
   {
     "id": "zhongkao-full-392",
@@ -3917,7 +3917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-393",
@@ -3927,7 +3927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"early\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-394",
@@ -3937,7 +3937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"earth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-395",
@@ -3947,7 +3947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"east\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-396",
@@ -3957,7 +3957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"easy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-397",
@@ -3967,7 +3967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-398",
@@ -3977,7 +3977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"edge\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-399",
@@ -3987,7 +3987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"education\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-400",
@@ -3997,7 +3997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"effort\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-401",
@@ -4007,7 +4007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"egg\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-402",
@@ -4017,7 +4017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eight\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-403",
@@ -4027,7 +4027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eighteen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-404",
@@ -4037,7 +4037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eighth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-405",
@@ -4047,7 +4047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eighty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-406",
@@ -4057,7 +4057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"either\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, pron, conj"
   },
   {
     "id": "zhongkao-full-407",
@@ -4067,7 +4067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"elder\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-408",
@@ -4077,7 +4077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"electric\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-409",
@@ -4087,7 +4087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"elephant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-410",
@@ -4097,7 +4097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eleven\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-411",
@@ -4107,7 +4107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"else\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-412",
@@ -4117,7 +4117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"email\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-413",
@@ -4127,7 +4127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"empty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "zhongkao-full-414",
@@ -4137,7 +4137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"encourage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-415",
@@ -4147,7 +4147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"end\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-416",
@@ -4157,7 +4157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"enemy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-417",
@@ -4167,7 +4167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"energy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-418",
@@ -4177,7 +4177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"engineer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-419",
@@ -4187,7 +4187,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about England in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-420",
@@ -4197,7 +4197,7 @@ const ZHONGKAO_WORDS = [
     "example": "English is useful for travel.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-421",
@@ -4207,7 +4207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"enjoy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-422",
@@ -4217,7 +4217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"enough\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-423",
@@ -4227,7 +4227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"enter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-424",
@@ -4237,7 +4237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"environment\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-425",
@@ -4247,7 +4247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eraser\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-426",
@@ -4257,7 +4257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"especially\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-427",
@@ -4267,7 +4267,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Europe in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-428",
@@ -4277,7 +4277,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about European in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-429",
@@ -4287,7 +4287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"even\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-430",
@@ -4297,7 +4297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"evening\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-431",
@@ -4307,7 +4307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ever\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-432",
@@ -4317,7 +4317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"every\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-433",
@@ -4327,7 +4327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"everybody\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-434",
@@ -4337,7 +4337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"everyday\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-435",
@@ -4347,7 +4347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"everyone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-436",
@@ -4357,7 +4357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"everything\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-437",
@@ -4367,7 +4367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"everywhere\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-438",
@@ -4377,7 +4377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"exam\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-439",
@@ -4387,7 +4387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"examination\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-440",
@@ -4397,7 +4397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"examine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-441",
@@ -4407,7 +4407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"example\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-442",
@@ -4417,7 +4417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"excellent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-443",
@@ -4427,7 +4427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"except\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v, prep, conj"
   },
   {
     "id": "zhongkao-full-444",
@@ -4437,7 +4437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"excite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-445",
@@ -4447,7 +4447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"excuse\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-446",
@@ -4457,7 +4457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"exercise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-447",
@@ -4467,7 +4467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"expect\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-448",
@@ -4477,7 +4477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"expensive\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-449",
@@ -4487,7 +4487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"experience\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-450",
@@ -4497,7 +4497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"experiment\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-451",
@@ -4507,7 +4507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"explain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-452",
@@ -4517,7 +4517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"express\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-453",
@@ -4527,7 +4527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"eye\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-454",
@@ -4537,7 +4537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"face\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-455",
@@ -4547,7 +4547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fact\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-456",
@@ -4557,7 +4557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"factory\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-457",
@@ -4567,7 +4567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fail\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-458",
@@ -4577,7 +4577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fair\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-459",
@@ -4587,7 +4587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fall\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-460",
@@ -4597,7 +4597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"family\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-461",
@@ -4607,7 +4607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"famous\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-462",
@@ -4617,7 +4617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fan\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-463",
@@ -4627,7 +4627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fantastic\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-464",
@@ -4637,7 +4637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"far\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-465",
@@ -4647,7 +4647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"farm\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-466",
@@ -4657,7 +4657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"farmer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-467",
@@ -4667,7 +4667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fast\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-468",
@@ -4677,7 +4677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-469",
@@ -4687,7 +4687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"father\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-470",
@@ -4697,7 +4697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"favourite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-471",
@@ -4707,7 +4707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-472",
@@ -4717,7 +4717,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about February in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-473",
@@ -4727,7 +4727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"feed\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-474",
@@ -4737,7 +4737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"feel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-475",
@@ -4747,7 +4747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"feeling\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-476",
@@ -4757,7 +4757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"festival\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-477",
@@ -4767,7 +4767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fetch\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-478",
@@ -4777,7 +4777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fever\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-479",
@@ -4787,7 +4787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"few\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-480",
@@ -4797,7 +4797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"field\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-481",
@@ -4807,7 +4807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fifteen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-482",
@@ -4817,7 +4817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fifth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-483",
@@ -4827,7 +4827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fifty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-484",
@@ -4837,7 +4837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fight\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-485",
@@ -4847,7 +4847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fill\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-486",
@@ -4857,7 +4857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"film\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-487",
@@ -4867,7 +4867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"final\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-488",
@@ -4877,7 +4877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"find\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-489",
@@ -4887,7 +4887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-490",
@@ -4897,7 +4897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"finger\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-491",
@@ -4907,7 +4907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"finish\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-492",
@@ -4917,7 +4917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fire\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-493",
@@ -4927,7 +4927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"first\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adv, adj, num"
   },
   {
     "id": "zhongkao-full-494",
@@ -4937,7 +4937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fish\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-495",
@@ -4947,7 +4947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fisherman\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-496",
@@ -4957,7 +4957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-497",
@@ -4967,7 +4967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"five\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-498",
@@ -4977,7 +4977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fix\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-499",
@@ -4987,7 +4987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"flag\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-500",
@@ -4997,7 +4997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"flat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-501",
@@ -5007,7 +5007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"floor\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-502",
@@ -5017,7 +5017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"flower\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-503",
@@ -5027,7 +5027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"flu\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-504",
@@ -5037,7 +5037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-505",
@@ -5047,7 +5047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"follow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-506",
@@ -5057,7 +5057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"food\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-507",
@@ -5067,7 +5067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"foot\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-508",
@@ -5077,7 +5077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"football\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-509",
@@ -5087,7 +5087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"for\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "prep, conj"
   },
   {
     "id": "zhongkao-full-510",
@@ -5097,7 +5097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"force\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-511",
@@ -5107,7 +5107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"foreign\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-512",
@@ -5117,7 +5117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"foreigner\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-513",
@@ -5127,7 +5127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"forest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-514",
@@ -5137,7 +5137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"forget\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-515",
@@ -5147,7 +5147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fork\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-516",
@@ -5157,7 +5157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"form\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-517",
@@ -5167,7 +5167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"forty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-518",
@@ -5177,7 +5177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"forward\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-519",
@@ -5187,7 +5187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"four\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-520",
@@ -5197,7 +5197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fourteen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-521",
@@ -5207,7 +5207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fourth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-522",
@@ -5217,7 +5217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fox\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-523",
@@ -5227,7 +5227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"free\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-524",
@@ -5237,7 +5237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"freeze\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-525",
@@ -5247,7 +5247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fresh\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-526",
@@ -5257,7 +5257,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Friday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-527",
@@ -5267,7 +5267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fridge\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-528",
@@ -5277,7 +5277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"friend\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-529",
@@ -5287,7 +5287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"friendly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-530",
@@ -5297,7 +5297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"friendship\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-531",
@@ -5307,7 +5307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"frog\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-532",
@@ -5317,7 +5317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"from\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-533",
@@ -5327,7 +5327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"front\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-534",
@@ -5337,7 +5337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fruit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-535",
@@ -5347,7 +5347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"full\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-536",
@@ -5357,7 +5357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"fun\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-537",
@@ -5367,7 +5367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"funny\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-538",
@@ -5377,7 +5377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"furniture\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-539",
@@ -5387,7 +5387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"future\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-540",
@@ -5397,7 +5397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"game\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-541",
@@ -5407,7 +5407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"garden\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-542",
@@ -5417,7 +5417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-543",
@@ -5427,7 +5427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"general\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-544",
@@ -5437,7 +5437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gentleman\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-545",
@@ -5447,7 +5447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"geography\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-546",
@@ -5457,7 +5457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gesture\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-547",
@@ -5467,7 +5467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"get\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-548",
@@ -5477,7 +5477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gift\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-549",
@@ -5487,7 +5487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"giraffe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-550",
@@ -5497,7 +5497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"girl\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-551",
@@ -5507,7 +5507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"give\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-552",
@@ -5517,7 +5517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"glad\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-553",
@@ -5527,7 +5527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"glass\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-554",
@@ -5537,7 +5537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"glove\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-555",
@@ -5547,7 +5547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"go\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-556",
@@ -5557,7 +5557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"goat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-557",
@@ -5567,7 +5567,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about God in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-558",
@@ -5577,7 +5577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gold\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-559",
@@ -5587,7 +5587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"golden\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-560",
@@ -5597,7 +5597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"good\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-561",
@@ -5607,7 +5607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"goodbye\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "zhongkao-full-562",
@@ -5617,7 +5617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"goose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-563",
@@ -5627,7 +5627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"government\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-564",
@@ -5637,7 +5637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grade\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-565",
@@ -5647,7 +5647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grammar\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-566",
@@ -5657,7 +5657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandchild\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-567",
@@ -5667,7 +5667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"granddaughter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-568",
@@ -5677,7 +5677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandfather\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-569",
@@ -5687,7 +5687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandma\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-570",
@@ -5697,7 +5697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandmother\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-571",
@@ -5707,7 +5707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandpa\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-572",
@@ -5717,7 +5717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandparent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-573",
@@ -5727,7 +5727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grandson\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-574",
@@ -5737,7 +5737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"granny\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-575",
@@ -5747,7 +5747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grape\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-576",
@@ -5757,7 +5757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grass\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-577",
@@ -5767,7 +5767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"great\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-578",
@@ -5777,7 +5777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"green\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-579",
@@ -5787,7 +5787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"greeting\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-580",
@@ -5797,7 +5797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ground\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-581",
@@ -5807,7 +5807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"group\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-582",
@@ -5817,7 +5817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"grow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-583",
@@ -5827,7 +5827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"guard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-584",
@@ -5837,7 +5837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"guess\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-585",
@@ -5847,7 +5847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"guest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-586",
@@ -5857,7 +5857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"guitar\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-587",
@@ -5867,7 +5867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gun\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-588",
@@ -5877,7 +5877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gym\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-589",
@@ -5887,7 +5887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"gymnasium\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-590",
@@ -5897,7 +5897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"habit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-591",
@@ -5907,7 +5907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hair\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-592",
@@ -5917,7 +5917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"half\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-593",
@@ -5927,7 +5927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hall\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-594",
@@ -5937,7 +5937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ham\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-595",
@@ -5947,7 +5947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hamburger\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-596",
@@ -5957,7 +5957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hand\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-597",
@@ -5967,7 +5967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"handbag\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-598",
@@ -5977,7 +5977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"handsome\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-599",
@@ -5987,7 +5987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"handwriting\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-600",
@@ -5997,7 +5997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hang\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-601",
@@ -6007,7 +6007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"happen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-602",
@@ -6017,7 +6017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"happy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-603",
@@ -6027,7 +6027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-604",
@@ -6037,7 +6037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hardly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-605",
@@ -6047,7 +6047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-606",
@@ -6057,7 +6057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-607",
@@ -6067,7 +6067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"have\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-608",
@@ -6077,7 +6077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"he\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron, n"
   },
   {
     "id": "zhongkao-full-609",
@@ -6087,7 +6087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"head\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-610",
@@ -6097,7 +6097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"headache\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-611",
@@ -6107,7 +6107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"health\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-612",
@@ -6117,7 +6117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"healthy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-613",
@@ -6127,7 +6127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-614",
@@ -6137,7 +6137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"heart\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-615",
@@ -6147,7 +6147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"heat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-616",
@@ -6157,7 +6157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"heaven\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-617",
@@ -6167,7 +6167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"heavy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-618",
@@ -6177,7 +6177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"height\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-619",
@@ -6187,7 +6187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hello\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "zhongkao-full-620",
@@ -6197,7 +6197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"help\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-621",
@@ -6207,7 +6207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"helpful\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-622",
@@ -6217,7 +6217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-623",
@@ -6227,7 +6227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"her\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-624",
@@ -6237,7 +6237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"here\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "zhongkao-full-625",
@@ -6247,7 +6247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hero\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-626",
@@ -6257,7 +6257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hers\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-627",
@@ -6267,7 +6267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"herself\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-628",
@@ -6277,7 +6277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hide\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-629",
@@ -6287,7 +6287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"high\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-630",
@@ -6297,7 +6297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hill\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-631",
@@ -6307,7 +6307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"him\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-632",
@@ -6317,7 +6317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"himself\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-633",
@@ -6327,7 +6327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"his\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-634",
@@ -6337,7 +6337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"history\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-635",
@@ -6347,7 +6347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-636",
@@ -6357,7 +6357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hobby\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-637",
@@ -6367,7 +6367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hold\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-638",
@@ -6377,7 +6377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hole\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-639",
@@ -6387,7 +6387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"holiday\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-640",
@@ -6397,7 +6397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"home\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-641",
@@ -6407,7 +6407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hometown\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-642",
@@ -6417,7 +6417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"homework\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-643",
@@ -6427,7 +6427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"honest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-644",
@@ -6437,7 +6437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"honour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-645",
@@ -6447,7 +6447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hope\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-646",
@@ -6457,7 +6457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"horse\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-647",
@@ -6467,7 +6467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hospital\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-648",
@@ -6477,7 +6477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hot\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-649",
@@ -6487,7 +6487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hotdog\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-650",
@@ -6497,7 +6497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hotel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-651",
@@ -6507,7 +6507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-652",
@@ -6517,7 +6517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"house\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-653",
@@ -6527,7 +6527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"housework\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-654",
@@ -6537,7 +6537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"how\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "zhongkao-full-655",
@@ -6547,7 +6547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"however\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adv, conj"
   },
   {
     "id": "zhongkao-full-656",
@@ -6557,7 +6557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"huge\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-657",
@@ -6567,7 +6567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"human\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-658",
@@ -6577,7 +6577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"humorous\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-659",
@@ -6587,7 +6587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hundred\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, num, adj"
   },
   {
     "id": "zhongkao-full-660",
@@ -6597,7 +6597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hungry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-661",
@@ -6607,7 +6607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hurry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-662",
@@ -6617,7 +6617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"hurt\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-663",
@@ -6627,7 +6627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"husband\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-664",
@@ -6637,7 +6637,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about I in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-665",
@@ -6647,7 +6647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-666",
@@ -6657,7 +6657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ice cream\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-667",
@@ -6667,7 +6667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"idea\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-668",
@@ -6677,7 +6677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"if\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "conj, n"
   },
   {
     "id": "zhongkao-full-669",
@@ -6687,7 +6687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ill\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-670",
@@ -6697,7 +6697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"illness\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-671",
@@ -6707,7 +6707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"imagine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-672",
@@ -6717,7 +6717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"immediately\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-673",
@@ -6727,7 +6727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"important\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-674",
@@ -6737,7 +6737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"impossible\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-675",
@@ -6747,7 +6747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"improve\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-676",
@@ -6757,7 +6757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"in\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "prep, adv, adj"
   },
   {
     "id": "zhongkao-full-677",
@@ -6767,7 +6767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"inch\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-678",
@@ -6777,7 +6777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"include\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-679",
@@ -6787,7 +6787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"increase\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-680",
@@ -6797,7 +6797,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about India in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-681",
@@ -6807,7 +6807,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Indian in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-682",
@@ -6817,7 +6817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"industry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-683",
@@ -6827,7 +6827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"influence\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-684",
@@ -6837,7 +6837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"information\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-685",
@@ -6847,7 +6847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ink\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-686",
@@ -6857,7 +6857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"inside\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-687",
@@ -6867,7 +6867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"insist\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-688",
@@ -6877,7 +6877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"instead\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-689",
@@ -6887,7 +6887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"instruction\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-690",
@@ -6897,7 +6897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"intention\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-691",
@@ -6907,7 +6907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"interest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-692",
@@ -6917,7 +6917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"interesting\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-693",
@@ -6927,7 +6927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"international\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-694",
@@ -6937,7 +6937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"internet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-695",
@@ -6947,7 +6947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"interview\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-696",
@@ -6957,7 +6957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"into\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-697",
@@ -6967,7 +6967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"introduce\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-698",
@@ -6977,7 +6977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"introduction\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-699",
@@ -6987,7 +6987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"invent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-700",
@@ -6997,7 +6997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"invention\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-701",
@@ -7007,7 +7007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"invite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-702",
@@ -7017,7 +7017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"iron\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-703",
@@ -7027,7 +7027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"island\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-704",
@@ -7037,7 +7037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"it\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-705",
@@ -7047,7 +7047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"its\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-706",
@@ -7057,7 +7057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"itself\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-707",
@@ -7067,7 +7067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"jacket\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-708",
@@ -7077,7 +7077,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about January in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-709",
@@ -7087,7 +7087,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Japan in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-710",
@@ -7097,7 +7097,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Japanese in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-711",
@@ -7107,7 +7107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"jeans\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-712",
@@ -7117,7 +7117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"job\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-713",
@@ -7127,7 +7127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"join\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-714",
@@ -7137,7 +7137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"joke\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-715",
@@ -7147,7 +7147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"joy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-716",
@@ -7157,7 +7157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"juice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-717",
@@ -7167,7 +7167,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about July in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-718",
@@ -7177,7 +7177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"jump\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-719",
@@ -7187,7 +7187,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about June in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-720",
@@ -7197,7 +7197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"just\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "J",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-721",
@@ -7207,7 +7207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"keep\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-722",
@@ -7217,7 +7217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"key\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-723",
@@ -7227,7 +7227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"keyboard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-724",
@@ -7237,7 +7237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kick\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-725",
@@ -7247,7 +7247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kid\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-726",
@@ -7257,7 +7257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kill\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-727",
@@ -7267,7 +7267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kilo\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-728",
@@ -7277,7 +7277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kilogram\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-729",
@@ -7287,7 +7287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kilometre\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-730",
@@ -7297,7 +7297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kind\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-731",
@@ -7307,7 +7307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"king\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-732",
@@ -7317,7 +7317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kiss\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-733",
@@ -7327,7 +7327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kitchen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-734",
@@ -7337,7 +7337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"kite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-735",
@@ -7347,7 +7347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"knee\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-736",
@@ -7357,7 +7357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"knife\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-737",
@@ -7367,7 +7367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"knock\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-738",
@@ -7377,7 +7377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"know\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-739",
@@ -7387,7 +7387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"knowledge\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-740",
@@ -7397,7 +7397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lab\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-741",
@@ -7407,7 +7407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"laboratory\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-742",
@@ -7417,7 +7417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"labour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-743",
@@ -7427,7 +7427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lady\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-744",
@@ -7437,7 +7437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-745",
@@ -7447,7 +7447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lamb\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-746",
@@ -7457,7 +7457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lamp\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-747",
@@ -7467,7 +7467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"land\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-748",
@@ -7477,7 +7477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"language\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-749",
@@ -7487,7 +7487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"large\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-750",
@@ -7497,7 +7497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"late\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-751",
@@ -7507,7 +7507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"laugh\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-752",
@@ -7517,7 +7517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"law\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-753",
@@ -7527,7 +7527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lay\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "zhongkao-full-754",
@@ -7537,7 +7537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lazy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-755",
@@ -7547,7 +7547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lead\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-756",
@@ -7557,7 +7557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"leader\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-757",
@@ -7567,7 +7567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"leaf\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-758",
@@ -7577,7 +7577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"learn\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-759",
@@ -7587,7 +7587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"least\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-760",
@@ -7597,7 +7597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"leave\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-761",
@@ -7607,7 +7607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"left\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-762",
@@ -7617,7 +7617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"leg\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-763",
@@ -7627,7 +7627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lemonade\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-764",
@@ -7637,7 +7637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lend\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-765",
@@ -7647,7 +7647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lesson\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-766",
@@ -7657,7 +7657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"let\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-767",
@@ -7667,7 +7667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"letter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-768",
@@ -7677,7 +7677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"level\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-769",
@@ -7687,7 +7687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"library\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-770",
@@ -7697,7 +7697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"license\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-771",
@@ -7707,7 +7707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lie\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-772",
@@ -7717,7 +7717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"life\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-773",
@@ -7727,7 +7727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lift\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-774",
@@ -7737,7 +7737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"light\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-775",
@@ -7747,7 +7747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"like\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-776",
@@ -7757,7 +7757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"line\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-777",
@@ -7767,7 +7767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lion\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-778",
@@ -7777,7 +7777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"list\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-779",
@@ -7787,7 +7787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"listen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-780",
@@ -7797,7 +7797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"litter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-781",
@@ -7807,7 +7807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"little\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-782",
@@ -7817,7 +7817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"live\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-783",
@@ -7827,7 +7827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lively\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-784",
@@ -7837,7 +7837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lock\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-785",
@@ -7847,7 +7847,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about London in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-786",
@@ -7857,7 +7857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lonely\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-787",
@@ -7867,7 +7867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"long\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-788",
@@ -7877,7 +7877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"look\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-789",
@@ -7887,7 +7887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-790",
@@ -7897,7 +7897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lot\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-791",
@@ -7907,7 +7907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"loud\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-792",
@@ -7917,7 +7917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"love\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-793",
@@ -7927,7 +7927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lovely\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-794",
@@ -7937,7 +7937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"low\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-795",
@@ -7947,7 +7947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"luck\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-796",
@@ -7957,7 +7957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lucky\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-797",
@@ -7967,7 +7967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"lunch\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-798",
@@ -7977,7 +7977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"machine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-799",
@@ -7987,7 +7987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mad\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-800",
@@ -7997,7 +7997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"madam\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-801",
@@ -8007,7 +8007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"madame\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-802",
@@ -8017,7 +8017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"magazine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-803",
@@ -8027,7 +8027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"magic\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-804",
@@ -8037,7 +8037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mail\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-805",
@@ -8047,7 +8047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"main\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-806",
@@ -8057,7 +8057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"make\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-807",
@@ -8067,7 +8067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"man\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-808",
@@ -8077,7 +8077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"manage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-809",
@@ -8087,7 +8087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"manager\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-810",
@@ -8097,7 +8097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"many\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, pron"
   },
   {
     "id": "zhongkao-full-811",
@@ -8107,7 +8107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"map\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-812",
@@ -8117,7 +8117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"march\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-813",
@@ -8127,7 +8127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mark\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-814",
@@ -8137,7 +8137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"market\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-815",
@@ -8147,7 +8147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"marriage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-816",
@@ -8157,7 +8157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"marry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-817",
@@ -8167,7 +8167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"master\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-818",
@@ -8177,7 +8177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"match\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-819",
@@ -8187,7 +8187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"math\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-820",
@@ -8197,7 +8197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mathematics\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-821",
@@ -8207,7 +8207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"may\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-822",
@@ -8217,7 +8217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"maybe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "zhongkao-full-823",
@@ -8227,7 +8227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"me\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-824",
@@ -8237,7 +8237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"meal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-825",
@@ -8247,7 +8247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mean\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-826",
@@ -8257,7 +8257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"meaning\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-827",
@@ -8267,7 +8267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"meat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-828",
@@ -8277,7 +8277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"medical\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-829",
@@ -8287,7 +8287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"medicine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-830",
@@ -8297,7 +8297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"meet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-831",
@@ -8307,7 +8307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"meeting\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-832",
@@ -8317,7 +8317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"member\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-833",
@@ -8327,7 +8327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"memory\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-834",
@@ -8337,7 +8337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mend\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-835",
@@ -8347,7 +8347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mention\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-836",
@@ -8357,7 +8357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"menu\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-837",
@@ -8367,7 +8367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"message\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-838",
@@ -8377,7 +8377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"metal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-839",
@@ -8387,7 +8387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"method\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-840",
@@ -8397,7 +8397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"metre\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-841",
@@ -8407,7 +8407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"middle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-842",
@@ -8417,7 +8417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"might\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-843",
@@ -8427,7 +8427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mile\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-844",
@@ -8437,7 +8437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"milk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-845",
@@ -8447,7 +8447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mind\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-846",
@@ -8457,7 +8457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"minute\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-847",
@@ -8467,7 +8467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mirror\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-848",
@@ -8477,7 +8477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"miss\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-849",
@@ -8487,7 +8487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mistake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-850",
@@ -8497,7 +8497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"model\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-851",
@@ -8507,7 +8507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"modern\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-852",
@@ -8517,7 +8517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-853",
@@ -8527,7 +8527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"moment\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-854",
@@ -8537,7 +8537,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Monday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-855",
@@ -8547,7 +8547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"money\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-856",
@@ -8557,7 +8557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"monitor\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-857",
@@ -8567,7 +8567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"monkey\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-858",
@@ -8577,7 +8577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"month\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-859",
@@ -8587,7 +8587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"moon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-860",
@@ -8597,7 +8597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"more\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-861",
@@ -8607,7 +8607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"morning\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-862",
@@ -8617,7 +8617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"most\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-863",
@@ -8627,7 +8627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mother\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-864",
@@ -8637,7 +8637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"motorcycle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-865",
@@ -8647,7 +8647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mountain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-866",
@@ -8657,7 +8657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mouse\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-867",
@@ -8667,7 +8667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"mouth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-868",
@@ -8677,7 +8677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"move\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-869",
@@ -8687,7 +8687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"movie\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-870",
@@ -8697,7 +8697,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Mr. in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-871",
@@ -8707,7 +8707,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Ms. in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-872",
@@ -8717,7 +8717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"much\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-873",
@@ -8727,7 +8727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"murder\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-874",
@@ -8737,7 +8737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"museum\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-875",
@@ -8747,7 +8747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"music\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-876",
@@ -8757,7 +8757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"must\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-877",
@@ -8767,7 +8767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"my\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-878",
@@ -8777,7 +8777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"myself\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "M",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-879",
@@ -8787,7 +8787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"name\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-880",
@@ -8797,7 +8797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"national\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-881",
@@ -8807,7 +8807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"natural\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-882",
@@ -8817,7 +8817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nature\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-883",
@@ -8827,7 +8827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"near\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "zhongkao-full-884",
@@ -8837,7 +8837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nearly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-885",
@@ -8847,7 +8847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"necessary\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-886",
@@ -8857,7 +8857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"neck\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-887",
@@ -8867,7 +8867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"need\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-888",
@@ -8877,7 +8877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"neighbour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-889",
@@ -8887,7 +8887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"neither\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adv, adj, pron"
   },
   {
     "id": "zhongkao-full-890",
@@ -8897,7 +8897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nervous\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-891",
@@ -8907,7 +8907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"never\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-892",
@@ -8917,7 +8917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"new\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-893",
@@ -8927,7 +8927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"news\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-894",
@@ -8937,7 +8937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"newspaper\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-895",
@@ -8947,7 +8947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"next\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-896",
@@ -8957,7 +8957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-897",
@@ -8967,7 +8967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"night\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-898",
@@ -8977,7 +8977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-899",
@@ -8987,7 +8987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nineteen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-900",
@@ -8997,7 +8997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ninety\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-901",
@@ -9007,7 +9007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ninth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-902",
@@ -9017,7 +9017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"no\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-903",
@@ -9027,7 +9027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nobody\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, pron"
   },
   {
     "id": "zhongkao-full-904",
@@ -9037,7 +9037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nod\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-905",
@@ -9047,7 +9047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"noise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-906",
@@ -9057,7 +9057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"none\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adv, pron, adj"
   },
   {
     "id": "zhongkao-full-907",
@@ -9067,7 +9067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"noodle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-908",
@@ -9077,7 +9077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"noon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-909",
@@ -9087,7 +9087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nor\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "zhongkao-full-910",
@@ -9097,7 +9097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"normal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-911",
@@ -9107,7 +9107,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about North in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-912",
@@ -9117,7 +9117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"northern\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-913",
@@ -9127,7 +9127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-914",
@@ -9137,7 +9137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"not\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-915",
@@ -9147,7 +9147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"note\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-916",
@@ -9157,7 +9157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"notebook\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-917",
@@ -9167,7 +9167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nothing\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "zhongkao-full-918",
@@ -9177,7 +9177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"notice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-919",
@@ -9187,7 +9187,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about November in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-920",
@@ -9197,7 +9197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"now\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "adv, n, adj"
   },
   {
     "id": "zhongkao-full-921",
@@ -9207,7 +9207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"number\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-922",
@@ -9217,7 +9217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"nurse\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-923",
@@ -9227,7 +9227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"object\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-924",
@@ -9237,7 +9237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ocean\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-925",
@@ -9247,7 +9247,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about October in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-926",
@@ -9257,7 +9257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"of\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-927",
@@ -9267,7 +9267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"off\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "zhongkao-full-928",
@@ -9277,7 +9277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"offer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-929",
@@ -9287,7 +9287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"office\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-930",
@@ -9297,7 +9297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"officer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-931",
@@ -9307,7 +9307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"often\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-932",
@@ -9317,7 +9317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"oil\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-933",
@@ -9327,7 +9327,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about OK in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-934",
@@ -9337,7 +9337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"old\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-935",
@@ -9347,7 +9347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"on\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "prep, adv, adj"
   },
   {
     "id": "zhongkao-full-936",
@@ -9357,7 +9357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"once\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adv, conj, n"
   },
   {
     "id": "zhongkao-full-937",
@@ -9367,7 +9367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"one\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, pron, num"
   },
   {
     "id": "zhongkao-full-938",
@@ -9377,7 +9377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"oneself\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-939",
@@ -9387,7 +9387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"only\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, conj"
   },
   {
     "id": "zhongkao-full-940",
@@ -9397,7 +9397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"open\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-941",
@@ -9407,7 +9407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"operation\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-942",
@@ -9417,7 +9417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"or\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "zhongkao-full-943",
@@ -9427,7 +9427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"orange\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-944",
@@ -9437,7 +9437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"order\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-945",
@@ -9447,7 +9447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"other\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "zhongkao-full-946",
@@ -9457,7 +9457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"our\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-947",
@@ -9467,7 +9467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ours\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-948",
@@ -9477,7 +9477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ourselves\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-949",
@@ -9487,7 +9487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"out\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "zhongkao-full-950",
@@ -9497,7 +9497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"outside\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-951",
@@ -9507,7 +9507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"over\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "adv, prep, adj"
   },
   {
     "id": "zhongkao-full-952",
@@ -9517,7 +9517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"overcoat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-953",
@@ -9527,7 +9527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"own\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-954",
@@ -9537,7 +9537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"owner\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-955",
@@ -9547,7 +9547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pacific\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-956",
@@ -9557,7 +9557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"package\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-957",
@@ -9567,7 +9567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"page\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-958",
@@ -9577,7 +9577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"paint\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-959",
@@ -9587,7 +9587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pair\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-960",
@@ -9597,7 +9597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"palace\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-961",
@@ -9607,7 +9607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pale\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-962",
@@ -9617,7 +9617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pancake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-963",
@@ -9627,7 +9627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"panda\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-964",
@@ -9637,7 +9637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"paper\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-965",
@@ -9647,7 +9647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pardon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-966",
@@ -9657,7 +9657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"parent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-967",
@@ -9667,7 +9667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"park\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-968",
@@ -9677,7 +9677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"part\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-969",
@@ -9687,7 +9687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"party\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-970",
@@ -9697,7 +9697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pass\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-971",
@@ -9707,7 +9707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"passage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-972",
@@ -9717,7 +9717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"passenger\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-973",
@@ -9727,7 +9727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"passport\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-974",
@@ -9737,7 +9737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"past\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, prep"
   },
   {
     "id": "zhongkao-full-975",
@@ -9747,7 +9747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"path\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-976",
@@ -9757,7 +9757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"patient\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-977",
@@ -9767,7 +9767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pay\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-978",
@@ -9777,7 +9777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"peace\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-979",
@@ -9787,7 +9787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-980",
@@ -9797,7 +9797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-981",
@@ -9807,7 +9807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pence\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-982",
@@ -9817,7 +9817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pencil\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-983",
@@ -9827,7 +9827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"penny\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-984",
@@ -9837,7 +9837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"people\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-985",
@@ -9847,7 +9847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"percent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-986",
@@ -9857,7 +9857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"perfect\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-987",
@@ -9867,7 +9867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"perhaps\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-988",
@@ -9877,7 +9877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"period\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-989",
@@ -9887,7 +9887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"person\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-990",
@@ -9897,7 +9897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"personal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-991",
@@ -9907,7 +9907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-992",
@@ -9917,7 +9917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"phone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-993",
@@ -9927,7 +9927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"photo\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-994",
@@ -9937,7 +9937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"photograph\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-995",
@@ -9947,7 +9947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"physics\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-996",
@@ -9957,7 +9957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"piano\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-997",
@@ -9967,7 +9967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pick\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-998",
@@ -9977,7 +9977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"picnic\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-999",
@@ -9987,7 +9987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"picture\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1000",
@@ -9997,7 +9997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pie\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1001",
@@ -10007,7 +10007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"piece\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1002",
@@ -10017,7 +10017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pig\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1003",
@@ -10027,7 +10027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pilot\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1004",
@@ -10037,7 +10037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pink\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1005",
@@ -10047,7 +10047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pioneer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1006",
@@ -10057,7 +10057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pity\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1007",
@@ -10067,7 +10067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"place\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1008",
@@ -10077,7 +10077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1009",
@@ -10087,7 +10087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plan\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1010",
@@ -10097,7 +10097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plane\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1011",
@@ -10107,7 +10107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"planet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1012",
@@ -10117,7 +10117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1013",
@@ -10127,7 +10127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plastic\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1014",
@@ -10137,7 +10137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1015",
@@ -10147,7 +10147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"play\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1016",
@@ -10157,7 +10157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"playground\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1017",
@@ -10167,7 +10167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pleasant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1018",
@@ -10177,7 +10177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"please\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adv, v"
   },
   {
     "id": "zhongkao-full-1019",
@@ -10187,7 +10187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pleasure\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1020",
@@ -10197,7 +10197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"plenty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1021",
@@ -10207,7 +10207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pocket\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1022",
@@ -10217,7 +10217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"poem\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1023",
@@ -10227,7 +10227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"point\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1024",
@@ -10237,7 +10237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"police\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1025",
@@ -10247,7 +10247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"policeman\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1026",
@@ -10257,7 +10257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"policy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1027",
@@ -10267,7 +10267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"polite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1028",
@@ -10277,7 +10277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pond\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1029",
@@ -10287,7 +10287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pool\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1030",
@@ -10297,7 +10297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"poor\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1031",
@@ -10307,7 +10307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pop\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1032",
@@ -10317,7 +10317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"popular\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1033",
@@ -10327,7 +10327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"population\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1034",
@@ -10337,7 +10337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pork\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1035",
@@ -10347,7 +10347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"position\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1036",
@@ -10357,7 +10357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"possible\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1037",
@@ -10367,7 +10367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"post\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adv"
   },
   {
     "id": "zhongkao-full-1038",
@@ -10377,7 +10377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"postcard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1039",
@@ -10387,7 +10387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"postman\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1040",
@@ -10397,7 +10397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"potato\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1041",
@@ -10407,7 +10407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pound\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1042",
@@ -10417,7 +10417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"practice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1043",
@@ -10427,7 +10427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"practise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1044",
@@ -10437,7 +10437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"praise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1045",
@@ -10447,7 +10447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"prepare\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1046",
@@ -10457,7 +10457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"present\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1047",
@@ -10467,7 +10467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"president\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1048",
@@ -10477,7 +10477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pretty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1049",
@@ -10487,7 +10487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"prevent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1050",
@@ -10497,7 +10497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"price\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1051",
@@ -10507,7 +10507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pride\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1052",
@@ -10517,7 +10517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"primary\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1053",
@@ -10527,7 +10527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"print\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1054",
@@ -10537,7 +10537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"prison\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1055",
@@ -10547,7 +10547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"prisoner\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1056",
@@ -10557,7 +10557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"private\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1057",
@@ -10567,7 +10567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"prize\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1058",
@@ -10577,7 +10577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"probably\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1059",
@@ -10587,7 +10587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"problem\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1060",
@@ -10597,7 +10597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"produce\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1061",
@@ -10607,7 +10607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"programme\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1062",
@@ -10617,7 +10617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"progress\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1063",
@@ -10627,7 +10627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"promise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1064",
@@ -10637,7 +10637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pronounce\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1065",
@@ -10647,7 +10647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pronunciation\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1066",
@@ -10657,7 +10657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"proper\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1067",
@@ -10667,7 +10667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"protect\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1068",
@@ -10677,7 +10677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"proud\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1069",
@@ -10687,7 +10687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"prove\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1070",
@@ -10697,7 +10697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"provide\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1071",
@@ -10707,7 +10707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"public\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1072",
@@ -10717,7 +10717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pull\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1073",
@@ -10727,7 +10727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"punish\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1074",
@@ -10737,7 +10737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"pupil\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1075",
@@ -10747,7 +10747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"purple\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1076",
@@ -10757,7 +10757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"purpose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1077",
@@ -10767,7 +10767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"purse\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1078",
@@ -10777,7 +10777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"push\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1079",
@@ -10787,7 +10787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"put\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "P",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "zhongkao-full-1080",
@@ -10797,7 +10797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"quarter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1081",
@@ -10807,7 +10807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"queen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1082",
@@ -10817,7 +10817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"question\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1083",
@@ -10827,7 +10827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"quick\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Q",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-1084",
@@ -10837,7 +10837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"quiet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Q",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1085",
@@ -10847,7 +10847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"quite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Q",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1086",
@@ -10857,7 +10857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rabbit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1087",
@@ -10867,7 +10867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"race\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1088",
@@ -10877,7 +10877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"radio\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1089",
@@ -10887,7 +10887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"railway\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1090",
@@ -10897,7 +10897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1091",
@@ -10907,7 +10907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"raincoat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1092",
@@ -10917,7 +10917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rainy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1093",
@@ -10927,7 +10927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"raise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1094",
@@ -10937,7 +10937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rapid\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1095",
@@ -10947,7 +10947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1096",
@@ -10957,7 +10957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rather\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1097",
@@ -10967,7 +10967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"reach\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1098",
@@ -10977,7 +10977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"read\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v, adj, n"
   },
   {
     "id": "zhongkao-full-1099",
@@ -10987,7 +10987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ready\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1100",
@@ -10997,7 +10997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"real\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "zhongkao-full-1101",
@@ -11007,7 +11007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"realise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1102",
@@ -11017,7 +11017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"really\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1103",
@@ -11027,7 +11027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"reason\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1104",
@@ -11037,7 +11037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"receive\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1105",
@@ -11047,7 +11047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"recent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1106",
@@ -11057,7 +11057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"recite\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1107",
@@ -11067,7 +11067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"record\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1108",
@@ -11077,7 +11077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"recorder\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1109",
@@ -11087,7 +11087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"red\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1110",
@@ -11097,7 +11097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"refuse\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "zhongkao-full-1111",
@@ -11107,7 +11107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"regard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1112",
@@ -11117,7 +11117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"regret\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1113",
@@ -11127,7 +11127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"relation\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1114",
@@ -11137,7 +11137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"relax\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1115",
@@ -11147,7 +11147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"remain\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1116",
@@ -11157,7 +11157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"remember\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1117",
@@ -11167,7 +11167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"repair\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1118",
@@ -11177,7 +11177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"repeat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1119",
@@ -11187,7 +11187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"reply\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1120",
@@ -11197,7 +11197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"report\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1121",
@@ -11207,7 +11207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"require\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1122",
@@ -11217,7 +11217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"research\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1123",
@@ -11227,7 +11227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1124",
@@ -11237,7 +11237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"restaurant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1125",
@@ -11247,7 +11247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"result\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1126",
@@ -11257,7 +11257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"retell\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1127",
@@ -11267,7 +11267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"return\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1128",
@@ -11277,7 +11277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"review\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1129",
@@ -11287,7 +11287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1130",
@@ -11297,7 +11297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rich\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1131",
@@ -11307,7 +11307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"riddle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1132",
@@ -11317,7 +11317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ride\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1133",
@@ -11327,7 +11327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"right\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1134",
@@ -11337,7 +11337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ring\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1135",
@@ -11347,7 +11347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1136",
@@ -11357,7 +11357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"risk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1137",
@@ -11367,7 +11367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"river\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1138",
@@ -11377,7 +11377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"road\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1139",
@@ -11387,7 +11387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"robot\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1140",
@@ -11397,7 +11397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rock\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1141",
@@ -11407,7 +11407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"role\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1142",
@@ -11417,7 +11417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"room\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1143",
@@ -11427,7 +11427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rope\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1144",
@@ -11437,7 +11437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1145",
@@ -11447,7 +11447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"round\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, prep"
   },
   {
     "id": "zhongkao-full-1146",
@@ -11457,7 +11457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"row\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1147",
@@ -11467,7 +11467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rubber\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1148",
@@ -11477,7 +11477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rubbish\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1149",
@@ -11487,7 +11487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rule\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1150",
@@ -11497,7 +11497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ruler\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1151",
@@ -11507,7 +11507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"run\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1152",
@@ -11517,7 +11517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"rush\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1153",
@@ -11527,7 +11527,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Russia in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1154",
@@ -11537,7 +11537,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Russian in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1155",
@@ -11547,7 +11547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sad\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1156",
@@ -11557,7 +11557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"safe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1157",
@@ -11567,7 +11567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"safety\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1158",
@@ -11577,7 +11577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sail\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1159",
@@ -11587,7 +11587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"salad\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1160",
@@ -11597,7 +11597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sale\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1161",
@@ -11607,7 +11607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"salt\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1162",
@@ -11617,7 +11617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"same\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, pron, adv"
   },
   {
     "id": "zhongkao-full-1163",
@@ -11627,7 +11627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sand\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1164",
@@ -11637,7 +11637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sandwich\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1165",
@@ -11647,7 +11647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"satisfy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1166",
@@ -11657,7 +11657,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Saturday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1167",
@@ -11667,7 +11667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sausage\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1168",
@@ -11677,7 +11677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"save\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, prep"
   },
   {
     "id": "zhongkao-full-1169",
@@ -11687,7 +11687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"say\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1170",
@@ -11697,7 +11697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"scarf\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1171",
@@ -11707,7 +11707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"school\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1172",
@@ -11717,7 +11717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"schoolbag\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1173",
@@ -11727,7 +11727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"science\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1174",
@@ -11737,7 +11737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"scientist\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1175",
@@ -11747,7 +11747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"score\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1176",
@@ -11757,7 +11757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"screen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1177",
@@ -11767,7 +11767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sea\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1178",
@@ -11777,7 +11777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"search\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1179",
@@ -11787,7 +11787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"season\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1180",
@@ -11797,7 +11797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1181",
@@ -11807,7 +11807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"second\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, num"
   },
   {
     "id": "zhongkao-full-1182",
@@ -11817,7 +11817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"secret\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1183",
@@ -11827,7 +11827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"secretary\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1184",
@@ -11837,7 +11837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"see\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1185",
@@ -11847,7 +11847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seem\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1186",
@@ -11857,7 +11857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seldom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1187",
@@ -11867,7 +11867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sell\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1188",
@@ -11877,7 +11877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"send\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1189",
@@ -11887,7 +11887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sense\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1190",
@@ -11897,7 +11897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sentence\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1191",
@@ -11907,7 +11907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"separate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1192",
@@ -11917,7 +11917,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about September in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1193",
@@ -11927,7 +11927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"serious\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1194",
@@ -11937,7 +11937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"servant\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1195",
@@ -11947,7 +11947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"serve\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1196",
@@ -11957,7 +11957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"service\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1197",
@@ -11967,7 +11967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"set\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1198",
@@ -11977,7 +11977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seven\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1199",
@@ -11987,7 +11987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seventeen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1200",
@@ -11997,7 +11997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seventh\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1201",
@@ -12007,7 +12007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"seventy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1202",
@@ -12017,7 +12017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"several\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "zhongkao-full-1203",
@@ -12027,7 +12027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1204",
@@ -12037,7 +12037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shall\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1205",
@@ -12047,7 +12047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shame\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1206",
@@ -12057,7 +12057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shape\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1207",
@@ -12067,7 +12067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"share\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1208",
@@ -12077,7 +12077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"she\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1209",
@@ -12087,7 +12087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sheep\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1210",
@@ -12097,7 +12097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shelf\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1211",
@@ -12107,7 +12107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1212",
@@ -12117,7 +12117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ship\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1213",
@@ -12127,7 +12127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shirt\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1214",
@@ -12137,7 +12137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shoe\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1215",
@@ -12147,7 +12147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shop\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1216",
@@ -12157,7 +12157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"short\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-1217",
@@ -12167,7 +12167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shorts\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1218",
@@ -12177,7 +12177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"should\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1219",
@@ -12187,7 +12187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shoulder\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1220",
@@ -12197,7 +12197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shout\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1221",
@@ -12207,7 +12207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"show\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1222",
@@ -12217,7 +12217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shower\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1223",
@@ -12227,7 +12227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shut\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1224",
@@ -12237,7 +12237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"shy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1225",
@@ -12247,7 +12247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sick\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1226",
@@ -12257,7 +12257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"side\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1227",
@@ -12267,7 +12267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sight\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1228",
@@ -12277,7 +12277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"silence\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1229",
@@ -12287,7 +12287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"silent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1230",
@@ -12297,7 +12297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"silk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1231",
@@ -12307,7 +12307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"silly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1232",
@@ -12317,7 +12317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"silver\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1233",
@@ -12327,7 +12327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"similar\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1234",
@@ -12337,7 +12337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"simple\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1235",
@@ -12347,7 +12347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"since\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "prep, adv, conj"
   },
   {
     "id": "zhongkao-full-1236",
@@ -12357,7 +12357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sing\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1237",
@@ -12367,7 +12367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"single\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "zhongkao-full-1238",
@@ -12377,7 +12377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sir\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1239",
@@ -12387,7 +12387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sister\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1240",
@@ -12397,7 +12397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1241",
@@ -12407,7 +12407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"situation\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1242",
@@ -12417,7 +12417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"six\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1243",
@@ -12427,7 +12427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sixteen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1244",
@@ -12437,7 +12437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sixth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1245",
@@ -12447,7 +12447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sixty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1246",
@@ -12457,7 +12457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"size\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1247",
@@ -12467,7 +12467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"skate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1248",
@@ -12477,7 +12477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"skill\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1249",
@@ -12487,7 +12487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"skirt\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1250",
@@ -12497,7 +12497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sky\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1251",
@@ -12507,7 +12507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sleep\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1252",
@@ -12517,7 +12517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sleepy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1253",
@@ -12527,7 +12527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"slow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "zhongkao-full-1254",
@@ -12537,7 +12537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"small\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-1255",
@@ -12547,7 +12547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"smart\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "zhongkao-full-1256",
@@ -12557,7 +12557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"smell\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1257",
@@ -12567,7 +12567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"smile\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1258",
@@ -12577,7 +12577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"smoke\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1259",
@@ -12587,7 +12587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"smooth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-1260",
@@ -12597,7 +12597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"snake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1261",
@@ -12607,7 +12607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"snow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1262",
@@ -12617,7 +12617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"snowy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1263",
@@ -12627,7 +12627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"so\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adv, conj, pron"
   },
   {
     "id": "zhongkao-full-1264",
@@ -12637,7 +12637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"soap\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1265",
@@ -12647,7 +12647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"social\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1266",
@@ -12657,7 +12657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"society\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1267",
@@ -12667,7 +12667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"socks\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1268",
@@ -12677,7 +12677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sofa\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1269",
@@ -12687,7 +12687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"soft\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "zhongkao-full-1270",
@@ -12697,7 +12697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"soldier\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1271",
@@ -12707,7 +12707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"solid\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1272",
@@ -12717,7 +12717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"some\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "pron, adv, adj"
   },
   {
     "id": "zhongkao-full-1273",
@@ -12727,7 +12727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"somebody\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, pron"
   },
   {
     "id": "zhongkao-full-1274",
@@ -12737,7 +12737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"someone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1275",
@@ -12747,7 +12747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"something\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1276",
@@ -12757,7 +12757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sometimes\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1277",
@@ -12767,7 +12767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"somewhere\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1278",
@@ -12777,7 +12777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"son\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1279",
@@ -12787,7 +12787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"song\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1280",
@@ -12797,7 +12797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"soon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1281",
@@ -12807,7 +12807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sorry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1282",
@@ -12817,7 +12817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sort\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1283",
@@ -12827,7 +12827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sound\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1284",
@@ -12837,7 +12837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"soup\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1285",
@@ -12847,7 +12847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-1286",
@@ -12857,7 +12857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"south\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1287",
@@ -12867,7 +12867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"southern\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1288",
@@ -12877,7 +12877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"space\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1289",
@@ -12887,7 +12887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spare\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1290",
@@ -12897,7 +12897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"speak\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1291",
@@ -12907,7 +12907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"speaker\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1292",
@@ -12917,7 +12917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"special\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1293",
@@ -12927,7 +12927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"speech\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1294",
@@ -12937,7 +12937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"speed\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1295",
@@ -12947,7 +12947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spell\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1296",
@@ -12957,7 +12957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spend\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1297",
@@ -12967,7 +12967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spirit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1298",
@@ -12977,7 +12977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spoon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1299",
@@ -12987,7 +12987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sport\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1300",
@@ -12997,7 +12997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spread\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1301",
@@ -13007,7 +13007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"spring\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1302",
@@ -13017,7 +13017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"square\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1303",
@@ -13027,7 +13027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stairs\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1304",
@@ -13037,7 +13037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stamp\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1305",
@@ -13047,7 +13047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stand\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1306",
@@ -13057,7 +13057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"standard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1307",
@@ -13067,7 +13067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"star\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1308",
@@ -13077,7 +13077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"start\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1309",
@@ -13087,7 +13087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"state\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1310",
@@ -13097,7 +13097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"station\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1311",
@@ -13107,7 +13107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stay\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1312",
@@ -13117,7 +13117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"steal\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1313",
@@ -13127,7 +13127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"steel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1314",
@@ -13137,7 +13137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"step\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1315",
@@ -13147,7 +13147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stick\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1316",
@@ -13157,7 +13157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"still\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1317",
@@ -13167,7 +13167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stomach\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1318",
@@ -13177,7 +13177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1319",
@@ -13187,7 +13187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stop\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1320",
@@ -13197,7 +13197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"store\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1321",
@@ -13207,7 +13207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"storm\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1322",
@@ -13217,7 +13217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"story\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1323",
@@ -13227,7 +13227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"strange\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1324",
@@ -13237,7 +13237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stranger\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1325",
@@ -13247,7 +13247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"strawberry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1326",
@@ -13257,7 +13257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stream\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1327",
@@ -13267,7 +13267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"street\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1328",
@@ -13277,7 +13277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"strict\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1329",
@@ -13287,7 +13287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"strong\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1330",
@@ -13297,7 +13297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"student\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1331",
@@ -13307,7 +13307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"study\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1332",
@@ -13317,7 +13317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"stupid\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1333",
@@ -13327,7 +13327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"succeed\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1334",
@@ -13337,7 +13337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"success\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1335",
@@ -13347,7 +13347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"successful\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1336",
@@ -13357,7 +13357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"such\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1337",
@@ -13367,7 +13367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sudden\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1338",
@@ -13377,7 +13377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sugar\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1339",
@@ -13387,7 +13387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"suggest\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1340",
@@ -13397,7 +13397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"suggestion\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1341",
@@ -13407,7 +13407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"summer\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1342",
@@ -13417,7 +13417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sun\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1343",
@@ -13427,7 +13427,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Sunday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1344",
@@ -13437,7 +13437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sunny\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1345",
@@ -13447,7 +13447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"supermarket\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1346",
@@ -13457,7 +13457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"supper\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1347",
@@ -13467,7 +13467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"supply\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1348",
@@ -13477,7 +13477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"suppose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1349",
@@ -13487,7 +13487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sure\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1350",
@@ -13497,7 +13497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"surface\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1351",
@@ -13507,7 +13507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"surprise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1352",
@@ -13517,7 +13517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sweater\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1353",
@@ -13527,7 +13527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sweep\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1354",
@@ -13537,7 +13537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"sweet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1355",
@@ -13547,7 +13547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"swim\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1356",
@@ -13557,7 +13557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"swimming\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1357",
@@ -13567,7 +13567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"swing\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1358",
@@ -13577,7 +13577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"symbol\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1359",
@@ -13587,7 +13587,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about T-shirt in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1360",
@@ -13597,7 +13597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"table\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1361",
@@ -13607,7 +13607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tail\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1362",
@@ -13617,7 +13617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"take\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1363",
@@ -13627,7 +13627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tale\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1364",
@@ -13637,7 +13637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"talk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1365",
@@ -13647,7 +13647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tall\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1366",
@@ -13657,7 +13657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tape\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1367",
@@ -13667,7 +13667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"task\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1368",
@@ -13677,7 +13677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"taste\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1369",
@@ -13687,7 +13687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"taxi\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1370",
@@ -13697,7 +13697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tea\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1371",
@@ -13707,7 +13707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"teach\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1372",
@@ -13717,7 +13717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"teacher\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1373",
@@ -13727,7 +13727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"team\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1374",
@@ -13737,7 +13737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"technology\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1375",
@@ -13747,7 +13747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"telephone\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1376",
@@ -13757,7 +13757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"television\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1377",
@@ -13767,7 +13767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tell\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1378",
@@ -13777,7 +13777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"temperature\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1379",
@@ -13787,7 +13787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ten\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1380",
@@ -13797,7 +13797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tennis\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1381",
@@ -13807,7 +13807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tent\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1382",
@@ -13817,7 +13817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tenth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1383",
@@ -13827,7 +13827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"term\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1384",
@@ -13837,7 +13837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"terrible\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1385",
@@ -13847,7 +13847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"test\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1386",
@@ -13857,7 +13857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"text\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1387",
@@ -13867,7 +13867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"than\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "conj, prep"
   },
   {
     "id": "zhongkao-full-1388",
@@ -13877,7 +13877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thank\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1389",
@@ -13887,7 +13887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"that\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj, conj, pron"
   },
   {
     "id": "zhongkao-full-1390",
@@ -13897,7 +13897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"the\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "det"
   },
   {
     "id": "zhongkao-full-1391",
@@ -13907,7 +13907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"theatre\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1392",
@@ -13917,7 +13917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"their\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1393",
@@ -13927,7 +13927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"theirs\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1394",
@@ -13937,7 +13937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"them\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1395",
@@ -13947,7 +13947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"themselves\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1396",
@@ -13957,7 +13957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"then\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv, conj, n"
   },
   {
     "id": "zhongkao-full-1397",
@@ -13967,7 +13967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"there\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1398",
@@ -13977,7 +13977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"these\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1399",
@@ -13987,7 +13987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"they\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1400",
@@ -13997,7 +13997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thick\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-1401",
@@ -14007,7 +14007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thin\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "zhongkao-full-1402",
@@ -14017,7 +14017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thing\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1403",
@@ -14027,7 +14027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"think\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "zhongkao-full-1404",
@@ -14037,7 +14037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"third\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1405",
@@ -14047,7 +14047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thirsty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1406",
@@ -14057,7 +14057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thirteen\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1407",
@@ -14067,7 +14067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thirty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1408",
@@ -14077,7 +14077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"this\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron, adj, adv"
   },
   {
     "id": "zhongkao-full-1409",
@@ -14087,7 +14087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"those\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1410",
@@ -14097,7 +14097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"though\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv, conj"
   },
   {
     "id": "zhongkao-full-1411",
@@ -14107,7 +14107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thought\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1412",
@@ -14117,7 +14117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thousand\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num, adj, n"
   },
   {
     "id": "zhongkao-full-1413",
@@ -14127,7 +14127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"thread\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1414",
@@ -14137,7 +14137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"three\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1415",
@@ -14147,7 +14147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"through\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv, prep, adj"
   },
   {
     "id": "zhongkao-full-1416",
@@ -14157,7 +14157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"throw\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1417",
@@ -14167,7 +14167,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Thursday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1418",
@@ -14177,7 +14177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ticket\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1419",
@@ -14187,7 +14187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tidy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1420",
@@ -14197,7 +14197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tie\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1421",
@@ -14207,7 +14207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tiger\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1422",
@@ -14217,7 +14217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"till\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "prep, conj, v"
   },
   {
     "id": "zhongkao-full-1423",
@@ -14227,7 +14227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"time\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1424",
@@ -14237,7 +14237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tiny\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1425",
@@ -14247,7 +14247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tired\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1426",
@@ -14257,7 +14257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"to\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "zhongkao-full-1427",
@@ -14267,7 +14267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"today\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "zhongkao-full-1428",
@@ -14277,7 +14277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"together\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1429",
@@ -14287,7 +14287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"toilet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1430",
@@ -14297,7 +14297,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tomato\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1431",
@@ -14307,7 +14307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tomorrow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "zhongkao-full-1432",
@@ -14317,7 +14317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ton\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1433",
@@ -14327,7 +14327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tongue\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1434",
@@ -14337,7 +14337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tonight\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "zhongkao-full-1435",
@@ -14347,7 +14347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"too\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1436",
@@ -14357,7 +14357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tool\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1437",
@@ -14367,7 +14367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tooth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1438",
@@ -14377,7 +14377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"toothache\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1439",
@@ -14387,7 +14387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"toothbrush\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1440",
@@ -14397,7 +14397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"toothpaste\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1441",
@@ -14407,7 +14407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"top\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1442",
@@ -14417,7 +14417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"total\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-1443",
@@ -14427,7 +14427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"touch\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1444",
@@ -14437,7 +14437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tour\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1445",
@@ -14447,7 +14447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tourist\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1446",
@@ -14457,7 +14457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"toward\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "prep, adj"
   },
   {
     "id": "zhongkao-full-1447",
@@ -14467,7 +14467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"towel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1448",
@@ -14477,7 +14477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tower\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1449",
@@ -14487,7 +14487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"town\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1450",
@@ -14497,7 +14497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"toy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1451",
@@ -14507,7 +14507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"trade\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1452",
@@ -14517,7 +14517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"traditional\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1453",
@@ -14527,7 +14527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"traffic\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1454",
@@ -14537,7 +14537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"train\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1455",
@@ -14547,7 +14547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"training\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1456",
@@ -14557,7 +14557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"translate\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1457",
@@ -14567,7 +14567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"travel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1458",
@@ -14577,7 +14577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"treasure\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1459",
@@ -14587,7 +14587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"treatment\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1460",
@@ -14597,7 +14597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"tree\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1461",
@@ -14607,7 +14607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"trip\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1462",
@@ -14617,7 +14617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"trouble\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1463",
@@ -14627,7 +14627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"trousers\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1464",
@@ -14637,7 +14637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"truck\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1465",
@@ -14647,7 +14647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"true\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "zhongkao-full-1466",
@@ -14657,7 +14657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"trust\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1467",
@@ -14667,7 +14667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"truth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1468",
@@ -14677,7 +14677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"try\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1469",
@@ -14687,7 +14687,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Tuesday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1470",
@@ -14697,7 +14697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"turn\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1471",
@@ -14707,7 +14707,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about TV in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1472",
@@ -14717,7 +14717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"twelfth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1473",
@@ -14727,7 +14727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"twelve\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1474",
@@ -14737,7 +14737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"twentieth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1475",
@@ -14747,7 +14747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"twenty\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1476",
@@ -14757,7 +14757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"twice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "zhongkao-full-1477",
@@ -14767,7 +14767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"two\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "zhongkao-full-1478",
@@ -14777,7 +14777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"ugly\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1479",
@@ -14787,7 +14787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"umbrella\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1480",
@@ -14797,7 +14797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"uncle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1481",
@@ -14807,7 +14807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"under\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "prep, adj, adv"
   },
   {
     "id": "zhongkao-full-1482",
@@ -14817,7 +14817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"underground\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1483",
@@ -14827,7 +14827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"understand\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1484",
@@ -14837,7 +14837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"unit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1485",
@@ -14847,7 +14847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"university\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1486",
@@ -14857,7 +14857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"unless\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "conj, prep"
   },
   {
     "id": "zhongkao-full-1487",
@@ -14867,7 +14867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"until\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "prep, conj"
   },
   {
     "id": "zhongkao-full-1488",
@@ -14877,7 +14877,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"up\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "zhongkao-full-1489",
@@ -14887,7 +14887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"upon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-1490",
@@ -14897,7 +14897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"upstairs\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-1491",
@@ -14907,7 +14907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"us\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1492",
@@ -14917,7 +14917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"use\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1493",
@@ -14927,7 +14927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"used\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1494",
@@ -14937,7 +14937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"useful\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1495",
@@ -14947,7 +14947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"usual\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1496",
@@ -14957,7 +14957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"vacation\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1497",
@@ -14967,7 +14967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"value\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1498",
@@ -14977,7 +14977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"vcd\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1499",
@@ -14987,7 +14987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"vegetable\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1500",
@@ -14997,7 +14997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"vehicle\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1501",
@@ -15007,7 +15007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"very\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1502",
@@ -15017,7 +15017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"victory\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1503",
@@ -15027,7 +15027,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"video\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1504",
@@ -15037,7 +15037,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"village\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1505",
@@ -15047,7 +15047,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"violin\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1506",
@@ -15057,7 +15057,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"visit\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1507",
@@ -15067,7 +15067,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"visitor\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1508",
@@ -15077,7 +15077,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"voice\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1509",
@@ -15087,7 +15087,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"volleyball\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1510",
@@ -15097,7 +15097,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wait\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1511",
@@ -15107,7 +15107,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wake\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1512",
@@ -15117,7 +15117,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"walk\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1513",
@@ -15127,7 +15127,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wall\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1514",
@@ -15137,7 +15137,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"want\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1515",
@@ -15147,7 +15147,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"war\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1516",
@@ -15157,7 +15157,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"warm\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-1517",
@@ -15167,7 +15167,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"warn\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1518",
@@ -15177,7 +15177,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wash\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1519",
@@ -15187,7 +15187,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"waste\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1520",
@@ -15197,7 +15197,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"watch\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1521",
@@ -15207,7 +15207,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"water\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1522",
@@ -15217,7 +15217,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"watermelon\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1523",
@@ -15227,7 +15227,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"way\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "zhongkao-full-1524",
@@ -15237,7 +15237,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"we\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1525",
@@ -15247,7 +15247,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"weak\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1526",
@@ -15257,7 +15257,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wealth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1527",
@@ -15267,7 +15267,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wear\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1528",
@@ -15277,7 +15277,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"weather\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1529",
@@ -15287,7 +15287,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"website\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1530",
@@ -15297,7 +15297,7 @@ const ZHONGKAO_WORDS = [
     "example": "We learned about Wednesday in class.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1531",
@@ -15307,7 +15307,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"week\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1532",
@@ -15317,7 +15317,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"weekday\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1533",
@@ -15327,7 +15327,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"weekend\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1534",
@@ -15337,7 +15337,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"weigh\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1535",
@@ -15347,7 +15347,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"weight\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1536",
@@ -15357,7 +15357,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"welcome\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1537",
@@ -15367,7 +15367,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"well\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "zhongkao-full-1538",
@@ -15377,7 +15377,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"west\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "zhongkao-full-1539",
@@ -15387,7 +15387,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"western\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1540",
@@ -15397,7 +15397,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1541",
@@ -15407,7 +15407,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whale\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1542",
@@ -15417,7 +15417,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"what\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron, adj, adv"
   },
   {
     "id": "zhongkao-full-1543",
@@ -15427,7 +15427,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whatever\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1544",
@@ -15437,7 +15437,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wheat\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1545",
@@ -15447,7 +15447,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wheel\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1546",
@@ -15457,7 +15457,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"when\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "conj, adv, pron"
   },
   {
     "id": "zhongkao-full-1547",
@@ -15467,7 +15467,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whenever\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "conj, adv"
   },
   {
     "id": "zhongkao-full-1548",
@@ -15477,7 +15477,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"where\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adv, pron, n"
   },
   {
     "id": "zhongkao-full-1549",
@@ -15487,7 +15487,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whether\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "conj, pron"
   },
   {
     "id": "zhongkao-full-1550",
@@ -15497,7 +15497,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"which\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1551",
@@ -15507,7 +15507,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"while\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, conj, v"
   },
   {
     "id": "zhongkao-full-1552",
@@ -15517,7 +15517,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"white\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1553",
@@ -15527,7 +15527,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"who\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1554",
@@ -15537,7 +15537,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whole\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1555",
@@ -15547,7 +15547,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whom\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1556",
@@ -15557,7 +15557,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"whose\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1557",
@@ -15567,7 +15567,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"why\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "zhongkao-full-1558",
@@ -15577,7 +15577,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wide\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "zhongkao-full-1559",
@@ -15587,7 +15587,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wife\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1560",
@@ -15597,7 +15597,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"will\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1561",
@@ -15607,7 +15607,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"win\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "zhongkao-full-1562",
@@ -15617,7 +15617,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wind\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1563",
@@ -15627,7 +15627,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"window\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1564",
@@ -15637,7 +15637,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"windy\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1565",
@@ -15647,7 +15647,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wine\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1566",
@@ -15657,7 +15657,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wing\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1567",
@@ -15667,7 +15667,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"winner\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1568",
@@ -15677,7 +15677,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"winter\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1569",
@@ -15687,7 +15687,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wise\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "zhongkao-full-1570",
@@ -15697,7 +15697,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wish\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1571",
@@ -15707,7 +15707,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"with\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "zhongkao-full-1572",
@@ -15717,7 +15717,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"without\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "prep, adv, n"
   },
   {
     "id": "zhongkao-full-1573",
@@ -15727,7 +15727,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wolf\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1574",
@@ -15737,7 +15737,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"woman\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1575",
@@ -15747,7 +15747,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wonder\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1576",
@@ -15757,7 +15757,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wonderful\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "zhongkao-full-1577",
@@ -15767,7 +15767,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wood\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1578",
@@ -15777,7 +15777,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"word\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1579",
@@ -15787,7 +15787,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"work\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1580",
@@ -15797,7 +15797,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"worker\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1581",
@@ -15807,7 +15807,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"world\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1582",
@@ -15817,7 +15817,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"worry\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1583",
@@ -15827,7 +15827,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"worth\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1584",
@@ -15837,7 +15837,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"would\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1585",
@@ -15847,7 +15847,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wound\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "zhongkao-full-1586",
@@ -15857,7 +15857,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"write\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "zhongkao-full-1587",
@@ -15867,7 +15867,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"wrong\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "W",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "zhongkao-full-1588",
@@ -15877,7 +15877,7 @@ const ZHONGKAO_WORDS = [
     "example": "The doctor took an x-ray of his arm.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "X",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "zhongkao-full-1589",
@@ -15887,7 +15887,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yard\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1590",
@@ -15897,7 +15897,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"year\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1591",
@@ -15907,7 +15907,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yellow\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "zhongkao-full-1592",
@@ -15917,7 +15917,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yes\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "adv, n, v"
   },
   {
     "id": "zhongkao-full-1593",
@@ -15927,7 +15927,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yesterday\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "zhongkao-full-1594",
@@ -15937,7 +15937,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yet\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "adv, conj"
   },
   {
     "id": "zhongkao-full-1595",
@@ -15947,7 +15947,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"you\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1596",
@@ -15957,7 +15957,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"young\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "zhongkao-full-1597",
@@ -15967,7 +15967,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"your\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1598",
@@ -15977,7 +15977,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yours\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1599",
@@ -15987,7 +15987,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yourself\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1600",
@@ -15997,7 +15997,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"yourselves\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "zhongkao-full-1601",
@@ -16007,7 +16007,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"zebra\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Z",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "zhongkao-full-1602",
@@ -16017,7 +16017,7 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"zero\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Z",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "zhongkao-full-1603",
@@ -16027,6 +16027,6 @@ const ZHONGKAO_WORDS = [
     "example": "I can use the word \"zoo\" in English.",
     "source": "ECDICT zk tag; 黑龙江中考基础版",
     "section": "Z",
-    "pos": ""
+    "pos": "n"
   }
 ];

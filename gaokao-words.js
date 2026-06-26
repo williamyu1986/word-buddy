@@ -7,7 +7,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"a\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "det"
   },
   {
     "id": "gaokao-full-2",
@@ -17,7 +17,7 @@ const GAOKAO_WORDS = [
     "example": "Never abandon your dream when things become difficult.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3",
@@ -27,7 +27,7 @@ const GAOKAO_WORDS = [
     "example": "She has the ability to solve the problem.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-4",
@@ -37,7 +37,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"able\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-5",
@@ -47,7 +47,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abnormal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-6",
@@ -57,7 +57,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aboard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "gaokao-full-7",
@@ -67,7 +67,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abolish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-8",
@@ -77,7 +77,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abortion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-9",
@@ -87,7 +87,7 @@ const GAOKAO_WORDS = [
     "example": "This article is about modern technology.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-10",
@@ -97,7 +97,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"above\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv, adj"
   },
   {
     "id": "gaokao-full-11",
@@ -107,7 +107,7 @@ const GAOKAO_WORDS = [
     "example": "He plans to study abroad next year.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv, adj"
   },
   {
     "id": "gaokao-full-12",
@@ -117,7 +117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abrupt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-13",
@@ -127,7 +127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"absence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-14",
@@ -137,7 +137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"absent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-15",
@@ -147,7 +147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"absolute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-16",
@@ -157,7 +157,7 @@ const GAOKAO_WORDS = [
     "example": "Plants absorb water from the soil.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-17",
@@ -167,7 +167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abstract\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "gaokao-full-18",
@@ -177,7 +177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"absurd\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-19",
@@ -187,7 +187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abundant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-20",
@@ -197,7 +197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"abuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-21",
@@ -207,7 +207,7 @@ const GAOKAO_WORDS = [
     "example": "She is interested in academic research.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-22",
@@ -217,7 +217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"academy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-23",
@@ -227,7 +227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accelerate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-24",
@@ -237,7 +237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-25",
@@ -247,7 +247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accept\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-26",
@@ -257,7 +257,7 @@ const GAOKAO_WORDS = [
     "example": "Students have access to the online library.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-27",
@@ -267,7 +267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accessible\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-28",
@@ -277,7 +277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accident\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-29",
@@ -287,7 +287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accommodation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-30",
@@ -297,7 +297,7 @@ const GAOKAO_WORDS = [
     "example": "Music often accompanies the film.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-31",
@@ -307,7 +307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accomplish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-32",
@@ -317,7 +317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"account\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-33",
@@ -327,7 +327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accountant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-34",
@@ -337,7 +337,7 @@ const GAOKAO_WORDS = [
     "example": "Good habits accumulate over time.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-35",
@@ -347,7 +347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accuracy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-36",
@@ -357,7 +357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-37",
@@ -367,7 +367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"accustomed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-38",
@@ -377,7 +377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ache\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-39",
@@ -387,7 +387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"achieve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-40",
@@ -397,7 +397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"achievement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-41",
@@ -407,7 +407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-42",
@@ -417,7 +417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acknowledge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-43",
@@ -427,7 +427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acquaintance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-44",
@@ -437,7 +437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acquire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-45",
@@ -447,7 +447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acquisition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-46",
@@ -457,7 +457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-47",
@@ -467,7 +467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"across\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-48",
@@ -477,7 +477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"act\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-49",
@@ -487,7 +487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"action\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-50",
@@ -497,7 +497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"active\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-51",
@@ -507,7 +507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"activity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-52",
@@ -517,7 +517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"actor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-53",
@@ -527,7 +527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"actress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-54",
@@ -537,7 +537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"actual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-55",
@@ -547,7 +547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"acute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-56",
@@ -557,7 +557,7 @@ const GAOKAO_WORDS = [
     "example": "We need to adapt to the new environment.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-57",
@@ -567,7 +567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adaptation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-58",
@@ -577,7 +577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"add\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-59",
@@ -587,7 +587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"addicted\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-60",
@@ -597,7 +597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"addition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-61",
@@ -607,7 +607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"address\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-62",
@@ -617,7 +617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adequate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-63",
@@ -627,7 +627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adjust\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-64",
@@ -637,7 +637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adjustment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-65",
@@ -647,7 +647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"administration\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-66",
@@ -657,7 +657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"admirable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-67",
@@ -667,7 +667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"admire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-68",
@@ -677,7 +677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"admission\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-69",
@@ -687,7 +687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"admit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-70",
@@ -697,7 +697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adolescence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-71",
@@ -707,7 +707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adolescent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-72",
@@ -717,7 +717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adopt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-73",
@@ -727,7 +727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-74",
@@ -737,7 +737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adult\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-75",
@@ -747,7 +747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"advance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-76",
@@ -757,7 +757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"advantage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-77",
@@ -767,7 +767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"adventure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-78",
@@ -777,7 +777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"advertise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-79",
@@ -787,7 +787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"advertisement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-80",
@@ -797,7 +797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"advice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-81",
@@ -807,7 +807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"advise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-82",
@@ -817,7 +817,7 @@ const GAOKAO_WORDS = [
     "example": "Many people advocate a low-carbon lifestyle.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-83",
@@ -827,7 +827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aeroplane\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-84",
@@ -837,7 +837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"affair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-85",
@@ -847,7 +847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"affect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-86",
@@ -857,7 +857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"affection\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-87",
@@ -867,7 +867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"afford\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-88",
@@ -877,7 +877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"afraid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-89",
@@ -887,7 +887,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Africa in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-90",
@@ -897,7 +897,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about African in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-91",
@@ -907,7 +907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"after\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep, conj, adv"
   },
   {
     "id": "gaokao-full-92",
@@ -917,7 +917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"afternoon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-93",
@@ -927,7 +927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"afterward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-94",
@@ -937,7 +937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"again\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-95",
@@ -947,7 +947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"against\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-96",
@@ -957,7 +957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"age\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-97",
@@ -967,7 +967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agency\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-98",
@@ -977,7 +977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agenda\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-99",
@@ -987,7 +987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-100",
@@ -997,7 +997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aggression\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-101",
@@ -1007,7 +1007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aggressive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-102",
@@ -1017,7 +1017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ago\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-103",
@@ -1027,7 +1027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agree\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-104",
@@ -1037,7 +1037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agreement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-105",
@@ -1047,7 +1047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agricultural\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-106",
@@ -1057,7 +1057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"agriculture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-107",
@@ -1067,7 +1067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ahead\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-108",
@@ -1077,7 +1077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-109",
@@ -1087,7 +1087,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about AIDS in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-110",
@@ -1097,7 +1097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aim\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-111",
@@ -1107,7 +1107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"air\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-112",
@@ -1117,7 +1117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aircraft\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-113",
@@ -1127,7 +1127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"airline\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-114",
@@ -1137,7 +1137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"airmail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-115",
@@ -1147,7 +1147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"airplane\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-116",
@@ -1157,7 +1157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"airport\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-117",
@@ -1167,7 +1167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"airspace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-118",
@@ -1177,7 +1177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alarm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-119",
@@ -1187,7 +1187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"album\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-120",
@@ -1197,7 +1197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alcohol\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-121",
@@ -1207,7 +1207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alcoholic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-122",
@@ -1217,7 +1217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"algebra\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-123",
@@ -1227,7 +1227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alike\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-124",
@@ -1237,7 +1237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-125",
@@ -1247,7 +1247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"all\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv, pron"
   },
   {
     "id": "gaokao-full-126",
@@ -1257,7 +1257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"allergic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-127",
@@ -1267,7 +1267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alley\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-128",
@@ -1277,7 +1277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"allocate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-129",
@@ -1287,7 +1287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"allow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-130",
@@ -1297,7 +1297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"allowance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-131",
@@ -1307,7 +1307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"almost\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-132",
@@ -1317,7 +1317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-133",
@@ -1327,7 +1327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"along\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "gaokao-full-134",
@@ -1337,7 +1337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alongside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "gaokao-full-135",
@@ -1347,7 +1347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aloud\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-136",
@@ -1357,7 +1357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alphabet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-137",
@@ -1367,7 +1367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"already\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-138",
@@ -1377,7 +1377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"also\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-139",
@@ -1387,7 +1387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"alternative\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-140",
@@ -1397,7 +1397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"although\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "gaokao-full-141",
@@ -1407,7 +1407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"altitude\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-142",
@@ -1417,7 +1417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"altogether\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-143",
@@ -1427,7 +1427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aluminium\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-144",
@@ -1437,7 +1437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"always\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-145",
@@ -1447,7 +1447,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about AM in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-146",
@@ -1457,7 +1457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"amateur\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-147",
@@ -1467,7 +1467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"amaze\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-148",
@@ -1477,7 +1477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"amazing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-149",
@@ -1487,7 +1487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ambassador\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-150",
@@ -1497,7 +1497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ambiguous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-151",
@@ -1507,7 +1507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ambition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-152",
@@ -1517,7 +1517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ambulance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-153",
@@ -1527,7 +1527,7 @@ const GAOKAO_WORDS = [
     "example": "She visited America last year.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-154",
@@ -1537,7 +1537,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about American in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-155",
@@ -1547,7 +1547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"among\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-156",
@@ -1557,7 +1557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"amount\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-157",
@@ -1567,7 +1567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ample\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-158",
@@ -1577,7 +1577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"amuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-159",
@@ -1587,7 +1587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"amusement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-160",
@@ -1597,7 +1597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"analysis\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-161",
@@ -1607,7 +1607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"analyze\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-162",
@@ -1617,7 +1617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ancestor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-163",
@@ -1627,7 +1627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ancient\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-164",
@@ -1637,7 +1637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"and\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "gaokao-full-165",
@@ -1647,7 +1647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anecdote\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-166",
@@ -1657,7 +1657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-167",
@@ -1667,7 +1667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"angle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-168",
@@ -1677,7 +1677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"angry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-169",
@@ -1687,7 +1687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"animal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-170",
@@ -1697,7 +1697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ankle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-171",
@@ -1707,7 +1707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anniversary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-172",
@@ -1717,7 +1717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"announce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-173",
@@ -1727,7 +1727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"announcement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-174",
@@ -1737,7 +1737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"annoy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-175",
@@ -1747,7 +1747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"annual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-176",
@@ -1757,7 +1757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"another\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "gaokao-full-177",
@@ -1767,7 +1767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"answer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-178",
@@ -1777,7 +1777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-179",
@@ -1787,7 +1787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"antarctic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-180",
@@ -1797,7 +1797,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Antarctica in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-181",
@@ -1807,7 +1807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"antique\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-182",
@@ -1817,7 +1817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anxiety\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-183",
@@ -1827,7 +1827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anxious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-184",
@@ -1837,7 +1837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"any\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "gaokao-full-185",
@@ -1847,7 +1847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anybody\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "pron, n"
   },
   {
     "id": "gaokao-full-186",
@@ -1857,7 +1857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anyhow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-187",
@@ -1867,7 +1867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anyone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-188",
@@ -1877,7 +1877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anything\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-189",
@@ -1887,7 +1887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"anywhere\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-190",
@@ -1897,7 +1897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apart\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv, adj"
   },
   {
     "id": "gaokao-full-191",
@@ -1907,7 +1907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apartment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-192",
@@ -1917,7 +1917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apologize\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-193",
@@ -1927,7 +1927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apology\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-194",
@@ -1937,7 +1937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apparent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-195",
@@ -1947,7 +1947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appeal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-196",
@@ -1957,7 +1957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-197",
@@ -1967,7 +1967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appearance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-198",
@@ -1977,7 +1977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appendix\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-199",
@@ -1987,7 +1987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appetite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-200",
@@ -1997,7 +1997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"applaud\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-201",
@@ -2007,7 +2007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-202",
@@ -2017,7 +2017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"applicant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-203",
@@ -2027,7 +2027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"application\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-204",
@@ -2037,7 +2037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apply\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-205",
@@ -2047,7 +2047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appoint\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-206",
@@ -2057,7 +2057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appointment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-207",
@@ -2067,7 +2067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appreciate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-208",
@@ -2077,7 +2077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appreciation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-209",
@@ -2087,7 +2087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"approach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-210",
@@ -2097,7 +2097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"appropriate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-211",
@@ -2107,7 +2107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"approve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-212",
@@ -2117,7 +2117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"approximately\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-213",
@@ -2127,7 +2127,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about April in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-214",
@@ -2137,7 +2137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"apron\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-215",
@@ -2147,7 +2147,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Arab in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-216",
@@ -2157,7 +2157,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Arabic in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-217",
@@ -2167,7 +2167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arbitrary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-218",
@@ -2177,7 +2177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-219",
@@ -2187,7 +2187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"architect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-220",
@@ -2197,7 +2197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"architecture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-221",
@@ -2207,7 +2207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arctic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-222",
@@ -2217,7 +2217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"are\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-223",
@@ -2227,7 +2227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"area\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-224",
@@ -2237,7 +2237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"argue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-225",
@@ -2247,7 +2247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"argument\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-226",
@@ -2257,7 +2257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-227",
@@ -2267,7 +2267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arithmetic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-228",
@@ -2277,7 +2277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-229",
@@ -2287,7 +2287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"armchair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-230",
@@ -2297,7 +2297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"army\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-231",
@@ -2307,7 +2307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"around\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-232",
@@ -2317,7 +2317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arrange\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-233",
@@ -2327,7 +2327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arrangement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-234",
@@ -2337,7 +2337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arrest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-235",
@@ -2347,7 +2347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arrival\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-236",
@@ -2357,7 +2357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arrive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-237",
@@ -2367,7 +2367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"arrow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-238",
@@ -2377,7 +2377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"art\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-239",
@@ -2387,7 +2387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"article\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-240",
@@ -2397,7 +2397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"artificial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-241",
@@ -2407,7 +2407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"artist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-242",
@@ -2417,7 +2417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"as\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv, prep, conj"
   },
   {
     "id": "gaokao-full-243",
@@ -2427,7 +2427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ash\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-244",
@@ -2437,7 +2437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ashamed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-245",
@@ -2447,7 +2447,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Asia in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-246",
@@ -2457,7 +2457,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Asian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-247",
@@ -2467,7 +2467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-248",
@@ -2477,7 +2477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ask\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-249",
@@ -2487,7 +2487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"asleep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-250",
@@ -2497,7 +2497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aspect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-251",
@@ -2507,7 +2507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-252",
@@ -2517,7 +2517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assessment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-253",
@@ -2527,7 +2527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-254",
@@ -2537,7 +2537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assistance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-255",
@@ -2547,7 +2547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assistant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-256",
@@ -2557,7 +2557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"associate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-257",
@@ -2567,7 +2567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"association\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-258",
@@ -2577,7 +2577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assume\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-259",
@@ -2587,7 +2587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"assumption\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-260",
@@ -2597,7 +2597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"astonish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-261",
@@ -2607,7 +2607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"astronaut\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-262",
@@ -2617,7 +2617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"astronomer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-263",
@@ -2627,7 +2627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"astronomy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-264",
@@ -2637,7 +2637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"at\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-265",
@@ -2647,7 +2647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"athlete\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-266",
@@ -2657,7 +2657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"athletic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-267",
@@ -2667,7 +2667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"athletics\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-268",
@@ -2677,7 +2677,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Atlantic in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-269",
@@ -2687,7 +2687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"atmosphere\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-270",
@@ -2697,7 +2697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"atom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-271",
@@ -2707,7 +2707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-272",
@@ -2717,7 +2717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attack\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-273",
@@ -2727,7 +2727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-274",
@@ -2737,7 +2737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attempt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-275",
@@ -2747,7 +2747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-276",
@@ -2757,7 +2757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attention\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-277",
@@ -2767,7 +2767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attentively\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-278",
@@ -2777,7 +2777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attitude\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-279",
@@ -2787,7 +2787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attract\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-280",
@@ -2797,7 +2797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attraction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-281",
@@ -2807,7 +2807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"attractive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-282",
@@ -2817,7 +2817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"audience\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-283",
@@ -2827,7 +2827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"august\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-284",
@@ -2837,7 +2837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aunt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-285",
@@ -2847,7 +2847,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Australia in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-286",
@@ -2857,7 +2857,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Australian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-287",
@@ -2867,7 +2867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"authentic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-288",
@@ -2877,7 +2877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"author\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-289",
@@ -2887,7 +2887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"authority\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-290",
@@ -2897,7 +2897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"automatic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-291",
@@ -2907,7 +2907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"autonomous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-292",
@@ -2917,7 +2917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"autumn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-293",
@@ -2927,7 +2927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"available\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-294",
@@ -2937,7 +2937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"avenue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-295",
@@ -2947,7 +2947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"average\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-296",
@@ -2957,7 +2957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"avoid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-297",
@@ -2967,7 +2967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"awake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-298",
@@ -2977,7 +2977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"award\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-299",
@@ -2987,7 +2987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"aware\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-300",
@@ -2997,7 +2997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"away\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-301",
@@ -3007,7 +3007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"awesome\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-302",
@@ -3017,7 +3017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"awful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-303",
@@ -3027,7 +3027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"awkward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "A",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-304",
@@ -3037,7 +3037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"baby\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-305",
@@ -3047,7 +3047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bachelor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-306",
@@ -3057,7 +3057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"back\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-307",
@@ -3067,7 +3067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"backache\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-308",
@@ -3077,7 +3077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"background\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-309",
@@ -3087,7 +3087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"backward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adv, adj"
   },
   {
     "id": "gaokao-full-310",
@@ -3097,7 +3097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bacon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-311",
@@ -3107,7 +3107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bacterium\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-312",
@@ -3117,7 +3117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bad\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-313",
@@ -3127,7 +3127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"badly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-314",
@@ -3137,7 +3137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"badminton\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-315",
@@ -3147,7 +3147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-316",
@@ -3157,7 +3157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"baggage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-317",
@@ -3167,7 +3167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-318",
@@ -3177,7 +3177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bakery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-319",
@@ -3187,7 +3187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"balance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-320",
@@ -3197,7 +3197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"balcony\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-321",
@@ -3207,7 +3207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ball\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-322",
@@ -3217,7 +3217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ballet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-323",
@@ -3227,7 +3227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"balloon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-324",
@@ -3237,7 +3237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ballpoint\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-325",
@@ -3247,7 +3247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bamboo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-326",
@@ -3257,7 +3257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ban\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-327",
@@ -3267,7 +3267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"banana\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-328",
@@ -3277,7 +3277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"band\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-329",
@@ -3287,7 +3287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bandage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-330",
@@ -3297,7 +3297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bang\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v, adv"
   },
   {
     "id": "gaokao-full-331",
@@ -3307,7 +3307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bank\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-332",
@@ -3317,7 +3317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-333",
@@ -3327,7 +3327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"barbecue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-334",
@@ -3337,7 +3337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"barber\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-335",
@@ -3347,7 +3347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"barbershop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-336",
@@ -3357,7 +3357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-337",
@@ -3367,7 +3367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bargain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-338",
@@ -3377,7 +3377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bark\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-339",
@@ -3387,7 +3387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"barrier\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-340",
@@ -3397,7 +3397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"base\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-341",
@@ -3407,7 +3407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"baseball\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-342",
@@ -3417,7 +3417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"basement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-343",
@@ -3427,7 +3427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"basic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-344",
@@ -3437,7 +3437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"basin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-345",
@@ -3447,7 +3447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"basis\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-346",
@@ -3457,7 +3457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"basket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-347",
@@ -3467,7 +3467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"basketball\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-348",
@@ -3477,7 +3477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-349",
@@ -3487,7 +3487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bath\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-350",
@@ -3497,7 +3497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bathe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-351",
@@ -3507,7 +3507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bathrobe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-352",
@@ -3517,7 +3517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bathroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-353",
@@ -3527,7 +3527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bathtub\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-354",
@@ -3537,7 +3537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"battery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-355",
@@ -3547,7 +3547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"battle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-356",
@@ -3557,7 +3557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"battleground\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-357",
@@ -3567,7 +3567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-358",
@@ -3577,7 +3577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"be\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-359",
@@ -3587,7 +3587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-360",
@@ -3597,7 +3597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beam\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-361",
@@ -3607,7 +3607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bean\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-362",
@@ -3617,7 +3617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beancurd\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-363",
@@ -3627,7 +3627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-364",
@@ -3637,7 +3637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-365",
@@ -3647,7 +3647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-366",
@@ -3657,7 +3657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-367",
@@ -3667,7 +3667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beautiful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-368",
@@ -3677,7 +3677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beauty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-369",
@@ -3687,7 +3687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"because\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "gaokao-full-370",
@@ -3697,7 +3697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"become\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-371",
@@ -3707,7 +3707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-372",
@@ -3717,7 +3717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bedclothes\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-373",
@@ -3727,7 +3727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beddings\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-374",
@@ -3737,7 +3737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bedroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-375",
@@ -3747,7 +3747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-376",
@@ -3757,7 +3757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beef\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-377",
@@ -3767,7 +3767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beehive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-378",
@@ -3777,7 +3777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-379",
@@ -3787,7 +3787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"before\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, conj, adv"
   },
   {
     "id": "gaokao-full-380",
@@ -3797,7 +3797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beg\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-381",
@@ -3807,7 +3807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"begin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-382",
@@ -3817,7 +3817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beginning\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-383",
@@ -3827,7 +3827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"behalf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-384",
@@ -3837,7 +3837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"behave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-385",
@@ -3847,7 +3847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"behaviour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-386",
@@ -3857,7 +3857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"behind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "gaokao-full-387",
@@ -3867,7 +3867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"being\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-388",
@@ -3877,7 +3877,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Belgium in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-389",
@@ -3887,7 +3887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"belief\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-390",
@@ -3897,7 +3897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"believe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-391",
@@ -3907,7 +3907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-392",
@@ -3917,7 +3917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"belly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-393",
@@ -3927,7 +3927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"belong\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-394",
@@ -3937,7 +3937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"below\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-395",
@@ -3947,7 +3947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"belt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-396",
@@ -3957,7 +3957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bench\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-397",
@@ -3967,7 +3967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-398",
@@ -3977,7 +3977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beneath\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-399",
@@ -3987,7 +3987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beneficial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-400",
@@ -3997,7 +3997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"benefit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-401",
@@ -4007,7 +4007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-402",
@@ -4017,7 +4017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-403",
@@ -4027,7 +4027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"besides\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-404",
@@ -4037,7 +4037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"betray\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-405",
@@ -4047,7 +4047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"better\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-406",
@@ -4057,7 +4057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"between\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-407",
@@ -4067,7 +4067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"beyond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv, n"
   },
   {
     "id": "gaokao-full-408",
@@ -4077,7 +4077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bicycle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-409",
@@ -4087,7 +4087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-410",
@@ -4097,7 +4097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"big\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-411",
@@ -4107,7 +4107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-412",
@@ -4117,7 +4117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"billion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-413",
@@ -4127,7 +4127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bingo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-414",
@@ -4137,7 +4137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"biochemistry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-415",
@@ -4147,7 +4147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"biography\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-416",
@@ -4157,7 +4157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"biology\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-417",
@@ -4167,7 +4167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bird\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-418",
@@ -4177,7 +4177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"birdcage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-419",
@@ -4187,7 +4187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"birth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-420",
@@ -4197,7 +4197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"birthday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-421",
@@ -4207,7 +4207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"birthplace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-422",
@@ -4217,7 +4217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"biscuit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-423",
@@ -4227,7 +4227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bishop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-424",
@@ -4237,7 +4237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-425",
@@ -4247,7 +4247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-426",
@@ -4257,7 +4257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bitter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "gaokao-full-427",
@@ -4267,7 +4267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"black\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-428",
@@ -4277,7 +4277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blackboard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-429",
@@ -4287,7 +4287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blame\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-430",
@@ -4297,7 +4297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blank\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-431",
@@ -4307,7 +4307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blanket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-432",
@@ -4317,7 +4317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bleed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-433",
@@ -4327,7 +4327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-434",
@@ -4337,7 +4337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-435",
@@ -4347,7 +4347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"block\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-436",
@@ -4357,7 +4357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-437",
@@ -4367,7 +4367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blouse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-438",
@@ -4377,7 +4377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-439",
@@ -4387,7 +4387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"blue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-440",
@@ -4397,7 +4397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"board\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-441",
@@ -4407,7 +4407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-442",
@@ -4417,7 +4417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boating\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-443",
@@ -4427,7 +4427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boil\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-444",
@@ -4437,7 +4437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bomb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-445",
@@ -4447,7 +4447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-446",
@@ -4457,7 +4457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-447",
@@ -4467,7 +4467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bonus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-448",
@@ -4477,7 +4477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"book\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-449",
@@ -4487,7 +4487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bookcase\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-450",
@@ -4497,7 +4497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bookmark\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-451",
@@ -4507,7 +4507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bookshelf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-452",
@@ -4517,7 +4517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bookshop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-453",
@@ -4527,7 +4527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bookstore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-454",
@@ -4537,7 +4537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-455",
@@ -4547,7 +4547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-456",
@@ -4557,7 +4557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"booth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-457",
@@ -4567,7 +4567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"border\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-458",
@@ -4577,7 +4577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bored\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-459",
@@ -4587,7 +4587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boring\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-460",
@@ -4597,7 +4597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"born\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-461",
@@ -4607,7 +4607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"borrow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-462",
@@ -4617,7 +4617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boss\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-463",
@@ -4627,7 +4627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"botanical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-464",
@@ -4637,7 +4637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"botany\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-465",
@@ -4647,7 +4647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"both\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv, pron"
   },
   {
     "id": "gaokao-full-466",
@@ -4657,7 +4657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bottle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-467",
@@ -4667,7 +4667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bottom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-468",
@@ -4677,7 +4677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bounce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-469",
@@ -4687,7 +4687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bound\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-470",
@@ -4697,7 +4697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boundary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-471",
@@ -4707,7 +4707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-472",
@@ -4717,7 +4717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bowl\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-473",
@@ -4727,7 +4727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bowling\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-474",
@@ -4737,7 +4737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"box\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-475",
@@ -4747,7 +4747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boxing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-476",
@@ -4757,7 +4757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-477",
@@ -4767,7 +4767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"boycott\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-478",
@@ -4777,7 +4777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-479",
@@ -4787,7 +4787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-480",
@@ -4797,7 +4797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"branch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-481",
@@ -4807,7 +4807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-482",
@@ -4817,7 +4817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "gaokao-full-483",
@@ -4827,7 +4827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bravery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-484",
@@ -4837,7 +4837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bread\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-485",
@@ -4847,7 +4847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"break\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-486",
@@ -4857,7 +4857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"breakfast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-487",
@@ -4867,7 +4867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"breakthrough\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-488",
@@ -4877,7 +4877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"breast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-489",
@@ -4887,7 +4887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"breath\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-490",
@@ -4897,7 +4897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"breathe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-491",
@@ -4907,7 +4907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"breathless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-492",
@@ -4917,7 +4917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brewery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-493",
@@ -4927,7 +4927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-494",
@@ -4937,7 +4937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bride\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-495",
@@ -4947,7 +4947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bridegroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-496",
@@ -4957,7 +4957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bridge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-497",
@@ -4967,7 +4967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brief\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-498",
@@ -4977,7 +4977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bright\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-499",
@@ -4987,7 +4987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brilliant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-500",
@@ -4997,7 +4997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bring\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-501",
@@ -5007,7 +5007,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Britain in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-502",
@@ -5017,7 +5017,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about British in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-503",
@@ -5027,7 +5027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"broad\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-504",
@@ -5037,7 +5037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"broadcast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-505",
@@ -5047,7 +5047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brochure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-506",
@@ -5057,7 +5057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"broken\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-507",
@@ -5067,7 +5067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"broom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-508",
@@ -5077,7 +5077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brother\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-509",
@@ -5087,7 +5087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brotherhood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-510",
@@ -5097,7 +5097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brown\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-511",
@@ -5107,7 +5107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brunch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-512",
@@ -5117,7 +5117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"brush\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-513",
@@ -5127,7 +5127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bucket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-514",
@@ -5137,7 +5137,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Buddhism in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-515",
@@ -5147,7 +5147,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Buddhist in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-516",
@@ -5157,7 +5157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"budget\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-517",
@@ -5167,7 +5167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"buffet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-518",
@@ -5177,7 +5177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"build\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-519",
@@ -5187,7 +5187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"building\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-520",
@@ -5197,7 +5197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bun\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-521",
@@ -5207,7 +5207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bunch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-522",
@@ -5217,7 +5217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bungalow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-523",
@@ -5227,7 +5227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"burden\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-524",
@@ -5237,7 +5237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bureaucratic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-525",
@@ -5247,7 +5247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"burglar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-526",
@@ -5257,7 +5257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"burial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-527",
@@ -5267,7 +5267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"burn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-528",
@@ -5277,7 +5277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"burst\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-529",
@@ -5287,7 +5287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bury\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-530",
@@ -5297,7 +5297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-531",
@@ -5307,7 +5307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bush\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-532",
@@ -5317,7 +5317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"business\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-533",
@@ -5327,7 +5327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"businessman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-534",
@@ -5337,7 +5337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"businesswoman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-535",
@@ -5347,7 +5347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"busy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-536",
@@ -5357,7 +5357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"but\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, conj, adv"
   },
   {
     "id": "gaokao-full-537",
@@ -5367,7 +5367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"butcher\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-538",
@@ -5377,7 +5377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"butter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-539",
@@ -5387,7 +5387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"butterfly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-540",
@@ -5397,7 +5397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"button\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-541",
@@ -5407,7 +5407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"buy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-542",
@@ -5417,7 +5417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"by\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-543",
@@ -5427,7 +5427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"bye\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "B",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-544",
@@ -5437,7 +5437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cab\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-545",
@@ -5447,7 +5447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cabbage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-546",
@@ -5457,7 +5457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cafeteria\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-547",
@@ -5467,7 +5467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-548",
@@ -5477,7 +5477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-549",
@@ -5487,7 +5487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"calculate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-550",
@@ -5497,7 +5497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"call\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-551",
@@ -5507,7 +5507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"calm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-552",
@@ -5517,7 +5517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"camel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-553",
@@ -5527,7 +5527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"camera\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-554",
@@ -5537,7 +5537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"camp\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-555",
@@ -5547,7 +5547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"campaign\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-556",
@@ -5557,7 +5557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"can\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-557",
@@ -5567,7 +5567,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Canada in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-558",
@@ -5577,7 +5577,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Canadian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-559",
@@ -5587,7 +5587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"canal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-560",
@@ -5597,7 +5597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-561",
@@ -5607,7 +5607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cancel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-562",
@@ -5617,7 +5617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"candidate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-563",
@@ -5627,7 +5627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"candle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-564",
@@ -5637,7 +5637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"candy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-565",
@@ -5647,7 +5647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"canteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-566",
@@ -5657,7 +5657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-567",
@@ -5667,7 +5667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"capital\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-568",
@@ -5677,7 +5677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"capsule\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-569",
@@ -5687,7 +5687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"captain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-570",
@@ -5697,7 +5697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"caption\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-571",
@@ -5707,7 +5707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"car\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-572",
@@ -5717,7 +5717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carbon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-573",
@@ -5727,7 +5727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"card\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-574",
@@ -5737,7 +5737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"care\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-575",
@@ -5747,7 +5747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"careful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-576",
@@ -5757,7 +5757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"careless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-577",
@@ -5767,7 +5767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carpenter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-578",
@@ -5777,7 +5777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carpet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-579",
@@ -5787,7 +5787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carriage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-580",
@@ -5797,7 +5797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carrier\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-581",
@@ -5807,7 +5807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carrot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-582",
@@ -5817,7 +5817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-583",
@@ -5827,7 +5827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cartoon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-584",
@@ -5837,7 +5837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"carve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-585",
@@ -5847,7 +5847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"case\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-586",
@@ -5857,7 +5857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cash\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-587",
@@ -5867,7 +5867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-588",
@@ -5877,7 +5877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"castle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-589",
@@ -5887,7 +5887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"casual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-590",
@@ -5897,7 +5897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-591",
@@ -5907,7 +5907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"catalogue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-592",
@@ -5917,7 +5917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"catastrophe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-593",
@@ -5927,7 +5927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"catch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-594",
@@ -5937,7 +5937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"category\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-595",
@@ -5947,7 +5947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cater\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-596",
@@ -5957,7 +5957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cathedral\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-597",
@@ -5967,7 +5967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"catholic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-598",
@@ -5977,7 +5977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cattle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-599",
@@ -5987,7 +5987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cause\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-600",
@@ -5997,7 +5997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"caution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-601",
@@ -6007,7 +6007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cautious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-602",
@@ -6017,7 +6017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-603",
@@ -6027,7 +6027,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about CD in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-604",
@@ -6037,7 +6037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ceiling\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-605",
@@ -6047,7 +6047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"celebrate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-606",
@@ -6057,7 +6057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"celebration\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-607",
@@ -6067,7 +6067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-608",
@@ -6077,7 +6077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cellar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-609",
@@ -6087,7 +6087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-610",
@@ -6097,7 +6097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"centigrade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-611",
@@ -6107,7 +6107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"centimetre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-612",
@@ -6117,7 +6117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"central\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-613",
@@ -6127,7 +6127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"centre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-614",
@@ -6137,7 +6137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"century\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-615",
@@ -6147,7 +6147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ceremony\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-616",
@@ -6157,7 +6157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"certain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-617",
@@ -6167,7 +6167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"certainly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-618",
@@ -6177,7 +6177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"certificate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-619",
@@ -6187,7 +6187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-620",
@@ -6197,7 +6197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-621",
@@ -6207,7 +6207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chairman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-622",
@@ -6217,7 +6217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chairwoman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-623",
@@ -6227,7 +6227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chalk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-624",
@@ -6237,7 +6237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"challenge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-625",
@@ -6247,7 +6247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"challenging\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-626",
@@ -6257,7 +6257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"champion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-627",
@@ -6267,7 +6267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-628",
@@ -6277,7 +6277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"change\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-629",
@@ -6287,7 +6287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"changeable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-630",
@@ -6297,7 +6297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"channel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-631",
@@ -6307,7 +6307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-632",
@@ -6317,7 +6317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chaos\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-633",
@@ -6327,7 +6327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chapter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-634",
@@ -6337,7 +6337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"character\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-635",
@@ -6347,7 +6347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"characteristic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-636",
@@ -6357,7 +6357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"charge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-637",
@@ -6367,7 +6367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chart\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-638",
@@ -6377,7 +6377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-639",
@@ -6387,7 +6387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-640",
@@ -6397,7 +6397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-641",
@@ -6407,7 +6407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"check\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-642",
@@ -6417,7 +6417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheek\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-643",
@@ -6427,7 +6427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-644",
@@ -6437,7 +6437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheerful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-645",
@@ -6447,7 +6447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheers\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-646",
@@ -6457,7 +6457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheese\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-647",
@@ -6467,7 +6467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chef\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-648",
@@ -6477,7 +6477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chemical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-649",
@@ -6487,7 +6487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chemist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-650",
@@ -6497,7 +6497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chemistry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-651",
@@ -6507,7 +6507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cheque\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-652",
@@ -6517,7 +6517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-653",
@@ -6527,7 +6527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-654",
@@ -6537,7 +6537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chew\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-655",
@@ -6547,7 +6547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-656",
@@ -6557,7 +6557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chicken\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-657",
@@ -6567,7 +6567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chief\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-658",
@@ -6577,7 +6577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"child\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-659",
@@ -6587,7 +6587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"childhood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-660",
@@ -6597,7 +6597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chimney\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-661",
@@ -6607,7 +6607,7 @@ const GAOKAO_WORDS = [
     "example": "China has a long history.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-662",
@@ -6617,7 +6617,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Chinese in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-663",
@@ -6627,7 +6627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chips\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-664",
@@ -6637,7 +6637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chocolate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-665",
@@ -6647,7 +6647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"choice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-666",
@@ -6657,7 +6657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"choir\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-667",
@@ -6667,7 +6667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"choke\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-668",
@@ -6677,7 +6677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"choose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-669",
@@ -6687,7 +6687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chopsticks\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-670",
@@ -6697,7 +6697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"chorus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-671",
@@ -6707,7 +6707,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Christian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-672",
@@ -6717,7 +6717,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Christmas in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-673",
@@ -6727,7 +6727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"church\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-674",
@@ -6737,7 +6737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cigar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-675",
@@ -6747,7 +6747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cigarette\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-676",
@@ -6757,7 +6757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cinema\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-677",
@@ -6767,7 +6767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"circle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-678",
@@ -6777,7 +6777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"circuit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-679",
@@ -6787,7 +6787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"circulate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-680",
@@ -6797,7 +6797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"circumstance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-681",
@@ -6807,7 +6807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"circus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-682",
@@ -6817,7 +6817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"citizen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-683",
@@ -6827,7 +6827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"city\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-684",
@@ -6837,7 +6837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"civil\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-685",
@@ -6847,7 +6847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"civilian\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-686",
@@ -6857,7 +6857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"civilization\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-687",
@@ -6867,7 +6867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-688",
@@ -6877,7 +6877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clarify\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-689",
@@ -6887,7 +6887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"class\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-690",
@@ -6897,7 +6897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"classic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-691",
@@ -6907,7 +6907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"classical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-692",
@@ -6917,7 +6917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"classify\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-693",
@@ -6927,7 +6927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"classmate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-694",
@@ -6937,7 +6937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"classroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-695",
@@ -6947,7 +6947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"claw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-696",
@@ -6957,7 +6957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-697",
@@ -6967,7 +6967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clean\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "gaokao-full-698",
@@ -6977,7 +6977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cleaner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-699",
@@ -6987,7 +6987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "gaokao-full-700",
@@ -6997,7 +6997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clearly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-701",
@@ -7007,7 +7007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clerk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-702",
@@ -7017,7 +7017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-703",
@@ -7027,7 +7027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"click\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-704",
@@ -7037,7 +7037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"climate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-705",
@@ -7047,7 +7047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"climb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-706",
@@ -7057,7 +7057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clinic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-707",
@@ -7067,7 +7067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-708",
@@ -7077,7 +7077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-709",
@@ -7087,7 +7087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"close\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-710",
@@ -7097,7 +7097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cloth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-711",
@@ -7107,7 +7107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clothes\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-712",
@@ -7117,7 +7117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clothing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-713",
@@ -7127,7 +7127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cloud\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-714",
@@ -7137,7 +7137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cloudy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-715",
@@ -7147,7 +7147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"club\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-716",
@@ -7157,7 +7157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"clumsy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-717",
@@ -7167,7 +7167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-718",
@@ -7177,7 +7177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-719",
@@ -7187,7 +7187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-720",
@@ -7197,7 +7197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-721",
@@ -7207,7 +7207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-722",
@@ -7217,7 +7217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cocoa\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-723",
@@ -7227,7 +7227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coffee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-724",
@@ -7237,7 +7237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-725",
@@ -7247,7 +7247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coincidence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-726",
@@ -7257,7 +7257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coke\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-727",
@@ -7267,7 +7267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cold\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-728",
@@ -7277,7 +7277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"collar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-729",
@@ -7287,7 +7287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"colleague\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-730",
@@ -7297,7 +7297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"collect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, adj, adv"
   },
   {
     "id": "gaokao-full-731",
@@ -7307,7 +7307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"collection\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-732",
@@ -7317,7 +7317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"college\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-733",
@@ -7327,7 +7327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"collision\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-734",
@@ -7337,7 +7337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"colour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-735",
@@ -7347,7 +7347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-736",
@@ -7357,7 +7357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"combine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-737",
@@ -7367,7 +7367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"come\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-738",
@@ -7377,7 +7377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comedy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-739",
@@ -7387,7 +7387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comfort\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-740",
@@ -7397,7 +7397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comfortable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-741",
@@ -7407,7 +7407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comma\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-742",
@@ -7417,7 +7417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"command\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-743",
@@ -7427,7 +7427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-744",
@@ -7437,7 +7437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"commit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-745",
@@ -7447,7 +7447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"commitment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-746",
@@ -7457,7 +7457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"committee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-747",
@@ -7467,7 +7467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"common\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-748",
@@ -7477,7 +7477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"communicate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-749",
@@ -7487,7 +7487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"communication\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-750",
@@ -7497,7 +7497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"communism\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-751",
@@ -7507,7 +7507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"communist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-752",
@@ -7517,7 +7517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"companion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-753",
@@ -7527,7 +7527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"company\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-754",
@@ -7537,7 +7537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"compare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-755",
@@ -7547,7 +7547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"compass\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-756",
@@ -7557,7 +7557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"compensate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-757",
@@ -7567,7 +7567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"compete\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-758",
@@ -7577,7 +7577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"competence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-759",
@@ -7587,7 +7587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"competition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-760",
@@ -7597,7 +7597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"competitor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-761",
@@ -7607,7 +7607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"complete\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-762",
@@ -7617,7 +7617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"complex\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-763",
@@ -7627,7 +7627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"component\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-764",
@@ -7637,7 +7637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"composition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-765",
@@ -7647,7 +7647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comprehension\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-766",
@@ -7657,7 +7657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"compromise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-767",
@@ -7667,7 +7667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"compulsory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-768",
@@ -7677,7 +7677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"computer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-769",
@@ -7687,7 +7687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"comrade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-770",
@@ -7697,7 +7697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"concentrate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-771",
@@ -7707,7 +7707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"concept\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-772",
@@ -7717,7 +7717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"concern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-773",
@@ -7727,7 +7727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"concert\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-774",
@@ -7737,7 +7737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conclude\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-775",
@@ -7747,7 +7747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conclusion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-776",
@@ -7757,7 +7757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"concrete\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-777",
@@ -7767,7 +7767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"condemn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-778",
@@ -7777,7 +7777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"condition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-779",
@@ -7787,7 +7787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conduct\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-780",
@@ -7797,7 +7797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conductor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-781",
@@ -7807,7 +7807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conference\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-782",
@@ -7817,7 +7817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"confident\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-783",
@@ -7827,7 +7827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"confidential\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-784",
@@ -7837,7 +7837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"confirm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-785",
@@ -7847,7 +7847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conflict\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-786",
@@ -7857,7 +7857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"confuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-787",
@@ -7867,7 +7867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"congratulate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-788",
@@ -7877,7 +7877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"congratulation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-789",
@@ -7887,7 +7887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"connect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-790",
@@ -7897,7 +7897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"connection\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-791",
@@ -7907,7 +7907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conscience\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-792",
@@ -7917,7 +7917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consensus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-793",
@@ -7927,7 +7927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consequence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-794",
@@ -7937,7 +7937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conservation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-795",
@@ -7947,7 +7947,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Conservative in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-796",
@@ -7957,7 +7957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consider\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-797",
@@ -7967,7 +7967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"considerate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-798",
@@ -7977,7 +7977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consideration\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-799",
@@ -7987,7 +7987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-800",
@@ -7997,7 +7997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consistent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-801",
@@ -8007,7 +8007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"constant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-802",
@@ -8017,7 +8017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"constitution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-803",
@@ -8027,7 +8027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"construct\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-804",
@@ -8037,7 +8037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"construction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-805",
@@ -8047,7 +8047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consult\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-806",
@@ -8057,7 +8057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consultant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-807",
@@ -8067,7 +8067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"consume\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-808",
@@ -8077,7 +8077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-809",
@@ -8087,7 +8087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"container\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-810",
@@ -8097,7 +8097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contemporary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-811",
@@ -8107,7 +8107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"content\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-812",
@@ -8117,7 +8117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"continent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-813",
@@ -8127,7 +8127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"continue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-814",
@@ -8137,7 +8137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contradict\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-815",
@@ -8147,7 +8147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contradictory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-816",
@@ -8157,7 +8157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contrary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-817",
@@ -8167,7 +8167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contribute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-818",
@@ -8177,7 +8177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"contribution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-819",
@@ -8187,7 +8187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"control\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-820",
@@ -8197,7 +8197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"controversial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-821",
@@ -8207,7 +8207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"convenience\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-822",
@@ -8217,7 +8217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"convenient\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-823",
@@ -8227,7 +8227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conventional\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-824",
@@ -8237,7 +8237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"conversation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-825",
@@ -8247,7 +8247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"convey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-826",
@@ -8257,7 +8257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"convince\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-827",
@@ -8267,7 +8267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cook\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-828",
@@ -8277,7 +8277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cooker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-829",
@@ -8287,7 +8287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cookie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-830",
@@ -8297,7 +8297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cool\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-831",
@@ -8307,7 +8307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"copy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-832",
@@ -8317,7 +8317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"coral\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-833",
@@ -8327,7 +8327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cordless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-834",
@@ -8337,7 +8337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"corn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-835",
@@ -8347,7 +8347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"corner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-836",
@@ -8357,7 +8357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"corporation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-837",
@@ -8367,7 +8367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"correct\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-838",
@@ -8377,7 +8377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"correction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-839",
@@ -8387,7 +8387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"correspond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-840",
@@ -8397,7 +8397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"corrupt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-841",
@@ -8407,7 +8407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cost\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-842",
@@ -8417,7 +8417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cosy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-843",
@@ -8427,7 +8427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cottage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-844",
@@ -8437,7 +8437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cotton\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-845",
@@ -8447,7 +8447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cough\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-846",
@@ -8457,7 +8457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"count\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-847",
@@ -8467,7 +8467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"counter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-848",
@@ -8477,7 +8477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"country\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-849",
@@ -8487,7 +8487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"countryside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-850",
@@ -8497,7 +8497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"couple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-851",
@@ -8507,7 +8507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"courage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-852",
@@ -8517,7 +8517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"course\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-853",
@@ -8527,7 +8527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"court\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-854",
@@ -8537,7 +8537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"courtyard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-855",
@@ -8547,7 +8547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cousin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-856",
@@ -8557,7 +8557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cover\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-857",
@@ -8567,7 +8567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-858",
@@ -8577,7 +8577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cowboy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-859",
@@ -8587,7 +8587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crash\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-860",
@@ -8597,7 +8597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crayon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-861",
@@ -8607,7 +8607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crazy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-862",
@@ -8617,7 +8617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cream\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-863",
@@ -8627,7 +8627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"create\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-864",
@@ -8637,7 +8637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"creature\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-865",
@@ -8647,7 +8647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"credit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-866",
@@ -8657,7 +8657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crew\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-867",
@@ -8667,7 +8667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crime\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-868",
@@ -8677,7 +8677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"criminal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-869",
@@ -8687,7 +8687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"criterion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-870",
@@ -8697,7 +8697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-871",
@@ -8707,7 +8707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cross\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-872",
@@ -8717,7 +8717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crossing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-873",
@@ -8727,7 +8727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crossroads\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-874",
@@ -8737,7 +8737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crowd\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-875",
@@ -8747,7 +8747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"crowded\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-876",
@@ -8757,7 +8757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cruel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-877",
@@ -8767,7 +8767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-878",
@@ -8777,7 +8777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cube\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-879",
@@ -8787,7 +8787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cubic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-880",
@@ -8797,7 +8797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cuisine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-881",
@@ -8807,7 +8807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"culture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-882",
@@ -8817,7 +8817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cup\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-883",
@@ -8827,7 +8827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cupboard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-884",
@@ -8837,7 +8837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-885",
@@ -8847,7 +8847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"curious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-886",
@@ -8857,7 +8857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"currency\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-887",
@@ -8867,7 +8867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"curriculum\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-888",
@@ -8877,7 +8877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"curtain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-889",
@@ -8887,7 +8887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cushion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-890",
@@ -8897,7 +8897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"custom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-891",
@@ -8907,7 +8907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"customer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-892",
@@ -8917,7 +8917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"customs\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-893",
@@ -8927,7 +8927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cut\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-894",
@@ -8937,7 +8937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cycle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-895",
@@ -8947,7 +8947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"cyclist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "C",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-896",
@@ -8957,7 +8957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"daily\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-897",
@@ -8967,7 +8967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dam\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-898",
@@ -8977,7 +8977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"damage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-899",
@@ -8987,7 +8987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"damp\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-900",
@@ -8997,7 +8997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-901",
@@ -9007,7 +9007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"danger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-902",
@@ -9017,7 +9017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dangerous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-903",
@@ -9027,7 +9027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-904",
@@ -9037,7 +9037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dark\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-905",
@@ -9047,7 +9047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"darkness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-906",
@@ -9057,7 +9057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dash\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-907",
@@ -9067,7 +9067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"data\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-908",
@@ -9077,7 +9077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"database\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-909",
@@ -9087,7 +9087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"date\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-910",
@@ -9097,7 +9097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"daughter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-911",
@@ -9107,7 +9107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dawn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-912",
@@ -9117,7 +9117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"day\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-913",
@@ -9127,7 +9127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"daylight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-914",
@@ -9137,7 +9137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dead\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-915",
@@ -9147,7 +9147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deadline\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-916",
@@ -9157,7 +9157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deaf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-917",
@@ -9167,7 +9167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-918",
@@ -9177,7 +9177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-919",
@@ -9187,7 +9187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"death\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-920",
@@ -9197,7 +9197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"debate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-921",
@@ -9207,7 +9207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"debt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-922",
@@ -9217,7 +9217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-923",
@@ -9227,7 +9227,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about December in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-924",
@@ -9237,7 +9237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-925",
@@ -9247,7 +9247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decision\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-926",
@@ -9257,7 +9257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"declare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-927",
@@ -9267,7 +9267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decline\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-928",
@@ -9277,7 +9277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decorate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-929",
@@ -9287,7 +9287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decoration\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-930",
@@ -9297,7 +9297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"decrease\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-931",
@@ -9307,7 +9307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-932",
@@ -9317,7 +9317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-933",
@@ -9327,7 +9327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deeply\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-934",
@@ -9337,7 +9337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-935",
@@ -9347,7 +9347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"defeat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-936",
@@ -9357,7 +9357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"defence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-937",
@@ -9367,7 +9367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"defend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-938",
@@ -9377,7 +9377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"degree\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-939",
@@ -9387,7 +9387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"delay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-940",
@@ -9397,7 +9397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"delete\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-941",
@@ -9407,7 +9407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deliberately\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-942",
@@ -9417,7 +9417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"delicate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-943",
@@ -9427,7 +9427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"delicious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-944",
@@ -9437,7 +9437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"delight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-945",
@@ -9447,7 +9447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"delighted\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-946",
@@ -9457,7 +9457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deliver\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-947",
@@ -9467,7 +9467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"demand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-948",
@@ -9477,7 +9477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dentist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-949",
@@ -9487,7 +9487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"department\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-950",
@@ -9497,7 +9497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"departure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-951",
@@ -9507,7 +9507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"depend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-952",
@@ -9517,7 +9517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deposit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-953",
@@ -9527,7 +9527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"depth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-954",
@@ -9537,7 +9537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"describe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-955",
@@ -9547,7 +9547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"description\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-956",
@@ -9557,7 +9557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"desert\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-957",
@@ -9567,7 +9567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"deserve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-958",
@@ -9577,7 +9577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"design\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-959",
@@ -9587,7 +9587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"desire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-960",
@@ -9597,7 +9597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"desk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-961",
@@ -9607,7 +9607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"desperate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-962",
@@ -9617,7 +9617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dessert\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-963",
@@ -9627,7 +9627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"destination\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-964",
@@ -9637,7 +9637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"destroy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-965",
@@ -9647,7 +9647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"detective\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-966",
@@ -9657,7 +9657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"determination\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-967",
@@ -9667,7 +9667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"determine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-968",
@@ -9677,7 +9677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"develop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-969",
@@ -9687,7 +9687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"development\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-970",
@@ -9697,7 +9697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"devote\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-971",
@@ -9707,7 +9707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"devotion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-972",
@@ -9717,7 +9717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"diagram\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-973",
@@ -9727,7 +9727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-974",
@@ -9737,7 +9737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dialogue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-975",
@@ -9747,7 +9747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"diamond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-976",
@@ -9757,7 +9757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"diary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-977",
@@ -9767,7 +9767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dictation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-978",
@@ -9777,7 +9777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dictionary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-979",
@@ -9787,7 +9787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"die\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-980",
@@ -9797,7 +9797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"diet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-981",
@@ -9807,7 +9807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"differ\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-982",
@@ -9817,7 +9817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"difference\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-983",
@@ -9827,7 +9827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"different\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-984",
@@ -9837,7 +9837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"difficult\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-985",
@@ -9847,7 +9847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"difficulty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-986",
@@ -9857,7 +9857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dig\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-987",
@@ -9867,7 +9867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"digest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-988",
@@ -9877,7 +9877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"digital\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-989",
@@ -9887,7 +9887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dignity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-990",
@@ -9897,7 +9897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dilemma\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-991",
@@ -9907,7 +9907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dimension\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-992",
@@ -9917,7 +9917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-993",
@@ -9927,7 +9927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dinner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-994",
@@ -9937,7 +9937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dinosaur\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-995",
@@ -9947,7 +9947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dioxide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-996",
@@ -9957,7 +9957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-997",
@@ -9967,7 +9967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"diploma\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-998",
@@ -9977,7 +9977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"direct\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-999",
@@ -9987,7 +9987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"direction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1000",
@@ -9997,7 +9997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"director\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1001",
@@ -10007,7 +10007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"directory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1002",
@@ -10017,7 +10017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dirt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1003",
@@ -10027,7 +10027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dirty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1004",
@@ -10037,7 +10037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disability\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1005",
@@ -10047,7 +10047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disabled\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1006",
@@ -10057,7 +10057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disadvantage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1007",
@@ -10067,7 +10067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disagree\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1008",
@@ -10077,7 +10077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disagreement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1009",
@@ -10087,7 +10087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disappear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1010",
@@ -10097,7 +10097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disappoint\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1011",
@@ -10107,7 +10107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disappointment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1012",
@@ -10117,7 +10117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disaster\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1013",
@@ -10127,7 +10127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discount\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1014",
@@ -10137,7 +10137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discourage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1015",
@@ -10147,7 +10147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discover\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1016",
@@ -10157,7 +10157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discovery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1017",
@@ -10167,7 +10167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discrimination\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1018",
@@ -10177,7 +10177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discuss\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1019",
@@ -10187,7 +10187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"discussion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1020",
@@ -10197,7 +10197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disease\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1021",
@@ -10207,7 +10207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disgusting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1022",
@@ -10217,7 +10217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1023",
@@ -10227,7 +10227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dislike\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1024",
@@ -10237,7 +10237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dismiss\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1025",
@@ -10247,7 +10247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disobey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1026",
@@ -10257,7 +10257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"distance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1027",
@@ -10267,7 +10267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"distant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1028",
@@ -10277,7 +10277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"distinction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1029",
@@ -10287,7 +10287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"distinguish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1030",
@@ -10297,7 +10297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"distribute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1031",
@@ -10307,7 +10307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"district\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1032",
@@ -10317,7 +10317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disturb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1033",
@@ -10327,7 +10327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"disturbing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1034",
@@ -10337,7 +10337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1035",
@@ -10347,7 +10347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"diverse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1036",
@@ -10357,7 +10357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"divide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1037",
@@ -10367,7 +10367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"division\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1038",
@@ -10377,7 +10377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"divorce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1039",
@@ -10387,7 +10387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dizzy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1040",
@@ -10397,7 +10397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"do\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1041",
@@ -10407,7 +10407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"doctor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1042",
@@ -10417,7 +10417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"document\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1043",
@@ -10427,7 +10427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"does\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1044",
@@ -10437,7 +10437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dog\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1045",
@@ -10447,7 +10447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"doll\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1046",
@@ -10457,7 +10457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dollar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1047",
@@ -10467,7 +10467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"door\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1048",
@@ -10477,7 +10477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dormitory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1049",
@@ -10487,7 +10487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1050",
@@ -10497,7 +10497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"double\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1051",
@@ -10507,7 +10507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"doubt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1052",
@@ -10517,7 +10517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"down\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "gaokao-full-1053",
@@ -10527,7 +10527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"download\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1054",
@@ -10537,7 +10537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"downstairs\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1055",
@@ -10547,7 +10547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"downtown\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1056",
@@ -10557,7 +10557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"downward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1057",
@@ -10567,7 +10567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dozen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1058",
@@ -10577,7 +10577,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Dr in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1059",
@@ -10587,7 +10587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"draft\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1060",
@@ -10597,7 +10597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1061",
@@ -10607,7 +10607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"draw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1062",
@@ -10617,7 +10617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drawback\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1063",
@@ -10627,7 +10627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drawer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1064",
@@ -10637,7 +10637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drawing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1065",
@@ -10647,7 +10647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dream\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1066",
@@ -10657,7 +10657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1067",
@@ -10667,7 +10667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drier\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1068",
@@ -10677,7 +10677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1069",
@@ -10687,7 +10687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drink\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1070",
@@ -10697,7 +10697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1071",
@@ -10707,7 +10707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"driver\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1072",
@@ -10717,7 +10717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1073",
@@ -10727,7 +10727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drown\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1074",
@@ -10737,7 +10737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drug\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1075",
@@ -10747,7 +10747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drum\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1076",
@@ -10757,7 +10757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"drunk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1077",
@@ -10767,7 +10767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-1078",
@@ -10777,7 +10777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"duck\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1079",
@@ -10787,7 +10787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"due\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1080",
@@ -10797,7 +10797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dull\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1081",
@@ -10807,7 +10807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dumpling\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1082",
@@ -10817,7 +10817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"during\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-1083",
@@ -10827,7 +10827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dusk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1084",
@@ -10837,7 +10837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dust\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1085",
@@ -10847,7 +10847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dustbin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1086",
@@ -10857,7 +10857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dusty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1087",
@@ -10867,7 +10867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"duty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1088",
@@ -10877,7 +10877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dvd\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1089",
@@ -10887,7 +10887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dynamic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1090",
@@ -10897,7 +10897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"dynasty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "D",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1091",
@@ -10907,7 +10907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"each\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv, pron"
   },
   {
     "id": "gaokao-full-1092",
@@ -10917,7 +10917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eager\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1093",
@@ -10927,7 +10927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eagle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1094",
@@ -10937,7 +10937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1095",
@@ -10947,7 +10947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"early\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1096",
@@ -10957,7 +10957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"earn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1097",
@@ -10967,7 +10967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"earth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1098",
@@ -10977,7 +10977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"earthquake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1099",
@@ -10987,7 +10987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ease\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1100",
@@ -10997,7 +10997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"easily\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1101",
@@ -11007,7 +11007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"east\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1102",
@@ -11017,7 +11017,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Easter in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1103",
@@ -11027,7 +11027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eastern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1104",
@@ -11037,7 +11037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eastwards\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1105",
@@ -11047,7 +11047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"easy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1106",
@@ -11057,7 +11057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1107",
@@ -11067,7 +11067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ecology\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1108",
@@ -11077,7 +11077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"edge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1109",
@@ -11087,7 +11087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"edition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1110",
@@ -11097,7 +11097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"editor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1111",
@@ -11107,7 +11107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"educate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1112",
@@ -11117,7 +11117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"education\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1113",
@@ -11127,7 +11127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"educator\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1114",
@@ -11137,7 +11137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"effect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1115",
@@ -11147,7 +11147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"effort\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1116",
@@ -11157,7 +11157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"egg\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1117",
@@ -11167,7 +11167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eggplant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1118",
@@ -11177,7 +11177,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Egyptian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1119",
@@ -11187,7 +11187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1120",
@@ -11197,7 +11197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eighteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1121",
@@ -11207,7 +11207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eighth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1122",
@@ -11217,7 +11217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eighty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1123",
@@ -11227,7 +11227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"either\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, pron, conj"
   },
   {
     "id": "gaokao-full-1124",
@@ -11237,7 +11237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"elder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1125",
@@ -11247,7 +11247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"elect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1126",
@@ -11257,7 +11257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"electric\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1127",
@@ -11267,7 +11267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"electrical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1128",
@@ -11277,7 +11277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"electricity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1129",
@@ -11287,7 +11287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"electronic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1130",
@@ -11297,7 +11297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"elegant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1131",
@@ -11307,7 +11307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"elephant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1132",
@@ -11317,7 +11317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eleven\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1133",
@@ -11327,7 +11327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"else\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1134",
@@ -11337,7 +11337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"embarrass\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1135",
@@ -11347,7 +11347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"embassy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1136",
@@ -11357,7 +11357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"emergency\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1137",
@@ -11367,7 +11367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"emperor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1138",
@@ -11377,7 +11377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"empire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1139",
@@ -11387,7 +11387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"employ\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1140",
@@ -11397,7 +11397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"empty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "gaokao-full-1141",
@@ -11407,7 +11407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"encourage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1142",
@@ -11417,7 +11417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"encouragement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1143",
@@ -11427,7 +11427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"end\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1144",
@@ -11437,7 +11437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ending\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1145",
@@ -11447,7 +11447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"endless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1146",
@@ -11457,7 +11457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enemy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1147",
@@ -11467,7 +11467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"energetic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1148",
@@ -11477,7 +11477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"engine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1149",
@@ -11487,7 +11487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"engineer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1150",
@@ -11497,7 +11497,7 @@ const GAOKAO_WORDS = [
     "example": "English is useful for study and travel.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1151",
@@ -11507,7 +11507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enjoy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1152",
@@ -11517,7 +11517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enjoyable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1153",
@@ -11527,7 +11527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enlarge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1154",
@@ -11537,7 +11537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enough\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1155",
@@ -11547,7 +11547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enquiry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1156",
@@ -11557,7 +11557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1157",
@@ -11567,7 +11567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enterprise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1158",
@@ -11577,7 +11577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"entertainment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1159",
@@ -11587,7 +11587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"enthusiastic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1160",
@@ -11597,7 +11597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"entire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1161",
@@ -11607,7 +11607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"entrance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1162",
@@ -11617,7 +11617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"entry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1163",
@@ -11627,7 +11627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"envelope\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1164",
@@ -11637,7 +11637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"environment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1165",
@@ -11647,7 +11647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"envy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1166",
@@ -11657,7 +11657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"equal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1167",
@@ -11667,7 +11667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"equality\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1168",
@@ -11677,7 +11677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"equip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1169",
@@ -11687,7 +11687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"equipment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1170",
@@ -11697,7 +11697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eraser\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1171",
@@ -11707,7 +11707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"error\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1172",
@@ -11717,7 +11717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"erupt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1173",
@@ -11727,7 +11727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"escape\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1174",
@@ -11737,7 +11737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"especially\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1175",
@@ -11747,7 +11747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"essay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1176",
@@ -11757,7 +11757,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about European in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1177",
@@ -11767,7 +11767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"evaluate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1178",
@@ -11777,7 +11777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"even\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-1179",
@@ -11787,7 +11787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"evening\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1180",
@@ -11797,7 +11797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"event\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1181",
@@ -11807,7 +11807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eventually\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1182",
@@ -11817,7 +11817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1183",
@@ -11827,7 +11827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"every\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1184",
@@ -11837,7 +11837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"everybody\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1185",
@@ -11847,7 +11847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"everyday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1186",
@@ -11857,7 +11857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"everyone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1187",
@@ -11867,7 +11867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"everything\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1188",
@@ -11877,7 +11877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"everywhere\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1189",
@@ -11887,7 +11887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"evidence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1190",
@@ -11897,7 +11897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"evident\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1191",
@@ -11907,7 +11907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"evolution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1192",
@@ -11917,7 +11917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exact\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1193",
@@ -11927,7 +11927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exactly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1194",
@@ -11937,7 +11937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"examine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1195",
@@ -11947,7 +11947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"example\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1196",
@@ -11957,7 +11957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"excellent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1197",
@@ -11967,7 +11967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"except\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v, prep, conj"
   },
   {
     "id": "gaokao-full-1198",
@@ -11977,7 +11977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exchange\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1199",
@@ -11987,7 +11987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"excite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1200",
@@ -11997,7 +11997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"excuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1201",
@@ -12007,7 +12007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exercise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1202",
@@ -12017,7 +12017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exhibition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1203",
@@ -12027,7 +12027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1204",
@@ -12037,7 +12037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"existence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1205",
@@ -12047,7 +12047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1206",
@@ -12057,7 +12057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1207",
@@ -12067,7 +12067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1208",
@@ -12077,7 +12077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expectation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1209",
@@ -12087,7 +12087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expense\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1210",
@@ -12097,7 +12097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expensive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1211",
@@ -12107,7 +12107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"experience\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1212",
@@ -12117,7 +12117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"experiment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1213",
@@ -12127,7 +12127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expert\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1214",
@@ -12137,7 +12137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"explain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1215",
@@ -12147,7 +12147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"explanation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1216",
@@ -12157,7 +12157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"explicit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1217",
@@ -12167,7 +12167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"explode\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1218",
@@ -12177,7 +12177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"exploit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1219",
@@ -12187,7 +12187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"explore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1220",
@@ -12197,7 +12197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"explorer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1221",
@@ -12207,7 +12207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"export\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1222",
@@ -12217,7 +12217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1223",
@@ -12227,7 +12227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"express\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1224",
@@ -12237,7 +12237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"expression\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1225",
@@ -12247,7 +12247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"extension\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1226",
@@ -12257,7 +12257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"extra\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1227",
@@ -12267,7 +12267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"extraordinary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1228",
@@ -12277,7 +12277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"extreme\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1229",
@@ -12287,7 +12287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"extremely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1230",
@@ -12297,7 +12297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eye\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1231",
@@ -12307,7 +12307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eyesight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1232",
@@ -12317,7 +12317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"eyewitness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "E",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1233",
@@ -12327,7 +12327,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about F in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1234",
@@ -12337,7 +12337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"face\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1235",
@@ -12347,7 +12347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"facial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1236",
@@ -12357,7 +12357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fact\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1237",
@@ -12367,7 +12367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"factory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1238",
@@ -12377,7 +12377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "gaokao-full-1239",
@@ -12387,7 +12387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1240",
@@ -12397,7 +12397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"failure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1241",
@@ -12407,7 +12407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1242",
@@ -12417,7 +12417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fairly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1243",
@@ -12427,7 +12427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fairness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1244",
@@ -12437,7 +12437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"faith\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1245",
@@ -12447,7 +12447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fall\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1246",
@@ -12457,7 +12457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"false\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1247",
@@ -12467,7 +12467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"familiar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1248",
@@ -12477,7 +12477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"family\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1249",
@@ -12487,7 +12487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"famous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1250",
@@ -12497,7 +12497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fan\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1251",
@@ -12507,7 +12507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fancy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1252",
@@ -12517,7 +12517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fantastic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1253",
@@ -12527,7 +12527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fantasy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1254",
@@ -12537,7 +12537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"far\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1255",
@@ -12547,7 +12547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1256",
@@ -12557,7 +12557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"farm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1257",
@@ -12567,7 +12567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"farmer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1258",
@@ -12577,7 +12577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-1259",
@@ -12587,7 +12587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fasten\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1260",
@@ -12597,7 +12597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1261",
@@ -12607,7 +12607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"father\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1262",
@@ -12617,7 +12617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fault\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1263",
@@ -12627,7 +12627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"favour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1264",
@@ -12637,7 +12637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"favourite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1265",
@@ -12647,7 +12647,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about FAX in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1266",
@@ -12657,7 +12657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1267",
@@ -12667,7 +12667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"feast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1268",
@@ -12677,7 +12677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"feather\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1269",
@@ -12687,7 +12687,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about February in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1270",
@@ -12697,7 +12697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1271",
@@ -12707,7 +12707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"feed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1272",
@@ -12717,7 +12717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"feel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1273",
@@ -12727,7 +12727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"feeling\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1274",
@@ -12737,7 +12737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fellow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1275",
@@ -12747,7 +12747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"female\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1276",
@@ -12757,7 +12757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1277",
@@ -12767,7 +12767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ferry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1278",
@@ -12777,7 +12777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"festival\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1279",
@@ -12787,7 +12787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fetch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1280",
@@ -12797,7 +12797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1281",
@@ -12807,7 +12807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"few\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1282",
@@ -12817,7 +12817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fibre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1283",
@@ -12827,7 +12827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fiction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1284",
@@ -12837,7 +12837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"field\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1285",
@@ -12847,7 +12847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fierce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1286",
@@ -12857,7 +12857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fifteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1287",
@@ -12867,7 +12867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fifth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1288",
@@ -12877,7 +12877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fifty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1289",
@@ -12887,7 +12887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1290",
@@ -12897,7 +12897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fighter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1291",
@@ -12907,7 +12907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"figure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1292",
@@ -12917,7 +12917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"file\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1293",
@@ -12927,7 +12927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1294",
@@ -12937,7 +12937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"film\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1295",
@@ -12947,7 +12947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"final\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1296",
@@ -12957,7 +12957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"finance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1297",
@@ -12967,7 +12967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"find\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1298",
@@ -12977,7 +12977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1299",
@@ -12987,7 +12987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"finger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1300",
@@ -12997,7 +12997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fingernail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1301",
@@ -13007,7 +13007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"finish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1302",
@@ -13017,7 +13017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1303",
@@ -13027,7 +13027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"firefighter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1304",
@@ -13037,7 +13037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fireplace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1305",
@@ -13047,7 +13047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"firewood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1306",
@@ -13057,7 +13057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"firework\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1307",
@@ -13067,7 +13067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"firm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1308",
@@ -13077,7 +13077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"firmly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1309",
@@ -13087,7 +13087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"first\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adv, adj, num"
   },
   {
     "id": "gaokao-full-1310",
@@ -13097,7 +13097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1311",
@@ -13107,7 +13107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fisherman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1312",
@@ -13117,7 +13117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1313",
@@ -13127,7 +13127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1314",
@@ -13137,7 +13137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"five\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1315",
@@ -13147,7 +13147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fix\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1316",
@@ -13157,7 +13157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1317",
@@ -13167,7 +13167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flame\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1318",
@@ -13177,7 +13177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flaming\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1319",
@@ -13187,7 +13187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flash\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1320",
@@ -13197,7 +13197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flashlight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1321",
@@ -13207,7 +13207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-1322",
@@ -13217,7 +13217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1323",
@@ -13227,7 +13227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flesh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1324",
@@ -13237,7 +13237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flexible\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1325",
@@ -13247,7 +13247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1326",
@@ -13257,7 +13257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"float\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1327",
@@ -13267,7 +13267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1328",
@@ -13277,7 +13277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"floor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1329",
@@ -13287,7 +13287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1330",
@@ -13297,7 +13297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1331",
@@ -13307,7 +13307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flower\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1332",
@@ -13317,7 +13317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"flu\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1333",
@@ -13327,7 +13327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fluency\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1334",
@@ -13337,7 +13337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fluent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1335",
@@ -13347,7 +13347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1336",
@@ -13357,7 +13357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"focus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1337",
@@ -13367,7 +13367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fog\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1338",
@@ -13377,7 +13377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"foggy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1339",
@@ -13387,7 +13387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fold\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1340",
@@ -13397,7 +13397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"folk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1341",
@@ -13407,7 +13407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"follow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1342",
@@ -13417,7 +13417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"following\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1343",
@@ -13427,7 +13427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1344",
@@ -13437,7 +13437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"food\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1345",
@@ -13447,7 +13447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fool\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1346",
@@ -13457,7 +13457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"foolish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1347",
@@ -13467,7 +13467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"foot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1348",
@@ -13477,7 +13477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"football\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1349",
@@ -13487,7 +13487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"for\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "prep, conj"
   },
   {
     "id": "gaokao-full-1350",
@@ -13497,7 +13497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forbid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1351",
@@ -13507,7 +13507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"force\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1352",
@@ -13517,7 +13517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forecast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1353",
@@ -13527,7 +13527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forehead\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1354",
@@ -13537,7 +13537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"foreign\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1355",
@@ -13547,7 +13547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"foreigner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1356",
@@ -13557,7 +13557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"foresee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1357",
@@ -13567,7 +13567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1358",
@@ -13577,7 +13577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1359",
@@ -13587,7 +13587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forget\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1360",
@@ -13597,7 +13597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forgetful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1361",
@@ -13607,7 +13607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forgive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1362",
@@ -13617,7 +13617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fork\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1363",
@@ -13627,7 +13627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"form\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1364",
@@ -13637,7 +13637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"format\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1365",
@@ -13647,7 +13647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"former\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1366",
@@ -13657,7 +13657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fortnight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1367",
@@ -13667,7 +13667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fortunate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1368",
@@ -13677,7 +13677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fortune\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1369",
@@ -13687,7 +13687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1370",
@@ -13697,7 +13697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"forward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-1371",
@@ -13707,7 +13707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"found\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1372",
@@ -13717,7 +13717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"founding\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1373",
@@ -13727,7 +13727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fountain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1374",
@@ -13737,7 +13737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"four\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1375",
@@ -13747,7 +13747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fourteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1376",
@@ -13757,7 +13757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fourth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-1377",
@@ -13767,7 +13767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fox\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1378",
@@ -13777,7 +13777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fragile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1379",
@@ -13787,7 +13787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fragrant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1380",
@@ -13797,7 +13797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"framework\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1381",
@@ -13807,7 +13807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"franc\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1382",
@@ -13817,7 +13817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"free\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-1383",
@@ -13827,7 +13827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"freedom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1384",
@@ -13837,7 +13837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"freeway\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1385",
@@ -13847,7 +13847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"freeze\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1386",
@@ -13857,7 +13857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"freezing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1387",
@@ -13867,7 +13867,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about French in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1388",
@@ -13877,7 +13877,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Frenchman in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1389",
@@ -13887,7 +13887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"frequent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1390",
@@ -13897,7 +13897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fresh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-1391",
@@ -13907,7 +13907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"friction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1392",
@@ -13917,7 +13917,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Friday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1393",
@@ -13927,7 +13927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fried\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1394",
@@ -13937,7 +13937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"friend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1395",
@@ -13947,7 +13947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"friendly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1396",
@@ -13957,7 +13957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"friendship\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1397",
@@ -13967,7 +13967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fright\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1398",
@@ -13977,7 +13977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"frighten\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1399",
@@ -13987,7 +13987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"frog\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1400",
@@ -13997,7 +13997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"from\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-1401",
@@ -14007,7 +14007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"front\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1402",
@@ -14017,7 +14017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"frontier\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1403",
@@ -14027,7 +14027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"frost\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1404",
@@ -14037,7 +14037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fruit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1405",
@@ -14047,7 +14047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1406",
@@ -14057,7 +14057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fuel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1407",
@@ -14067,7 +14067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"full\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1408",
@@ -14077,7 +14077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fun\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1409",
@@ -14087,7 +14087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"function\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1410",
@@ -14097,7 +14097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fundamental\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1411",
@@ -14107,7 +14107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"funeral\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1412",
@@ -14117,7 +14117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"funny\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1413",
@@ -14127,7 +14127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"fur\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1414",
@@ -14137,7 +14137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"furnished\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1415",
@@ -14147,7 +14147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"furniture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1416",
@@ -14157,7 +14157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"future\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "F",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1417",
@@ -14167,7 +14167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1418",
@@ -14177,7 +14177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gale\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1419",
@@ -14187,7 +14187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gallery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1420",
@@ -14197,7 +14197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gallon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1421",
@@ -14207,7 +14207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"game\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1422",
@@ -14217,7 +14217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"garage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1423",
@@ -14227,7 +14227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"garbage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1424",
@@ -14237,7 +14237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"garden\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1425",
@@ -14247,7 +14247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gardening\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1426",
@@ -14257,7 +14257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"garlic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1427",
@@ -14267,7 +14267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"garment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1428",
@@ -14277,7 +14277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gas\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1429",
@@ -14287,7 +14287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1430",
@@ -14297,7 +14297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gather\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1431",
@@ -14307,7 +14307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1432",
@@ -14317,7 +14317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"general\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1433",
@@ -14327,7 +14327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"generation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1434",
@@ -14337,7 +14337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"generous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1435",
@@ -14347,7 +14347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gentle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1436",
@@ -14357,7 +14357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gentleman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1437",
@@ -14367,7 +14367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"geography\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1438",
@@ -14377,7 +14377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"geometry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1439",
@@ -14387,7 +14387,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about German in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1440",
@@ -14397,7 +14397,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Germany in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1441",
@@ -14407,7 +14407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gesture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1442",
@@ -14417,7 +14417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"get\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1443",
@@ -14427,7 +14427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gift\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1444",
@@ -14437,7 +14437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gifted\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1445",
@@ -14447,7 +14447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"giraffe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1446",
@@ -14457,7 +14457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"girl\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1447",
@@ -14467,7 +14467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"give\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1448",
@@ -14477,7 +14477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glad\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1449",
@@ -14487,7 +14487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1450",
@@ -14497,7 +14497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1451",
@@ -14507,7 +14507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glass\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1452",
@@ -14517,7 +14517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glasshouse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1453",
@@ -14527,7 +14527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"globe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1454",
@@ -14537,7 +14537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1455",
@@ -14547,7 +14547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glove\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1456",
@@ -14557,7 +14557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"glue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1457",
@@ -14567,7 +14567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"go\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1458",
@@ -14577,7 +14577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"goal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1459",
@@ -14587,7 +14587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"goat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1460",
@@ -14597,7 +14597,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about God in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1461",
@@ -14607,7 +14607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gold\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1462",
@@ -14617,7 +14617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"golden\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1463",
@@ -14627,7 +14627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"goldfish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1464",
@@ -14637,7 +14637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"golf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1465",
@@ -14647,7 +14647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"good\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1466",
@@ -14657,7 +14657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"goodness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1467",
@@ -14667,7 +14667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"goods\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1468",
@@ -14677,7 +14677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"goose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1469",
@@ -14687,7 +14687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"govern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1470",
@@ -14697,7 +14697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"government\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1471",
@@ -14707,7 +14707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gown\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1472",
@@ -14717,7 +14717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1473",
@@ -14727,7 +14727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gradually\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1474",
@@ -14737,7 +14737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"graduate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1475",
@@ -14747,7 +14747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"graduation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1476",
@@ -14757,7 +14757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1477",
@@ -14767,7 +14767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gram\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1478",
@@ -14777,7 +14777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grammar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1479",
@@ -14787,7 +14787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1480",
@@ -14797,7 +14797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grandchild\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1481",
@@ -14807,7 +14807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"granddaughter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1482",
@@ -14817,7 +14817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grandparents\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1483",
@@ -14827,7 +14827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grandson\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1484",
@@ -14837,7 +14837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"granny\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1485",
@@ -14847,7 +14847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grape\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1486",
@@ -14857,7 +14857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"graph\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1487",
@@ -14867,7 +14867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grasp\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1488",
@@ -14877,7 +14877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grass\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1489",
@@ -14887,7 +14887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grateful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1490",
@@ -14897,7 +14897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gravity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1491",
@@ -14907,7 +14907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"great\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-1492",
@@ -14917,7 +14917,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Greece in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1493",
@@ -14927,7 +14927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"greedy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1494",
@@ -14937,7 +14937,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Greek in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1495",
@@ -14947,7 +14947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"green\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1496",
@@ -14957,7 +14957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"greengrocer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1497",
@@ -14967,7 +14967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"greet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1498",
@@ -14977,7 +14977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"greeting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1499",
@@ -14987,7 +14987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1500",
@@ -14997,7 +14997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grocer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1501",
@@ -15007,7 +15007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ground\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1502",
@@ -15017,7 +15017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"group\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1503",
@@ -15027,7 +15027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"grow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1504",
@@ -15037,7 +15037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"growth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1505",
@@ -15047,7 +15047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gruel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1506",
@@ -15057,7 +15057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guarantee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1507",
@@ -15067,7 +15067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1508",
@@ -15077,7 +15077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1509",
@@ -15087,7 +15087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1510",
@@ -15097,7 +15097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guidance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1511",
@@ -15107,7 +15107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1512",
@@ -15117,7 +15117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guilty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1513",
@@ -15127,7 +15127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"guitar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1514",
@@ -15137,7 +15137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gun\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1515",
@@ -15147,7 +15147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"gymnastics\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "G",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1516",
@@ -15157,7 +15157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ha\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-1517",
@@ -15167,7 +15167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"habit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1518",
@@ -15177,7 +15177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1519",
@@ -15187,7 +15187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"haircut\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1520",
@@ -15197,7 +15197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"half\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1521",
@@ -15207,7 +15207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hall\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1522",
@@ -15217,7 +15217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ham\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1523",
@@ -15227,7 +15227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hamburger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1524",
@@ -15237,7 +15237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hammer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1525",
@@ -15247,7 +15247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1526",
@@ -15257,7 +15257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handbag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1527",
@@ -15267,7 +15267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1528",
@@ -15277,7 +15277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handkerchief\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1529",
@@ -15287,7 +15287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1530",
@@ -15297,7 +15297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handsome\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1531",
@@ -15307,7 +15307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handtruck\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1532",
@@ -15317,7 +15317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handwriting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1533",
@@ -15327,7 +15327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"handy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1534",
@@ -15337,7 +15337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hang\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1535",
@@ -15347,7 +15347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"happen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1536",
@@ -15357,7 +15357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"happily\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1537",
@@ -15367,7 +15367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"happiness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1538",
@@ -15377,7 +15377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"happy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1539",
@@ -15387,7 +15387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"harbour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1540",
@@ -15397,7 +15397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1541",
@@ -15407,7 +15407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hardly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1542",
@@ -15417,7 +15417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hardship\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1543",
@@ -15427,7 +15427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hardworking\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1544",
@@ -15437,7 +15437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"harm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1545",
@@ -15447,7 +15447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"harmful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1546",
@@ -15457,7 +15457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"harmless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1547",
@@ -15467,7 +15467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"harmony\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1548",
@@ -15477,7 +15477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"harvest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1549",
@@ -15487,7 +15487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1550",
@@ -15497,7 +15497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hatch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1551",
@@ -15507,7 +15507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1552",
@@ -15517,7 +15517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"have\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1553",
@@ -15527,7 +15527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hawk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1554",
@@ -15537,7 +15537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1555",
@@ -15547,7 +15547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"he\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron, n"
   },
   {
     "id": "gaokao-full-1556",
@@ -15557,7 +15557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"head\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1557",
@@ -15567,7 +15567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"headache\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1558",
@@ -15577,7 +15577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"headline\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1559",
@@ -15587,7 +15587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"headmaster\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1560",
@@ -15597,7 +15597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"headmistress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1561",
@@ -15607,7 +15607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"headteacher\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1562",
@@ -15617,7 +15617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"health\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1563",
@@ -15627,7 +15627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"healthy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1564",
@@ -15637,7 +15637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1565",
@@ -15647,7 +15647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1566",
@@ -15657,7 +15657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hearing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1567",
@@ -15667,7 +15667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heart\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1568",
@@ -15677,7 +15677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1569",
@@ -15687,7 +15687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heaven\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1570",
@@ -15697,7 +15697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heavily\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1571",
@@ -15707,7 +15707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heavy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-1572",
@@ -15717,7 +15717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1573",
@@ -15727,7 +15727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"height\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1574",
@@ -15737,7 +15737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"helicopter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1575",
@@ -15747,7 +15747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hello\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-1576",
@@ -15757,7 +15757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"helmet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1577",
@@ -15767,7 +15767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"help\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1578",
@@ -15777,7 +15777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"helpful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1579",
@@ -15787,7 +15787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1580",
@@ -15797,7 +15797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"her\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1581",
@@ -15807,7 +15807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"herb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1582",
@@ -15817,7 +15817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"here\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "gaokao-full-1583",
@@ -15827,7 +15827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hero\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1584",
@@ -15837,7 +15837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"heroine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1585",
@@ -15847,7 +15847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hers\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1586",
@@ -15857,7 +15857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"herself\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1587",
@@ -15867,7 +15867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-1588",
@@ -15877,7 +15877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hi\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-1589",
@@ -15887,7 +15887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hibernate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1590",
@@ -15897,7 +15897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hibernation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1591",
@@ -15907,7 +15907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1592",
@@ -15917,7 +15917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"high\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1593",
@@ -15927,7 +15927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"highway\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1594",
@@ -15937,7 +15937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1595",
@@ -15947,7 +15947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hillside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1596",
@@ -15957,7 +15957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hilly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1597",
@@ -15967,7 +15967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"him\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1598",
@@ -15977,7 +15977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"himself\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1599",
@@ -15987,7 +15987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1600",
@@ -15997,7 +15997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"his\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1601",
@@ -16007,7 +16007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"history\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1602",
@@ -16017,7 +16017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1603",
@@ -16027,7 +16027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1604",
@@ -16037,7 +16037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hobby\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1605",
@@ -16047,7 +16047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hold\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1606",
@@ -16057,7 +16057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hole\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1607",
@@ -16067,7 +16067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"holiday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1608",
@@ -16077,7 +16077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"holy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1609",
@@ -16087,7 +16087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"home\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1610",
@@ -16097,7 +16097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"homeland\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1611",
@@ -16107,7 +16107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hometown\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1612",
@@ -16117,7 +16117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"homework\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1613",
@@ -16127,7 +16127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"honest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1614",
@@ -16137,7 +16137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"honey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1615",
@@ -16147,7 +16147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"honour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1616",
@@ -16157,7 +16157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hook\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1617",
@@ -16167,7 +16167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hooray\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1618",
@@ -16177,7 +16177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hope\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1619",
@@ -16187,7 +16187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hopeful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1620",
@@ -16197,7 +16197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hopeless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1621",
@@ -16207,7 +16207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"horrible\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1622",
@@ -16217,7 +16217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"horse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1623",
@@ -16227,7 +16227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hospital\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1624",
@@ -16237,7 +16237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"host\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1625",
@@ -16247,7 +16247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hostess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1626",
@@ -16257,7 +16257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1627",
@@ -16267,7 +16267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hotel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1628",
@@ -16277,7 +16277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1629",
@@ -16287,7 +16287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"house\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1630",
@@ -16297,7 +16297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"housewife\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1631",
@@ -16307,7 +16307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"housework\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1632",
@@ -16317,7 +16317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"how\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "gaokao-full-1633",
@@ -16327,7 +16327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"however\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adv, conj"
   },
   {
     "id": "gaokao-full-1634",
@@ -16337,7 +16337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"howl\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1635",
@@ -16347,7 +16347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hug\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1636",
@@ -16357,7 +16357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"huge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1637",
@@ -16367,7 +16367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"human\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1638",
@@ -16377,7 +16377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"humorous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1639",
@@ -16387,7 +16387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"humour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1640",
@@ -16397,7 +16397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hundred\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, num, adj"
   },
   {
     "id": "gaokao-full-1641",
@@ -16407,7 +16407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hunger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1642",
@@ -16417,7 +16417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hungry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1643",
@@ -16427,7 +16427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hunt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1644",
@@ -16437,7 +16437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hunter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1645",
@@ -16447,7 +16447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hurricane\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1646",
@@ -16457,7 +16457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hurry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1647",
@@ -16467,7 +16467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hurt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1648",
@@ -16477,7 +16477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"husband\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1649",
@@ -16487,7 +16487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"hydrogen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "H",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1650",
@@ -16497,7 +16497,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about I in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1651",
@@ -16507,7 +16507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1652",
@@ -16517,7 +16517,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Iceland in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1653",
@@ -16527,7 +16527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"idea\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1654",
@@ -16537,7 +16537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"identification\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1655",
@@ -16547,7 +16547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"identity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1656",
@@ -16557,7 +16557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"idiom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1657",
@@ -16567,7 +16567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"if\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "conj, n"
   },
   {
     "id": "gaokao-full-1658",
@@ -16577,7 +16577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ignore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1659",
@@ -16587,7 +16587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1660",
@@ -16597,7 +16597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"illegal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1661",
@@ -16607,7 +16607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"illness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1662",
@@ -16617,7 +16617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"imagine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1663",
@@ -16627,7 +16627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"immediate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1664",
@@ -16637,7 +16637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"immediately\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1665",
@@ -16647,7 +16647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"immigration\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1666",
@@ -16657,7 +16657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"import\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1667",
@@ -16667,7 +16667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"importance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1668",
@@ -16677,7 +16677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"important\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1669",
@@ -16687,7 +16687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"impossible\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1670",
@@ -16697,7 +16697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"impress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1671",
@@ -16707,7 +16707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"impression\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1672",
@@ -16717,7 +16717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"improve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1673",
@@ -16727,7 +16727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"in\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "prep, adv, adj"
   },
   {
     "id": "gaokao-full-1674",
@@ -16737,7 +16737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1675",
@@ -16747,7 +16747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"incident\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1676",
@@ -16757,7 +16757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"include\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1677",
@@ -16767,7 +16767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"income\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1678",
@@ -16777,7 +16777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"incorrect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1679",
@@ -16787,7 +16787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"increase\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1680",
@@ -16797,7 +16797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"indeed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1681",
@@ -16807,7 +16807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"independence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1682",
@@ -16817,7 +16817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"independent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1683",
@@ -16827,7 +16827,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about India in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1684",
@@ -16837,7 +16837,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Indian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1685",
@@ -16847,7 +16847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"indicate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1686",
@@ -16857,7 +16857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"industry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1687",
@@ -16867,7 +16867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"influence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1688",
@@ -16877,7 +16877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inform\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1689",
@@ -16887,7 +16887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"information\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1690",
@@ -16897,7 +16897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"initial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1691",
@@ -16907,7 +16907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"injure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1692",
@@ -16917,7 +16917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"injury\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1693",
@@ -16927,7 +16927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ink\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1694",
@@ -16937,7 +16937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inland\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1695",
@@ -16947,7 +16947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1696",
@@ -16957,7 +16957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"innocent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1697",
@@ -16967,7 +16967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"insect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1698",
@@ -16977,7 +16977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"insert\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1699",
@@ -16987,7 +16987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1700",
@@ -16997,7 +16997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"insist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1701",
@@ -17007,7 +17007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inspect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1702",
@@ -17017,7 +17017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inspire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1703",
@@ -17027,7 +17027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"instant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1704",
@@ -17037,7 +17037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"instead\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1705",
@@ -17047,7 +17047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"institute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1706",
@@ -17057,7 +17057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"institution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1707",
@@ -17067,7 +17067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"instruct\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1708",
@@ -17077,7 +17077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"instruction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1709",
@@ -17087,7 +17087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"instrument\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1710",
@@ -17097,7 +17097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"insurance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1711",
@@ -17107,7 +17107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"insure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1712",
@@ -17117,7 +17117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"intelligence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1713",
@@ -17127,7 +17127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"intend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1714",
@@ -17137,7 +17137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"intention\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1715",
@@ -17147,7 +17147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"interest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1716",
@@ -17157,7 +17157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"interesting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1717",
@@ -17167,7 +17167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"international\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1718",
@@ -17177,7 +17177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"internet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1719",
@@ -17187,7 +17187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"interpreter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1720",
@@ -17197,7 +17197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"interrupt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1721",
@@ -17207,7 +17207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"interval\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1722",
@@ -17217,7 +17217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"interview\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1723",
@@ -17227,7 +17227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"into\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-1724",
@@ -17237,7 +17237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"introduce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1725",
@@ -17247,7 +17247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"introduction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1726",
@@ -17257,7 +17257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"invent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1727",
@@ -17267,7 +17267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"invention\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1728",
@@ -17277,7 +17277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"inventor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1729",
@@ -17287,7 +17287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"invitation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1730",
@@ -17297,7 +17297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"invite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1731",
@@ -17307,7 +17307,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Ireland in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1732",
@@ -17317,7 +17317,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Irish in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1733",
@@ -17327,7 +17327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"iron\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1734",
@@ -17337,7 +17337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"irrigate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1735",
@@ -17347,7 +17347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"irrigation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1736",
@@ -17357,7 +17357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"island\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1737",
@@ -17367,7 +17367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"it\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1738",
@@ -17377,7 +17377,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Italian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1739",
@@ -17387,7 +17387,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Italy in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1740",
@@ -17397,7 +17397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"its\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1741",
@@ -17407,7 +17407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"itself\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "I",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1742",
@@ -17417,7 +17417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jacket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1743",
@@ -17427,7 +17427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jam\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1744",
@@ -17437,7 +17437,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about January in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1745",
@@ -17447,7 +17447,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Japan in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1746",
@@ -17457,7 +17457,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Japanese in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1747",
@@ -17467,7 +17467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1748",
@@ -17477,7 +17477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jaw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1749",
@@ -17487,7 +17487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jazz\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1750",
@@ -17497,7 +17497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jeans\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1751",
@@ -17507,7 +17507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jeep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1752",
@@ -17517,7 +17517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1753",
@@ -17527,7 +17527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jewel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1754",
@@ -17537,7 +17537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jewelry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1755",
@@ -17547,7 +17547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"job\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1756",
@@ -17557,7 +17557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jog\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1757",
@@ -17567,7 +17567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"join\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1758",
@@ -17577,7 +17577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"joke\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1759",
@@ -17587,7 +17587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"journalist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1760",
@@ -17597,7 +17597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"journey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1761",
@@ -17607,7 +17607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"joy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1762",
@@ -17617,7 +17617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"judge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1763",
@@ -17627,7 +17627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"judgement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1764",
@@ -17637,7 +17637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"juice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1765",
@@ -17647,7 +17647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"juicy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1766",
@@ -17657,7 +17657,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about July in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1767",
@@ -17667,7 +17667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jump\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1768",
@@ -17677,7 +17677,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about June in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1769",
@@ -17687,7 +17687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"jungle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1770",
@@ -17697,7 +17697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"junior\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1771",
@@ -17707,7 +17707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"junk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1772",
@@ -17717,7 +17717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"just\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1773",
@@ -17727,7 +17727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"justice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "J",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1774",
@@ -17737,7 +17737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kangaroo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1775",
@@ -17747,7 +17747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"keep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1776",
@@ -17757,7 +17757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"keeper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1777",
@@ -17767,7 +17767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kettle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1778",
@@ -17777,7 +17777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"key\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1779",
@@ -17787,7 +17787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"keyboard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1780",
@@ -17797,7 +17797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1781",
@@ -17807,7 +17807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1782",
@@ -17817,7 +17817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1783",
@@ -17827,7 +17827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kilo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1784",
@@ -17837,7 +17837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kilogram\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1785",
@@ -17847,7 +17847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1786",
@@ -17857,7 +17857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kindergarten\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1787",
@@ -17867,7 +17867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kindness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1788",
@@ -17877,7 +17877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"king\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1789",
@@ -17887,7 +17887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kingdom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1790",
@@ -17897,7 +17897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kiss\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1791",
@@ -17907,7 +17907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kitchen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1792",
@@ -17917,7 +17917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"kite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1793",
@@ -17927,7 +17927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"knee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1794",
@@ -17937,7 +17937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"knife\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1795",
@@ -17947,7 +17947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"knock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1796",
@@ -17957,7 +17957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"know\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1797",
@@ -17967,7 +17967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"knowledge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "K",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1798",
@@ -17977,7 +17977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lab\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1799",
@@ -17987,7 +17987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"labour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1800",
@@ -17997,7 +17997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"labourer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1801",
@@ -18007,7 +18007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lack\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1802",
@@ -18017,7 +18017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ladder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1803",
@@ -18027,7 +18027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lady\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1804",
@@ -18037,7 +18037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1805",
@@ -18047,7 +18047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lamb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1806",
@@ -18057,7 +18057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lame\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1807",
@@ -18067,7 +18067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lamp\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1808",
@@ -18077,7 +18077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"land\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1809",
@@ -18087,7 +18087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"language\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1810",
@@ -18097,7 +18097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lantern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1811",
@@ -18107,7 +18107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1812",
@@ -18117,7 +18117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"large\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1813",
@@ -18127,7 +18127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"laser\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1814",
@@ -18137,7 +18137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"last\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-1815",
@@ -18147,7 +18147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"late\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1816",
@@ -18157,7 +18157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lately\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1817",
@@ -18167,7 +18167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"later\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1818",
@@ -18177,7 +18177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"latest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1819",
@@ -18187,7 +18187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"latter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1820",
@@ -18197,7 +18197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"laugh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1821",
@@ -18207,7 +18207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"laughter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1822",
@@ -18217,7 +18217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"laundry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1823",
@@ -18227,7 +18227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lavatory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1824",
@@ -18237,7 +18237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"law\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1825",
@@ -18247,7 +18247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lawyer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1826",
@@ -18257,7 +18257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "gaokao-full-1827",
@@ -18267,7 +18267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lazy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1828",
@@ -18277,7 +18277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lead\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1829",
@@ -18287,7 +18287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leader\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1830",
@@ -18297,7 +18297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leading\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1831",
@@ -18307,7 +18307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leaf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1832",
@@ -18317,7 +18317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"league\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1833",
@@ -18327,7 +18327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leak\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1834",
@@ -18337,7 +18337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"learn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1835",
@@ -18347,7 +18347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"learned\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1836",
@@ -18357,7 +18357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"least\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1837",
@@ -18367,7 +18367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leather\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1838",
@@ -18377,7 +18377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1839",
@@ -18387,7 +18387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lecture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1840",
@@ -18397,7 +18397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"left\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-1841",
@@ -18407,7 +18407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leftover\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1842",
@@ -18417,7 +18417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"leg\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1843",
@@ -18427,7 +18427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"legal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1844",
@@ -18437,7 +18437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lemon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1845",
@@ -18447,7 +18447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lemonade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1846",
@@ -18457,7 +18457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1847",
@@ -18467,7 +18467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"length\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1848",
@@ -18477,7 +18477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"less\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1849",
@@ -18487,7 +18487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lesson\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1850",
@@ -18497,7 +18497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"let\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1851",
@@ -18507,7 +18507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"letter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1852",
@@ -18517,7 +18517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"level\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1853",
@@ -18527,7 +18527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"liberate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1854",
@@ -18537,7 +18537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"liberation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1855",
@@ -18547,7 +18547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"liberty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1856",
@@ -18557,7 +18557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"librarian\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1857",
@@ -18567,7 +18567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"library\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1858",
@@ -18577,7 +18577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"license\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1859",
@@ -18587,7 +18587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1860",
@@ -18597,7 +18597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1861",
@@ -18607,7 +18607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"life\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1862",
@@ -18617,7 +18617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lifetime\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1863",
@@ -18627,7 +18627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lift\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1864",
@@ -18637,7 +18637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"light\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1865",
@@ -18647,7 +18647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lightning\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1866",
@@ -18657,7 +18657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"like\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-1867",
@@ -18667,7 +18667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"likely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1868",
@@ -18677,7 +18677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"limit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1869",
@@ -18687,7 +18687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"line\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1870",
@@ -18697,7 +18697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"link\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1871",
@@ -18707,7 +18707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1872",
@@ -18717,7 +18717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-1873",
@@ -18727,7 +18727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"liquid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1874",
@@ -18737,7 +18737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"list\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1875",
@@ -18747,7 +18747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"listen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1876",
@@ -18757,7 +18757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"literary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1877",
@@ -18767,7 +18767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"literature\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1878",
@@ -18777,7 +18777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"litre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1879",
@@ -18787,7 +18787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"litter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1880",
@@ -18797,7 +18797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"little\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1881",
@@ -18807,7 +18807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"live\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-1882",
@@ -18817,7 +18817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lively\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1883",
@@ -18827,7 +18827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"living\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1884",
@@ -18837,7 +18837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"load\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1885",
@@ -18847,7 +18847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"loaf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1886",
@@ -18857,7 +18857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"local\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1887",
@@ -18867,7 +18867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1888",
@@ -18877,7 +18877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"locust\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1889",
@@ -18887,7 +18887,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about London in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1890",
@@ -18897,7 +18897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lonely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1891",
@@ -18907,7 +18907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"long\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-1892",
@@ -18917,7 +18917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"look\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1893",
@@ -18927,7 +18927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"loose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1894",
@@ -18937,7 +18937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lorry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1895",
@@ -18947,7 +18947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1896",
@@ -18957,7 +18957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"loss\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1897",
@@ -18967,7 +18967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1898",
@@ -18977,7 +18977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"loud\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-1899",
@@ -18987,7 +18987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"loudly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1900",
@@ -18997,7 +18997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"loudspeaker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1901",
@@ -19007,7 +19007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lounge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1902",
@@ -19017,7 +19017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"love\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1903",
@@ -19027,7 +19027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lovely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1904",
@@ -19037,7 +19037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"low\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-1905",
@@ -19047,7 +19047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"luck\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1906",
@@ -19057,7 +19057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lucky\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1907",
@@ -19067,7 +19067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"luggage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1908",
@@ -19077,7 +19077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lunch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1909",
@@ -19087,7 +19087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"lung\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "L",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1910",
@@ -19097,7 +19097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"machine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1911",
@@ -19107,7 +19107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mad\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1912",
@@ -19117,7 +19117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"magazine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1913",
@@ -19127,7 +19127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"magic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1914",
@@ -19137,7 +19137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"maid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1915",
@@ -19147,7 +19147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1916",
@@ -19157,7 +19157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mailbox\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1917",
@@ -19167,7 +19167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"main\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1918",
@@ -19177,7 +19177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mainland\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1919",
@@ -19187,7 +19187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"major\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1920",
@@ -19197,7 +19197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"majority\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1921",
@@ -19207,7 +19207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"make\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-1922",
@@ -19217,7 +19217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"male\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1923",
@@ -19227,7 +19227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"man\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1924",
@@ -19237,7 +19237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"manage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1925",
@@ -19247,7 +19247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"manager\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1926",
@@ -19257,7 +19257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mankind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1927",
@@ -19267,7 +19267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"manner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1928",
@@ -19277,7 +19277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"many\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, pron"
   },
   {
     "id": "gaokao-full-1929",
@@ -19287,7 +19287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"map\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1930",
@@ -19297,7 +19297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"maple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1931",
@@ -19307,7 +19307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"marathon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1932",
@@ -19317,7 +19317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"marble\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1933",
@@ -19327,7 +19327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"march\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1934",
@@ -19337,7 +19337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mark\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1935",
@@ -19347,7 +19347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"market\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1936",
@@ -19357,7 +19357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"marriage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1937",
@@ -19367,7 +19367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"married\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1938",
@@ -19377,7 +19377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"marry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1939",
@@ -19387,7 +19387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mask\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1940",
@@ -19397,7 +19397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mass\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1941",
@@ -19407,7 +19407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"master\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1942",
@@ -19417,7 +19417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1943",
@@ -19427,7 +19427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"match\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1944",
@@ -19437,7 +19437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"material\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1945",
@@ -19447,7 +19447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"matter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1946",
@@ -19457,7 +19457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mature\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-1947",
@@ -19467,7 +19467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"maximum\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1948",
@@ -19477,7 +19477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"may\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1949",
@@ -19487,7 +19487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"maybe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "gaokao-full-1950",
@@ -19497,7 +19497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"me\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-1951",
@@ -19507,7 +19507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"meal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1952",
@@ -19517,7 +19517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mean\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-1953",
@@ -19527,7 +19527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"meaning\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1954",
@@ -19537,7 +19537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"means\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1955",
@@ -19547,7 +19547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"meanwhile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-1956",
@@ -19557,7 +19557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"measure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1957",
@@ -19567,7 +19567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"meat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1958",
@@ -19577,7 +19577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"medal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1959",
@@ -19587,7 +19587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"media\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1960",
@@ -19597,7 +19597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"medical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1961",
@@ -19607,7 +19607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"medicine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1962",
@@ -19617,7 +19617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"medium\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1963",
@@ -19627,7 +19627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"meet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1964",
@@ -19637,7 +19637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"meeting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1965",
@@ -19647,7 +19647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"melon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1966",
@@ -19657,7 +19657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"member\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1967",
@@ -19667,7 +19667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"memorial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1968",
@@ -19677,7 +19677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"memorize\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-1969",
@@ -19687,7 +19687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"memory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1970",
@@ -19697,7 +19697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1971",
@@ -19707,7 +19707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mental\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-1972",
@@ -19717,7 +19717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mentally\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1973",
@@ -19727,7 +19727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mention\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1974",
@@ -19737,7 +19737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"menu\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1975",
@@ -19747,7 +19747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"merchant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1976",
@@ -19757,7 +19757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"merciful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1977",
@@ -19767,7 +19767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mercy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1978",
@@ -19777,7 +19777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"merely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-1979",
@@ -19787,7 +19787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"merry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1980",
@@ -19797,7 +19797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1981",
@@ -19807,7 +19807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"message\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1982",
@@ -19817,7 +19817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"messy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1983",
@@ -19827,7 +19827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"metal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-1984",
@@ -19837,7 +19837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"method\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1985",
@@ -19847,7 +19847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"metre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1986",
@@ -19857,7 +19857,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Mexican in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1987",
@@ -19867,7 +19867,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Mexico in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1988",
@@ -19877,7 +19877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"microcomputer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1989",
@@ -19887,7 +19887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"microscope\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1990",
@@ -19897,7 +19897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"microwave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1991",
@@ -19907,7 +19907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"midday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1992",
@@ -19917,7 +19917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"middle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1993",
@@ -19927,7 +19927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"midnight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-1994",
@@ -19937,7 +19937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"might\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1995",
@@ -19947,7 +19947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mild\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-1996",
@@ -19957,7 +19957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-1997",
@@ -19967,7 +19967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"milk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-1998",
@@ -19977,7 +19977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"million\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, num"
   },
   {
     "id": "gaokao-full-1999",
@@ -19987,7 +19987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"millionaire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2000",
@@ -19997,7 +19997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2001",
@@ -20007,7 +20007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v, pron"
   },
   {
     "id": "gaokao-full-2002",
@@ -20017,7 +20017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mineral\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2003",
@@ -20027,7 +20027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"minibus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2004",
@@ -20037,7 +20037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"minimum\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2005",
@@ -20047,7 +20047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"miniskirt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2006",
@@ -20057,7 +20057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"minister\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2007",
@@ -20067,7 +20067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ministry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2008",
@@ -20077,7 +20077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"minority\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2009",
@@ -20087,7 +20087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"minus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, prep"
   },
   {
     "id": "gaokao-full-2010",
@@ -20097,7 +20097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"minute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2011",
@@ -20107,7 +20107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mirror\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2012",
@@ -20117,7 +20117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"miss\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2013",
@@ -20127,7 +20127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"missile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2014",
@@ -20137,7 +20137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2015",
@@ -20147,7 +20147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mistake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2016",
@@ -20157,7 +20157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mistaken\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2017",
@@ -20167,7 +20167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"misunderstand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2018",
@@ -20177,7 +20177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mix\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2019",
@@ -20187,7 +20187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mixture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2020",
@@ -20197,7 +20197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2021",
@@ -20207,7 +20207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mobile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2022",
@@ -20217,7 +20217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"model\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2023",
@@ -20227,7 +20227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"modem\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2024",
@@ -20237,7 +20237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"modern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2025",
@@ -20247,7 +20247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"modest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2026",
@@ -20257,7 +20257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"moment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2027",
@@ -20267,7 +20267,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Monday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2028",
@@ -20277,7 +20277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"money\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2029",
@@ -20287,7 +20287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"monitor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2030",
@@ -20297,7 +20297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"monkey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2031",
@@ -20307,7 +20307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"month\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2032",
@@ -20317,7 +20317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"monument\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2033",
@@ -20327,7 +20327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"moon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2034",
@@ -20337,7 +20337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2035",
@@ -20347,7 +20347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"moral\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2036",
@@ -20357,7 +20357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"morning\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2037",
@@ -20367,7 +20367,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Moscow in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2038",
@@ -20377,7 +20377,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Moslem in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2039",
@@ -20387,7 +20387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mosquito\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2040",
@@ -20397,7 +20397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"most\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2041",
@@ -20407,7 +20407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mother\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2042",
@@ -20417,7 +20417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"motherland\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2043",
@@ -20427,7 +20427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"motivation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2044",
@@ -20437,7 +20437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"motor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2045",
@@ -20447,7 +20447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"motorbike\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2046",
@@ -20457,7 +20457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"motorcycle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2047",
@@ -20467,7 +20467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"motto\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2048",
@@ -20477,7 +20477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mountain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2049",
@@ -20487,7 +20487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mountainous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2050",
@@ -20497,7 +20497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mourn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2051",
@@ -20507,7 +20507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mouse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2052",
@@ -20517,7 +20517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"moustache\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2053",
@@ -20527,7 +20527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mouth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2054",
@@ -20537,7 +20537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mouthful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2055",
@@ -20547,7 +20547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"move\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2056",
@@ -20557,7 +20557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"movement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2057",
@@ -20567,7 +20567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"movie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2058",
@@ -20577,7 +20577,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Mr. in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2059",
@@ -20587,7 +20587,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Ms. in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2060",
@@ -20597,7 +20597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"much\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2061",
@@ -20607,7 +20607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mud\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2062",
@@ -20617,7 +20617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"muddy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-2063",
@@ -20627,7 +20627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"multiply\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2064",
@@ -20637,7 +20637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"murder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2065",
@@ -20647,7 +20647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"museum\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2066",
@@ -20657,7 +20657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mushroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2067",
@@ -20667,7 +20667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"music\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2068",
@@ -20677,7 +20677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"musical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2069",
@@ -20687,7 +20687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"musician\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2070",
@@ -20697,7 +20697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mustard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2071",
@@ -20707,7 +20707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"mutton\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2072",
@@ -20717,7 +20717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"my\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2073",
@@ -20727,7 +20727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"myself\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "M",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2074",
@@ -20737,7 +20737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2075",
@@ -20747,7 +20747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"name\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2076",
@@ -20757,7 +20757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"narrow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2077",
@@ -20767,7 +20767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2078",
@@ -20777,7 +20777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"national\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2079",
@@ -20787,7 +20787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nationality\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2080",
@@ -20797,7 +20797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nationwide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2081",
@@ -20807,7 +20807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"native\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2082",
@@ -20817,7 +20817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"natural\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2083",
@@ -20827,7 +20827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nature\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2084",
@@ -20837,7 +20837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"navy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2085",
@@ -20847,7 +20847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"near\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "gaokao-full-2086",
@@ -20857,7 +20857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nearby\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "gaokao-full-2087",
@@ -20867,7 +20867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nearly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2088",
@@ -20877,7 +20877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"neat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2089",
@@ -20887,7 +20887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"necessary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2090",
@@ -20897,7 +20897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"neck\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2091",
@@ -20907,7 +20907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"necklace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2092",
@@ -20917,7 +20917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"necktie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2093",
@@ -20927,7 +20927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"need\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2094",
@@ -20937,7 +20937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"needle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2095",
@@ -20947,7 +20947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"negotiate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2096",
@@ -20957,7 +20957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"neighbour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2097",
@@ -20967,7 +20967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"neighbourhood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2098",
@@ -20977,7 +20977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"neither\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv, adj, pron"
   },
   {
     "id": "gaokao-full-2099",
@@ -20987,7 +20987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nephew\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2100",
@@ -20997,7 +20997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nervous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2101",
@@ -21007,7 +21007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2102",
@@ -21017,7 +21017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"net\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2103",
@@ -21027,7 +21027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"network\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2104",
@@ -21037,7 +21037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"never\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2105",
@@ -21047,7 +21047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"new\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2106",
@@ -21057,7 +21057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"news\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2107",
@@ -21067,7 +21067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"newspaper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2108",
@@ -21077,7 +21077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"next\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2109",
@@ -21087,7 +21087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2110",
@@ -21097,7 +21097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"niece\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2111",
@@ -21107,7 +21107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"night\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2112",
@@ -21117,7 +21117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2113",
@@ -21127,7 +21127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nineteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2114",
@@ -21137,7 +21137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ninety\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2115",
@@ -21147,7 +21147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ninth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2116",
@@ -21157,7 +21157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"no\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2117",
@@ -21167,7 +21167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"no.\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2118",
@@ -21177,7 +21177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"noble\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2119",
@@ -21187,7 +21187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nobody\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, pron"
   },
   {
     "id": "gaokao-full-2120",
@@ -21197,7 +21197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nod\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2121",
@@ -21207,7 +21207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"noise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2122",
@@ -21217,7 +21217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"noisily\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2123",
@@ -21227,7 +21227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"noisy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2124",
@@ -21237,7 +21237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"none\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv, pron, adj"
   },
   {
     "id": "gaokao-full-2125",
@@ -21247,7 +21247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"noodle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2126",
@@ -21257,7 +21257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"noon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2127",
@@ -21267,7 +21267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "gaokao-full-2128",
@@ -21277,7 +21277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"normal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2129",
@@ -21287,7 +21287,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about North in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2130",
@@ -21297,7 +21297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"northeast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2131",
@@ -21307,7 +21307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"northern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2132",
@@ -21317,7 +21317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"northwards\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2133",
@@ -21327,7 +21327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"northwest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2134",
@@ -21337,7 +21337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2135",
@@ -21347,7 +21347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"not\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2136",
@@ -21357,7 +21357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"note\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2137",
@@ -21367,7 +21367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"notebook\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2138",
@@ -21377,7 +21377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nothing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-2139",
@@ -21387,7 +21387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"notice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2140",
@@ -21397,7 +21397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"novel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2141",
@@ -21407,7 +21407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"novelist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2142",
@@ -21417,7 +21417,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about November in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2143",
@@ -21427,7 +21427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"now\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv, n, adj"
   },
   {
     "id": "gaokao-full-2144",
@@ -21437,7 +21437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nowadays\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-2145",
@@ -21447,7 +21447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nowhere\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2146",
@@ -21457,7 +21457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nuclear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2147",
@@ -21467,7 +21467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"numb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-2148",
@@ -21477,7 +21477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"number\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2149",
@@ -21487,7 +21487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nurse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2150",
@@ -21497,7 +21497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nursery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2151",
@@ -21507,7 +21507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nursing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2152",
@@ -21517,7 +21517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nut\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2153",
@@ -21527,7 +21527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nutrition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2154",
@@ -21537,7 +21537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"nylon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "N",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2155",
@@ -21547,7 +21547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"obey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2156",
@@ -21557,7 +21557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"object\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2157",
@@ -21567,7 +21567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"observe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2158",
@@ -21577,7 +21577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"obtain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2159",
@@ -21587,7 +21587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"obvious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2160",
@@ -21597,7 +21597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"occupation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2161",
@@ -21607,7 +21607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"occur\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2162",
@@ -21617,7 +21617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ocean\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2163",
@@ -21627,7 +21627,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Oceania in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2164",
@@ -21637,7 +21637,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about October in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2165",
@@ -21647,7 +21647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"of\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-2166",
@@ -21657,7 +21657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"off\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "gaokao-full-2167",
@@ -21667,7 +21667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"offence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2168",
@@ -21677,7 +21677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"offer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2169",
@@ -21687,7 +21687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"office\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2170",
@@ -21697,7 +21697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"officer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2171",
@@ -21707,7 +21707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"official\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2172",
@@ -21717,7 +21717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"offshore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2173",
@@ -21727,7 +21727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"often\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2174",
@@ -21737,7 +21737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "exclam"
   },
   {
     "id": "gaokao-full-2175",
@@ -21747,7 +21747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oil\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2176",
@@ -21757,7 +21757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oilfield\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2177",
@@ -21767,7 +21767,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about OK in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-2178",
@@ -21777,7 +21777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"old\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2179",
@@ -21787,7 +21787,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Olympic in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2180",
@@ -21797,7 +21797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"omelette\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2181",
@@ -21807,7 +21807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"on\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "prep, adv, adj"
   },
   {
     "id": "gaokao-full-2182",
@@ -21817,7 +21817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"once\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adv, conj, n"
   },
   {
     "id": "gaokao-full-2183",
@@ -21827,7 +21827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"one\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, pron, num"
   },
   {
     "id": "gaokao-full-2184",
@@ -21837,7 +21837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oneself\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2185",
@@ -21847,7 +21847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"onion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2186",
@@ -21857,7 +21857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"only\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, conj"
   },
   {
     "id": "gaokao-full-2187",
@@ -21867,7 +21867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"onto\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-2188",
@@ -21877,7 +21877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"open\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2189",
@@ -21887,7 +21887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"opener\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2190",
@@ -21897,7 +21897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"opening\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2191",
@@ -21907,7 +21907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"opera\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2192",
@@ -21917,7 +21917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"operate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2193",
@@ -21927,7 +21927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"operation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2194",
@@ -21937,7 +21937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"operator\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2195",
@@ -21947,7 +21947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"opinion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2196",
@@ -21957,7 +21957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oppose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2197",
@@ -21967,7 +21967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"opposite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, prep, n"
   },
   {
     "id": "gaokao-full-2198",
@@ -21977,7 +21977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"optimistic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2199",
@@ -21987,7 +21987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"optional\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2200",
@@ -21997,7 +21997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"or\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "conj"
   },
   {
     "id": "gaokao-full-2201",
@@ -22007,7 +22007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oral\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2202",
@@ -22017,7 +22017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"orange\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2203",
@@ -22027,7 +22027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"orbit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2204",
@@ -22037,7 +22037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"order\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2205",
@@ -22047,7 +22047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ordinary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2206",
@@ -22057,7 +22057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"organ\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2207",
@@ -22067,7 +22067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"organise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2208",
@@ -22077,7 +22077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"organiser\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2209",
@@ -22087,7 +22087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"organization\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2210",
@@ -22097,7 +22097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"origin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2211",
@@ -22107,7 +22107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"other\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "gaokao-full-2212",
@@ -22117,7 +22117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"otherwise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2213",
@@ -22127,7 +22127,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Ottawa in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2214",
@@ -22137,7 +22137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ouch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2215",
@@ -22147,7 +22147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ought\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2216",
@@ -22157,7 +22157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"our\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2217",
@@ -22167,7 +22167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ours\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2218",
@@ -22177,7 +22177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ourselves\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2219",
@@ -22187,7 +22187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"out\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "gaokao-full-2220",
@@ -22197,7 +22197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outcome\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2221",
@@ -22207,7 +22207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outdoors\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-2222",
@@ -22217,7 +22217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2223",
@@ -22227,7 +22227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outgoing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2224",
@@ -22237,7 +22237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2225",
@@ -22247,7 +22247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outline\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2226",
@@ -22257,7 +22257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"output\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2227",
@@ -22267,7 +22267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2228",
@@ -22277,7 +22277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outspoken\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2229",
@@ -22287,7 +22287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outstanding\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2230",
@@ -22297,7 +22297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"outward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2231",
@@ -22307,7 +22307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oval\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2232",
@@ -22317,7 +22317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"over\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "adv, prep, adj"
   },
   {
     "id": "gaokao-full-2233",
@@ -22327,7 +22327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"overcoat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2234",
@@ -22337,7 +22337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"overcome\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2235",
@@ -22347,7 +22347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"overhead\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2236",
@@ -22357,7 +22357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"overlook\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2237",
@@ -22367,7 +22367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"overweight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2238",
@@ -22377,7 +22377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"owe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2239",
@@ -22387,7 +22387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"own\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2240",
@@ -22397,7 +22397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"owner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2241",
@@ -22407,7 +22407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ownership\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2242",
@@ -22417,7 +22417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ox\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2243",
@@ -22427,7 +22427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"oxygen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "O",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2244",
@@ -22437,7 +22437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2245",
@@ -22447,7 +22447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pacific\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2246",
@@ -22457,7 +22457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pack\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2247",
@@ -22467,7 +22467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"package\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2248",
@@ -22477,7 +22477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"packet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2249",
@@ -22487,7 +22487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"paddle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2250",
@@ -22497,7 +22497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"page\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2251",
@@ -22507,7 +22507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2252",
@@ -22517,7 +22517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"painful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2253",
@@ -22527,7 +22527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"paint\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2254",
@@ -22537,7 +22537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"painter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2255",
@@ -22547,7 +22547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"painting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2256",
@@ -22557,7 +22557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2257",
@@ -22567,7 +22567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"palace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2258",
@@ -22577,7 +22577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pale\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2259",
@@ -22587,7 +22587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pan\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2260",
@@ -22597,7 +22597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pancake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2261",
@@ -22607,7 +22607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"panda\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2262",
@@ -22617,7 +22617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"panic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2263",
@@ -22627,7 +22627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"paper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2264",
@@ -22637,7 +22637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"paperwork\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2265",
@@ -22647,7 +22647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"paragraph\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2266",
@@ -22657,7 +22657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"parallel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2267",
@@ -22667,7 +22667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"parcel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2268",
@@ -22677,7 +22677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pardon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2269",
@@ -22687,7 +22687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"parent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2270",
@@ -22697,7 +22697,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Paris in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2271",
@@ -22707,7 +22707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"park\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2272",
@@ -22717,7 +22717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"parking\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2273",
@@ -22727,7 +22727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"parrot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2274",
@@ -22737,7 +22737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"part\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2275",
@@ -22747,7 +22747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"participate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2276",
@@ -22757,7 +22757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"particular\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2277",
@@ -22767,7 +22767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"partly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2278",
@@ -22777,7 +22777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"partner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2279",
@@ -22787,7 +22787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"party\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2280",
@@ -22797,7 +22797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pass\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2281",
@@ -22807,7 +22807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"passage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2282",
@@ -22817,7 +22817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"passenger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2283",
@@ -22827,7 +22827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"passive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2284",
@@ -22837,7 +22837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"passport\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2285",
@@ -22847,7 +22847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"past\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, prep"
   },
   {
     "id": "gaokao-full-2286",
@@ -22857,7 +22857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"patent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2287",
@@ -22867,7 +22867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"path\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2288",
@@ -22877,7 +22877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"patience\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2289",
@@ -22887,7 +22887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"patient\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2290",
@@ -22897,7 +22897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pattern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2291",
@@ -22907,7 +22907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pause\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2292",
@@ -22917,7 +22917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2293",
@@ -22927,7 +22927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pea\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2294",
@@ -22937,7 +22937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"peace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2295",
@@ -22947,7 +22947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"peaceful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2296",
@@ -22957,7 +22957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"peach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2297",
@@ -22967,7 +22967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2298",
@@ -22977,7 +22977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"peasant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2299",
@@ -22987,7 +22987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pedestrian\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2300",
@@ -22997,7 +22997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2301",
@@ -23007,7 +23007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pencil\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2302",
@@ -23017,7 +23017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"penny\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2303",
@@ -23027,7 +23027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pension\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2304",
@@ -23037,7 +23037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"people\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2305",
@@ -23047,7 +23047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pepper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2306",
@@ -23057,7 +23057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"per\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-2307",
@@ -23067,7 +23067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"percent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2308",
@@ -23077,7 +23077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"percentage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2309",
@@ -23087,7 +23087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"perfect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2310",
@@ -23097,7 +23097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"perform\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2311",
@@ -23107,7 +23107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"performance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2312",
@@ -23117,7 +23117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"performer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2313",
@@ -23127,7 +23127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"perfume\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2314",
@@ -23137,7 +23137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"perhaps\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2315",
@@ -23147,7 +23147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"period\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2316",
@@ -23157,7 +23157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"permanent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2317",
@@ -23167,7 +23167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"permission\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2318",
@@ -23177,7 +23177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"permit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2319",
@@ -23187,7 +23187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"person\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2320",
@@ -23197,7 +23197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"personal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2321",
@@ -23207,7 +23207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"personally\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2322",
@@ -23217,7 +23217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"personnel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2323",
@@ -23227,7 +23227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"persuade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2324",
@@ -23237,7 +23237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2325",
@@ -23247,7 +23247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2326",
@@ -23257,7 +23257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"petrol\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2327",
@@ -23267,7 +23267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"phenomenon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2328",
@@ -23277,7 +23277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"photograph\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2329",
@@ -23287,7 +23287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"photographer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2330",
@@ -23297,7 +23297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"phrase\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2331",
@@ -23307,7 +23307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"physical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2332",
@@ -23317,7 +23317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"physician\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2333",
@@ -23327,7 +23327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"physicist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2334",
@@ -23337,7 +23337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"physics\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2335",
@@ -23347,7 +23347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pianist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2336",
@@ -23357,7 +23357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"piano\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2337",
@@ -23367,7 +23367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2338",
@@ -23377,7 +23377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"picnic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2339",
@@ -23387,7 +23387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"picture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2340",
@@ -23397,7 +23397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2341",
@@ -23407,7 +23407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"piece\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2342",
@@ -23417,7 +23417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pig\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2343",
@@ -23427,7 +23427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2344",
@@ -23437,7 +23437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2345",
@@ -23447,7 +23447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pillow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2346",
@@ -23457,7 +23457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pilot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2347",
@@ -23467,7 +23467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2348",
@@ -23477,7 +23477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2349",
@@ -23487,7 +23487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pineapple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2350",
@@ -23497,7 +23497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pint\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2351",
@@ -23507,7 +23507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pioneer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2352",
@@ -23517,7 +23517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pipe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2353",
@@ -23527,7 +23527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2354",
@@ -23537,7 +23537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"place\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2355",
@@ -23547,7 +23547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2356",
@@ -23557,7 +23557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plan\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2357",
@@ -23567,7 +23567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plane\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2358",
@@ -23577,7 +23577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"planet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2359",
@@ -23587,7 +23587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2360",
@@ -23597,7 +23597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plastic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2361",
@@ -23607,7 +23607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2362",
@@ -23617,7 +23617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"platform\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2363",
@@ -23627,7 +23627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"play\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2364",
@@ -23637,7 +23637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"player\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2365",
@@ -23647,7 +23647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"playground\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2366",
@@ -23657,7 +23657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"playmate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2367",
@@ -23667,7 +23667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"playroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2368",
@@ -23677,7 +23677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pleasant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2369",
@@ -23687,7 +23687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"please\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv, v"
   },
   {
     "id": "gaokao-full-2370",
@@ -23697,7 +23697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pleased\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2371",
@@ -23707,7 +23707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pleasure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2372",
@@ -23717,7 +23717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plenty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2373",
@@ -23727,7 +23727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2374",
@@ -23737,7 +23737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plug\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2375",
@@ -23747,7 +23747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"plus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "prep, adj, n"
   },
   {
     "id": "gaokao-full-2376",
@@ -23757,7 +23757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pocket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2377",
@@ -23767,7 +23767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"poem\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2378",
@@ -23777,7 +23777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"poet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2379",
@@ -23787,7 +23787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"point\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2380",
@@ -23797,7 +23797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"poison\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2381",
@@ -23807,7 +23807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"poisonous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2382",
@@ -23817,7 +23817,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Pole in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2383",
@@ -23827,7 +23827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"police\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2384",
@@ -23837,7 +23837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"policeman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2385",
@@ -23847,7 +23847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"policy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2386",
@@ -23857,7 +23857,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Polish in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "gaokao-full-2387",
@@ -23867,7 +23867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"polite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2388",
@@ -23877,7 +23877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"political\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2389",
@@ -23887,7 +23887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"politician\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2390",
@@ -23897,7 +23897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"politics\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2391",
@@ -23907,7 +23907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pollute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2392",
@@ -23917,7 +23917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pollution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2393",
@@ -23927,7 +23927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2394",
@@ -23937,7 +23937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pool\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2395",
@@ -23947,7 +23947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"poor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2396",
@@ -23957,7 +23957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"popcorn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2397",
@@ -23967,7 +23967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"popular\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2398",
@@ -23977,7 +23977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"population\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2399",
@@ -23987,7 +23987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pork\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2400",
@@ -23997,7 +23997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"porridge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2401",
@@ -24007,7 +24007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"port\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2402",
@@ -24017,7 +24017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"portable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2403",
@@ -24027,7 +24027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"porter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2404",
@@ -24037,7 +24037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"position\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2405",
@@ -24047,7 +24047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"possess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2406",
@@ -24057,7 +24057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"possession\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2407",
@@ -24067,7 +24067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"possibility\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2408",
@@ -24077,7 +24077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"possible\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2409",
@@ -24087,7 +24087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"post\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adv"
   },
   {
     "id": "gaokao-full-2410",
@@ -24097,7 +24097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"postage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2411",
@@ -24107,7 +24107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"postbox\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2412",
@@ -24117,7 +24117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"postcard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2413",
@@ -24127,7 +24127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"postcode\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2414",
@@ -24137,7 +24137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"poster\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2415",
@@ -24147,7 +24147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"postman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2416",
@@ -24157,7 +24157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"postpone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2417",
@@ -24167,7 +24167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2418",
@@ -24177,7 +24177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"potato\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2419",
@@ -24187,7 +24187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"potential\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2420",
@@ -24197,7 +24197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pound\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2421",
@@ -24207,7 +24207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2422",
@@ -24217,7 +24217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"powder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2423",
@@ -24227,7 +24227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"power\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2424",
@@ -24237,7 +24237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"powerful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2425",
@@ -24247,7 +24247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"practical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2426",
@@ -24257,7 +24257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"practice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2427",
@@ -24267,7 +24267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prairie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2428",
@@ -24277,7 +24277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"praise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2429",
@@ -24287,7 +24287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pray\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2430",
@@ -24297,7 +24297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prayer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2431",
@@ -24307,7 +24307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"precious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2432",
@@ -24317,7 +24317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"precise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2433",
@@ -24327,7 +24327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"predict\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2434",
@@ -24337,7 +24337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prefer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2435",
@@ -24347,7 +24347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"preference\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2436",
@@ -24357,7 +24357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pregnant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2437",
@@ -24367,7 +24367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prejudice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2438",
@@ -24377,7 +24377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"premier\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2439",
@@ -24387,7 +24387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"preparation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2440",
@@ -24397,7 +24397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prepare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2441",
@@ -24407,7 +24407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prescription\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2442",
@@ -24417,7 +24417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"present\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2443",
@@ -24427,7 +24427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"presentation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2444",
@@ -24437,7 +24437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"preserve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2445",
@@ -24447,7 +24447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"president\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2446",
@@ -24457,7 +24457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"press\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2447",
@@ -24467,7 +24467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pressure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2448",
@@ -24477,7 +24477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pretend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2449",
@@ -24487,7 +24487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pretty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2450",
@@ -24497,7 +24497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prevent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2451",
@@ -24507,7 +24507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"preview\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2452",
@@ -24517,7 +24517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"price\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2453",
@@ -24527,7 +24527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pride\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2454",
@@ -24537,7 +24537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"primary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2455",
@@ -24547,7 +24547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"primitive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2456",
@@ -24557,7 +24557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"principle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2457",
@@ -24567,7 +24567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"print\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2458",
@@ -24577,7 +24577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"printer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2459",
@@ -24587,7 +24587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"printing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2460",
@@ -24597,7 +24597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prison\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2461",
@@ -24607,7 +24607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prisoner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2462",
@@ -24617,7 +24617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"private\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2463",
@@ -24627,7 +24627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"privilege\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2464",
@@ -24637,7 +24637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prize\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2465",
@@ -24647,7 +24647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"probable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2466",
@@ -24657,7 +24657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"probably\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2467",
@@ -24667,7 +24667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"problem\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2468",
@@ -24677,7 +24677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"procedure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2469",
@@ -24687,7 +24687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"process\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2470",
@@ -24697,7 +24697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"produce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2471",
@@ -24707,7 +24707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"product\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2472",
@@ -24717,7 +24717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"production\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2473",
@@ -24727,7 +24727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"profession\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2474",
@@ -24737,7 +24737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"professor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2475",
@@ -24747,7 +24747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"profit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2476",
@@ -24757,7 +24757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"programme\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2477",
@@ -24767,7 +24767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"progress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2478",
@@ -24777,7 +24777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prohibit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2479",
@@ -24787,7 +24787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"project\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2480",
@@ -24797,7 +24797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"promise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2481",
@@ -24807,7 +24807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"promote\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2482",
@@ -24817,7 +24817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pronounce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2483",
@@ -24827,7 +24827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pronunciation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2484",
@@ -24837,7 +24837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"proper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2485",
@@ -24847,7 +24847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"properly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2486",
@@ -24857,7 +24857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"protect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2487",
@@ -24867,7 +24867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"protection\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2488",
@@ -24877,7 +24877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"proud\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2489",
@@ -24887,7 +24887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"prove\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2490",
@@ -24897,7 +24897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"provide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2491",
@@ -24907,7 +24907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"province\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2492",
@@ -24917,7 +24917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"psychology\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2493",
@@ -24927,7 +24927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pub\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2494",
@@ -24937,7 +24937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"public\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2495",
@@ -24947,7 +24947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"publicly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2496",
@@ -24957,7 +24957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"publish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2497",
@@ -24967,7 +24967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pull\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2498",
@@ -24977,7 +24977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pulse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2499",
@@ -24987,7 +24987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pump\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2500",
@@ -24997,7 +24997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"punctual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2501",
@@ -25007,7 +25007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"punctuate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2502",
@@ -25017,7 +25017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"punctuation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2503",
@@ -25027,7 +25027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"punish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2504",
@@ -25037,7 +25037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"punishment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2505",
@@ -25047,7 +25047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pupil\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2506",
@@ -25057,7 +25057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"purchase\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2507",
@@ -25067,7 +25067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2508",
@@ -25077,7 +25077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"purple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2509",
@@ -25087,7 +25087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"purpose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2510",
@@ -25097,7 +25097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"purse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2511",
@@ -25107,7 +25107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"push\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2512",
@@ -25117,7 +25117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"put\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "gaokao-full-2513",
@@ -25127,7 +25127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"puzzle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2514",
@@ -25137,7 +25137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"puzzled\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2515",
@@ -25147,7 +25147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"pyramid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "P",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2516",
@@ -25157,7 +25157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2517",
@@ -25167,7 +25167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"qualification\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2518",
@@ -25177,7 +25177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quality\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2519",
@@ -25187,7 +25187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quantity\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2520",
@@ -25197,7 +25197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quarrel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2521",
@@ -25207,7 +25207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quarter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2522",
@@ -25217,7 +25217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"queen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2523",
@@ -25227,7 +25227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"question\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2524",
@@ -25237,7 +25237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"questionnaire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2525",
@@ -25247,7 +25247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"queue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2526",
@@ -25257,7 +25257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-2527",
@@ -25267,7 +25267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quiet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2528",
@@ -25277,7 +25277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quilt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2529",
@@ -25287,7 +25287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2530",
@@ -25297,7 +25297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2531",
@@ -25307,7 +25307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"quiz\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Q",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2532",
@@ -25317,7 +25317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rabbit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2533",
@@ -25327,7 +25327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"race\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2534",
@@ -25337,7 +25337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"racial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2535",
@@ -25347,7 +25347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"radiation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2536",
@@ -25357,7 +25357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"radio\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2537",
@@ -25367,7 +25367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"radioactive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2538",
@@ -25377,7 +25377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"radium\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2539",
@@ -25387,7 +25387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2540",
@@ -25397,7 +25397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2541",
@@ -25407,7 +25407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"railway\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2542",
@@ -25417,7 +25417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2543",
@@ -25427,7 +25427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rainbow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2544",
@@ -25437,7 +25437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"raincoat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2545",
@@ -25447,7 +25447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rainfall\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2546",
@@ -25457,7 +25457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rainy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2547",
@@ -25467,7 +25467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"raise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2548",
@@ -25477,7 +25477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"random\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2549",
@@ -25487,7 +25487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"range\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2550",
@@ -25497,7 +25497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rank\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2551",
@@ -25507,7 +25507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rapid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2552",
@@ -25517,7 +25517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2553",
@@ -25527,7 +25527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2554",
@@ -25537,7 +25537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2555",
@@ -25547,7 +25547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rather\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2556",
@@ -25557,7 +25557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"raw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2557",
@@ -25567,7 +25567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ray\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2558",
@@ -25577,7 +25577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"razor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2559",
@@ -25587,7 +25587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2560",
@@ -25597,7 +25597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"react\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2561",
@@ -25607,7 +25607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"read\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, adj, n"
   },
   {
     "id": "gaokao-full-2562",
@@ -25617,7 +25617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reading\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2563",
@@ -25627,7 +25627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ready\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2564",
@@ -25637,7 +25637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"real\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-2565",
@@ -25647,7 +25647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"realise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2566",
@@ -25657,7 +25657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reality\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2567",
@@ -25667,7 +25667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reason\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2568",
@@ -25677,7 +25677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reasonable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2569",
@@ -25687,7 +25687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rebuild\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2570",
@@ -25697,7 +25697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"receipt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2571",
@@ -25707,7 +25707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"receive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2572",
@@ -25717,7 +25717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"receiver\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2573",
@@ -25727,7 +25727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2574",
@@ -25737,7 +25737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reception\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2575",
@@ -25747,7 +25747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"receptionist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2576",
@@ -25757,7 +25757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recipe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2577",
@@ -25767,7 +25767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2578",
@@ -25777,7 +25777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recognise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2579",
@@ -25787,7 +25787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recommend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2580",
@@ -25797,7 +25797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"record\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2581",
@@ -25807,7 +25807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recorder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2582",
@@ -25817,7 +25817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recover\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2583",
@@ -25827,7 +25827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recreation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2584",
@@ -25837,7 +25837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rectangle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2585",
@@ -25847,7 +25847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"recycle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2586",
@@ -25857,7 +25857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"red\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2587",
@@ -25867,7 +25867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"redirect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2588",
@@ -25877,7 +25877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reduce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2589",
@@ -25887,7 +25887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"refer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2590",
@@ -25897,7 +25897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"referee\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2591",
@@ -25907,7 +25907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reference\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2592",
@@ -25917,7 +25917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reflect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2593",
@@ -25927,7 +25927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reform\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2594",
@@ -25937,7 +25937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"refresh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2595",
@@ -25947,7 +25947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"refreshments\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2596",
@@ -25957,7 +25957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"refrigerator\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2597",
@@ -25967,7 +25967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"refusal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2598",
@@ -25977,7 +25977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"refuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "gaokao-full-2599",
@@ -25987,7 +25987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"regard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2600",
@@ -25997,7 +25997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"regardless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2601",
@@ -26007,7 +26007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"regards\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2602",
@@ -26017,7 +26017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"register\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2603",
@@ -26027,7 +26027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"regret\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2604",
@@ -26037,7 +26037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"regular\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-2605",
@@ -26047,7 +26047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"regulation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2606",
@@ -26057,7 +26057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reject\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2607",
@@ -26067,7 +26067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2608",
@@ -26077,7 +26077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2609",
@@ -26087,7 +26087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relationship\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2610",
@@ -26097,7 +26097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relative\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2611",
@@ -26107,7 +26107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relax\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2612",
@@ -26117,7 +26117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2613",
@@ -26127,7 +26127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relevant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2614",
@@ -26137,7 +26137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reliable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2615",
@@ -26147,7 +26147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"relief\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2616",
@@ -26157,7 +26157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"religion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2617",
@@ -26167,7 +26167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"religious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2618",
@@ -26177,7 +26177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2619",
@@ -26187,7 +26187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"remain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2620",
@@ -26197,7 +26197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"remark\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2621",
@@ -26207,7 +26207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"remember\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2622",
@@ -26217,7 +26217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"remind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2623",
@@ -26227,7 +26227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"remote\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2624",
@@ -26237,7 +26237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"remove\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2625",
@@ -26247,7 +26247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2626",
@@ -26257,7 +26257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"repair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2627",
@@ -26267,7 +26267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"repairs\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2628",
@@ -26277,7 +26277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"repeat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2629",
@@ -26287,7 +26287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"replace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2630",
@@ -26297,7 +26297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reply\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2631",
@@ -26307,7 +26307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"report\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2632",
@@ -26317,7 +26317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reporter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2633",
@@ -26327,7 +26327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"represent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2634",
@@ -26337,7 +26337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"representative\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2635",
@@ -26347,7 +26347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"republic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2636",
@@ -26357,7 +26357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reputation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2637",
@@ -26367,7 +26367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"request\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2638",
@@ -26377,7 +26377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"require\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2639",
@@ -26387,7 +26387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"requirement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2640",
@@ -26397,7 +26397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rescue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2641",
@@ -26407,7 +26407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"research\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2642",
@@ -26417,7 +26417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"resemble\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2643",
@@ -26427,7 +26427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reservation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2644",
@@ -26437,7 +26437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reserve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2645",
@@ -26447,7 +26447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"resign\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2646",
@@ -26457,7 +26457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"resist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2647",
@@ -26467,7 +26467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"respect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2648",
@@ -26477,7 +26477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"respond\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2649",
@@ -26487,7 +26487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"responsibility\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2650",
@@ -26497,7 +26497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2651",
@@ -26507,7 +26507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"restaurant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2652",
@@ -26517,7 +26517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"restrict\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2653",
@@ -26527,7 +26527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"restriction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2654",
@@ -26537,7 +26537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"result\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2655",
@@ -26547,7 +26547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"retell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2656",
@@ -26557,7 +26557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"retire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2657",
@@ -26567,7 +26567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"return\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2658",
@@ -26577,7 +26577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reuse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2659",
@@ -26587,7 +26587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"review\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2660",
@@ -26597,7 +26597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reviewer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2661",
@@ -26607,7 +26607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"revision\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2662",
@@ -26617,7 +26617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"revolution\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2663",
@@ -26627,7 +26627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"reward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2664",
@@ -26637,7 +26637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rewind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2665",
@@ -26647,7 +26647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rewrite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2666",
@@ -26657,7 +26657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rhyme\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2667",
@@ -26667,7 +26667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2668",
@@ -26677,7 +26677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rich\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2669",
@@ -26687,7 +26687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2670",
@@ -26697,7 +26697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"riddle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2671",
@@ -26707,7 +26707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ride\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2672",
@@ -26717,7 +26717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ridiculous\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2673",
@@ -26727,7 +26727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"right\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2674",
@@ -26737,7 +26737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rigid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2675",
@@ -26747,7 +26747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ring\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2676",
@@ -26757,7 +26757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ripe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2677",
@@ -26767,7 +26767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ripen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2678",
@@ -26777,7 +26777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2679",
@@ -26787,7 +26787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"risk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2680",
@@ -26797,7 +26797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"river\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2681",
@@ -26807,7 +26807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"road\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2682",
@@ -26817,7 +26817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"roast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2683",
@@ -26827,7 +26827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rob\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2684",
@@ -26837,7 +26837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"robot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2685",
@@ -26847,7 +26847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2686",
@@ -26857,7 +26857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rocket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2687",
@@ -26867,7 +26867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"role\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2688",
@@ -26877,7 +26877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"roll\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2689",
@@ -26887,7 +26887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"roller\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2690",
@@ -26897,7 +26897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"roof\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2691",
@@ -26907,7 +26907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"room\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2692",
@@ -26917,7 +26917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rooster\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2693",
@@ -26927,7 +26927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"root\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2694",
@@ -26937,7 +26937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rope\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2695",
@@ -26947,7 +26947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2696",
@@ -26957,7 +26957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2697",
@@ -26967,7 +26967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rough\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2698",
@@ -26977,7 +26977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"round\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj, prep"
   },
   {
     "id": "gaokao-full-2699",
@@ -26987,7 +26987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"roundabout\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2700",
@@ -26997,7 +26997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"routine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2701",
@@ -27007,7 +27007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"row\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2702",
@@ -27017,7 +27017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"royal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2703",
@@ -27027,7 +27027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rubber\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2704",
@@ -27037,7 +27037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rubbish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2705",
@@ -27047,7 +27047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rude\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2706",
@@ -27057,7 +27057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rugby\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2707",
@@ -27067,7 +27067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ruin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2708",
@@ -27077,7 +27077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rule\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2709",
@@ -27087,7 +27087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ruler\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2710",
@@ -27097,7 +27097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"run\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2711",
@@ -27107,7 +27107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"runner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2712",
@@ -27117,7 +27117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"running\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2713",
@@ -27127,7 +27127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"rush\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2714",
@@ -27137,7 +27137,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Russia in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2715",
@@ -27147,7 +27147,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Russian in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "R",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2716",
@@ -27157,7 +27157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sacred\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2717",
@@ -27167,7 +27167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sacrifice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2718",
@@ -27177,7 +27177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sad\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2719",
@@ -27187,7 +27187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sadness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2720",
@@ -27197,7 +27197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"safe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2721",
@@ -27207,7 +27207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"safety\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2722",
@@ -27217,7 +27217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2723",
@@ -27227,7 +27227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sailing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2724",
@@ -27237,7 +27237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sailor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2725",
@@ -27247,7 +27247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salad\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2726",
@@ -27257,7 +27257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2727",
@@ -27267,7 +27267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sale\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2728",
@@ -27277,7 +27277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salesgirl\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2729",
@@ -27287,7 +27287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salesman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2730",
@@ -27297,7 +27297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"saleswoman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2731",
@@ -27307,7 +27307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2732",
@@ -27317,7 +27317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2733",
@@ -27327,7 +27327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"salute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2734",
@@ -27337,7 +27337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"same\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, pron, adv"
   },
   {
     "id": "gaokao-full-2735",
@@ -27347,7 +27347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2736",
@@ -27357,7 +27357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sandwich\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2737",
@@ -27367,7 +27367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"satellite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2738",
@@ -27377,7 +27377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"satisfaction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2739",
@@ -27387,7 +27387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"satisfy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2740",
@@ -27397,7 +27397,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Saturday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2741",
@@ -27407,7 +27407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sauce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2742",
@@ -27417,7 +27417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"saucer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2743",
@@ -27427,7 +27427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sausage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2744",
@@ -27437,7 +27437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"savage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-2745",
@@ -27447,7 +27447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"save\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, prep"
   },
   {
     "id": "gaokao-full-2746",
@@ -27457,7 +27457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"say\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2747",
@@ -27467,7 +27467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"saying\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2748",
@@ -27477,7 +27477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scan\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2749",
@@ -27487,7 +27487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2750",
@@ -27497,7 +27497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2751",
@@ -27507,7 +27507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scarf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2752",
@@ -27517,7 +27517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scene\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2753",
@@ -27527,7 +27527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scenery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2754",
@@ -27537,7 +27537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sceptical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2755",
@@ -27547,7 +27547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"schedule\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2756",
@@ -27557,7 +27557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scholar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2757",
@@ -27567,7 +27567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scholarship\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2758",
@@ -27577,7 +27577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"school\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2759",
@@ -27587,7 +27587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"schoolbag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2760",
@@ -27597,7 +27597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"schoolmate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2761",
@@ -27607,7 +27607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"science\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2762",
@@ -27617,7 +27617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scientific\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2763",
@@ -27627,7 +27627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scientist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2764",
@@ -27637,7 +27637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scissors\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2765",
@@ -27647,7 +27647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scold\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2766",
@@ -27657,7 +27657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"score\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2767",
@@ -27667,7 +27667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scores\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2768",
@@ -27677,7 +27677,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Scotland in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2769",
@@ -27687,7 +27687,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Scottish in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2770",
@@ -27697,7 +27697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scratch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2771",
@@ -27707,7 +27707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"scream\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2772",
@@ -27717,7 +27717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"screen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2773",
@@ -27727,7 +27727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sculpture\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2774",
@@ -27737,7 +27737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sea\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2775",
@@ -27747,7 +27747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seagull\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2776",
@@ -27757,7 +27757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2777",
@@ -27767,7 +27767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seaman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2778",
@@ -27777,7 +27777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"search\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2779",
@@ -27787,7 +27787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seashell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2780",
@@ -27797,7 +27797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seaside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2781",
@@ -27807,7 +27807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"season\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2782",
@@ -27817,7 +27817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2783",
@@ -27827,7 +27827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seaweed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2784",
@@ -27837,7 +27837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"second\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, num"
   },
   {
     "id": "gaokao-full-2785",
@@ -27847,7 +27847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"secondhand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2786",
@@ -27857,7 +27857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"secret\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2787",
@@ -27867,7 +27867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"secretary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2788",
@@ -27877,7 +27877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"section\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2789",
@@ -27887,7 +27887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"secure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-2790",
@@ -27897,7 +27897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"security\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2791",
@@ -27907,7 +27907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"see\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2792",
@@ -27917,7 +27917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2793",
@@ -27927,7 +27927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seek\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2794",
@@ -27937,7 +27937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seem\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2795",
@@ -27947,7 +27947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seize\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2796",
@@ -27957,7 +27957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seldom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-2797",
@@ -27967,7 +27967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"select\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-2798",
@@ -27977,7 +27977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"self\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2799",
@@ -27987,7 +27987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"selfish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2800",
@@ -27997,7 +27997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2801",
@@ -28007,7 +28007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"semicircle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2802",
@@ -28017,7 +28017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"send\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2803",
@@ -28027,7 +28027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"senior\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2804",
@@ -28037,7 +28037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sense\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2805",
@@ -28047,7 +28047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sensitive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2806",
@@ -28057,7 +28057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sentence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2807",
@@ -28067,7 +28067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"separate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2808",
@@ -28077,7 +28077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"separately\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2809",
@@ -28087,7 +28087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"separation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2810",
@@ -28097,7 +28097,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about September in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2811",
@@ -28107,7 +28107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"serious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2812",
@@ -28117,7 +28117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"servant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2813",
@@ -28127,7 +28127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"serve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2814",
@@ -28137,7 +28137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"service\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2815",
@@ -28147,7 +28147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"session\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2816",
@@ -28157,7 +28157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"set\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2817",
@@ -28167,7 +28167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"settle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2818",
@@ -28177,7 +28177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"settlement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2819",
@@ -28187,7 +28187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"settler\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2820",
@@ -28197,7 +28197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seven\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2821",
@@ -28207,7 +28207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seventeen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2822",
@@ -28217,7 +28217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seventh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2823",
@@ -28227,7 +28227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"seventy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2824",
@@ -28237,7 +28237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"several\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, pron"
   },
   {
     "id": "gaokao-full-2825",
@@ -28247,7 +28247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"severe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2826",
@@ -28257,7 +28257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sew\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2827",
@@ -28267,7 +28267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sex\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2828",
@@ -28277,7 +28277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shabby\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2829",
@@ -28287,7 +28287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2830",
@@ -28297,7 +28297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shadow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2831",
@@ -28307,7 +28307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2832",
@@ -28317,7 +28317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shall\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2833",
@@ -28327,7 +28327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shallow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2834",
@@ -28337,7 +28337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shame\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2835",
@@ -28347,7 +28347,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Shanghai in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2836",
@@ -28357,7 +28357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shape\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2837",
@@ -28367,7 +28367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"share\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2838",
@@ -28377,7 +28377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shark\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2839",
@@ -28387,7 +28387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sharp\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2840",
@@ -28397,7 +28397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sharpen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2841",
@@ -28407,7 +28407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sharpener\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2842",
@@ -28417,7 +28417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2843",
@@ -28427,7 +28427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shaver\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2844",
@@ -28437,7 +28437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"she\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2845",
@@ -28447,7 +28447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sheep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2846",
@@ -28457,7 +28457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sheet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2847",
@@ -28467,7 +28467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shelf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2848",
@@ -28477,7 +28477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shelter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2849",
@@ -28487,7 +28487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2850",
@@ -28497,7 +28497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ship\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2851",
@@ -28507,7 +28507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shirt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2852",
@@ -28517,7 +28517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2853",
@@ -28527,7 +28527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shoe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2854",
@@ -28537,7 +28537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shoot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2855",
@@ -28547,7 +28547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shooting\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2856",
@@ -28557,7 +28557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2857",
@@ -28567,7 +28567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shopkeeper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2858",
@@ -28577,7 +28577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shopping\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2859",
@@ -28587,7 +28587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2860",
@@ -28597,7 +28597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"short\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-2861",
@@ -28607,7 +28607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shortcoming\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2862",
@@ -28617,7 +28617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shortly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2863",
@@ -28627,7 +28627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shorts\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2864",
@@ -28637,7 +28637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2865",
@@ -28647,7 +28647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"should\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2866",
@@ -28657,7 +28657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shoulder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2867",
@@ -28667,7 +28667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shout\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2868",
@@ -28677,7 +28677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"show\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2869",
@@ -28687,7 +28687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shower\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2870",
@@ -28697,7 +28697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shrink\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2871",
@@ -28707,7 +28707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shut\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2872",
@@ -28717,7 +28717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"shuttle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2873",
@@ -28727,7 +28727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2874",
@@ -28737,7 +28737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sickness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2875",
@@ -28747,7 +28747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"side\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2876",
@@ -28757,7 +28757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sideway\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2877",
@@ -28767,7 +28767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sideways\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv, adj"
   },
   {
     "id": "gaokao-full-2878",
@@ -28777,7 +28777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sigh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2879",
@@ -28787,7 +28787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2880",
@@ -28797,7 +28797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sightseeing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2881",
@@ -28807,7 +28807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sign\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2882",
@@ -28817,7 +28817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"signal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2883",
@@ -28827,7 +28827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"signature\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2884",
@@ -28837,7 +28837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"significance\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2885",
@@ -28847,7 +28847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"silence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2886",
@@ -28857,7 +28857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"silent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2887",
@@ -28867,7 +28867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"silk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2888",
@@ -28877,7 +28877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"silly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2889",
@@ -28887,7 +28887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"silver\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2890",
@@ -28897,7 +28897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"similar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2891",
@@ -28907,7 +28907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"simple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2892",
@@ -28917,7 +28917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"simplify\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-2893",
@@ -28927,7 +28927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"simply\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2894",
@@ -28937,7 +28937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"since\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "prep, adv, conj"
   },
   {
     "id": "gaokao-full-2895",
@@ -28947,7 +28947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sincerely\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2896",
@@ -28957,7 +28957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2897",
@@ -28967,7 +28967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"singer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2898",
@@ -28977,7 +28977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"single\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "gaokao-full-2899",
@@ -28987,7 +28987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sink\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2900",
@@ -28997,7 +28997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sir\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2901",
@@ -29007,7 +29007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sister\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2902",
@@ -29017,7 +29017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2903",
@@ -29027,7 +29027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"situation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2904",
@@ -29037,7 +29037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"six\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2905",
@@ -29047,7 +29047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sixteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2906",
@@ -29057,7 +29057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sixteenth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2907",
@@ -29067,7 +29067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sixth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2908",
@@ -29077,7 +29077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sixty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-2909",
@@ -29087,7 +29087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"size\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2910",
@@ -29097,7 +29097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2911",
@@ -29107,7 +29107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skateboard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2912",
@@ -29117,7 +29117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ski\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2913",
@@ -29127,7 +29127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2914",
@@ -29137,7 +29137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skilled\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2915",
@@ -29147,7 +29147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skillful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2916",
@@ -29157,7 +29157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skillfully\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2917",
@@ -29167,7 +29167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2918",
@@ -29177,7 +29177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2919",
@@ -29187,7 +29187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skipping\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2920",
@@ -29197,7 +29197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skirt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2921",
@@ -29207,7 +29207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sky\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2922",
@@ -29217,7 +29217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"skyscraper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2923",
@@ -29227,7 +29227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2924",
@@ -29237,7 +29237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slavery\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2925",
@@ -29247,7 +29247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sleep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2926",
@@ -29257,7 +29257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sleepy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2927",
@@ -29267,7 +29267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sleeve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2928",
@@ -29277,7 +29277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2929",
@@ -29287,7 +29287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2930",
@@ -29297,7 +29297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2931",
@@ -29307,7 +29307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slim\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-2932",
@@ -29317,7 +29317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-2933",
@@ -29327,7 +29327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"slow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv, v"
   },
   {
     "id": "gaokao-full-2934",
@@ -29337,7 +29337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"small\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-2935",
@@ -29347,7 +29347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smart\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n, v"
   },
   {
     "id": "gaokao-full-2936",
@@ -29357,7 +29357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2937",
@@ -29367,7 +29367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smelly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2938",
@@ -29377,7 +29377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2939",
@@ -29387,7 +29387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smog\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2940",
@@ -29397,7 +29397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smoke\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2941",
@@ -29407,7 +29407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smoker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2942",
@@ -29417,7 +29417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smoking\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2943",
@@ -29427,7 +29427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"smooth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-2944",
@@ -29437,7 +29437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snack\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2945",
@@ -29447,7 +29447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2946",
@@ -29457,7 +29457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snatch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2947",
@@ -29467,7 +29467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sneaker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2948",
@@ -29477,7 +29477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sneeze\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2949",
@@ -29487,7 +29487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sniff\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2950",
@@ -29497,7 +29497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2951",
@@ -29507,7 +29507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snowball\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2952",
@@ -29517,7 +29517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snowman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2953",
@@ -29527,7 +29527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"snowy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2954",
@@ -29537,7 +29537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"so\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv, conj, pron"
   },
   {
     "id": "gaokao-full-2955",
@@ -29547,7 +29547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2956",
@@ -29557,7 +29557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sob\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-2957",
@@ -29567,7 +29567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soccer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2958",
@@ -29577,7 +29577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"social\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-2959",
@@ -29587,7 +29587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"socialism\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2960",
@@ -29597,7 +29597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"socialist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2961",
@@ -29607,7 +29607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"society\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2962",
@@ -29617,7 +29617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sock\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adv"
   },
   {
     "id": "gaokao-full-2963",
@@ -29627,7 +29627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"socket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2964",
@@ -29637,7 +29637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sofa\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2965",
@@ -29647,7 +29647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soft\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-2966",
@@ -29657,7 +29657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"softball\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2967",
@@ -29667,7 +29667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"software\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2968",
@@ -29677,7 +29677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soil\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2969",
@@ -29687,7 +29687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"solar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2970",
@@ -29697,7 +29697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soldier\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2971",
@@ -29707,7 +29707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"solid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2972",
@@ -29717,7 +29717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"some\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "pron, adv, adj"
   },
   {
     "id": "gaokao-full-2973",
@@ -29727,7 +29727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"somebody\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, pron"
   },
   {
     "id": "gaokao-full-2974",
@@ -29737,7 +29737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"someone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2975",
@@ -29747,7 +29747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"something\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-2976",
@@ -29757,7 +29757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sometimes\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2977",
@@ -29767,7 +29767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"somewhere\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2978",
@@ -29777,7 +29777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"son\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2979",
@@ -29787,7 +29787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"song\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2980",
@@ -29797,7 +29797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-2981",
@@ -29807,7 +29807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sorrow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2982",
@@ -29817,7 +29817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sorry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-2983",
@@ -29827,7 +29827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sort\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2984",
@@ -29837,7 +29837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soul\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2985",
@@ -29847,7 +29847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sound\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2986",
@@ -29857,7 +29857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"soup\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2987",
@@ -29867,7 +29867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-2988",
@@ -29877,7 +29877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"south\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2989",
@@ -29887,7 +29887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"southeast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2990",
@@ -29897,7 +29897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"southern\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2991",
@@ -29907,7 +29907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"southwest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-2992",
@@ -29917,7 +29917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"souvenirs\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2993",
@@ -29927,7 +29927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2994",
@@ -29937,7 +29937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"space\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2995",
@@ -29947,7 +29947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spaceship\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-2996",
@@ -29957,7 +29957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-2997",
@@ -29967,7 +29967,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Spanish in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-2998",
@@ -29977,7 +29977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-2999",
@@ -29987,7 +29987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sparrow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3000",
@@ -29997,7 +29997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"speak\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3001",
@@ -30007,7 +30007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"speaker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3002",
@@ -30017,7 +30017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3003",
@@ -30027,7 +30027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"special\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3004",
@@ -30037,7 +30037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"specialist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3005",
@@ -30047,7 +30047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"specific\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3006",
@@ -30057,7 +30057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"speech\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3007",
@@ -30067,7 +30067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"speed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3008",
@@ -30077,7 +30077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3009",
@@ -30087,7 +30087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spelling\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3010",
@@ -30097,7 +30097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3011",
@@ -30107,7 +30107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3012",
@@ -30117,7 +30117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spirit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3013",
@@ -30127,7 +30127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spiritual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3014",
@@ -30137,7 +30137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3015",
@@ -30147,7 +30147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"splendid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3016",
@@ -30157,7 +30157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"split\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3017",
@@ -30167,7 +30167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spoken\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3018",
@@ -30177,7 +30177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sponsor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3019",
@@ -30187,7 +30187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spoon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3020",
@@ -30197,7 +30197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spoonful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3021",
@@ -30207,7 +30207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sport\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3022",
@@ -30217,7 +30217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3023",
@@ -30227,7 +30227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spray\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3024",
@@ -30237,7 +30237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spread\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3025",
@@ -30247,7 +30247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spring\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3026",
@@ -30257,7 +30257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"spy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3027",
@@ -30267,7 +30267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"square\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3028",
@@ -30277,7 +30277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"squeeze\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3029",
@@ -30287,7 +30287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"squid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3030",
@@ -30297,7 +30297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"squirrel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3031",
@@ -30307,7 +30307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3032",
@@ -30317,7 +30317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stadium\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3033",
@@ -30327,7 +30327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"staff\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3034",
@@ -30337,7 +30337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3035",
@@ -30347,7 +30347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3036",
@@ -30357,7 +30357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stainless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3037",
@@ -30367,7 +30367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3038",
@@ -30377,7 +30377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stamp\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3039",
@@ -30387,7 +30387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3040",
@@ -30397,7 +30397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"standard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3041",
@@ -30407,7 +30407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"star\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3042",
@@ -30417,7 +30417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3043",
@@ -30427,7 +30427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"start\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3044",
@@ -30437,7 +30437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"starvation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3045",
@@ -30447,7 +30447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"starve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3046",
@@ -30457,7 +30457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"state\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3047",
@@ -30467,7 +30467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"statement\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3048",
@@ -30477,7 +30477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"station\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3049",
@@ -30487,7 +30487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"statistics\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3050",
@@ -30497,7 +30497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"statue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3051",
@@ -30507,7 +30507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"status\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3052",
@@ -30517,7 +30517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stay\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3053",
@@ -30527,7 +30527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steady\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-3054",
@@ -30537,7 +30537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steak\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3055",
@@ -30547,7 +30547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3056",
@@ -30557,7 +30557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steam\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3057",
@@ -30567,7 +30567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3058",
@@ -30577,7 +30577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3059",
@@ -30587,7 +30587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"step\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3060",
@@ -30597,7 +30597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"steward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3061",
@@ -30607,7 +30607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stewardess\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3062",
@@ -30617,7 +30617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3063",
@@ -30627,7 +30627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"still\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3064",
@@ -30637,7 +30637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stocking\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3065",
@@ -30647,7 +30647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stomach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3066",
@@ -30657,7 +30657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stomachache\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3067",
@@ -30667,7 +30667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3068",
@@ -30677,7 +30677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3069",
@@ -30687,7 +30687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stopwatch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3070",
@@ -30697,7 +30697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"storage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3071",
@@ -30707,7 +30707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"store\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3072",
@@ -30717,7 +30717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"storm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3073",
@@ -30727,7 +30727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"story\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3074",
@@ -30737,7 +30737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stout\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3075",
@@ -30747,7 +30747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stove\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3076",
@@ -30757,7 +30757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"straight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3077",
@@ -30767,7 +30767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"straightforward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3078",
@@ -30777,7 +30777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strait\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3079",
@@ -30787,7 +30787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strange\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3080",
@@ -30797,7 +30797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stranger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3081",
@@ -30807,7 +30807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"straw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3082",
@@ -30817,7 +30817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strawberry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3083",
@@ -30827,7 +30827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stream\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3084",
@@ -30837,7 +30837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"street\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3085",
@@ -30847,7 +30847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strength\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3086",
@@ -30857,7 +30857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strengthen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3087",
@@ -30867,7 +30867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3088",
@@ -30877,7 +30877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strict\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3089",
@@ -30887,7 +30887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strike\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3090",
@@ -30897,7 +30897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"string\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3091",
@@ -30907,7 +30907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"strong\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3092",
@@ -30917,7 +30917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"struggle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3093",
@@ -30927,7 +30927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stubborn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3094",
@@ -30937,7 +30937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"student\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3095",
@@ -30947,7 +30947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"studio\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3096",
@@ -30957,7 +30957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"study\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3097",
@@ -30967,7 +30967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"stupid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3098",
@@ -30977,7 +30977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"style\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3099",
@@ -30987,7 +30987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"subject\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3100",
@@ -30997,7 +30997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"subjective\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3101",
@@ -31007,7 +31007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"submit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3102",
@@ -31017,7 +31017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"subscribe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3103",
@@ -31027,7 +31027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"substitute\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3104",
@@ -31037,7 +31037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"subtraction\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3105",
@@ -31047,7 +31047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"succeed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3106",
@@ -31057,7 +31057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"success\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3107",
@@ -31067,7 +31067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"successful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3108",
@@ -31077,7 +31077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"such\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3109",
@@ -31087,7 +31087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suck\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3110",
@@ -31097,7 +31097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sudden\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3111",
@@ -31107,7 +31107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suffer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3112",
@@ -31117,7 +31117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suffering\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3113",
@@ -31127,7 +31127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sugar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3114",
@@ -31137,7 +31137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suggest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3115",
@@ -31147,7 +31147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suggestion\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3116",
@@ -31157,7 +31157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3117",
@@ -31167,7 +31167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suitable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3118",
@@ -31177,7 +31177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suitcase\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3119",
@@ -31187,7 +31187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3120",
@@ -31197,7 +31197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"summary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3121",
@@ -31207,7 +31207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"summer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3122",
@@ -31217,7 +31217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sun\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3123",
@@ -31227,7 +31227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunburnt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3124",
@@ -31237,7 +31237,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Sunday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3125",
@@ -31247,7 +31247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunglasses\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3126",
@@ -31257,7 +31257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunlight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3127",
@@ -31267,7 +31267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunny\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3128",
@@ -31277,7 +31277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunrise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3129",
@@ -31287,7 +31287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunset\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3130",
@@ -31297,7 +31297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sunshine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3131",
@@ -31307,7 +31307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"super\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3132",
@@ -31317,7 +31317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"superb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3133",
@@ -31327,7 +31327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"superior\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3134",
@@ -31337,7 +31337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"superman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3135",
@@ -31347,7 +31347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"supermarket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3136",
@@ -31357,7 +31357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"supper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3137",
@@ -31367,7 +31367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"supply\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3138",
@@ -31377,7 +31377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"support\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3139",
@@ -31387,7 +31387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suppose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3140",
@@ -31397,7 +31397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"supreme\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3141",
@@ -31407,7 +31407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3142",
@@ -31417,7 +31417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"surface\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3143",
@@ -31427,7 +31427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"surgeon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3144",
@@ -31437,7 +31437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"surplus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3145",
@@ -31447,7 +31447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"surprise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3146",
@@ -31457,7 +31457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"surround\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3147",
@@ -31467,7 +31467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"surrounding\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3148",
@@ -31477,7 +31477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"survival\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3149",
@@ -31487,7 +31487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"survive\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3150",
@@ -31497,7 +31497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suspect\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3151",
@@ -31507,7 +31507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"suspension\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3152",
@@ -31517,7 +31517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swallow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3153",
@@ -31527,7 +31527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3154",
@@ -31537,7 +31537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3155",
@@ -31547,7 +31547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sweat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3156",
@@ -31557,7 +31557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sweater\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3157",
@@ -31567,7 +31567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sweep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3158",
@@ -31577,7 +31577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sweet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3159",
@@ -31587,7 +31587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3160",
@@ -31597,7 +31597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swift\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3161",
@@ -31607,7 +31607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swim\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3162",
@@ -31617,7 +31617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swimming\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3163",
@@ -31627,7 +31627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"swing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3164",
@@ -31637,7 +31637,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Swiss in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3165",
@@ -31647,7 +31647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"switch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3166",
@@ -31657,7 +31657,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Switzerland in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3167",
@@ -31667,7 +31667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sword\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3168",
@@ -31677,7 +31677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"symbol\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3169",
@@ -31687,7 +31687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"sympathy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3170",
@@ -31697,7 +31697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"symphony\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3171",
@@ -31707,7 +31707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"symptom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3172",
@@ -31717,7 +31717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"system\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3173",
@@ -31727,7 +31727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"systematic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "S",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3174",
@@ -31737,7 +31737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"table\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3175",
@@ -31747,7 +31747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tail\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3176",
@@ -31757,7 +31757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tailor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3177",
@@ -31767,7 +31767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"take\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3178",
@@ -31777,7 +31777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tale\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3179",
@@ -31787,7 +31787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"talent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3180",
@@ -31797,7 +31797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"talk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3181",
@@ -31807,7 +31807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tall\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3182",
@@ -31817,7 +31817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tank\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3183",
@@ -31827,7 +31827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tanker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3184",
@@ -31837,7 +31837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3185",
@@ -31847,7 +31847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tape\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3186",
@@ -31857,7 +31857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"target\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3187",
@@ -31867,7 +31867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"task\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3188",
@@ -31877,7 +31877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"taste\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3189",
@@ -31887,7 +31887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tasteless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3190",
@@ -31897,7 +31897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tasty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3191",
@@ -31907,7 +31907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tax\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3192",
@@ -31917,7 +31917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"taxi\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3193",
@@ -31927,7 +31927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tea\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3194",
@@ -31937,7 +31937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"teach\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3195",
@@ -31947,7 +31947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"teacher\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3196",
@@ -31957,7 +31957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"team\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3197",
@@ -31967,7 +31967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"teamwork\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3198",
@@ -31977,7 +31977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"teapot\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3199",
@@ -31987,7 +31987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3200",
@@ -31997,7 +31997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tease\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3201",
@@ -32007,7 +32007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"technical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3202",
@@ -32017,7 +32017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"technique\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3203",
@@ -32027,7 +32027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"technology\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3204",
@@ -32037,7 +32037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"teenager\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3205",
@@ -32047,7 +32047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"telegram\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3206",
@@ -32057,7 +32057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"telegraph\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3207",
@@ -32067,7 +32067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"telephone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3208",
@@ -32077,7 +32077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"telescope\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3209",
@@ -32087,7 +32087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"television\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3210",
@@ -32097,7 +32097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3211",
@@ -32107,7 +32107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"temperature\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3212",
@@ -32117,7 +32117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"temple\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3213",
@@ -32127,7 +32127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"temporary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3214",
@@ -32137,7 +32137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"temptation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3215",
@@ -32147,7 +32147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ten\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3216",
@@ -32157,7 +32157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3217",
@@ -32167,7 +32167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tendency\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3218",
@@ -32177,7 +32177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tennis\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3219",
@@ -32187,7 +32187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tense\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-3220",
@@ -32197,7 +32197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tension\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3221",
@@ -32207,7 +32207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3222",
@@ -32217,7 +32217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tentative\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3223",
@@ -32227,7 +32227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"term\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3224",
@@ -32237,7 +32237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"terminal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3225",
@@ -32247,7 +32247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"terrible\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3226",
@@ -32257,7 +32257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"terrify\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3227",
@@ -32267,7 +32267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"terror\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3228",
@@ -32277,7 +32277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"test\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3229",
@@ -32287,7 +32287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"text\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3230",
@@ -32297,7 +32297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"textbook\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3231",
@@ -32307,7 +32307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"than\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "conj, prep"
   },
   {
     "id": "gaokao-full-3232",
@@ -32317,7 +32317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thank\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3233",
@@ -32327,7 +32327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thankful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3234",
@@ -32337,7 +32337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"that\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, conj, pron"
   },
   {
     "id": "gaokao-full-3235",
@@ -32347,7 +32347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"the\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "det"
   },
   {
     "id": "gaokao-full-3236",
@@ -32357,7 +32357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"theatre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3237",
@@ -32367,7 +32367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"theft\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3238",
@@ -32377,7 +32377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"their\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3239",
@@ -32387,7 +32387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"theirs\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3240",
@@ -32397,7 +32397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"them\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3241",
@@ -32407,7 +32407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"theme\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3242",
@@ -32417,7 +32417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"themselves\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3243",
@@ -32427,7 +32427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"then\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv, conj, n"
   },
   {
     "id": "gaokao-full-3244",
@@ -32437,7 +32437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"theoretical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3245",
@@ -32447,7 +32447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"theory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3246",
@@ -32457,7 +32457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"there\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3247",
@@ -32467,7 +32467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"therefore\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3248",
@@ -32477,7 +32477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thermos\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3249",
@@ -32487,7 +32487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"these\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3250",
@@ -32497,7 +32497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"they\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3251",
@@ -32507,7 +32507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-3252",
@@ -32517,7 +32517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thief\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3253",
@@ -32527,7 +32527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, v, adv"
   },
   {
     "id": "gaokao-full-3254",
@@ -32537,7 +32537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3255",
@@ -32547,7 +32547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"think\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v, n, adj"
   },
   {
     "id": "gaokao-full-3256",
@@ -32557,7 +32557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thinking\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3257",
@@ -32567,7 +32567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"third\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3258",
@@ -32577,7 +32577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thirst\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3259",
@@ -32587,7 +32587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thirsty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3260",
@@ -32597,7 +32597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thirteen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3261",
@@ -32607,7 +32607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thirty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3262",
@@ -32617,7 +32617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"this\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron, adj, adv"
   },
   {
     "id": "gaokao-full-3263",
@@ -32627,7 +32627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thorough\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3264",
@@ -32637,7 +32637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"those\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3265",
@@ -32647,7 +32647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"though\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv, conj"
   },
   {
     "id": "gaokao-full-3266",
@@ -32657,7 +32657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thought\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3267",
@@ -32667,7 +32667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thousand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num, adj, n"
   },
   {
     "id": "gaokao-full-3268",
@@ -32677,7 +32677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thread\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3269",
@@ -32687,7 +32687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"three\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3270",
@@ -32697,7 +32697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thrill\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3271",
@@ -32707,7 +32707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thriller\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3272",
@@ -32717,7 +32717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"throat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3273",
@@ -32727,7 +32727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"through\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv, prep, adj"
   },
   {
     "id": "gaokao-full-3274",
@@ -32737,7 +32737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"throughout\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv, prep"
   },
   {
     "id": "gaokao-full-3275",
@@ -32747,7 +32747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"throw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3276",
@@ -32757,7 +32757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thunder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3277",
@@ -32767,7 +32767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thunderstorm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3278",
@@ -32777,7 +32777,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Thursday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3279",
@@ -32787,7 +32787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"thus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3280",
@@ -32797,7 +32797,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Tibet in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3281",
@@ -32807,7 +32807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3282",
@@ -32817,7 +32817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ticket\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3283",
@@ -32827,7 +32827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tidy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3284",
@@ -32837,7 +32837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tie\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3285",
@@ -32847,7 +32847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tiger\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3286",
@@ -32857,7 +32857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3287",
@@ -32867,7 +32867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"till\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "prep, conj, v"
   },
   {
     "id": "gaokao-full-3288",
@@ -32877,7 +32877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"time\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3289",
@@ -32887,7 +32887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"timetable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3290",
@@ -32897,7 +32897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3291",
@@ -32907,7 +32907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tiny\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3292",
@@ -32917,7 +32917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3293",
@@ -32927,7 +32927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3294",
@@ -32937,7 +32937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tired\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3295",
@@ -32947,7 +32947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tissue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3296",
@@ -32957,7 +32957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"title\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3297",
@@ -32967,7 +32967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"to\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "prep, adv"
   },
   {
     "id": "gaokao-full-3298",
@@ -32977,7 +32977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3299",
@@ -32987,7 +32987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tobacco\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3300",
@@ -32997,7 +32997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"today\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-3301",
@@ -33007,7 +33007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"together\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3302",
@@ -33017,7 +33017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toilet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3303",
@@ -33027,7 +33027,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Tokyo in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3304",
@@ -33037,7 +33037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tolerate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3305",
@@ -33047,7 +33047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tomato\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3306",
@@ -33057,7 +33057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tomb\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3307",
@@ -33067,7 +33067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tomorrow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-3308",
@@ -33077,7 +33077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ton\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3309",
@@ -33087,7 +33087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tongue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3310",
@@ -33097,7 +33097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tonight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-3311",
@@ -33107,7 +33107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"too\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3312",
@@ -33117,7 +33117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tool\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3313",
@@ -33127,7 +33127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tooth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3314",
@@ -33137,7 +33137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toothache\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3315",
@@ -33147,7 +33147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toothbrush\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3316",
@@ -33157,7 +33157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toothpaste\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3317",
@@ -33167,7 +33167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"top\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3318",
@@ -33177,7 +33177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"topic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3319",
@@ -33187,7 +33187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tortoise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3320",
@@ -33197,7 +33197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"total\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-3321",
@@ -33207,7 +33207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"totally\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3322",
@@ -33217,7 +33217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"touch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3323",
@@ -33227,7 +33227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tough\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3324",
@@ -33237,7 +33237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tour\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3325",
@@ -33247,7 +33247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tourism\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3326",
@@ -33257,7 +33257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tourist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3327",
@@ -33267,7 +33267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tournament\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3328",
@@ -33277,7 +33277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "prep, adj"
   },
   {
     "id": "gaokao-full-3329",
@@ -33287,7 +33287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"towel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3330",
@@ -33297,7 +33297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tower\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3331",
@@ -33307,7 +33307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"town\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3332",
@@ -33317,7 +33317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"toy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3333",
@@ -33327,7 +33327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"track\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3334",
@@ -33337,7 +33337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tractor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3335",
@@ -33347,7 +33347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trade\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3336",
@@ -33357,7 +33357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tradition\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3337",
@@ -33367,7 +33367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"traditional\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3338",
@@ -33377,7 +33377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"traffic\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3339",
@@ -33387,7 +33387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"train\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3340",
@@ -33397,7 +33397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trainer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3341",
@@ -33407,7 +33407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"training\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3342",
@@ -33417,7 +33417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tram\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3343",
@@ -33427,7 +33427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"transform\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3344",
@@ -33437,7 +33437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"translate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3345",
@@ -33447,7 +33447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"translation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3346",
@@ -33457,7 +33457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"translator\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3347",
@@ -33467,7 +33467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"transparent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3348",
@@ -33477,7 +33477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"transport\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3349",
@@ -33487,7 +33487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trap\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3350",
@@ -33497,7 +33497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"travel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3351",
@@ -33507,7 +33507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"traveler\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3352",
@@ -33517,7 +33517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"treasure\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3353",
@@ -33527,7 +33527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"treat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3354",
@@ -33537,7 +33537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"treatment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3355",
@@ -33547,7 +33547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tree\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3356",
@@ -33557,7 +33557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tremble\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3357",
@@ -33567,7 +33567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3358",
@@ -33577,7 +33577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trial\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3359",
@@ -33587,7 +33587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"triangle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3360",
@@ -33597,7 +33597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trick\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3361",
@@ -33607,7 +33607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3362",
@@ -33617,7 +33617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"troop\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3363",
@@ -33627,7 +33627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trouble\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3364",
@@ -33637,7 +33637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"troublesome\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3365",
@@ -33647,7 +33647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trousers\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3366",
@@ -33657,7 +33657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"truck\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3367",
@@ -33667,7 +33667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"true\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj, n, adv"
   },
   {
     "id": "gaokao-full-3368",
@@ -33677,7 +33677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"truly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3369",
@@ -33687,7 +33687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trunk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3370",
@@ -33697,7 +33697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"trust\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3371",
@@ -33707,7 +33707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"truth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3372",
@@ -33717,7 +33717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"try\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3373",
@@ -33727,7 +33727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tube\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3374",
@@ -33737,7 +33737,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Tuesday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3375",
@@ -33747,7 +33747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tune\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3376",
@@ -33757,7 +33757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"turkey\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3377",
@@ -33767,7 +33767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"turn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3378",
@@ -33777,7 +33777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tutor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3379",
@@ -33787,7 +33787,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about TV in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3380",
@@ -33797,7 +33797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twelfth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3381",
@@ -33807,7 +33807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twelve\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3382",
@@ -33817,7 +33817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twentieth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3383",
@@ -33827,7 +33827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twenty\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3384",
@@ -33837,7 +33837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3385",
@@ -33847,7 +33847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3386",
@@ -33857,7 +33857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"twist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3387",
@@ -33867,7 +33867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"two\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "num"
   },
   {
     "id": "gaokao-full-3388",
@@ -33877,7 +33877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"type\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3389",
@@ -33887,7 +33887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"typewriter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3390",
@@ -33897,7 +33897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"typhoon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3391",
@@ -33907,7 +33907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"typical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3392",
@@ -33917,7 +33917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"typist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3393",
@@ -33927,7 +33927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"tyre\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "T",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3394",
@@ -33937,7 +33937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ugly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3395",
@@ -33947,7 +33947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"umbrella\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3396",
@@ -33957,7 +33957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3397",
@@ -33967,7 +33967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unbearable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3398",
@@ -33977,7 +33977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unbelievable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3399",
@@ -33987,7 +33987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"uncertain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3400",
@@ -33997,7 +33997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"uncle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3401",
@@ -34007,7 +34007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"uncomfortable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3402",
@@ -34017,7 +34017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unconditional\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3403",
@@ -34027,7 +34027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unconscious\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3404",
@@ -34037,7 +34037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"under\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "prep, adj, adv"
   },
   {
     "id": "gaokao-full-3405",
@@ -34047,7 +34047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"underground\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3406",
@@ -34057,7 +34057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"underline\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3407",
@@ -34067,7 +34067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"understand\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3408",
@@ -34077,7 +34077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"understanding\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3409",
@@ -34087,7 +34087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"undertake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3410",
@@ -34097,7 +34097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"underwear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3411",
@@ -34107,7 +34107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"undivided\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3412",
@@ -34117,7 +34117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"undo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3413",
@@ -34127,7 +34127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unemployment\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3414",
@@ -34137,7 +34137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unfair\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3415",
@@ -34147,7 +34147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unfit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-3416",
@@ -34157,7 +34157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unfold\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3417",
@@ -34167,7 +34167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unfortunate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3418",
@@ -34177,7 +34177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unfortunately\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3419",
@@ -34187,7 +34187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unhappy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3420",
@@ -34197,7 +34197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unhealthy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3421",
@@ -34207,7 +34207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"uniform\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3422",
@@ -34217,7 +34217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unimportant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3423",
@@ -34227,7 +34227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"union\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3424",
@@ -34237,7 +34237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unique\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3425",
@@ -34247,7 +34247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3426",
@@ -34257,7 +34257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unite\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3427",
@@ -34267,7 +34267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"universal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3428",
@@ -34277,7 +34277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"universe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3429",
@@ -34287,7 +34287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"university\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3430",
@@ -34297,7 +34297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unknown\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3431",
@@ -34307,7 +34307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "conj, prep"
   },
   {
     "id": "gaokao-full-3432",
@@ -34317,7 +34317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unlike\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, prep"
   },
   {
     "id": "gaokao-full-3433",
@@ -34327,7 +34327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unmarried\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3434",
@@ -34337,7 +34337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unpleasant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3435",
@@ -34347,7 +34347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unrest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3436",
@@ -34357,7 +34357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unsafe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3437",
@@ -34367,7 +34367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unsuccessful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3438",
@@ -34377,7 +34377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"until\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "prep, conj"
   },
   {
     "id": "gaokao-full-3439",
@@ -34387,7 +34387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"untrue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3440",
@@ -34397,7 +34397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unusual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3441",
@@ -34407,7 +34407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"unwilling\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3442",
@@ -34417,7 +34417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"up\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, adv, prep"
   },
   {
     "id": "gaokao-full-3443",
@@ -34427,7 +34427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"upon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-3444",
@@ -34437,7 +34437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"upper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3445",
@@ -34447,7 +34447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"upset\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, v"
   },
   {
     "id": "gaokao-full-3446",
@@ -34457,7 +34457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"upstairs\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-3447",
@@ -34467,7 +34467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"upward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3448",
@@ -34477,7 +34477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"urban\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3449",
@@ -34487,7 +34487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"urge\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3450",
@@ -34497,7 +34497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"urgent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3451",
@@ -34507,7 +34507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"use\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3452",
@@ -34517,7 +34517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"useful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3453",
@@ -34527,7 +34527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"useless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3454",
@@ -34537,7 +34537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"user\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3455",
@@ -34547,7 +34547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"usual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3456",
@@ -34557,7 +34557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"usually\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "U",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3457",
@@ -34567,7 +34567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vacant\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3458",
@@ -34577,7 +34577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vacation\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3459",
@@ -34587,7 +34587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vague\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3460",
@@ -34597,7 +34597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vain\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3461",
@@ -34607,7 +34607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"valid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3462",
@@ -34617,7 +34617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"valley\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3463",
@@ -34627,7 +34627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"valuable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3464",
@@ -34637,7 +34637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"value\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3465",
@@ -34647,7 +34647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vanilla\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3466",
@@ -34657,7 +34657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"variety\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3467",
@@ -34667,7 +34667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"various\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3468",
@@ -34677,7 +34677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vase\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3469",
@@ -34687,7 +34687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vast\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3470",
@@ -34697,7 +34697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vcd\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3471",
@@ -34707,7 +34707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"veal\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3472",
@@ -34717,7 +34717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vegetable\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3473",
@@ -34727,7 +34727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vehicle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3474",
@@ -34737,7 +34737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"version\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3475",
@@ -34747,7 +34747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vertical\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3476",
@@ -34757,7 +34757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"very\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3477",
@@ -34767,7 +34767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vest\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3478",
@@ -34777,7 +34777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"via\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-3479",
@@ -34787,7 +34787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v, prep"
   },
   {
     "id": "gaokao-full-3480",
@@ -34797,7 +34797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"victim\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3481",
@@ -34807,7 +34807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"victory\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3482",
@@ -34817,7 +34817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"video\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3483",
@@ -34827,7 +34827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"videophone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3484",
@@ -34837,7 +34837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"view\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3485",
@@ -34847,7 +34847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"viewer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3486",
@@ -34857,7 +34857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"village\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3487",
@@ -34867,7 +34867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"villager\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3488",
@@ -34877,7 +34877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vinegar\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3489",
@@ -34887,7 +34887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"violate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3490",
@@ -34897,7 +34897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"violence\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3491",
@@ -34907,7 +34907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"violent\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3492",
@@ -34917,7 +34917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"violin\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3493",
@@ -34927,7 +34927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"violinist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3494",
@@ -34937,7 +34937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"virtue\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3495",
@@ -34947,7 +34947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"virus\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3496",
@@ -34957,7 +34957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"visa\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3497",
@@ -34967,7 +34967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"visit\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3498",
@@ -34977,7 +34977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"visitor\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3499",
@@ -34987,7 +34987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"visual\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3500",
@@ -34997,7 +34997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vital\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3501",
@@ -35007,7 +35007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vivid\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3502",
@@ -35017,7 +35017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vocabulary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3503",
@@ -35027,7 +35027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"voice\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3504",
@@ -35037,7 +35037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"volcano\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3505",
@@ -35047,7 +35047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"volleyball\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3506",
@@ -35057,7 +35057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"voluntary\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3507",
@@ -35067,7 +35067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"volunteer\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3508",
@@ -35077,7 +35077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"vote\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3509",
@@ -35087,7 +35087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"voyage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "V",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3510",
@@ -35097,7 +35097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wag\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3511",
@@ -35107,7 +35107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wage\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3512",
@@ -35117,7 +35117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"waist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3513",
@@ -35127,7 +35127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wait\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3514",
@@ -35137,7 +35137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"waiter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3515",
@@ -35147,7 +35147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"waitress\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3516",
@@ -35157,7 +35157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wake\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3517",
@@ -35167,7 +35167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"walk\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3518",
@@ -35177,7 +35177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"walkman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3519",
@@ -35187,7 +35187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wall\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3520",
@@ -35197,7 +35197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wallet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3521",
@@ -35207,7 +35207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"walnut\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3522",
@@ -35217,7 +35217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wander\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3523",
@@ -35227,7 +35227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"want\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3524",
@@ -35237,7 +35237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"war\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3525",
@@ -35247,7 +35247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"ward\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3526",
@@ -35257,7 +35257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"warehouse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3527",
@@ -35267,7 +35267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"warm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-3528",
@@ -35277,7 +35277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"warmth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3529",
@@ -35287,7 +35287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"warning\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3530",
@@ -35297,7 +35297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wash\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3531",
@@ -35307,7 +35307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"washroom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3532",
@@ -35317,7 +35317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"waste\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3533",
@@ -35327,7 +35327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"watch\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3534",
@@ -35337,7 +35337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"water\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3535",
@@ -35347,7 +35347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"watermelon\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3536",
@@ -35357,7 +35357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wave\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3537",
@@ -35367,7 +35367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wax\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3538",
@@ -35377,7 +35377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"way\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-3539",
@@ -35387,7 +35387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wayside\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3540",
@@ -35397,7 +35397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"we\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3541",
@@ -35407,7 +35407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weak\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3542",
@@ -35417,7 +35417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weakness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3543",
@@ -35427,7 +35427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wealth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3544",
@@ -35437,7 +35437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wealthy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3545",
@@ -35447,7 +35447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wear\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3546",
@@ -35457,7 +35457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weather\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3547",
@@ -35467,7 +35467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weatherman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3548",
@@ -35477,7 +35477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"web\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3549",
@@ -35487,7 +35487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"website\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3550",
@@ -35497,7 +35497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wedding\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3551",
@@ -35507,7 +35507,7 @@ const GAOKAO_WORDS = [
     "example": "We learned about Wednesday in class.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3552",
@@ -35517,7 +35517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weed\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3553",
@@ -35527,7 +35527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"week\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3554",
@@ -35537,7 +35537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weekday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3555",
@@ -35547,7 +35547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weekend\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3556",
@@ -35557,7 +35557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weekly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3557",
@@ -35567,7 +35567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weep\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3558",
@@ -35577,7 +35577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weigh\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3559",
@@ -35587,7 +35587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"weight\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3560",
@@ -35597,7 +35597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"welcome\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3561",
@@ -35607,7 +35607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"welfare\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3562",
@@ -35617,7 +35617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"well\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v, adj"
   },
   {
     "id": "gaokao-full-3563",
@@ -35627,7 +35627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"west\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3564",
@@ -35637,7 +35637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"western\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3565",
@@ -35647,7 +35647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"westerner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3566",
@@ -35657,7 +35657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"westwards\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3567",
@@ -35667,7 +35667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3568",
@@ -35677,7 +35677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whale\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3569",
@@ -35687,7 +35687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"what\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron, adj, adv"
   },
   {
     "id": "gaokao-full-3570",
@@ -35697,7 +35697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whatever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3571",
@@ -35707,7 +35707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wheat\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3572",
@@ -35717,7 +35717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wheel\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3573",
@@ -35727,7 +35727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"when\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "conj, adv, pron"
   },
   {
     "id": "gaokao-full-3574",
@@ -35737,7 +35737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whenever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "conj, adv"
   },
   {
     "id": "gaokao-full-3575",
@@ -35747,7 +35747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"where\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adv, pron, n"
   },
   {
     "id": "gaokao-full-3576",
@@ -35757,7 +35757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wherever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3577",
@@ -35767,7 +35767,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whether\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "conj, pron"
   },
   {
     "id": "gaokao-full-3578",
@@ -35777,7 +35777,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"which\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3579",
@@ -35787,7 +35787,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whichever\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3580",
@@ -35797,7 +35797,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"while\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, conj, v"
   },
   {
     "id": "gaokao-full-3581",
@@ -35807,7 +35807,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whisper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3582",
@@ -35817,7 +35817,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whistle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3583",
@@ -35827,7 +35827,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"white\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3584",
@@ -35837,7 +35837,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"who\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3585",
@@ -35847,7 +35847,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whole\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3586",
@@ -35857,7 +35857,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3587",
@@ -35867,7 +35867,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"whose\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3588",
@@ -35877,7 +35877,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"why\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adv, n"
   },
   {
     "id": "gaokao-full-3589",
@@ -35887,7 +35887,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj, adv, n"
   },
   {
     "id": "gaokao-full-3590",
@@ -35897,7 +35897,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"widespread\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3591",
@@ -35907,7 +35907,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wife\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3592",
@@ -35917,7 +35917,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wild\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3593",
@@ -35927,7 +35927,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wildlife\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3594",
@@ -35937,7 +35937,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"will\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3595",
@@ -35947,7 +35947,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"willing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3596",
@@ -35957,7 +35957,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"willingly\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adv"
   },
   {
     "id": "gaokao-full-3597",
@@ -35967,7 +35967,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"willingness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3598",
@@ -35977,7 +35977,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"win\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3599",
@@ -35987,7 +35987,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wind\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3600",
@@ -35997,7 +35997,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"windbreaker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3601",
@@ -36007,7 +36007,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"window\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3602",
@@ -36017,7 +36017,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"windy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3603",
@@ -36027,7 +36027,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wine\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3604",
@@ -36037,7 +36037,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3605",
@@ -36047,7 +36047,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"winner\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3606",
@@ -36057,7 +36057,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"winter\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3607",
@@ -36067,7 +36067,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wipe\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3608",
@@ -36077,7 +36077,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wire\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3609",
@@ -36087,7 +36087,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wisdom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3610",
@@ -36097,7 +36097,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wise\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj, v, n"
   },
   {
     "id": "gaokao-full-3611",
@@ -36107,7 +36107,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wish\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3612",
@@ -36117,7 +36117,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"with\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "prep"
   },
   {
     "id": "gaokao-full-3613",
@@ -36127,7 +36127,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"withdraw\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3614",
@@ -36137,7 +36137,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"within\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adv, prep"
   },
   {
     "id": "gaokao-full-3615",
@@ -36147,7 +36147,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"without\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "prep, adv, n"
   },
   {
     "id": "gaokao-full-3616",
@@ -36157,7 +36157,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"witness\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3617",
@@ -36167,7 +36167,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wolf\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3618",
@@ -36177,7 +36177,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"woman\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3619",
@@ -36187,7 +36187,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wonder\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3620",
@@ -36197,7 +36197,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wonderful\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3621",
@@ -36207,7 +36207,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"woo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3622",
@@ -36217,7 +36217,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wood\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3623",
@@ -36227,7 +36227,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wooden\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3624",
@@ -36237,7 +36237,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"woollen\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3625",
@@ -36247,7 +36247,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"word\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3626",
@@ -36257,7 +36257,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"work\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3627",
@@ -36267,7 +36267,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"workday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3628",
@@ -36277,7 +36277,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worker\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3629",
@@ -36287,7 +36287,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"workforce\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3630",
@@ -36297,7 +36297,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"workmate\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3631",
@@ -36307,7 +36307,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"workplace\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3632",
@@ -36317,7 +36317,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"works\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3633",
@@ -36327,7 +36327,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"world\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3634",
@@ -36337,7 +36337,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worldwide\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3635",
@@ -36347,7 +36347,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worm\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3636",
@@ -36357,7 +36357,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3637",
@@ -36367,7 +36367,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worried\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3638",
@@ -36377,7 +36377,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worry\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3639",
@@ -36387,7 +36387,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worse\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3640",
@@ -36397,7 +36397,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worst\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj, adv"
   },
   {
     "id": "gaokao-full-3641",
@@ -36407,7 +36407,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3642",
@@ -36417,7 +36417,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worthless\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3643",
@@ -36427,7 +36427,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worthwhile\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3644",
@@ -36437,7 +36437,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"worthy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3645",
@@ -36447,7 +36447,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"would\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3646",
@@ -36457,7 +36457,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wound\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3647",
@@ -36467,7 +36467,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wounded\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3648",
@@ -36477,7 +36477,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wrestle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3649",
@@ -36487,7 +36487,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wrinkle\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3650",
@@ -36497,7 +36497,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wrist\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3651",
@@ -36507,7 +36507,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"write\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "v"
   },
   {
     "id": "gaokao-full-3652",
@@ -36517,7 +36517,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"writing\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3653",
@@ -36527,7 +36527,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"wrong\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "W",
-    "pos": ""
+    "pos": "adj, adv"
   },
   {
     "id": "gaokao-full-3654",
@@ -36537,7 +36537,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yard\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3655",
@@ -36547,7 +36547,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yawn\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3656",
@@ -36557,7 +36557,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"year\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3657",
@@ -36567,7 +36567,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yell\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "v, n"
   },
   {
     "id": "gaokao-full-3658",
@@ -36577,7 +36577,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yellow\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n, adj"
   },
   {
     "id": "gaokao-full-3659",
@@ -36587,7 +36587,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yes\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "adv, n, v"
   },
   {
     "id": "gaokao-full-3660",
@@ -36597,7 +36597,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yesterday\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n, adv"
   },
   {
     "id": "gaokao-full-3661",
@@ -36607,7 +36607,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yet\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "adv, conj"
   },
   {
     "id": "gaokao-full-3662",
@@ -36617,7 +36617,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yoghurt\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3663",
@@ -36627,7 +36627,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"you\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3664",
@@ -36637,7 +36637,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"young\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "adj, n"
   },
   {
     "id": "gaokao-full-3665",
@@ -36647,7 +36647,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"your\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3666",
@@ -36657,7 +36657,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yours\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3667",
@@ -36667,7 +36667,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yourself\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3668",
@@ -36677,7 +36677,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yourselves\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "pron"
   },
   {
     "id": "gaokao-full-3669",
@@ -36687,7 +36687,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"youth\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3670",
@@ -36697,7 +36697,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"yummy\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Y",
-    "pos": ""
+    "pos": "adj"
   },
   {
     "id": "gaokao-full-3671",
@@ -36707,7 +36707,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zebra\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3672",
@@ -36717,7 +36717,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zero\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n, adj, v"
   },
   {
     "id": "gaokao-full-3673",
@@ -36727,7 +36727,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zip\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3674",
@@ -36737,7 +36737,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zipper\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3675",
@@ -36747,7 +36747,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zone\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n, v"
   },
   {
     "id": "gaokao-full-3676",
@@ -36757,7 +36757,7 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zoo\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n"
   },
   {
     "id": "gaokao-full-3677",
@@ -36767,6 +36767,6 @@ const GAOKAO_WORDS = [
     "example": "I can use the word \"zoom\" in an English sentence.",
     "source": "ECDICT gk tag; 高考新课标完整版底盘",
     "section": "Z",
-    "pos": ""
+    "pos": "n, v"
   }
 ];

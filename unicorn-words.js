@@ -7,7 +7,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: a custom motorcycle.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-2",
@@ -17,7 +18,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: a customs officer.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-3",
@@ -27,7 +29,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: a recreational sports league.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-4",
@@ -37,7 +40,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: a variety of.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-5",
@@ -47,7 +51,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: a work of art.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-6",
@@ -57,7 +62,8 @@ const UNICORN_WORDS = [
     "definition": "to take in a liquid or gas through a surface and hold it",
     "example": "Review the word: absorb.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-7",
@@ -67,7 +73,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: absorption.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-8",
@@ -77,7 +84,8 @@ const UNICORN_WORDS = [
     "definition": "the method or possibility of getting near to a place or person",
     "example": "Review the word: access.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-9",
@@ -87,7 +95,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: according to custom.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-10",
@@ -97,7 +106,8 @@ const UNICORN_WORDS = [
     "definition": "doing things which involve moving and using energy",
     "example": "Review the word: active.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj, n"
   },
   {
     "id": "unicorn-11",
@@ -107,7 +117,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: acute disease.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-12",
@@ -117,7 +128,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: adapt to.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-13",
@@ -127,7 +139,8 @@ const UNICORN_WORDS = [
     "definition": "media projects to convince people to buy a product or change their behaviour",
     "example": "Review the word: advertising campaign.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-14",
@@ -137,7 +150,8 @@ const UNICORN_WORDS = [
     "definition": "to influence or cause something to change",
     "example": "Review the word: affect.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v, n"
   },
   {
     "id": "unicorn-15",
@@ -147,7 +161,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: against the law.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-16",
@@ -157,7 +172,8 @@ const UNICORN_WORDS = [
     "definition": "= change",
     "example": "Review the word: alter.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "v"
   },
   {
     "id": "unicorn-17",
@@ -167,7 +183,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: alternative.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-18",
@@ -177,7 +194,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: alternative.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-19",
@@ -187,7 +205,8 @@ const UNICORN_WORDS = [
     "definition": "= or",
     "example": "Review the word: alternatively.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adv"
   },
   {
     "id": "unicorn-20",
@@ -197,7 +216,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: amount.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-21",
@@ -207,7 +227,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: annotate.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "v"
   },
   {
     "id": "unicorn-22",
@@ -217,7 +238,8 @@ const UNICORN_WORDS = [
     "definition": "happening or produced once a year",
     "example": "Review the word: annual.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-23",
@@ -227,7 +249,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: antelope.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-24",
@@ -237,7 +260,8 @@ const UNICORN_WORDS = [
     "definition": "the way someone or something looks",
     "example": "Review the word: appearance.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-25",
@@ -247,7 +271,8 @@ const UNICORN_WORDS = [
     "definition": "one part of a situation,problem,subject",
     "example": "Review the word: aspect.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-26",
@@ -257,7 +282,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: asthma.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-27",
@@ -267,7 +293,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: at a rapid rate / speed.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-28",
@@ -277,7 +304,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: at off-peak times.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-29",
@@ -287,7 +315,8 @@ const UNICORN_WORDS = [
     "definition": "the layer of gases around the Earth",
     "example": "Review the word: atmosphere.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-30",
@@ -297,7 +326,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: attach itself to.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-31",
@@ -307,7 +337,8 @@ const UNICORN_WORDS = [
     "definition": "if you make an attempt to do something,you try to do it",
     "example": "Review the word: attempt.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-32",
@@ -317,7 +348,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: avoid cultural misunderstanding.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-33",
@@ -327,7 +359,8 @@ const UNICORN_WORDS = [
     "definition": "a daily eating programme which has a healthy mixture of different kinds of food",
     "example": "Review the word: balanced diet.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-34",
@@ -337,7 +370,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: bank.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-35",
@@ -347,7 +381,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: battle.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-36",
@@ -357,7 +392,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: be inconvenient for sb.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-37",
@@ -367,7 +403,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: be unpopular with sb.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-38",
@@ -377,7 +414,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: beauty contest.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-39",
@@ -387,7 +425,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: beef (about sb./sth.).",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-40",
@@ -397,7 +436,8 @@ const UNICORN_WORDS = [
     "definition": "an idea that you are sure is true",
     "example": "Review the word: belief.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-41",
@@ -407,7 +447,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: biochemistry.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-42",
@@ -417,7 +458,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: biodiversity.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-43",
@@ -427,7 +469,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: blog.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-44",
@@ -437,7 +480,8 @@ const UNICORN_WORDS = [
     "definition": "v.",
     "example": "Review the word: bow.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-45",
@@ -447,7 +491,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: brazil.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-46",
@@ -457,7 +502,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: brazilian.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-47",
@@ -467,7 +513,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: breathe in.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-48",
@@ -477,7 +524,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: breathe out.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-49",
@@ -487,7 +535,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: breeding.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-50",
@@ -497,7 +546,8 @@ const UNICORN_WORDS = [
     "definition": "short",
     "example": "Review the word: brief.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, adj, v"
   },
   {
     "id": "unicorn-51",
@@ -507,7 +557,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: broaden.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-52",
@@ -517,7 +568,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: cable car.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-53",
@@ -527,7 +579,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: caffeine.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-54",
@@ -537,7 +590,8 @@ const UNICORN_WORDS = [
     "definition": "the measurement of the amount of energy found in food",
     "example": "Review the word: calories.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-55",
@@ -547,7 +601,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: cambodia.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-56",
@@ -557,7 +612,8 @@ const UNICORN_WORDS = [
     "definition": "a group of activities designed to motivate people to take action,such as giving money or changing their behaviour",
     "example": "Review the word: campaign （.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-57",
@@ -567,7 +623,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: canyon.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-58",
@@ -577,7 +634,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: car exhaust.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-59",
@@ -587,7 +645,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: case.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-60",
@@ -597,7 +656,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: cattle.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-61",
@@ -607,7 +667,8 @@ const UNICORN_WORDS = [
     "definition": "someone or something that makes something happen",
     "example": "Review the word: cause.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-62",
@@ -617,7 +678,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: cause stress to sb.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-63",
@@ -627,7 +689,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: cavern.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-64",
@@ -637,7 +700,8 @@ const UNICORN_WORDS = [
     "definition": "a formal event with special traditions,activities or words,such as a wedding",
     "example": "Review the word: ceremony.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-65",
@@ -647,7 +711,8 @@ const UNICORN_WORDS = [
     "definition": "used to refer to a particular person or thing without naming or describing them",
     "example": "Review the word: certain.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-66",
@@ -657,7 +722,8 @@ const UNICORN_WORDS = [
     "definition": "something that is difficult and that tests someone's ability or determination",
     "example": "Review the word: challenge.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-67",
@@ -667,7 +733,8 @@ const UNICORN_WORDS = [
     "definition": "a man-made or natural solid, liquid or gas made by changing atoms",
     "example": "Review the word: chemical.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-68",
@@ -677,7 +744,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: chinese knot.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-69",
@@ -687,7 +755,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: chronic disease.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-70",
@@ -697,7 +766,8 @@ const UNICORN_WORDS = [
     "definition": "the general weather conditions usually found in a particular place",
     "example": "Review the word: climate.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-71",
@@ -707,7 +777,8 @@ const UNICORN_WORDS = [
     "definition": "happening often or existing in large numbers",
     "example": "Review the word: common.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-72",
@@ -717,7 +788,8 @@ const UNICORN_WORDS = [
     "definition": "happening often or existing in large numbers",
     "example": "Review the word: common.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-73",
@@ -727,7 +799,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: community.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-74",
@@ -737,7 +810,8 @@ const UNICORN_WORDS = [
     "definition": "someone who travels between home and work,or university,regularly",
     "example": "Review the word: commuter.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-75",
@@ -747,7 +821,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: commuter train.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-76",
@@ -757,7 +832,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: computer program.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-77",
@@ -767,7 +843,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: congest.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-78",
@@ -777,7 +854,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: congestion.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-79",
@@ -787,7 +865,8 @@ const UNICORN_WORDS = [
     "definition": "to join two things or places together",
     "example": "Review the word: connect.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-80",
@@ -797,7 +876,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: conscious.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj"
   },
   {
     "id": "unicorn-81",
@@ -807,7 +887,8 @@ const UNICORN_WORDS = [
     "definition": "the results of an action or situation, especially bad results",
     "example": "Review the word: consequences.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-82",
@@ -817,7 +898,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: consequently.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adv"
   },
   {
     "id": "unicorn-83",
@@ -827,7 +909,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: conservation.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-84",
@@ -837,7 +920,8 @@ const UNICORN_WORDS = [
     "definition": "to think carefully about a decision or something you might do",
     "example": "Review the word: consider.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-85",
@@ -847,7 +931,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: consist of.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-86",
@@ -857,7 +942,8 @@ const UNICORN_WORDS = [
     "definition": "happening a lot or all the time",
     "example": "Review the word: constant.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-87",
@@ -867,7 +953,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: construct.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v, n"
   },
   {
     "id": "unicorn-88",
@@ -877,7 +964,8 @@ const UNICORN_WORDS = [
     "definition": "the process of building something, usually large structures such as houses, roads or bridges",
     "example": "Review the word: construction.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-89",
@@ -887,7 +975,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: constructive.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj"
   },
   {
     "id": "unicorn-90",
@@ -897,7 +986,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: contend.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-91",
@@ -907,7 +997,8 @@ const UNICORN_WORDS = [
     "definition": "to be one of the causes of an event or a situation",
     "example": "Review the word: contribute to.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-92",
@@ -917,7 +1008,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: convention.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-93",
@@ -927,7 +1019,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: conventional.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-94",
@@ -937,7 +1030,8 @@ const UNICORN_WORDS = [
     "definition": "to work together for a particular purpose",
     "example": "Review the word: cooperate.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-95",
@@ -947,7 +1041,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: craft.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-96",
@@ -957,7 +1052,8 @@ const UNICORN_WORDS = [
     "definition": "to make something new,or invent something",
     "example": "Review the word: create.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-97",
@@ -967,7 +1063,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: crown.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-98",
@@ -977,7 +1074,8 @@ const UNICORN_WORDS = [
     "definition": "causing pain or making someone or something suffer on purpose",
     "example": "Review the word: cruel.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-99",
@@ -987,7 +1085,8 @@ const UNICORN_WORDS = [
     "definition": "the way of life,especially customs and beliefs,of a group of people",
     "example": "Review the word: culture.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-100",
@@ -997,7 +1096,8 @@ const UNICORN_WORDS = [
     "definition": "to travel by bicycle",
     "example": "Review the word: cycle.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-101",
@@ -1007,7 +1107,8 @@ const UNICORN_WORDS = [
     "definition": "to harm or spoil something",
     "example": "Review the word: damage.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, v"
   },
   {
     "id": "unicorn-102",
@@ -1017,7 +1118,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: date back.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-103",
@@ -1027,7 +1129,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: decaffeinated.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj"
   },
   {
     "id": "unicorn-104",
@@ -1037,7 +1140,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: decide.",
     "source": "三册3单元扩展词汇2.doc",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-105",
@@ -1047,7 +1151,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: decision.",
     "source": "三册3单元扩展词汇2.doc",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-106",
@@ -1057,7 +1162,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: decisive.",
     "source": "三册3单元扩展词汇2.doc",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-107",
@@ -1067,7 +1173,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: definition.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-108",
@@ -1077,7 +1184,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: deforest.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-109",
@@ -1087,7 +1195,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: deforest.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-110",
@@ -1097,7 +1206,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: deforestation.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-111",
@@ -1107,7 +1217,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: dementia.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-112",
@@ -1117,7 +1228,8 @@ const UNICORN_WORDS = [
     "definition": "to show or make something clear",
     "example": "Review the word: demonstrate.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-113",
@@ -1127,7 +1239,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: depend on.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-114",
@@ -1137,7 +1250,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: dependent.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-115",
@@ -1147,7 +1261,8 @@ const UNICORN_WORDS = [
     "definition": "the place where someone or something is going",
     "example": "Review the word: destination.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-116",
@@ -1157,7 +1272,8 @@ const UNICORN_WORDS = [
     "definition": "to damage something very badly; to cause it to not exist",
     "example": "Review the word: destroy.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-117",
@@ -1167,7 +1283,8 @@ const UNICORN_WORDS = [
     "definition": "the act of causing so much damage to something that it stops existing because it cannot be repaired",
     "example": "Review the word: destruction.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-118",
@@ -1177,7 +1294,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: destructive.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj"
   },
   {
     "id": "unicorn-119",
@@ -1187,7 +1305,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: diabetes.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-120",
@@ -1197,7 +1316,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: die out.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-121",
@@ -1207,7 +1327,8 @@ const UNICORN_WORDS = [
     "definition": "illness; a serious health condition which requires care",
     "example": "Review the word: disease.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-122",
@@ -1217,7 +1338,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: diverse.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-123",
@@ -1227,7 +1349,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: diversity.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-124",
@@ -1237,7 +1360,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: do research on sth.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-125",
@@ -1247,7 +1371,8 @@ const UNICORN_WORDS = [
     "definition": "because of; as a result of",
     "example": "Review the word: due to.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-126",
@@ -1257,7 +1382,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: duty-free.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-127",
@@ -1267,7 +1393,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: ecology.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-128",
@@ -1277,7 +1404,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: economic losses.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-129",
@@ -1287,7 +1415,8 @@ const UNICORN_WORDS = [
     "definition": "all the living things in an area and the effect they have on each other and the environment",
     "example": "Review the word: ecosystem.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-130",
@@ -1297,7 +1426,8 @@ const UNICORN_WORDS = [
     "definition": "classes or material to teach people about a particular topic",
     "example": "Review the word: educational programme.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-131",
@@ -1307,7 +1437,8 @@ const UNICORN_WORDS = [
     "definition": "result; a change which happens because of a cause",
     "example": "Review the word: effect.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-132",
@@ -1317,7 +1448,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: egret.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-133",
@@ -1327,7 +1459,8 @@ const UNICORN_WORDS = [
     "definition": "an unexpected situation which requires immediate action",
     "example": "Review the word: emergency.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-134",
@@ -1337,7 +1470,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enable.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-135",
@@ -1347,7 +1481,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enact.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-136",
@@ -1357,7 +1492,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: encourage.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-137",
@@ -1367,7 +1503,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: endanger.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-138",
@@ -1377,7 +1514,8 @@ const UNICORN_WORDS = [
     "definition": "used to describe plants and animals that may disappear soon",
     "example": "Review the word: endangered.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-139",
@@ -1387,7 +1525,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enforce.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-140",
@@ -1397,7 +1536,8 @@ const UNICORN_WORDS = [
     "definition": "the activity of designing and building things like bridges,roads,machines,etc.",
     "example": "Review the word: engineering.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-141",
@@ -1407,7 +1547,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enjoy.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-142",
@@ -1417,7 +1558,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enlarge.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-143",
@@ -1427,7 +1569,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enrich.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-144",
@@ -1437,7 +1580,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: enrol.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-145",
@@ -1447,7 +1591,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: entail.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v, n"
   },
   {
     "id": "unicorn-146",
@@ -1457,7 +1602,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: erode.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-147",
@@ -1467,7 +1613,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: erosion.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-148",
@@ -1477,7 +1624,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: escalator.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-149",
@@ -1487,7 +1635,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: ever-changing.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-150",
@@ -1497,7 +1646,8 @@ const UNICORN_WORDS = [
     "definition": "to give something to someone,and receive something that they give you",
     "example": "Review the word: exchange.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-151",
@@ -1507,7 +1657,8 @@ const UNICORN_WORDS = [
     "definition": "to think that something will or should happen",
     "example": "Review the word: expect.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "v"
   },
   {
     "id": "unicorn-152",
@@ -1517,7 +1668,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: extinct.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-153",
@@ -1527,7 +1679,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: extinction.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-154",
@@ -1537,7 +1690,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: falcon [ˈfɔːlkən].",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-155",
@@ -1547,7 +1701,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: falconry [ˈfɔːlkənri].",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-156",
@@ -1557,7 +1712,8 @@ const UNICORN_WORDS = [
     "definition": "the job of working on a farm or organizing work on a farm",
     "example": "Review the word: farming.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-157",
@@ -1567,7 +1723,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: fasten.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-158",
@@ -1577,7 +1734,8 @@ const UNICORN_WORDS = [
     "definition": "causing death",
     "example": "Review the word: fatal.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-159",
@@ -1587,7 +1745,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: ferry.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-160",
@@ -1597,7 +1756,8 @@ const UNICORN_WORDS = [
     "definition": "v.",
     "example": "Review the word: filter.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, v"
   },
   {
     "id": "unicorn-161",
@@ -1607,7 +1767,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: filtered coffee.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-162",
@@ -1617,7 +1778,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: fin.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, v"
   },
   {
     "id": "unicorn-163",
@@ -1627,7 +1789,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: financial penalty.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-164",
@@ -1637,7 +1800,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: find solutions to sth.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-165",
@@ -1647,7 +1811,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: fire extinguisher.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-166",
@@ -1657,7 +1822,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: first-aid.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-167",
@@ -1667,7 +1833,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: flexibility.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-168",
@@ -1677,7 +1844,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: flexible.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-169",
@@ -1687,7 +1855,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: food chain.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-170",
@@ -1697,7 +1866,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: form.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-171",
@@ -1707,7 +1877,8 @@ const UNICORN_WORDS = [
     "definition": "(of clothes,behaviour or language) serious or very polite",
     "example": "Review the word: formal.",
     "source": "三册4单元基础词汇; 三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj, n"
   },
   {
     "id": "unicorn-172",
@@ -1717,7 +1888,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: formal.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj, n"
   },
   {
     "id": "unicorn-173",
@@ -1727,7 +1899,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: format.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-174",
@@ -1737,7 +1910,8 @@ const UNICORN_WORDS = [
     "definition": "a source of energy like coal,gas and petroleum, that was formed inside the Earth millions of years ago",
     "example": "Review the word: fossil fuel.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-175",
@@ -1747,7 +1921,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: frighten.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-176",
@@ -1757,7 +1932,8 @@ const UNICORN_WORDS = [
     "definition": "a substance like gas or coal which produces energy when it is burnt",
     "example": "Review the word: fuel.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-177",
@@ -1767,7 +1943,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: fuel duty/tax.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-178",
@@ -1777,7 +1954,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: funding.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-179",
@@ -1787,7 +1965,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: furthermore.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adv"
   },
   {
     "id": "unicorn-180",
@@ -1797,7 +1976,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: future generations.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-181",
@@ -1807,7 +1987,8 @@ const UNICORN_WORDS = [
     "definition": "all the people in a society or family who are approximately the same age",
     "example": "Review the word: generation.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-182",
@@ -1817,7 +1998,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: generation gap.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-183",
@@ -1827,7 +2009,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: get around.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-184",
@@ -1837,7 +2020,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: get around the city.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-185",
@@ -1847,7 +2031,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: glacier.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-186",
@@ -1857,7 +2042,8 @@ const UNICORN_WORDS = [
     "definition": "an increase in the Earth's temperature because of pollution",
     "example": "Review the word: global warming.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-187",
@@ -1867,7 +2053,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: globalization.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-188",
@@ -1877,7 +2064,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: globe.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-189",
@@ -1887,7 +2075,8 @@ const UNICORN_WORDS = [
     "definition": "the group of people that controls a country or city and makes decisions about laws,taxes,education,etc.",
     "example": "Review the word: government.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-190",
@@ -1897,7 +2086,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: graze.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-191",
@@ -1907,7 +2097,8 @@ const UNICORN_WORDS = [
     "definition": "a gas which makes the air around the Earth warmer",
     "example": "Review the word: greenhouse gas.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-192",
@@ -1917,7 +2108,8 @@ const UNICORN_WORDS = [
     "definition": "to welcome someone with particular words or actions",
     "example": "Review the word: greet.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "v"
   },
   {
     "id": "unicorn-193",
@@ -1927,7 +2119,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: habitat.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-194",
@@ -1937,7 +2130,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: have a serious negative impact (大)on sth.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-195",
@@ -1947,7 +2141,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: have negative effects(小) on sth.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-196",
@@ -1957,7 +2152,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: health conscious.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-197",
@@ -1967,7 +2163,8 @@ const UNICORN_WORDS = [
     "definition": "a strong and well way of living",
     "example": "Review the word: healthy lifestyle.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-198",
@@ -1977,7 +2174,8 @@ const UNICORN_WORDS = [
     "definition": "an illness of the heart",
     "example": "Review the word: heart disease.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-199",
@@ -1987,7 +2185,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: heritage.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-200",
@@ -1997,7 +2196,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: heroin.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-201",
@@ -2007,7 +2207,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: heron.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-202",
@@ -2017,7 +2218,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: hold one's breath.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-203",
@@ -2027,7 +2229,8 @@ const UNICORN_WORDS = [
     "definition": "extremely large in size or amount",
     "example": "Review the word: huge.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-204",
@@ -2037,7 +2240,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: illustrate.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "v"
   },
   {
     "id": "unicorn-205",
@@ -2047,7 +2251,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: in addition to sth.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-206",
@@ -2057,7 +2262,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: in conclusion =to conclude.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-207",
@@ -2067,7 +2273,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: in contrast.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-208",
@@ -2077,7 +2284,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: in general.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-209",
@@ -2087,7 +2295,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: in short.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-210",
@@ -2097,7 +2306,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: in the long run/ term.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-211",
@@ -2107,7 +2317,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: inclusion.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-212",
@@ -2117,7 +2328,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: increase the cost of.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-213",
@@ -2127,7 +2339,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: independent.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-214",
@@ -2137,7 +2350,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: infer.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "v"
   },
   {
     "id": "unicorn-215",
@@ -2147,7 +2361,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: informal.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj"
   },
   {
     "id": "unicorn-216",
@@ -2157,7 +2372,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: instruct.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-217",
@@ -2167,7 +2383,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: instruction.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-218",
@@ -2177,7 +2394,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: instructive.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj"
   },
   {
     "id": "unicorn-219",
@@ -2187,7 +2405,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: intangible.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-220",
@@ -2197,7 +2416,8 @@ const UNICORN_WORDS = [
     "definition": "to put something into a place for the first time",
     "example": "Review the word: introduce.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-221",
@@ -2207,7 +2427,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: invasive.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-222",
@@ -2217,7 +2438,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: invest.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-223",
@@ -2227,7 +2449,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: investment.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-224",
@@ -2237,7 +2460,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: involve.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-225",
@@ -2247,7 +2471,8 @@ const UNICORN_WORDS = [
     "definition": "an important subject or problem that people are discussing",
     "example": "Review the word: issue.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-226",
@@ -2257,7 +2482,8 @@ const UNICORN_WORDS = [
     "definition": "food food which is unhealthy but quick and easy to eat",
     "example": "Review the word: junk.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-227",
@@ -2267,7 +2493,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: kit.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-228",
@@ -2277,7 +2504,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: know of.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-229",
@@ -2287,7 +2515,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: landscape.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-230",
@@ -2297,7 +2526,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: late shifts.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-231",
@@ -2307,7 +2537,8 @@ const UNICORN_WORDS = [
     "definition": "rt",
     "example": "Review the word: latte.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-232",
@@ -2317,7 +2548,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: lengthen.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-233",
@@ -2327,7 +2559,8 @@ const UNICORN_WORDS = [
     "definition": "how long a person can expect to live",
     "example": "Review the word: life expectancy.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-234",
@@ -2337,7 +2570,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: life span.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-235",
@@ -2347,7 +2581,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: lift/ elevator.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-236",
@@ -2357,7 +2592,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: light rail.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-237",
@@ -2367,7 +2603,8 @@ const UNICORN_WORDS = [
     "definition": "v.",
     "example": "Review the word: limit.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, v"
   },
   {
     "id": "unicorn-238",
@@ -2377,7 +2614,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: limitless.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj"
   },
   {
     "id": "unicorn-239",
@@ -2387,7 +2625,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: local leisure centers.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-240",
@@ -2397,7 +2636,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: log.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-241",
@@ -2407,7 +2647,8 @@ const UNICORN_WORDS = [
     "definition": "the activity or business of cutting down trees for wood",
     "example": "Review the word: logging.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-242",
@@ -2417,7 +2658,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: look to the future.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-243",
@@ -2427,7 +2669,8 @@ const UNICORN_WORDS = [
     "definition": "very good; very beautiful",
     "example": "Review the word: magnificent.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-244",
@@ -2437,7 +2680,8 @@ const UNICORN_WORDS = [
     "definition": "most serious or important",
     "example": "Review the word: major.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj, v"
   },
   {
     "id": "unicorn-245",
@@ -2447,7 +2691,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: make a difference.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-246",
@@ -2457,7 +2702,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: make an extra effort.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-247",
@@ -2467,7 +2713,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: manage.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-248",
@@ -2477,7 +2724,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: management.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-249",
@@ -2487,7 +2735,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: mangrove forest.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-250",
@@ -2497,7 +2746,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: marsh.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-251",
@@ -2507,7 +2757,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: methane.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-252",
@@ -2517,7 +2768,8 @@ const UNICORN_WORDS = [
     "definition": "not too much and not too little",
     "example": "Review the word: moderate.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj, v"
   },
   {
     "id": "unicorn-253",
@@ -2527,7 +2779,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: molecule.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-254",
@@ -2537,7 +2790,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: motorcycle.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-255",
@@ -2547,7 +2801,8 @@ const UNICORN_WORDS = [
     "definition": "used to describe animals and plants which grow naturally in a place",
     "example": "Review the word: native.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-256",
@@ -2557,7 +2812,8 @@ const UNICORN_WORDS = [
     "definition": "as found in nature; not made or caused by people",
     "example": "Review the word: natural.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-257",
@@ -2567,7 +2823,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: network.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-258",
@@ -2577,7 +2834,8 @@ const UNICORN_WORDS = [
     "definition": "relating to food and the way it affects your health",
     "example": "Review the word: nutritional.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj"
   },
   {
     "id": "unicorn-259",
@@ -2587,7 +2845,8 @@ const UNICORN_WORDS = [
     "definition": "the condition of weighing more than is healthy",
     "example": "Review the word: obesity.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-260",
@@ -2597,7 +2856,8 @@ const UNICORN_WORDS = [
     "definition": "easy to understand or see",
     "example": "Review the word: obvious.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-261",
@@ -2607,7 +2867,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: obvious.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-262",
@@ -2617,7 +2878,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: occur.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-263",
@@ -2627,7 +2889,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: off-season.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-264",
@@ -2637,7 +2900,8 @@ const UNICORN_WORDS = [
     "definition": "large scale",
     "example": "Review the word: on.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "prep, adv, adj"
   },
   {
     "id": "unicorn-265",
@@ -2647,7 +2911,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: option.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-266",
@@ -2657,7 +2922,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: optional.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-267",
@@ -2667,7 +2933,8 @@ const UNICORN_WORDS = [
     "definition": "v.",
     "example": "Review the word: ornament.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-268",
@@ -2677,7 +2944,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: otherwise.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adv"
   },
   {
     "id": "unicorn-269",
@@ -2687,7 +2955,8 @@ const UNICORN_WORDS = [
     "definition": "the outer area of a city or town",
     "example": "Review the word: outskirts.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-270",
@@ -2697,7 +2966,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: overall.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj, adv, n"
   },
   {
     "id": "unicorn-271",
@@ -2707,7 +2977,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: oxygen.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-272",
@@ -2717,7 +2988,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: paraphrase.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-273",
@@ -2727,7 +2999,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: particularly.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adv"
   },
   {
     "id": "unicorn-274",
@@ -2737,7 +3010,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: passenger.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-275",
@@ -2747,7 +3021,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: pasture.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-276",
@@ -2757,7 +3032,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: pay a fine.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-277",
@@ -2767,7 +3043,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: performing arts.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-278",
@@ -2777,7 +3054,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: persuade.",
     "source": "三册3单元扩展词汇2.doc",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-279",
@@ -2787,7 +3065,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: persuasion.",
     "source": "三册3单元扩展词汇2.doc",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-280",
@@ -2797,7 +3076,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: persuasive.",
     "source": "三册3单元扩展词汇2.doc",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-281",
@@ -2807,7 +3087,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: pest.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-282",
@@ -2817,7 +3098,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: petrol.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-283",
@@ -2827,7 +3109,8 @@ const UNICORN_WORDS = [
     "definition": "moving around and doing things",
     "example": "Review the word: physical activity.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-284",
@@ -2837,7 +3120,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: plagiarism.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-285",
@@ -2847,7 +3131,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: platform.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-286",
@@ -2857,7 +3142,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: political / social landscape.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-287",
@@ -2867,7 +3153,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: pollutant.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-288",
@@ -2877,7 +3164,8 @@ const UNICORN_WORDS = [
     "definition": "to make the air, water or land dirty and unhealthy",
     "example": "Review the word: pollute.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-289",
@@ -2887,7 +3175,8 @@ const UNICORN_WORDS = [
     "definition": "the amount of food served to one person",
     "example": "Review the word: portion.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, v"
   },
   {
     "id": "unicorn-290",
@@ -2897,7 +3186,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: portrait.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-291",
@@ -2907,7 +3197,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: possibility.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-292",
@@ -2917,7 +3208,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: pour-over coffee.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-293",
@@ -2927,7 +3219,8 @@ const UNICORN_WORDS = [
     "definition": "useful; suitable for the situation it is being used for",
     "example": "Review the word: practical.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-294",
@@ -2937,7 +3230,8 @@ const UNICORN_WORDS = [
     "definition": "to say what you think will happen in the future",
     "example": "Review the word: predict.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-295",
@@ -2947,7 +3241,8 @@ const UNICORN_WORDS = [
     "definition": "to keep something the same,or prevent it from being damaged or destroyed",
     "example": "Review the word: preserve.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "v, n"
   },
   {
     "id": "unicorn-296",
@@ -2957,7 +3252,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: preserve one's own unique cultural heritage.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-297",
@@ -2967,7 +3263,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: preserved eggs.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-298",
@@ -2977,7 +3274,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: preserved fruit.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-299",
@@ -2987,7 +3285,8 @@ const UNICORN_WORDS = [
     "definition": "to stop something happening or to stop someone doing something",
     "example": "Review the word: prevent.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-300",
@@ -2997,7 +3296,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: prey.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-301",
@@ -3007,7 +3307,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: promote other forms of transport.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-302",
@@ -3017,7 +3318,8 @@ const UNICORN_WORDS = [
     "definition": "to keep something or someone safe from damage or injury",
     "example": "Review the word: protect.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-303",
@@ -3027,7 +3329,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: protection.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-304",
@@ -3037,7 +3340,8 @@ const UNICORN_WORDS = [
     "definition": "the act of keeping someone or something safe from injury,damage or loss",
     "example": "Review the word: protection.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-305",
@@ -3047,7 +3351,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: protective.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "adj"
   },
   {
     "id": "unicorn-306",
@@ -3057,7 +3362,8 @@ const UNICORN_WORDS = [
     "definition": "to give someone something that they need",
     "example": "Review the word: provide.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-307",
@@ -3067,7 +3373,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: provide (homes to plants).",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-308",
@@ -3077,7 +3384,8 @@ const UNICORN_WORDS = [
     "definition": "a system of vehicles,such as buses and trains,which operate at regular times for public use",
     "example": "Review the word: public transport.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-309",
@@ -3087,7 +3395,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: question.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-310",
@@ -3097,7 +3406,8 @@ const UNICORN_WORDS = [
     "definition": "a forest in a tropical area with a rainfall of 250 cm or more per year",
     "example": "Review the word: rainforest.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-311",
@@ -3107,7 +3417,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: range.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, v"
   },
   {
     "id": "unicorn-312",
@@ -3117,7 +3428,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: read between the lines.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-313",
@@ -3127,7 +3439,8 @@ const UNICORN_WORDS = [
     "definition": "to understand;to accept that something is true",
     "example": "Review the word: recognize.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "v"
   },
   {
     "id": "unicorn-314",
@@ -3137,7 +3450,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: recognize the importance of.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-315",
@@ -3147,7 +3461,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: redden.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-316",
@@ -3157,7 +3472,8 @@ const UNICORN_WORDS = [
     "definition": "to make something less",
     "example": "Review the word: reduce.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-317",
@@ -3167,7 +3483,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: refuse to do.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-318",
@@ -3177,7 +3494,8 @@ const UNICORN_WORDS = [
     "definition": "sports or movement that people do at the same time each day,week,month,etc.",
     "example": "Review the word: regular exercise.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-319",
@@ -3187,7 +3505,8 @@ const UNICORN_WORDS = [
     "definition": "the way two people or groups feel and behave towards each other",
     "example": "Review the word: relationship.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-320",
@@ -3197,7 +3516,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: release into.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-321",
@@ -3207,7 +3527,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: reliable.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-322",
@@ -3217,7 +3538,8 @@ const UNICORN_WORDS = [
     "definition": "to stay in the same place or in the same condition",
     "example": "Review the word: remain.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-323",
@@ -3227,7 +3549,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: renewable energy.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-324",
@@ -3237,7 +3560,8 @@ const UNICORN_WORDS = [
     "definition": "to take the place of something or someone",
     "example": "Review the word: replace.",
     "source": "第一单元基础词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-325",
@@ -3247,7 +3571,8 @@ const UNICORN_WORDS = [
     "definition": "to need or demand something",
     "example": "Review the word: require.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-326",
@@ -3257,7 +3582,8 @@ const UNICORN_WORDS = [
     "definition": "a person who lives or has their home in a place",
     "example": "Review the word: resident.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-327",
@@ -3267,7 +3593,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: responsibility.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-328",
@@ -3277,7 +3604,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: restore.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "v"
   },
   {
     "id": "unicorn-329",
@@ -3287,7 +3615,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: restriction.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-330",
@@ -3297,7 +3626,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: rights.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-331",
@@ -3307,7 +3637,8 @@ const UNICORN_WORDS = [
     "definition": "v.",
     "example": "Review the word: risk.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, v"
   },
   {
     "id": "unicorn-332",
@@ -3317,7 +3648,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: ritual.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-333",
@@ -3327,7 +3659,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: road rage.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-334",
@@ -3337,7 +3670,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: run into trouble.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-335",
@@ -3347,7 +3681,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: sadden.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-336",
@@ -3357,7 +3692,8 @@ const UNICORN_WORDS = [
     "definition": "rabia",
     "example": "Review the word: saudi.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-337",
@@ -3367,7 +3703,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: scale.",
     "source": "三册2单元补充词单",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-338",
@@ -3377,7 +3714,8 @@ const UNICORN_WORDS = [
     "definition": "n.",
     "example": "Review the word: select.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj, v, n"
   },
   {
     "id": "unicorn-339",
@@ -3387,7 +3725,8 @@ const UNICORN_WORDS = [
     "definition": "being confident and believing in yourself",
     "example": "Review the word: self-esteem.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n"
   },
   {
     "id": "unicorn-340",
@@ -3397,7 +3736,8 @@ const UNICORN_WORDS = [
     "definition": "not joined or touching anything else",
     "example": "Review the word: separate.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, adj, v"
   },
   {
     "id": "unicorn-341",
@@ -3407,7 +3747,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: sequel.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n"
   },
   {
     "id": "unicorn-342",
@@ -3417,7 +3758,8 @@ const UNICORN_WORDS = [
     "definition": "a group of similar things that happen one after another",
     "example": "Review the word: series.",
     "source": "第一单元基础词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-343",
@@ -3427,7 +3769,8 @@ const UNICORN_WORDS = [
     "definition": "a serious problem or situation is bad and makes people worry",
     "example": "Review the word: serious.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-344",
@@ -3437,7 +3780,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: serious.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-345",
@@ -3447,7 +3791,8 @@ const UNICORN_WORDS = [
     "definition": "a very bad medical problem",
     "example": "Review the word: serious illness.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-346",
@@ -3457,7 +3802,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: shark fin.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-347",
@@ -3467,7 +3813,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: sharpen.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-348",
@@ -3477,7 +3824,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: shellfish.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-349",
@@ -3487,7 +3835,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: shore.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, v"
   },
   {
     "id": "unicorn-350",
@@ -3497,7 +3846,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: shorten.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-351",
@@ -3507,7 +3857,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: species.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-352",
@@ -3517,7 +3868,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: spectacular.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj, n"
   },
   {
     "id": "unicorn-353",
@@ -3527,7 +3879,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: split the time into 10-minute chunks.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-354",
@@ -3537,7 +3890,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: squash.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, v"
   },
   {
     "id": "unicorn-355",
@@ -3547,7 +3901,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: strengthen.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-356",
@@ -3557,7 +3912,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: strengthen muscles.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-357",
@@ -3567,7 +3923,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: stroke.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, v"
   },
   {
     "id": "unicorn-358",
@@ -3577,7 +3934,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: subconscious.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-359",
@@ -3587,7 +3945,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: subsequent.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "adj"
   },
   {
     "id": "unicorn-360",
@@ -3597,7 +3956,8 @@ const UNICORN_WORDS = [
     "definition": "to experience physical or mental pain",
     "example": "Review the word: suffer.",
     "source": "三册5单元基础词汇",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "v"
   },
   {
     "id": "unicorn-361",
@@ -3607,7 +3967,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: summary.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-362",
@@ -3617,7 +3978,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: surface.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n, adj, v"
   },
   {
     "id": "unicorn-363",
@@ -3627,7 +3989,8 @@ const UNICORN_WORDS = [
     "definition": "to stay alive; to continue to exist after a danger",
     "example": "Review the word: survive.",
     "source": "第一单元基础词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "v"
   },
   {
     "id": "unicorn-364",
@@ -3637,7 +4000,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: suspicious.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-365",
@@ -3647,7 +4011,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tackle the problem of.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-366",
@@ -3657,7 +4022,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: take risks.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "phr"
   },
   {
     "id": "unicorn-367",
@@ -3667,7 +4033,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: take steps to do.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "phr"
   },
   {
     "id": "unicorn-368",
@@ -3677,7 +4044,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: take steps/ measures to do.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-369",
@@ -3687,7 +4055,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: take the place.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-370",
@@ -3697,7 +4066,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: taken together.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-371",
@@ -3707,7 +4077,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tangible.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n, adj"
   },
   {
     "id": "unicorn-372",
@@ -3717,7 +4088,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: the evening/ morning rush hour.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-373",
@@ -3727,7 +4099,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: the grand canyon.",
     "source": "三册2单元扩展词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "phr"
   },
   {
     "id": "unicorn-374",
@@ -3737,7 +4110,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: the greenhouse effect.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-375",
@@ -3747,7 +4121,8 @@ const UNICORN_WORDS = [
     "definition": "to be likely to damage or harm something",
     "example": "Review the word: threaten.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-376",
@@ -3757,7 +4132,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: topknot.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-377",
@@ -3767,7 +4143,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tracks.",
     "source": "三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-378",
@@ -3777,7 +4154,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tradition.",
     "source": "三册4单元基础词汇",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-379",
@@ -3787,7 +4165,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: traditional.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-380",
@@ -3797,7 +4176,8 @@ const UNICORN_WORDS = [
     "definition": "when too many vehicles use a road network and it results in slower speeds,or no movement at all",
     "example": "Review the word: traffic congestion.",
     "source": "三册3单元基础词汇; 三册3单元扩展词汇1",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-381",
@@ -3807,7 +4187,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tremendous.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adj"
   },
   {
     "id": "unicorn-382",
@@ -3817,7 +4198,8 @@ const UNICORN_WORDS = [
     "definition": "a general development or change in a situation",
     "example": "Review the word: trend.",
     "source": "三册2单元基础词汇",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "n, v"
   },
   {
     "id": "unicorn-383",
@@ -3827,7 +4209,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tuna.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   },
   {
     "id": "unicorn-384",
@@ -3837,7 +4220,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: tunnel.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-385",
@@ -3847,7 +4231,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: typically.",
     "source": "三册4单元扩展词汇1",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "adv"
   },
   {
     "id": "unicorn-386",
@@ -3857,7 +4242,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: unconscious.",
     "source": "三册5单元扩展词汇1",
-    "unit": "unit5"
+    "unit": "unit5",
+    "part": "adj"
   },
   {
     "id": "unicorn-387",
@@ -3867,7 +4253,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: under threat.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-388",
@@ -3877,7 +4264,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: underground trains.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "phr"
   },
   {
     "id": "unicorn-389",
@@ -3887,7 +4275,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: value to the world.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-390",
@@ -3897,7 +4286,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: various.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-391",
@@ -3907,7 +4297,8 @@ const UNICORN_WORDS = [
     "definition": "any machine which travels on roads,such as cars,buses,etc.",
     "example": "Review the word: vehicle.",
     "source": "三册3单元基础词汇",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-392",
@@ -3917,7 +4308,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: veto.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-393",
@@ -3927,7 +4319,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: vote.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n, v"
   },
   {
     "id": "unicorn-394",
@@ -3937,7 +4330,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: voter.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "n"
   },
   {
     "id": "unicorn-395",
@@ -3947,7 +4341,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: wedding ceremony.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "n"
   },
   {
     "id": "unicorn-396",
@@ -3957,7 +4352,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: whereas.",
     "source": "第一单元拓展词汇2.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "conj"
   },
   {
     "id": "unicorn-397",
@@ -3967,7 +4363,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: widen.",
     "source": "三册2单元扩展词汇.doc",
-    "unit": "unit2"
+    "unit": "unit2",
+    "part": "v"
   },
   {
     "id": "unicorn-398",
@@ -3977,7 +4374,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: world heritage sites.",
     "source": "三册4单元扩展词汇2",
-    "unit": "unit4"
+    "unit": "unit4",
+    "part": "phr"
   },
   {
     "id": "unicorn-399",
@@ -3987,7 +4385,8 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: worldwide.",
     "source": "三册3单元扩展词汇2",
-    "unit": "unit3"
+    "unit": "unit3",
+    "part": "adj"
   },
   {
     "id": "unicorn-400",
@@ -3997,6 +4396,7 @@ const UNICORN_WORDS = [
     "definition": "",
     "example": "Review the word: zoology.",
     "source": "第一单元拓展词汇1.jpg",
-    "unit": "unit1"
+    "unit": "unit1",
+    "part": "n"
   }
 ];

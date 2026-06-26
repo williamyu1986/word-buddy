@@ -2276,7 +2276,8 @@ const CORE2000_WORDS = [
     "meaning": "买主,买方；[经]买主,买方,买手",
     "example": "I learned the word \"buyer\" today.",
     "book": "book1",
-    "unit": "unit10"
+    "unit": "unit10",
+    "part": "n"
   },
   {
     "id": "core2000-229",
