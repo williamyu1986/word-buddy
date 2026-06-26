@@ -147,6 +147,10 @@ const WORDS = [
 }));
 
 const EXAM_BANKS = typeof EXAM_WORD_BANKS === "undefined" ? {} : EXAM_WORD_BANKS;
+const FULL_WORD_BANKS = {
+  ket: typeof KET_WORDS === "undefined" ? [] : KET_WORDS
+};
+const FULL_WORDS = Object.values(FULL_WORD_BANKS).flat();
 const EXAM_WORDS = Object.entries(EXAM_BANKS).flatMap(([library, words]) =>
   words.map(([word, meaning, example], index) => ({
     id: `${library}-${index + 1}`,
@@ -342,7 +346,9 @@ async function saveCloudStateNow(silent = false) {
 }
 
 function allWords() {
-  return [...WORDS, ...EXAM_WORDS, ...UNICORN_WORDS, ...state.customWords];
+  const fullLibraries = new Set(Object.keys(FULL_WORD_BANKS).filter(library => FULL_WORD_BANKS[library].length));
+  const starterWords = EXAM_WORDS.filter(word => !fullLibraries.has(word.library));
+  return [...WORDS, ...starterWords, ...FULL_WORDS, ...UNICORN_WORDS, ...state.customWords];
 }
 
 function activeWords() {
@@ -351,6 +357,7 @@ function activeWords() {
     if (state.selectedUnicornUnit === "all") return UNICORN_WORDS;
     return UNICORN_WORDS.filter(word => word.unit?.split("; ").includes(state.selectedUnicornUnit));
   }
+  if (FULL_WORD_BANKS[state.selectedLibrary]?.length) return FULL_WORD_BANKS[state.selectedLibrary];
   const examWords = EXAM_WORDS.filter(word => word.library === state.selectedLibrary);
   if (examWords.length) return examWords;
   return WORDS;
@@ -521,6 +528,12 @@ function startSession(onlyWrong = false) {
 
 function currentWord() {
   return state.session?.queue[state.session.index];
+}
+
+function isCorrectSpelling(input, word) {
+  const answer = input.trim().toLowerCase();
+  const accepted = [word.word, ...(word.aliases || [])].map(item => String(item).toLowerCase());
+  return accepted.includes(answer);
 }
 
 function markWord(word, correct) {
@@ -747,7 +760,7 @@ function renderHome() {
 
 function renderLibrary() {
   const customCount = state.customWords.length;
-  const examCount = library => EXAM_WORDS.filter(word => word.library === library).length;
+  const examCount = library => FULL_WORD_BANKS[library]?.length || EXAM_WORDS.filter(word => word.library === library).length;
   return `
     <section class="screen">
       <header class="topbar">
@@ -1144,7 +1157,7 @@ document.addEventListener("click", async event => {
     if (state.session.feedback) return;
     const input = document.querySelector("#spellInput");
     const word = currentWord();
-    const spelledRight = input.value.trim().toLowerCase() === word.word.toLowerCase();
+    const spelledRight = isCorrectSpelling(input.value, word);
     const mastered = spelledRight && !state.session.currentMistake;
     state.session.feedback = mastered ? "拼写正确，已经记下这次进步。" : `还差一点，答案是 ${word.word}`;
     state.session.pendingNext = "advance";
