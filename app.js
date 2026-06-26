@@ -146,6 +146,17 @@ const WORDS = [
   example
 }));
 
+const EXAM_BANKS = typeof EXAM_WORD_BANKS === "undefined" ? {} : EXAM_WORD_BANKS;
+const EXAM_WORDS = Object.entries(EXAM_BANKS).flatMap(([library, words]) =>
+  words.map(([word, meaning, example], index) => ({
+    id: `${library}-${index + 1}`,
+    library,
+    word,
+    meaning,
+    example
+  }))
+);
+
 const STORAGE_KEY = "word-buddy-state-v1";
 const CLOUD_AUTH_KEY = "word-buddy-cloud-auth-v1";
 const todayKey = () => new Date().toISOString().slice(0, 10);
@@ -331,7 +342,7 @@ async function saveCloudStateNow(silent = false) {
 }
 
 function allWords() {
-  return [...WORDS, ...UNICORN_WORDS, ...state.customWords];
+  return [...WORDS, ...EXAM_WORDS, ...UNICORN_WORDS, ...state.customWords];
 }
 
 function activeWords() {
@@ -340,6 +351,8 @@ function activeWords() {
     if (state.selectedUnicornUnit === "all") return UNICORN_WORDS;
     return UNICORN_WORDS.filter(word => word.unit?.split("; ").includes(state.selectedUnicornUnit));
   }
+  const examWords = EXAM_WORDS.filter(word => word.library === state.selectedLibrary);
+  if (examWords.length) return examWords;
   return WORDS;
 }
 
@@ -352,6 +365,27 @@ function libraryMeta() {
       badge: "中考核心",
       subtitle: `中考核心词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
       empty: "可以切换到中考词库，或在家长设置里导入自定义词。",
+    },
+    gaokao: {
+      title: "高考核心词",
+      short: "高考核心词",
+      badge: "高考核心",
+      subtitle: `高考核心词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
+      empty: "高考核心词库暂时没有词，可以切换其他词库。",
+    },
+    ket: {
+      title: "KET 常用词",
+      short: "KET 常用词",
+      badge: "KET",
+      subtitle: `KET 常用词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
+      empty: "KET 词库暂时没有词，可以切换其他词库。",
+    },
+    pet: {
+      title: "PET 常用词",
+      short: "PET 常用词",
+      badge: "PET",
+      subtitle: `PET 常用词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
+      empty: "PET 词库暂时没有词，可以切换其他词库。",
     },
     unicorn: {
       title: "独角兽背单词",
@@ -682,23 +716,25 @@ function renderHome() {
 
 function renderLibrary() {
   const customCount = state.customWords.length;
+  const examCount = library => EXAM_WORDS.filter(word => word.library === library).length;
   return `
     <section class="screen">
       <header class="topbar">
         <div>
           <p class="eyebrow">选择词库</p>
           <h1>今天背哪一本？</h1>
-          <p class="muted">中考、自定义和 Unlock 3 可以分开学习；独角兽词库支持按单元选择。</p>
+          <p class="muted">中考、高考、KET、PET、自定义和 Unlock 3 可以分开学习；独角兽词库支持按单元选择。</p>
         </div>
         <div class="sticker">本</div>
       </header>
       <div class="library-list">
         ${libraryCard("zhongkao", "中考核心词", `${WORDS.length} 个示例词`, "已开放")}
+        ${libraryCard("gaokao", "高考核心词", `${examCount("gaokao")} 个核心词`, "高考")}
+        ${libraryCard("ket", "KET 常用词", `${examCount("ket")} 个常用词`, "KET")}
+        ${libraryCard("pet", "PET 常用词", `${examCount("pet")} 个常用词`, "PET")}
         ${libraryCard("unicorn", "独角兽背单词", `${unicornUnitCount(state.selectedUnicornUnit)} / ${UNICORN_WORDS.length} 个词/短语`, "Unlock 3")}
         ${state.selectedLibrary === "unicorn" ? renderUnicornUnitPicker() : ""}
         ${libraryCard("custom", "自定义词库", `${customCount} 个词`, customCount ? "可学习" : "先去导入")}
-        ${lockedCard("高考词库", "后续扩展")}
-        ${lockedCard("KET / PET", "后续扩展")}
       </div>
     </section>
   `;
