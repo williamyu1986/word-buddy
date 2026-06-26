@@ -342,16 +342,16 @@ h3 {
 }
 
 .chip-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 8px;
-  margin: 12px -17px 0;
-  padding: 0 17px 4px;
-  overflow-x: auto;
-  scrollbar-width: none;
+  margin-top: 12px;
 }
 
-.chip-row::-webkit-scrollbar {
-  display: none;
+.chip-row .chip-btn {
+  width: 100%;
+  padding: 8px 6px;
+  font-size: 13px;
 }
 
 .layered-panel {
