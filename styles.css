@@ -226,6 +226,14 @@ h3 {
   gap: 10px;
 }
 
+.button-row.three-actions {
+  grid-template-columns: 1fr;
+}
+
+.study-card .button-row {
+  grid-template-columns: 1fr;
+}
+
 .unit-grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -397,6 +405,13 @@ h3 {
   overflow-wrap: anywhere;
 }
 
+.phonetic {
+  margin: -4px 0 12px;
+  color: var(--muted);
+  font-size: 17px;
+  font-weight: 800;
+}
+
 .sound-btn {
   display: inline-grid;
   place-items: center;
@@ -421,6 +436,10 @@ h3 {
   border-left: 4px solid var(--mint);
   color: var(--muted);
   line-height: 1.55;
+}
+
+.quiz-prompt {
+  margin: 0 0 14px;
 }
 
 .definition-box {
@@ -464,17 +483,24 @@ h3 {
 }
 
 .choice-btn:disabled {
-  opacity: 0.72;
+  opacity: 1;
 }
 
 .choice-btn.correct {
   border-color: #64ad86;
-  background: #e8f8ef;
+  background: #dff5e9;
+  color: #163929;
 }
 
 .choice-btn.wrong {
   border-color: #d98274;
-  background: #ffe9e4;
+  background: #ffe3dc;
+  color: #4c211a;
+}
+
+.choice-btn.dimmed {
+  background: #fffaf0;
+  color: var(--muted);
 }
 
 .spell-input {

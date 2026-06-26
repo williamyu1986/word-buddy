@@ -573,6 +573,31 @@ function escapeHtml(value) {
     .replaceAll("'", "&#39;");
 }
 
+function wordPart(word) {
+  const raw = String(word.part || word.pos || "").trim();
+  if (!raw) return "";
+  return raw
+    .replaceAll("preposition", "prep.")
+    .replaceAll("determiner", "det.")
+    .replace(/\s+/g, " ")
+    .replace(/\.$/, ".")
+    .trim();
+}
+
+function formattedMeaning(word) {
+  const part = wordPart(word);
+  return `${part ? `${part} ` : ""}${word.meaning}`;
+}
+
+function phoneticLine(word) {
+  const phonetic = String(word.phonetic || "").trim();
+  return phonetic ? `<p class="phonetic">/${escapeHtml(phonetic.replace(/^\/|\/$/g, ""))}/</p>` : "";
+}
+
+function promptLine(word) {
+  return word.definition || word.example || "";
+}
+
 function stats() {
   const progressValues = Object.values(state.progress);
   const learned = progressValues.filter(item => item.seen > 0).length;
@@ -632,12 +657,13 @@ function startSession(onlyWrong = false) {
   state.session = {
     queue,
     index: 0,
-    stage: "card",
+    stage: "choice",
     correct: 0,
     wrong: 0,
     answer: "",
     feedback: "",
-    choices: [],
+    choices: queue[0] ? makeMeaningChoices(queue[0]) : [],
+    selectedChoice: "",
     pendingNext: "",
     completedIds: [],
     currentMistake: false
@@ -689,6 +715,7 @@ function completeWord(correct) {
 function nextStage() {
   const session = state.session;
   if (!session) return;
+  clearAutoAdvance();
   const word = currentWord();
   if (session.stage === "card") {
     setStage(nextStageName("card", word), word);
@@ -705,10 +732,12 @@ function nextStage() {
 
 function setStage(stage, word) {
   const session = state.session;
+  clearAutoAdvance();
   session.stage = stage;
   session.feedback = "";
   session.pendingNext = "";
   session.answer = "";
+  session.selectedChoice = "";
   if (stage === "choice") {
     session.choices = makeMeaningChoices(word);
   } else if (stage === "reverse-choice") {
@@ -718,37 +747,64 @@ function setStage(stage, word) {
   }
 }
 
+function clearAutoAdvance() {
+  if (state.session?.autoAdvanceTimer) {
+    clearTimeout(state.session.autoAdvanceTimer);
+    state.session.autoAdvanceTimer = null;
+  }
+}
+
+function autoAdvanceToCard(wordId, selectedChoice) {
+  clearAutoAdvance();
+  state.session.autoAdvanceTimer = setTimeout(() => {
+    const word = currentWord();
+    if (
+      state.session
+      && state.session.stage === "choice"
+      && word?.id === wordId
+      && state.session.selectedChoice === selectedChoice
+    ) {
+      setStage("card", word);
+      render();
+    }
+  }, 2000);
+}
+
 function stageSequence(word) {
-  if (word.library === "unicorn" && word.definition) return ["choice", "spell"];
-  if (word.library === "unicorn") return ["choice", "reverse-choice"];
-  return ["choice", "spell"];
+  if (word.library === "unicorn" && word.definition) return ["choice", "card", "spell"];
+  if (word.library === "unicorn") return ["choice", "card", "reverse-choice"];
+  return ["choice", "card", "spell"];
 }
 
 function nextStageName(stage, word) {
   const sequence = stageSequence(word);
-  if (stage === "card") return sequence[0];
   const index = sequence.indexOf(stage);
   return index >= 0 ? sequence[index + 1] : "";
 }
 
 function advanceWord() {
   const session = state.session;
+  clearAutoAdvance();
   session.index += 1;
-  session.stage = session.index >= session.queue.length ? "result" : "card";
+  session.stage = session.index >= session.queue.length ? "result" : "choice";
   session.feedback = "";
   session.answer = "";
   session.choices = [];
+  session.selectedChoice = "";
   session.pendingNext = "";
   session.currentMistake = false;
+  if (session.stage === "choice") {
+    setStage("choice", currentWord());
+  }
 }
 
 function makeMeaningChoices(word) {
-  const otherMeanings = allWords()
+  const otherChoices = allWords()
     .filter(item => item.id !== word.id)
     .sort(() => Math.random() - 0.5)
     .slice(0, 3)
-    .map(item => item.meaning);
-  return [word.meaning, ...otherMeanings].sort(() => Math.random() - 0.5);
+    .map(item => ({ value: item.meaning, label: formattedMeaning(item) }));
+  return [{ value: word.meaning, label: formattedMeaning(word) }, ...otherChoices].sort(() => Math.random() - 0.5);
 }
 
 function makeWordChoices(word) {
@@ -1087,6 +1143,7 @@ function renderStudy() {
 
 function renderCard(word, count) {
   const meta = libraryMeta();
+  const cardPrompt = word.definition ? word.example : promptLine(word);
   return `
     <section class="screen">
       <header class="topbar">
@@ -1100,12 +1157,14 @@ function renderCard(word, count) {
         <div>
           <span class="pill">${meta.badge}</span>
           <div class="word-main">${word.word}</div>
-          <div class="meaning-box">${word.meaning}</div>
+          ${phoneticLine(word)}
+          <div class="meaning-box">${formattedMeaning(word)}</div>
           ${word.definition ? `<p class="definition-box">${word.definition}</p>` : ""}
-          <p class="example">${word.example}</p>
+          ${cardPrompt ? `<p class="example">${cardPrompt}</p>` : ""}
         </div>
         <div class="button-row">
-          <button class="secondary-btn" data-action="next-stage">认识，去练习</button>
+          <button class="ghost-btn" data-action="back-to-choice">回到选择题</button>
+          <button class="secondary-btn" data-action="next-stage">继续练习</button>
           <button class="ghost-btn" data-action="skip-word">跳过，稍后复习</button>
         </div>
       </article>
@@ -1113,20 +1172,30 @@ function renderCard(word, count) {
   `;
 }
 
+function choiceButtonClass(choice, word) {
+  if (!state.session.feedback) return "choice-btn";
+  if (choice.value === word.meaning) return "choice-btn correct";
+  if (choice.value === state.session.selectedChoice) return "choice-btn wrong";
+  return "choice-btn dimmed";
+}
+
 function renderChoice(word, count) {
+  const prompt = promptLine(word);
   return `
     <section class="screen">
       <header class="topbar">
         <div>
           <p class="eyebrow">选择题 ${count}</p>
           <h1>${word.word}</h1>
+          ${phoneticLine(word)}
           <p class="muted">选择最合适的中文释义。</p>
         </div>
         <button class="sound-btn" data-action="speak" data-word="${word.word}" aria-label="朗读 ${word.word}">▶</button>
       </header>
       <article class="card quiz-card">
+        ${prompt ? `<p class="example quiz-prompt">${prompt}</p>` : ""}
         <div class="choice-list">
-          ${state.session.choices.map(choice => `<button class="choice-btn" data-action="answer-choice" data-choice="${choice}" ${state.session.feedback ? "disabled" : ""}>${choice}</button>`).join("")}
+          ${state.session.choices.map(choice => `<button class="${choiceButtonClass(choice, word)}" data-action="answer-choice" data-choice="${escapeHtml(choice.value)}" ${state.session.feedback ? "disabled" : ""}>${escapeHtml(choice.label)}</button>`).join("")}
         </div>
         <p class="feedback ${state.session.feedback ? (state.session.feedback.includes("正确") ? "good" : "bad") : ""}">${state.session.feedback}</p>
         ${renderFeedbackActions()}
@@ -1152,7 +1221,10 @@ function renderReverseChoice(word, count) {
         </div>
         <p class="feedback ${state.session.feedback ? (state.session.feedback.includes("正确") ? "good" : "bad") : ""}">${state.session.feedback}</p>
         ${renderFeedbackActions()}
-        ${state.session.feedback ? "" : `<button class="ghost-btn" data-action="skip-word">跳过</button>`}
+        ${state.session.feedback ? "" : `<div class="button-row">
+          <button class="ghost-btn" data-action="back-to-card">回到单词卡</button>
+          <button class="ghost-btn" data-action="skip-word">跳过</button>
+        </div>`}
       </article>
     </section>
   `;
@@ -1175,8 +1247,9 @@ function renderSpell(word, count) {
         <input class="spell-input" id="spellInput" placeholder="输入英文单词" autocomplete="off" ${state.session.feedback ? "disabled" : ""} />
         <p class="feedback ${state.session.feedback ? (state.session.feedback.includes("正确") ? "good" : "bad") : ""}">${state.session.feedback}</p>
         ${renderFeedbackActions()}
-        ${state.session.feedback ? "" : `<div class="button-row">
+        ${state.session.feedback ? "" : `<div class="button-row three-actions">
           <button class="primary-btn" data-action="answer-spell">检查答案</button>
+          <button class="ghost-btn" data-action="back-to-card">回到单词卡</button>
           <button class="ghost-btn" data-action="skip-word">跳过</button>
         </div>`}
       </article>
@@ -1186,6 +1259,14 @@ function renderSpell(word, count) {
 
 function renderFeedbackActions() {
   if (!state.session?.feedback) return "";
+  if (state.session.stage === "choice") {
+    return `
+      <div class="feedback-actions">
+        <button class="primary-btn" data-action="continue-after-feedback">查看单词卡</button>
+        <button class="ghost-btn" data-action="back-to-choice">重新选择</button>
+      </div>
+    `;
+  }
   return `
     <div class="feedback-actions">
       <button class="primary-btn" data-action="continue-after-feedback">下一步</button>
@@ -1372,9 +1453,11 @@ document.addEventListener("click", async event => {
     const word = currentWord();
     const correct = target.dataset.choice === word.meaning;
     const next = nextStageName(state.session.stage, word);
-    state.session.feedback = correct ? "正确，先看一眼再继续。" : `不熟，正确释义是：${word.meaning}`;
+    state.session.selectedChoice = target.dataset.choice;
+    state.session.feedback = correct ? "正确，马上进入单词卡。" : `不熟，正确释义是：${formattedMeaning(word)}`;
     state.session.pendingNext = next ? "next-stage" : "advance";
     if (!correct) state.session.currentMistake = true;
+    if (correct) autoAdvanceToCard(word.id, target.dataset.choice);
     render();
   }
   if (action === "answer-word-choice") {
@@ -1399,6 +1482,7 @@ document.addEventListener("click", async event => {
     render();
   }
   if (action === "continue-after-feedback") {
+    clearAutoAdvance();
     if (state.session.pendingNext === "next-stage") {
       nextStage();
     } else {
@@ -1412,6 +1496,13 @@ document.addEventListener("click", async event => {
     session.feedback = "";
     session.pendingNext = "";
     session.choices = [];
+    session.selectedChoice = "";
+    clearAutoAdvance();
+    render();
+  }
+  if (action === "back-to-choice") {
+    const word = currentWord();
+    setStage("choice", word);
     render();
   }
   if (action === "select-library") {
