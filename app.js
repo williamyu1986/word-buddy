@@ -460,12 +460,43 @@ function stats() {
   };
 }
 
+function normalizedHeadword(word) {
+  return word.word.toLowerCase().replace(/[^a-z]/g, "");
+}
+
+function isAlphabeticalWordList(words) {
+  if (words.length < 8) return false;
+  let orderedPairs = 0;
+  let comparablePairs = 0;
+  for (let index = 1; index < words.length; index += 1) {
+    const previous = normalizedHeadword(words[index - 1]);
+    const current = normalizedHeadword(words[index]);
+    if (!previous || !current || previous === current) continue;
+    comparablePairs += 1;
+    if (previous <= current) orderedPairs += 1;
+  }
+  return comparablePairs > 0 && orderedPairs / comparablePairs > 0.9;
+}
+
+function shuffledWords(words) {
+  const result = [...words];
+  for (let index = result.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(Math.random() * (index + 1));
+    [result[index], result[swapIndex]] = [result[swapIndex], result[index]];
+  }
+  return result;
+}
+
 function buildQueue(onlyWrong = false) {
   const words = activeWords();
+  const shouldShuffle = isAlphabeticalWordList(words);
   const wrongWords = words.filter(word => getProgress(word.id).status === "wrong");
   const newWords = words.filter(word => getProgress(word.id).seen === 0);
   const reviewWords = words.filter(word => getProgress(word.id).seen > 0 && getProgress(word.id).status !== "wrong");
-  const pool = onlyWrong ? wrongWords : [...wrongWords, ...newWords, ...reviewWords];
+  const orderedWrongWords = shouldShuffle ? shuffledWords(wrongWords) : wrongWords;
+  const orderedNewWords = shouldShuffle ? shuffledWords(newWords) : newWords;
+  const orderedReviewWords = shouldShuffle ? shuffledWords(reviewWords) : reviewWords;
+  const pool = onlyWrong ? orderedWrongWords : [...orderedWrongWords, ...orderedNewWords, ...orderedReviewWords];
   return pool.slice(0, Math.max(1, Number(state.settings.dailyGoal) || 15));
 }
 
