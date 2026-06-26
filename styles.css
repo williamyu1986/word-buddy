@@ -309,16 +309,10 @@ h3 {
 }
 
 .library-tabs {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 8px;
-  margin: 0 -18px 14px;
-  padding: 0 18px 4px;
-  overflow-x: auto;
-  scrollbar-width: none;
-}
-
-.library-tabs::-webkit-scrollbar {
-  display: none;
+  margin: 0 0 14px;
 }
 
 .library-tab,
@@ -332,6 +326,12 @@ h3 {
   color: var(--ink);
   font-weight: 850;
   white-space: nowrap;
+}
+
+.library-tab {
+  width: 100%;
+  padding: 8px 6px;
+  font-size: 13px;
 }
 
 .library-tab.active,
