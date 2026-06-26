@@ -953,7 +953,7 @@ function renderHome() {
     <section class="screen">
       <header class="topbar">
         <div>
-          <p class="eyebrow">词语小手账</p>
+          <p class="eyebrow">奥利奥学英语</p>
           <h1>今天也收集一点进步</h1>
           <p class="muted">${meta.subtitle}</p>
         </div>
