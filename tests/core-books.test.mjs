@@ -21,9 +21,16 @@ function countBy(items, field) {
 }
 
 test("2000 Core English Words keeps book and unit metadata", () => {
-  assert.equal(core2000.length, 1598);
+  assert.equal(core2000.length, 1600);
   assert.equal(core2000.some(item => item.meaning === "待核对释义"), false);
   assert.deepEqual(Object.keys(countBy(core2000, "book")).sort(), ["book1", "book2", "book3", "book4"]);
+
+  const book1 = core2000.filter(item => item.book === "book1");
+  assert.equal(book1.length, 400);
+  assert.equal(book1.filter(item => item.unit === "unit7").length, 25);
+  assert.equal(book1.filter(item => item.unit === "unit10").length, 25);
+  assert.ok(book1.find(item => item.word === "cafe"));
+  assert.ok(book1.find(item => item.word === "buyer"));
 
   const book2 = core2000.filter(item => item.book === "book2");
   assert.equal(new Set(book2.map(item => item.unit)).size, 16);
