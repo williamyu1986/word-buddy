@@ -579,6 +579,7 @@ function wordPart(word) {
   return raw
     .replaceAll("preposition", "prep.")
     .replaceAll("determiner", "det.")
+    .replace(/\b(phr v|prep phr|exclam|adj|adv|prep|conj|pron|det|n|v)\b\.?/g, "$1.")
     .replace(/\s+/g, " ")
     .replace(/\.$/, ".")
     .trim();
@@ -799,11 +800,20 @@ function advanceWord() {
 }
 
 function makeMeaningChoices(word) {
-  const otherChoices = allWords()
-    .filter(item => item.id !== word.id)
-    .sort(() => Math.random() - 0.5)
-    .slice(0, 3)
-    .map(item => ({ value: item.meaning, label: formattedMeaning(item) }));
+  const scopedWords = activeWords().filter(item => item.id !== word.id);
+  const fallbackWords = allWords().filter(item => item.id !== word.id && item.library === word.library);
+  const broaderFallbackWords = allWords().filter(item => item.id !== word.id);
+  const seenMeanings = new Set([word.meaning]);
+  const otherChoices = [];
+  for (const pool of [shuffledWords(scopedWords), shuffledWords(fallbackWords), shuffledWords(broaderFallbackWords)]) {
+    for (const item of pool) {
+      if (otherChoices.length >= 3) break;
+      if (seenMeanings.has(item.meaning)) continue;
+      seenMeanings.add(item.meaning);
+      otherChoices.push({ value: item.meaning, label: formattedMeaning(item) });
+    }
+    if (otherChoices.length >= 3) break;
+  }
   return [{ value: word.meaning, label: formattedMeaning(word) }, ...otherChoices].sort(() => Math.random() - 0.5);
 }
 
