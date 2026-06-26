@@ -150,7 +150,10 @@ const EXAM_BANKS = typeof EXAM_WORD_BANKS === "undefined" ? {} : EXAM_WORD_BANKS
 const FULL_WORD_BANKS = {
   zhongkao: typeof ZHONGKAO_WORDS === "undefined" ? [] : ZHONGKAO_WORDS,
   gaokao: typeof GAOKAO_WORDS === "undefined" ? [] : GAOKAO_WORDS,
-  ket: typeof KET_WORDS === "undefined" ? [] : KET_WORDS
+  ket: typeof KET_WORDS === "undefined" ? [] : KET_WORDS,
+  pet: typeof PET_WORDS === "undefined" ? [] : PET_WORDS,
+  core2000: typeof CORE2000_WORDS === "undefined" ? [] : CORE2000_WORDS,
+  eew4000: typeof EEW4000_WORDS === "undefined" ? [] : EEW4000_WORDS
 };
 const FULL_WORDS = Object.values(FULL_WORD_BANKS).flat();
 const EXAM_WORDS = Object.entries(EXAM_BANKS).flatMap(([library, words]) =>
@@ -171,6 +174,10 @@ const defaultState = {
   view: "home",
   selectedLibrary: "zhongkao",
   selectedUnicornUnit: "all",
+  selectedCore2000Book: "all",
+  selectedCore2000Unit: "all",
+  selectedEEW4000Book: "all",
+  selectedEEW4000Unit: "all",
   customWords: [],
   settings: { dailyGoal: 15 },
   progress: {},
@@ -202,6 +209,10 @@ function saveState() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify({
     selectedLibrary: state.selectedLibrary,
     selectedUnicornUnit: state.selectedUnicornUnit,
+    selectedCore2000Book: state.selectedCore2000Book,
+    selectedCore2000Unit: state.selectedCore2000Unit,
+    selectedEEW4000Book: state.selectedEEW4000Book,
+    selectedEEW4000Unit: state.selectedEEW4000Unit,
     customWords: state.customWords,
     settings: state.settings,
     progress: state.progress,
@@ -219,6 +230,10 @@ function syncPayload() {
   return {
     selectedLibrary: state.selectedLibrary,
     selectedUnicornUnit: state.selectedUnicornUnit,
+    selectedCore2000Book: state.selectedCore2000Book,
+    selectedCore2000Unit: state.selectedCore2000Unit,
+    selectedEEW4000Book: state.selectedEEW4000Book,
+    selectedEEW4000Unit: state.selectedEEW4000Unit,
     customWords: state.customWords,
     settings: state.settings,
     progress: state.progress,
@@ -268,6 +283,10 @@ function applyCloudState(remote) {
   if (!remote) return;
   state.selectedLibrary = remote.selectedLibrary || state.selectedLibrary;
   state.selectedUnicornUnit = remote.selectedUnicornUnit || state.selectedUnicornUnit;
+  state.selectedCore2000Book = remote.selectedCore2000Book || state.selectedCore2000Book;
+  state.selectedCore2000Unit = remote.selectedCore2000Unit || state.selectedCore2000Unit;
+  state.selectedEEW4000Book = remote.selectedEEW4000Book || state.selectedEEW4000Book;
+  state.selectedEEW4000Unit = remote.selectedEEW4000Unit || state.selectedEEW4000Unit;
   state.customWords = mergeArraysBy(
     [...(remote.customWords || []), ...state.customWords],
     item => `${item.word}::${item.meaning}`
@@ -354,11 +373,25 @@ function allWords() {
   return [...baseWords, ...starterWords, ...FULL_WORDS, ...UNICORN_WORDS, ...state.customWords];
 }
 
+function filteredByBookAndUnit(words, book, unit) {
+  return words.filter(word => {
+    const bookMatches = book === "all" || word.book === book;
+    const unitMatches = unit === "all" || word.unit === unit;
+    return bookMatches && unitMatches;
+  });
+}
+
 function activeWords() {
   if (state.selectedLibrary === "custom") return state.customWords;
   if (state.selectedLibrary === "unicorn") {
     if (state.selectedUnicornUnit === "all") return UNICORN_WORDS;
     return UNICORN_WORDS.filter(word => word.unit?.split("; ").includes(state.selectedUnicornUnit));
+  }
+  if (state.selectedLibrary === "core2000") {
+    return filteredByBookAndUnit(FULL_WORD_BANKS.core2000, state.selectedCore2000Book, state.selectedCore2000Unit);
+  }
+  if (state.selectedLibrary === "eew4000") {
+    return filteredByBookAndUnit(FULL_WORD_BANKS.eew4000, state.selectedEEW4000Book, state.selectedEEW4000Unit);
   }
   if (FULL_WORD_BANKS[state.selectedLibrary]?.length) return FULL_WORD_BANKS[state.selectedLibrary];
   const examWords = EXAM_WORDS.filter(word => word.library === state.selectedLibrary);
@@ -368,6 +401,8 @@ function activeWords() {
 
 function libraryMeta() {
   const unitLabel = unicornUnitLabel(state.selectedUnicornUnit);
+  const coreRange = layeredRangeLabel("core2000", state.selectedCore2000Book, state.selectedCore2000Unit);
+  const eewRange = layeredRangeLabel("eew4000", state.selectedEEW4000Book, state.selectedEEW4000Unit);
   const metas = {
     zhongkao: {
       title: "黑龙江中考词库",
@@ -391,11 +426,25 @@ function libraryMeta() {
       empty: "KET 词库暂时没有词，可以切换其他词库。",
     },
     pet: {
-      title: "PET 常用词",
-      short: "PET 常用词",
+      title: "PET 2020 词表",
+      short: "PET 2020",
       badge: "PET",
-      subtitle: `PET 常用词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
+      subtitle: `PET 2020 词表 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
       empty: "PET 词库暂时没有词，可以切换其他词库。",
+    },
+    core2000: {
+      title: "2000 Core English Words",
+      short: `2000词 · ${coreRange}`,
+      badge: `2000词 · ${coreRange}`,
+      subtitle: `2000 Core English Words · ${coreRange} · 每日 ${Number(state.settings.dailyGoal) || 15} 个`,
+      empty: "当前 2000 词范围暂时没有词，可以切换其他册或单元。",
+    },
+    eew4000: {
+      title: "4000 Essential English Words",
+      short: `4000词 · ${eewRange}`,
+      badge: `4000词 · ${eewRange}`,
+      subtitle: `4000 Essential English Words · ${eewRange} · 每日 ${Number(state.settings.dailyGoal) || 15} 个`,
+      empty: "当前 4000 词范围暂时没有词，可以切换其他册或单元。",
     },
     unicorn: {
       title: "独角兽背单词",
@@ -413,6 +462,27 @@ function libraryMeta() {
     },
   };
   return metas[state.selectedLibrary] || metas.zhongkao;
+}
+
+function bookLabel(book) {
+  if (book === "all") return "全部册";
+  const match = String(book).match(/\d+/);
+  return match ? `第${match[0]}册` : "全部册";
+}
+
+function unitLabel(unit) {
+  if (unit === "all") return "全部单元";
+  const match = String(unit).match(/\d+/);
+  return match ? `U${match[0]}` : "全部单元";
+}
+
+function layeredRangeLabel(library, book, unit) {
+  if (library === "core2000" || library === "eew4000") {
+    if (book === "all") return "全部册";
+    if (unit === "all") return `${bookLabel(book)} · 全部单元`;
+    return `${bookLabel(book)} · ${unitLabel(unit)}`;
+  }
+  return "全部词";
 }
 
 function unicornUnitLabel(unit) {
@@ -762,28 +832,94 @@ function renderHome() {
 }
 
 function renderLibrary() {
-  const customCount = state.customWords.length;
-  const examCount = library => FULL_WORD_BANKS[library]?.length || EXAM_WORDS.filter(word => word.library === library).length;
+  const selectedCount = activeWords().length;
+  const meta = libraryMeta();
   return `
     <section class="screen">
       <header class="topbar">
         <div>
           <p class="eyebrow">选择词库</p>
           <h1>今天背哪一本？</h1>
-          <p class="muted">中考、高考、KET、PET、自定义和 Unlock 3 可以分开学习；独角兽词库支持按单元选择。</p>
+          <p class="muted">先选大类，再选册或单元。页面只展开当前词库，保持短一点。</p>
         </div>
         <div class="sticker">本</div>
       </header>
-      <div class="library-list">
-        ${libraryCard("zhongkao", "黑龙江中考词库", `${examCount("zhongkao")} 个基础词`, "基础版")}
-        ${libraryCard("gaokao", "高考新课标词库", `${examCount("gaokao")} 个词`, "完整版")}
-        ${libraryCard("ket", "KET 常用词", `${examCount("ket")} 个常用词`, "KET")}
-        ${libraryCard("pet", "PET 常用词", `${examCount("pet")} 个常用词`, "PET")}
-        ${libraryCard("unicorn", "独角兽背单词", `${unicornUnitCount(state.selectedUnicornUnit)} / ${UNICORN_WORDS.length} 个词/短语`, "Unlock 3")}
-        ${state.selectedLibrary === "unicorn" ? renderUnicornUnitPicker() : ""}
-        ${libraryCard("custom", "自定义词库", `${customCount} 个词`, customCount ? "可学习" : "先去导入")}
-      </div>
+      <article class="card library-summary">
+        <span class="pill">${meta.badge}</span>
+        <h2>${meta.title}</h2>
+        <p class="muted">当前范围：${selectedCount} 个词</p>
+        <button class="primary-btn" data-action="start">开始学习这个范围</button>
+      </article>
+      ${renderLibraryTabs()}
+      ${renderSelectedLibraryPanel()}
     </section>
+  `;
+}
+
+function renderLibraryTabs() {
+  const tabs = [
+    ["zhongkao", "中考"],
+    ["gaokao", "高考"],
+    ["ket", "KET"],
+    ["pet", "PET"],
+    ["unicorn", "独角兽"],
+    ["core2000", "2000词"],
+    ["eew4000", "4000词"],
+    ["custom", "自定义"]
+  ];
+  return `
+    <div class="library-tabs" role="tablist" aria-label="词库大类">
+      ${tabs.map(([id, label]) => `
+        <button class="library-tab ${state.selectedLibrary === id ? "active" : ""}" data-action="select-library" data-library="${id}">
+          ${label}
+        </button>
+      `).join("")}
+    </div>
+  `;
+}
+
+function renderSelectedLibraryPanel() {
+  if (state.selectedLibrary === "unicorn") return renderUnicornUnitPicker();
+  if (state.selectedLibrary === "core2000") {
+    return renderBookUnitPicker({
+      library: "core2000",
+      title: "选择 2000 词范围",
+      words: FULL_WORD_BANKS.core2000,
+      selectedBook: state.selectedCore2000Book,
+      selectedUnit: state.selectedCore2000Unit,
+      bookAction: "select-core2000-book",
+      unitAction: "select-core2000-unit"
+    });
+  }
+  if (state.selectedLibrary === "eew4000") {
+    return renderBookUnitPicker({
+      library: "eew4000",
+      title: "选择 4000 词范围",
+      words: FULL_WORD_BANKS.eew4000,
+      selectedBook: state.selectedEEW4000Book,
+      selectedUnit: state.selectedEEW4000Unit,
+      bookAction: "select-eew4000-book",
+      unitAction: "select-eew4000-unit"
+    });
+  }
+  return renderSimpleLibraryPanel();
+}
+
+function renderSimpleLibraryPanel() {
+  const meta = libraryMeta();
+  const count = activeWords().length;
+  const notes = {
+    zhongkao: "后续可以继续扩展：真题高频、短语、熟词生义。",
+    gaokao: "后续可以继续扩展：考纲词、派生词、真题高频。",
+    ket: "后续可以继续扩展：生活、学校、运动、旅行等主题。",
+    pet: "后续可以继续扩展：生活、学校、运动、旅行等主题。",
+    custom: "老师新讲的词可以在设置里导入，导入后会出现在这里。"
+  };
+  return `
+    <article class="card setting-card">
+      <h3>${meta.title}</h3>
+      <p class="muted">当前可学习 ${count} 个词。${notes[state.selectedLibrary] || ""}</p>
+    </article>
   `;
 }
 
@@ -796,6 +932,54 @@ function renderUnicornUnitPicker() {
         ${units.map(unit => `
           <button class="${state.selectedUnicornUnit === unit ? "secondary-btn" : "ghost-btn"}" data-action="select-unicorn-unit" data-unit="${unit}">
             ${unicornUnitLabel(unit)} · ${unicornUnitCount(unit)}
+          </button>
+        `).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function uniqueSortedLayerValues(words, field) {
+  return [...new Set(words.map(word => word[field]).filter(Boolean))]
+    .sort((left, right) => (Number(left.match(/\d+/)?.[0]) || 0) - (Number(right.match(/\d+/)?.[0]) || 0));
+}
+
+function bookCount(words, book) {
+  if (book === "all") return words.length;
+  return words.filter(word => word.book === book).length;
+}
+
+function unitCount(words, book, unit) {
+  return words.filter(word => {
+    const bookMatches = book === "all" || word.book === book;
+    const unitMatches = unit === "all" || word.unit === unit;
+    return bookMatches && unitMatches;
+  }).length;
+}
+
+function unitOptionsForBook(words, book) {
+  const scoped = book === "all" ? words : words.filter(word => word.book === book);
+  return uniqueSortedLayerValues(scoped, "unit");
+}
+
+function renderBookUnitPicker({ title, words, selectedBook, selectedUnit, bookAction, unitAction }) {
+  const books = ["all", ...uniqueSortedLayerValues(words, "book")];
+  const units = ["all", ...unitOptionsForBook(words, selectedBook)];
+  return `
+    <article class="card setting-card layered-panel">
+      <h3>${title}</h3>
+      <p class="muted">先选册，再选单元。选“全部”时会按当前范围学习。</p>
+      <div class="chip-row">
+        ${books.map(book => `
+          <button class="chip-btn ${selectedBook === book ? "active" : ""}" data-action="${bookAction}" data-book="${book}">
+            ${bookLabel(book)} · ${bookCount(words, book)}
+          </button>
+        `).join("")}
+      </div>
+      <div class="unit-grid compact">
+        ${units.map(unit => `
+          <button class="${selectedUnit === unit ? "secondary-btn" : "ghost-btn"}" data-action="${unitAction}" data-unit="${unit}">
+            ${unitLabel(unit)} · ${unitCount(words, selectedBook, unit)}
           </button>
         `).join("")}
       </div>
@@ -1190,6 +1374,28 @@ document.addEventListener("click", async event => {
   }
   if (action === "select-unicorn-unit") {
     state.selectedUnicornUnit = target.dataset.unit;
+    saveState();
+    render();
+  }
+  if (action === "select-core2000-book") {
+    state.selectedCore2000Book = target.dataset.book;
+    state.selectedCore2000Unit = "all";
+    saveState();
+    render();
+  }
+  if (action === "select-core2000-unit") {
+    state.selectedCore2000Unit = target.dataset.unit;
+    saveState();
+    render();
+  }
+  if (action === "select-eew4000-book") {
+    state.selectedEEW4000Book = target.dataset.book;
+    state.selectedEEW4000Unit = "all";
+    saveState();
+    render();
+  }
+  if (action === "select-eew4000-unit") {
+    state.selectedEEW4000Unit = target.dataset.unit;
     saveState();
     render();
   }

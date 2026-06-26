@@ -68,26 +68,62 @@
 已确认官方入口：
 
 - Cambridge B1 Preliminary preparation 页面：https://www.cambridgeenglish.org/exams-and-tests/preliminary/preparation/
-- 当前页面提供的词汇资料：
-  - B1 Preliminary for Schools vocabulary booklet
-  - PDF：https://www.cambridgeenglish.org/Images/648172-b1-preliminary-for-schools-vocabulary-booklet.pdf
+- 用户提供本地文件：`/Users/williamyu/Desktop/2020pet单词表.pdf`
+- 文件标题：`From 2020 VOCABULARY LIST B1 Preliminary / B1 Preliminary for Schools`
 
 当前判断：
 
-- 该 booklet 是教学活动册，不是完整按字母排列的官方词表。
-- Cambridge 当前 preparation 页面标题中出现 Vocabulary list，但实际链接指向 vocabulary booklet。
-- PET 完整字母词表仍需二次确认精确官方文件，不能先用活动册冒充“完整版”。
+- 该文件是按字母排列的 B1 Preliminary 词汇表，适合升级 PET 背诵词库。
+- 已抽取词头，并用开源 ECDICT 补中文释义。
+- 已清洗为 `pet-words.js`，共 3001 个可背词条。
+- 例句为本项目生成的原创简单句，不复制 PDF 原文例句。
 
 导入建议：
 
-- 暂不把 PET 标为“官方完整版已整理完成”。
-- 可以先保留现有 PET 起步词库。
-- 待找到稳定的完整来源后，再升级为 PET 完整版。
+- 不把用户提供的 PDF 原样发布到网站。
+- 公开页面只使用整理后的学习词条、中文释义和原创例句。
+
+### 2000 Core English Words
+
+采用来源：
+
+- 用户提供本地文件：
+  - `/Users/williamyu/Desktop/2000词/2000+Core+English+Words+1_Word+List_ENG.pdf`
+  - `/Users/williamyu/Desktop/2000词/2000+Core+English+Words+2_Word+List_ENG.pdf`
+  - `/Users/williamyu/Desktop/2000词/2000+Core+English+Words+3_Word+List_ENG.pdf`
+  - `/Users/williamyu/Desktop/2000词/2000+Core+English+Words+4_Word+List_ENG.pdf`
+
+当前处理状态：
+
+- 已按册和 Unit 抽取词头。
+- 已清洗为 `core2000-words.js`，共 1598 个可背词条。
+- 软件中支持选择：全部册、具体册、具体 Unit。
+- 中文释义来自开源 ECDICT，例句为本项目生成的原创简单句。
+
+### 4000 Essential English Words
+
+采用来源：
+
+- 用户提供本地文件：
+  - `/Users/williamyu/Desktop/4000词/4000EEW1_Word+List_ENG.pdf`
+  - `/Users/williamyu/Desktop/4000词/4000EEW2_Word+List_ENG.doc`
+  - `/Users/williamyu/Desktop/4000词/4000EEW3_Word+List_ENG.docx`
+  - `/Users/williamyu/Desktop/4000词/4000EEW4_Word+List_ENG.doc`
+  - `/Users/williamyu/Desktop/4000词/4000EEW5_Word+List_ENG.doc`
+  - `/Users/williamyu/Desktop/4000词/4000EEW6_Word+List_ENG.pdf`
+
+当前处理状态：
+
+- `.doc` 文件已在本地临时转换后抽取，不改动原文件。
+- 已按册和 Unit 抽取词头。
+- 已清洗为 `eew4000-words.js`，共 3600 个可背词条。
+- 软件中支持选择：全部册、具体册、具体 Unit。
+- 中文释义来自开源 ECDICT，例句为本项目生成的原创简单句。
 
 ## 后续执行顺序
 
 1. 继续抽样优化 KET 中文释义和例句质量。
-2. 继续确认 PET 完整词表来源；确认前只保留 PET 起步词库。
+2. 继续抽样优化 PET、2000、4000 词库中文释义和例句质量。
 3. 继续抽样优化高考新课标词库中文释义和例句质量。
 4. 继续收集黑龙江/哈尔滨真题补充词，追加到黑龙江中考词库。
 

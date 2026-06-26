@@ -232,6 +232,19 @@ h3 {
   gap: 9px;
 }
 
+.unit-grid.compact {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.unit-grid.compact button {
+  min-height: 38px;
+  padding: 8px 6px;
+  border-radius: 12px;
+  font-size: 12px;
+}
+
 .full-row {
   grid-column: 1 / -1;
 }
@@ -279,6 +292,70 @@ h3 {
 
 .library-card.locked {
   opacity: 0.68;
+}
+
+.library-summary {
+  display: grid;
+  gap: 8px;
+  padding: 18px;
+  margin-bottom: 14px;
+  background:
+    linear-gradient(120deg, rgba(255, 232, 143, 0.46), rgba(185, 217, 255, 0.42)),
+    #fffdf8;
+}
+
+.library-summary h2 {
+  margin-bottom: 0;
+}
+
+.library-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 0 -18px 14px;
+  padding: 0 18px 4px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.library-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.library-tab,
+.chip-btn {
+  flex: 0 0 auto;
+  min-height: 38px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 8px 13px;
+  background: rgba(255, 255, 255, 0.74);
+  color: var(--ink);
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.library-tab.active,
+.chip-btn.active {
+  border-color: rgba(63, 143, 107, 0.35);
+  background: var(--mint);
+  box-shadow: 0 5px 0 rgba(63, 143, 107, 0.14);
+}
+
+.chip-row {
+  display: flex;
+  gap: 8px;
+  margin: 12px -17px 0;
+  padding: 0 17px 4px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.chip-row::-webkit-scrollbar {
+  display: none;
+}
+
+.layered-panel {
+  overflow: hidden;
 }
 
 .pill {
