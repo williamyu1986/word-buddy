@@ -22,6 +22,16 @@ const UNICORN_WORDS = [
   {
     "id": "unicorn-3",
     "library": "unicorn",
+    "word": "a recreational sports league",
+    "meaning": "休闲运动联盟/联赛",
+    "definition": "",
+    "example": "Review the word: a recreational sports league.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-4",
+    "library": "unicorn",
     "word": "a variety of",
     "meaning": "各种各样",
     "definition": "",
@@ -30,7 +40,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-4",
+    "id": "unicorn-5",
+    "library": "unicorn",
+    "word": "a work of art",
+    "meaning": "一件艺术作品",
+    "definition": "",
+    "example": "Review the word: a work of art.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-6",
     "library": "unicorn",
     "word": "absorb",
     "meaning": "吸收 v.",
@@ -40,7 +60,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-5",
+    "id": "unicorn-7",
     "library": "unicorn",
     "word": "absorption",
     "meaning": "吸收 n.",
@@ -50,7 +70,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-6",
+    "id": "unicorn-8",
     "library": "unicorn",
     "word": "access",
     "meaning": "接触的机会；使用权",
@@ -60,7 +80,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-7",
+    "id": "unicorn-9",
     "library": "unicorn",
     "word": "according to custom",
     "meaning": "根据传统",
@@ -70,7 +90,27 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-8",
+    "id": "unicorn-10",
+    "library": "unicorn",
+    "word": "active",
+    "meaning": "好动的；活跃的",
+    "definition": "doing things which involve moving and using energy",
+    "example": "Review the word: active.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-11",
+    "library": "unicorn",
+    "word": "acute disease",
+    "meaning": "急性病",
+    "definition": "",
+    "example": "Review the word: acute disease.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-12",
     "library": "unicorn",
     "word": "adapt to",
     "meaning": "使适应",
@@ -80,7 +120,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-9",
+    "id": "unicorn-13",
+    "library": "unicorn",
+    "word": "advertising campaign",
+    "meaning": "广告宣传活动",
+    "definition": "media projects to convince people to buy a product or change their behaviour",
+    "example": "Review the word: advertising campaign.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-14",
     "library": "unicorn",
     "word": "affect",
     "meaning": "影响",
@@ -90,7 +140,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-10",
+    "id": "unicorn-15",
     "library": "unicorn",
     "word": "against the law",
     "meaning": "违法",
@@ -100,7 +150,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-11",
+    "id": "unicorn-16",
+    "library": "unicorn",
+    "word": "alter",
+    "meaning": "改变",
+    "definition": "= change",
+    "example": "Review the word: alter.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-17",
     "library": "unicorn",
     "word": "alternative",
     "meaning": "可替代的 (alter v.改变) [ɔ:lˈtɜ:nətɪv]",
@@ -110,7 +170,27 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-12",
+    "id": "unicorn-18",
+    "library": "unicorn",
+    "word": "alternative",
+    "meaning": "可替换的 n.",
+    "definition": "",
+    "example": "Review the word: alternative.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-19",
+    "library": "unicorn",
+    "word": "alternatively",
+    "meaning": "或者",
+    "definition": "= or",
+    "example": "Review the word: alternatively.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-20",
     "library": "unicorn",
     "word": "amount",
     "meaning": "数量 of +不可数名词",
@@ -120,7 +200,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-13",
+    "id": "unicorn-21",
     "library": "unicorn",
     "word": "annotate",
     "meaning": "注释； 给...注解/评注",
@@ -130,7 +210,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-14",
+    "id": "unicorn-22",
     "library": "unicorn",
     "word": "annual",
     "meaning": "每年的 a.",
@@ -140,7 +220,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-15",
+    "id": "unicorn-23",
     "library": "unicorn",
     "word": "antelope",
     "meaning": "羚羊",
@@ -150,7 +230,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-16",
+    "id": "unicorn-24",
     "library": "unicorn",
     "word": "appearance",
     "meaning": "外貌；外表",
@@ -160,7 +240,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-17",
+    "id": "unicorn-25",
     "library": "unicorn",
     "word": "aspect",
     "meaning": "方面",
@@ -170,7 +250,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-18",
+    "id": "unicorn-26",
     "library": "unicorn",
     "word": "asthma",
     "meaning": "哮喘",
@@ -180,7 +260,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-19",
+    "id": "unicorn-27",
     "library": "unicorn",
     "word": "at a rapid rate / speed",
     "meaning": "快速地",
@@ -190,7 +270,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-20",
+    "id": "unicorn-28",
+    "library": "unicorn",
+    "word": "at off-peak times",
+    "meaning": "非高峰时段",
+    "definition": "",
+    "example": "Review the word: at off-peak times.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-29",
     "library": "unicorn",
     "word": "atmosphere",
     "meaning": "大气层n.",
@@ -200,7 +290,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-21",
+    "id": "unicorn-30",
     "library": "unicorn",
     "word": "attach itself to",
     "meaning": "粘附在",
@@ -210,7 +300,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-22",
+    "id": "unicorn-31",
     "library": "unicorn",
     "word": "attempt",
     "meaning": "尝试",
@@ -220,7 +310,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-23",
+    "id": "unicorn-32",
     "library": "unicorn",
     "word": "avoid cultural misunderstanding",
     "meaning": "避免文化误解",
@@ -230,7 +320,17 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-24",
+    "id": "unicorn-33",
+    "library": "unicorn",
+    "word": "balanced diet",
+    "meaning": "均衡膳食",
+    "definition": "a daily eating programme which has a healthy mixture of different kinds of food",
+    "example": "Review the word: balanced diet.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-34",
     "library": "unicorn",
     "word": "bank",
     "meaning": "岸；银行",
@@ -240,7 +340,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-25",
+    "id": "unicorn-35",
     "library": "unicorn",
     "word": "battle",
     "meaning": "战争",
@@ -250,7 +350,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-26",
+    "id": "unicorn-36",
     "library": "unicorn",
     "word": "be inconvenient for sb",
     "meaning": "对...不方便",
@@ -260,7 +360,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-27",
+    "id": "unicorn-37",
     "library": "unicorn",
     "word": "be unpopular with sb",
     "meaning": "不受欢迎",
@@ -270,7 +370,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-28",
+    "id": "unicorn-38",
+    "library": "unicorn",
+    "word": "beauty contest",
+    "meaning": "选美比赛",
+    "definition": "",
+    "example": "Review the word: beauty contest.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-39",
     "library": "unicorn",
     "word": "beef (about sb./sth.)",
     "meaning": "老是发牢骚；抱怨",
@@ -280,7 +390,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-29",
+    "id": "unicorn-40",
     "library": "unicorn",
     "word": "belief",
     "meaning": "看法；信念",
@@ -290,7 +400,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-30",
+    "id": "unicorn-41",
     "library": "unicorn",
     "word": "biochemistry",
     "meaning": "生物化学",
@@ -300,7 +410,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-31",
+    "id": "unicorn-42",
     "library": "unicorn",
     "word": "biodiversity",
     "meaning": "生物多样性",
@@ -310,7 +420,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-32",
+    "id": "unicorn-43",
     "library": "unicorn",
     "word": "blog",
     "meaning": "博客",
@@ -320,17 +430,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-33",
+    "id": "unicorn-44",
     "library": "unicorn",
     "word": "bow",
     "meaning": "鞠躬;点头 (owl)",
-    "definition": "",
+    "definition": "v.",
     "example": "Review the word: bow.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4"
   },
   {
-    "id": "unicorn-34",
+    "id": "unicorn-45",
     "library": "unicorn",
     "word": "brazil",
     "meaning": "巴西 n.",
@@ -340,7 +450,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-35",
+    "id": "unicorn-46",
     "library": "unicorn",
     "word": "brazilian",
     "meaning": "巴西的； n.巴西人",
@@ -350,7 +460,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-36",
+    "id": "unicorn-47",
     "library": "unicorn",
     "word": "breathe in",
     "meaning": "吸入 =inhale 吸气",
@@ -360,7 +470,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-37",
+    "id": "unicorn-48",
     "library": "unicorn",
     "word": "breathe out",
     "meaning": "呼出= exhale 呼气",
@@ -370,7 +480,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-38",
+    "id": "unicorn-49",
     "library": "unicorn",
     "word": "breeding",
     "meaning": "生育；繁殖",
@@ -380,7 +490,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-39",
+    "id": "unicorn-50",
     "library": "unicorn",
     "word": "brief",
     "meaning": "短暂的；简洁的",
@@ -390,7 +500,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-40",
+    "id": "unicorn-51",
     "library": "unicorn",
     "word": "broaden",
     "meaning": "变宽",
@@ -400,7 +510,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-41",
+    "id": "unicorn-52",
     "library": "unicorn",
     "word": "cable car",
     "meaning": "缆车",
@@ -410,7 +520,27 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-42",
+    "id": "unicorn-53",
+    "library": "unicorn",
+    "word": "caffeine",
+    "meaning": "咖啡因 [ˈkæfi:n]",
+    "definition": "",
+    "example": "Review the word: caffeine.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-54",
+    "library": "unicorn",
+    "word": "calories",
+    "meaning": "卡路里；热量",
+    "definition": "the measurement of the amount of energy found in food",
+    "example": "Review the word: calories.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-55",
     "library": "unicorn",
     "word": "cambodia",
     "meaning": "柬埔寨 (Phnom Penh金边）",
@@ -420,7 +550,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-43",
+    "id": "unicorn-56",
+    "library": "unicorn",
+    "word": "campaign （",
+    "meaning": "宣传）活动",
+    "definition": "a group of activities designed to motivate people to take action,such as giving money or changing their behaviour",
+    "example": "Review the word: campaign （.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-57",
     "library": "unicorn",
     "word": "canyon",
     "meaning": "峡谷",
@@ -430,7 +570,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-44",
+    "id": "unicorn-58",
     "library": "unicorn",
     "word": "car exhaust",
     "meaning": "汽车尾气",
@@ -440,7 +580,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-45",
+    "id": "unicorn-59",
     "library": "unicorn",
     "word": "case",
     "meaning": "病例",
@@ -450,7 +590,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-46",
+    "id": "unicorn-60",
     "library": "unicorn",
     "word": "cattle",
     "meaning": "牛群",
@@ -460,7 +600,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-47",
+    "id": "unicorn-61",
     "library": "unicorn",
     "word": "cause",
     "meaning": "原因；起因n.",
@@ -470,7 +610,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-48",
+    "id": "unicorn-62",
     "library": "unicorn",
     "word": "cause stress to sb",
     "meaning": "带来压力",
@@ -480,7 +620,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-49",
+    "id": "unicorn-63",
     "library": "unicorn",
     "word": "cavern",
     "meaning": "大山洞n.",
@@ -490,7 +630,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-50",
+    "id": "unicorn-64",
     "library": "unicorn",
     "word": "ceremony",
     "meaning": "仪式",
@@ -500,7 +640,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-51",
+    "id": "unicorn-65",
     "library": "unicorn",
     "word": "certain",
     "meaning": "某事；某人",
@@ -510,7 +650,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-52",
+    "id": "unicorn-66",
     "library": "unicorn",
     "word": "challenge",
     "meaning": "挑战n.",
@@ -520,7 +660,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-53",
+    "id": "unicorn-67",
     "library": "unicorn",
     "word": "chemical",
     "meaning": "化学制品",
@@ -530,7 +670,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-54",
+    "id": "unicorn-68",
     "library": "unicorn",
     "word": "chinese knot",
     "meaning": "中国结",
@@ -540,7 +680,17 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-55",
+    "id": "unicorn-69",
+    "library": "unicorn",
+    "word": "chronic disease",
+    "meaning": "慢性病",
+    "definition": "",
+    "example": "Review the word: chronic disease.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-70",
     "library": "unicorn",
     "word": "climate",
     "meaning": "气候n.",
@@ -550,7 +700,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-56",
+    "id": "unicorn-71",
     "library": "unicorn",
     "word": "common",
     "meaning": "常见的",
@@ -560,7 +710,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-57",
+    "id": "unicorn-72",
     "library": "unicorn",
     "word": "common",
     "meaning": "常见的；普遍的",
@@ -570,7 +720,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-58",
+    "id": "unicorn-73",
     "library": "unicorn",
     "word": "community",
     "meaning": "社区；社团；社群",
@@ -580,7 +730,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-59",
+    "id": "unicorn-74",
     "library": "unicorn",
     "word": "commuter",
     "meaning": "通勤者",
@@ -590,7 +740,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-60",
+    "id": "unicorn-75",
     "library": "unicorn",
     "word": "commuter train",
     "meaning": "通勤火车",
@@ -600,7 +750,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-61",
+    "id": "unicorn-76",
     "library": "unicorn",
     "word": "computer program",
     "meaning": "电脑程序",
@@ -610,7 +760,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-62",
+    "id": "unicorn-77",
     "library": "unicorn",
     "word": "congest",
     "meaning": "拥塞 v.",
@@ -620,7 +770,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-63",
+    "id": "unicorn-78",
     "library": "unicorn",
     "word": "congestion",
     "meaning": "堵塞",
@@ -630,7 +780,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-64",
+    "id": "unicorn-79",
     "library": "unicorn",
     "word": "connect",
     "meaning": "连接",
@@ -640,7 +790,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-65",
+    "id": "unicorn-80",
+    "library": "unicorn",
+    "word": "conscious",
+    "meaning": "有意识的",
+    "definition": "",
+    "example": "Review the word: conscious.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-81",
     "library": "unicorn",
     "word": "consequences",
     "meaning": "后果；结果n.",
@@ -650,7 +810,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-66",
+    "id": "unicorn-82",
     "library": "unicorn",
     "word": "consequently",
     "meaning": "因此；所以 as a result (因果关系)",
@@ -660,7 +820,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-67",
+    "id": "unicorn-83",
     "library": "unicorn",
     "word": "conservation",
     "meaning": "保护",
@@ -670,7 +830,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-68",
+    "id": "unicorn-84",
     "library": "unicorn",
     "word": "consider",
     "meaning": "考虑；细想",
@@ -680,7 +840,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-69",
+    "id": "unicorn-85",
+    "library": "unicorn",
+    "word": "consist of",
+    "meaning": "包括=include",
+    "definition": "",
+    "example": "Review the word: consist of.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-86",
     "library": "unicorn",
     "word": "constant",
     "meaning": "不断的a.",
@@ -690,7 +860,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-70",
+    "id": "unicorn-87",
     "library": "unicorn",
     "word": "construct",
     "meaning": "建设",
@@ -700,7 +870,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-71",
+    "id": "unicorn-88",
     "library": "unicorn",
     "word": "construction",
     "meaning": "施工；建造n.",
@@ -710,7 +880,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-72",
+    "id": "unicorn-89",
     "library": "unicorn",
     "word": "constructive",
     "meaning": "建设性的",
@@ -720,7 +890,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-73",
+    "id": "unicorn-90",
     "library": "unicorn",
     "word": "contend",
     "meaning": "认为",
@@ -730,7 +900,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-74",
+    "id": "unicorn-91",
     "library": "unicorn",
     "word": "contribute to",
     "meaning": "导致",
@@ -740,7 +910,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-75",
+    "id": "unicorn-92",
     "library": "unicorn",
     "word": "convention",
     "meaning": "传统",
@@ -750,7 +920,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-76",
+    "id": "unicorn-93",
     "library": "unicorn",
     "word": "conventional",
     "meaning": "传统的",
@@ -760,7 +930,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-77",
+    "id": "unicorn-94",
     "library": "unicorn",
     "word": "cooperate",
     "meaning": "合作",
@@ -770,7 +940,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-78",
+    "id": "unicorn-95",
+    "library": "unicorn",
+    "word": "craft",
+    "meaning": "工艺",
+    "definition": "",
+    "example": "Review the word: craft.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-96",
     "library": "unicorn",
     "word": "create",
     "meaning": "创造",
@@ -780,7 +960,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-79",
+    "id": "unicorn-97",
     "library": "unicorn",
     "word": "crown",
     "meaning": "皇冠；头冠",
@@ -790,7 +970,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-80",
+    "id": "unicorn-98",
     "library": "unicorn",
     "word": "cruel",
     "meaning": "残忍的",
@@ -800,7 +980,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-81",
+    "id": "unicorn-99",
     "library": "unicorn",
     "word": "culture",
     "meaning": "文化",
@@ -810,7 +990,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-82",
+    "id": "unicorn-100",
     "library": "unicorn",
     "word": "cycle",
     "meaning": "骑行",
@@ -820,7 +1000,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-83",
+    "id": "unicorn-101",
     "library": "unicorn",
     "word": "damage",
     "meaning": "破坏",
@@ -830,7 +1010,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-84",
+    "id": "unicorn-102",
     "library": "unicorn",
     "word": "date back",
     "meaning": "追溯回",
@@ -840,7 +1020,17 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-85",
+    "id": "unicorn-103",
+    "library": "unicorn",
+    "word": "decaffeinated",
+    "meaning": "去咖啡因的(decaf)",
+    "definition": "",
+    "example": "Review the word: decaffeinated.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-104",
     "library": "unicorn",
     "word": "decide",
     "meaning": "决定",
@@ -850,7 +1040,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-86",
+    "id": "unicorn-105",
     "library": "unicorn",
     "word": "decision",
     "meaning": "决定",
@@ -860,7 +1050,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-87",
+    "id": "unicorn-106",
     "library": "unicorn",
     "word": "decisive",
     "meaning": "决定性的；关键的",
@@ -870,7 +1060,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-88",
+    "id": "unicorn-107",
     "library": "unicorn",
     "word": "definition",
     "meaning": "定义",
@@ -880,7 +1070,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-89",
+    "id": "unicorn-108",
     "library": "unicorn",
     "word": "deforest",
     "meaning": "砍掉某地的树林",
@@ -890,7 +1080,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-90",
+    "id": "unicorn-109",
     "library": "unicorn",
     "word": "deforest",
     "meaning": "砍掉森林=cut down =remove trees",
@@ -900,7 +1090,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-91",
+    "id": "unicorn-110",
     "library": "unicorn",
     "word": "deforestation",
     "meaning": "滥伐森林；毁林",
@@ -910,7 +1100,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-92",
+    "id": "unicorn-111",
+    "library": "unicorn",
+    "word": "dementia",
+    "meaning": "老年痴呆 n.",
+    "definition": "",
+    "example": "Review the word: dementia.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-112",
     "library": "unicorn",
     "word": "demonstrate",
     "meaning": "说明；证明",
@@ -920,7 +1120,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-93",
+    "id": "unicorn-113",
     "library": "unicorn",
     "word": "depend on",
     "meaning": "依靠",
@@ -930,7 +1130,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-94",
+    "id": "unicorn-114",
     "library": "unicorn",
     "word": "dependent",
     "meaning": "依靠的",
@@ -940,7 +1140,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-95",
+    "id": "unicorn-115",
     "library": "unicorn",
     "word": "destination",
     "meaning": "目的地",
@@ -950,7 +1150,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-96",
+    "id": "unicorn-116",
     "library": "unicorn",
     "word": "destroy",
     "meaning": "毁灭",
@@ -960,7 +1160,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-97",
+    "id": "unicorn-117",
     "library": "unicorn",
     "word": "destruction",
     "meaning": "毁灭；破坏n.",
@@ -970,7 +1170,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-98",
+    "id": "unicorn-118",
     "library": "unicorn",
     "word": "destructive",
     "meaning": "破坏性的",
@@ -980,7 +1180,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-99",
+    "id": "unicorn-119",
+    "library": "unicorn",
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "definition": "",
+    "example": "Review the word: diabetes.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-120",
     "library": "unicorn",
     "word": "die out",
     "meaning": "灭绝",
@@ -990,7 +1200,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-100",
+    "id": "unicorn-121",
     "library": "unicorn",
     "word": "disease",
     "meaning": "疾病",
@@ -1000,7 +1210,27 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-101",
+    "id": "unicorn-122",
+    "library": "unicorn",
+    "word": "diverse",
+    "meaning": "多样的",
+    "definition": "",
+    "example": "Review the word: diverse.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-123",
+    "library": "unicorn",
+    "word": "diversity",
+    "meaning": "多样性",
+    "definition": "",
+    "example": "Review the word: diversity.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-124",
     "library": "unicorn",
     "word": "do research on sth",
     "meaning": "做研究",
@@ -1010,7 +1240,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-102",
+    "id": "unicorn-125",
     "library": "unicorn",
     "word": "due to",
     "meaning": "由于；因为",
@@ -1020,7 +1250,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-103",
+    "id": "unicorn-126",
     "library": "unicorn",
     "word": "duty-free",
     "meaning": "免税的",
@@ -1030,7 +1260,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-104",
+    "id": "unicorn-127",
     "library": "unicorn",
     "word": "ecology",
     "meaning": "生态学",
@@ -1040,7 +1270,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-105",
+    "id": "unicorn-128",
     "library": "unicorn",
     "word": "economic losses",
     "meaning": "经济损失",
@@ -1050,7 +1280,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-106",
+    "id": "unicorn-129",
     "library": "unicorn",
     "word": "ecosystem",
     "meaning": "生态系统n.",
@@ -1060,7 +1290,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-107",
+    "id": "unicorn-130",
+    "library": "unicorn",
+    "word": "educational programme",
+    "meaning": "教育课程； 科普项目",
+    "definition": "classes or material to teach people about a particular topic",
+    "example": "Review the word: educational programme.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-131",
     "library": "unicorn",
     "word": "effect",
     "meaning": "结果；影响n.",
@@ -1070,7 +1310,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-108",
+    "id": "unicorn-132",
     "library": "unicorn",
     "word": "egret",
     "meaning": "白鹭",
@@ -1080,7 +1320,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-109",
+    "id": "unicorn-133",
     "library": "unicorn",
     "word": "emergency",
     "meaning": "紧急情况",
@@ -1090,7 +1330,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-110",
+    "id": "unicorn-134",
     "library": "unicorn",
     "word": "enable",
     "meaning": "使能够",
@@ -1100,7 +1340,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-111",
+    "id": "unicorn-135",
     "library": "unicorn",
     "word": "enact",
     "meaning": "扮演",
@@ -1110,7 +1350,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-112",
+    "id": "unicorn-136",
     "library": "unicorn",
     "word": "encourage",
     "meaning": "鼓励",
@@ -1120,7 +1360,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-113",
+    "id": "unicorn-137",
     "library": "unicorn",
     "word": "endanger",
     "meaning": "危及；危害",
@@ -1130,7 +1370,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-114",
+    "id": "unicorn-138",
     "library": "unicorn",
     "word": "endangered",
     "meaning": "濒危的",
@@ -1140,7 +1380,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-115",
+    "id": "unicorn-139",
     "library": "unicorn",
     "word": "enforce",
     "meaning": "强迫；迫使",
@@ -1150,7 +1390,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-116",
+    "id": "unicorn-140",
     "library": "unicorn",
     "word": "engineering",
     "meaning": "工程（设计）",
@@ -1160,7 +1400,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-117",
+    "id": "unicorn-141",
     "library": "unicorn",
     "word": "enjoy",
     "meaning": "享受；欣赏",
@@ -1170,7 +1410,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-118",
+    "id": "unicorn-142",
     "library": "unicorn",
     "word": "enlarge",
     "meaning": "扩大",
@@ -1180,7 +1420,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-119",
+    "id": "unicorn-143",
     "library": "unicorn",
     "word": "enrich",
     "meaning": "使丰富；使富有",
@@ -1190,7 +1430,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-120",
+    "id": "unicorn-144",
     "library": "unicorn",
     "word": "enrol",
     "meaning": "注册",
@@ -1200,7 +1440,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-121",
+    "id": "unicorn-145",
     "library": "unicorn",
     "word": "entail",
     "meaning": "牵涉；需要",
@@ -1210,7 +1450,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-122",
+    "id": "unicorn-146",
     "library": "unicorn",
     "word": "erode",
     "meaning": "侵蚀",
@@ -1220,7 +1460,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-123",
+    "id": "unicorn-147",
     "library": "unicorn",
     "word": "erosion",
     "meaning": "侵蚀",
@@ -1230,7 +1470,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-124",
+    "id": "unicorn-148",
     "library": "unicorn",
     "word": "escalator",
     "meaning": "滚梯",
@@ -1240,7 +1480,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-125",
+    "id": "unicorn-149",
+    "library": "unicorn",
+    "word": "ever-changing",
+    "meaning": "不断变化的",
+    "definition": "",
+    "example": "Review the word: ever-changing.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-150",
     "library": "unicorn",
     "word": "exchange",
     "meaning": "交换",
@@ -1250,7 +1500,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-126",
+    "id": "unicorn-151",
     "library": "unicorn",
     "word": "expect",
     "meaning": "期待",
@@ -1260,7 +1510,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-127",
+    "id": "unicorn-152",
     "library": "unicorn",
     "word": "extinct",
     "meaning": "已灭绝的",
@@ -1270,7 +1520,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-128",
+    "id": "unicorn-153",
     "library": "unicorn",
     "word": "extinction",
     "meaning": "灭绝",
@@ -1280,7 +1530,27 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-129",
+    "id": "unicorn-154",
+    "library": "unicorn",
+    "word": "falcon [ˈfɔːlkən]",
+    "meaning": "隼",
+    "definition": "",
+    "example": "Review the word: falcon [ˈfɔːlkən].",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-155",
+    "library": "unicorn",
+    "word": "falconry [ˈfɔːlkənri]",
+    "meaning": "鹰猎 （训练鹰隼）",
+    "definition": "",
+    "example": "Review the word: falconry [ˈfɔːlkənri].",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-156",
     "library": "unicorn",
     "word": "farming",
     "meaning": "农场经营；务农n.",
@@ -1290,7 +1560,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-130",
+    "id": "unicorn-157",
     "library": "unicorn",
     "word": "fasten",
     "meaning": "系牢",
@@ -1300,7 +1570,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-131",
+    "id": "unicorn-158",
     "library": "unicorn",
     "word": "fatal",
     "meaning": "致命的",
@@ -1310,7 +1580,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-132",
+    "id": "unicorn-159",
     "library": "unicorn",
     "word": "ferry",
     "meaning": "摆渡船；轮渡",
@@ -1320,7 +1590,27 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-133",
+    "id": "unicorn-160",
+    "library": "unicorn",
+    "word": "filter",
+    "meaning": "过滤（器）",
+    "definition": "v.",
+    "example": "Review the word: filter.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-161",
+    "library": "unicorn",
+    "word": "filtered coffee",
+    "meaning": "滴滤咖啡",
+    "definition": "",
+    "example": "Review the word: filtered coffee.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-162",
     "library": "unicorn",
     "word": "fin",
     "meaning": "鱼鳍",
@@ -1330,7 +1620,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-134",
+    "id": "unicorn-163",
     "library": "unicorn",
     "word": "financial penalty",
     "meaning": "经济处罚；罚款",
@@ -1340,7 +1630,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-135",
+    "id": "unicorn-164",
     "library": "unicorn",
     "word": "find solutions to sth",
     "meaning": "找出解决方法",
@@ -1350,7 +1640,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-136",
+    "id": "unicorn-165",
     "library": "unicorn",
     "word": "fire extinguisher",
     "meaning": "灭火器",
@@ -1360,7 +1650,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-137",
+    "id": "unicorn-166",
     "library": "unicorn",
     "word": "first-aid",
     "meaning": "急救",
@@ -1370,7 +1660,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-138",
+    "id": "unicorn-167",
     "library": "unicorn",
     "word": "flexibility",
     "meaning": "灵活；弹性n.",
@@ -1380,7 +1670,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-139",
+    "id": "unicorn-168",
     "library": "unicorn",
     "word": "flexible",
     "meaning": "灵活的；有弹性的 a.",
@@ -1390,7 +1680,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-140",
+    "id": "unicorn-169",
     "library": "unicorn",
     "word": "food chain",
     "meaning": "食物链",
@@ -1400,7 +1690,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-141",
+    "id": "unicorn-170",
     "library": "unicorn",
     "word": "form",
     "meaning": "形成； n.表格；形式",
@@ -1410,7 +1700,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-142",
+    "id": "unicorn-171",
     "library": "unicorn",
     "word": "formal",
     "meaning": "正式的",
@@ -1420,7 +1710,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-143",
+    "id": "unicorn-172",
     "library": "unicorn",
     "word": "formal",
     "meaning": "正式的",
@@ -1430,7 +1720,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-144",
+    "id": "unicorn-173",
     "library": "unicorn",
     "word": "format",
     "meaning": "格式",
@@ -1440,7 +1730,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-145",
+    "id": "unicorn-174",
     "library": "unicorn",
     "word": "fossil fuel",
     "meaning": "化石燃料",
@@ -1450,7 +1740,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-146",
+    "id": "unicorn-175",
     "library": "unicorn",
     "word": "frighten",
     "meaning": "使害怕",
@@ -1460,7 +1750,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-147",
+    "id": "unicorn-176",
     "library": "unicorn",
     "word": "fuel",
     "meaning": "燃料",
@@ -1470,7 +1760,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-148",
+    "id": "unicorn-177",
     "library": "unicorn",
     "word": "fuel duty/tax",
     "meaning": "燃油税",
@@ -1480,7 +1770,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-149",
+    "id": "unicorn-178",
     "library": "unicorn",
     "word": "funding",
     "meaning": "基金",
@@ -1490,7 +1780,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-150",
+    "id": "unicorn-179",
     "library": "unicorn",
     "word": "furthermore",
     "meaning": "（递进关系）此外；而且；再者 moreover",
@@ -1500,7 +1790,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-151",
+    "id": "unicorn-180",
+    "library": "unicorn",
+    "word": "future generations",
+    "meaning": "后代",
+    "definition": "",
+    "example": "Review the word: future generations.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-181",
     "library": "unicorn",
     "word": "generation",
     "meaning": "一代人",
@@ -1510,7 +1810,17 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-152",
+    "id": "unicorn-182",
+    "library": "unicorn",
+    "word": "generation gap",
+    "meaning": "代沟",
+    "definition": "",
+    "example": "Review the word: generation gap.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-183",
     "library": "unicorn",
     "word": "get around",
     "meaning": "四处走动",
@@ -1520,7 +1830,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-153",
+    "id": "unicorn-184",
     "library": "unicorn",
     "word": "get around the city",
     "meaning": "四处逛逛",
@@ -1530,7 +1840,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-154",
+    "id": "unicorn-185",
     "library": "unicorn",
     "word": "glacier",
     "meaning": "冰川 n.",
@@ -1540,7 +1850,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-155",
+    "id": "unicorn-186",
     "library": "unicorn",
     "word": "global warming",
     "meaning": "全球变暖",
@@ -1550,7 +1860,27 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-156",
+    "id": "unicorn-187",
+    "library": "unicorn",
+    "word": "globalization",
+    "meaning": "全球化",
+    "definition": "",
+    "example": "Review the word: globalization.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-188",
+    "library": "unicorn",
+    "word": "globe",
+    "meaning": "球体；地球；世界；地球仪",
+    "definition": "",
+    "example": "Review the word: globe.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-189",
     "library": "unicorn",
     "word": "government",
     "meaning": "政府",
@@ -1560,7 +1890,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-157",
+    "id": "unicorn-190",
     "library": "unicorn",
     "word": "graze",
     "meaning": "放牧",
@@ -1570,7 +1900,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-158",
+    "id": "unicorn-191",
     "library": "unicorn",
     "word": "greenhouse gas",
     "meaning": "温室气体",
@@ -1580,7 +1910,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-159",
+    "id": "unicorn-192",
     "library": "unicorn",
     "word": "greet",
     "meaning": "问候",
@@ -1590,7 +1920,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-160",
+    "id": "unicorn-193",
     "library": "unicorn",
     "word": "habitat",
     "meaning": "栖息地",
@@ -1600,7 +1930,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-161",
+    "id": "unicorn-194",
     "library": "unicorn",
     "word": "have a serious negative impact (大)on sth",
     "meaning": "对...有消极影响",
@@ -1610,7 +1940,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-162",
+    "id": "unicorn-195",
     "library": "unicorn",
     "word": "have negative effects(小) on sth",
     "meaning": "对...有消极影响",
@@ -1620,7 +1950,57 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-163",
+    "id": "unicorn-196",
+    "library": "unicorn",
+    "word": "health conscious",
+    "meaning": "健康意识",
+    "definition": "",
+    "example": "Review the word: health conscious.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-197",
+    "library": "unicorn",
+    "word": "healthy lifestyle",
+    "meaning": "健康的生活方式",
+    "definition": "a strong and well way of living",
+    "example": "Review the word: healthy lifestyle.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-198",
+    "library": "unicorn",
+    "word": "heart disease",
+    "meaning": "心脏病",
+    "definition": "an illness of the heart",
+    "example": "Review the word: heart disease.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-199",
+    "library": "unicorn",
+    "word": "heritage",
+    "meaning": "遗产",
+    "definition": "",
+    "example": "Review the word: heritage.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-200",
+    "library": "unicorn",
+    "word": "heroin",
+    "meaning": "海洛因",
+    "definition": "",
+    "example": "Review the word: heroin.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-201",
     "library": "unicorn",
     "word": "heron",
     "meaning": "鹭",
@@ -1630,7 +2010,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-164",
+    "id": "unicorn-202",
+    "library": "unicorn",
+    "word": "hold one's breath",
+    "meaning": "屏住呼吸",
+    "definition": "",
+    "example": "Review the word: hold one's breath.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-203",
     "library": "unicorn",
     "word": "huge",
     "meaning": "巨大的",
@@ -1640,7 +2030,17 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-165",
+    "id": "unicorn-204",
+    "library": "unicorn",
+    "word": "illustrate",
+    "meaning": "阐明；（举例）说明；加插图",
+    "definition": "",
+    "example": "Review the word: illustrate.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-205",
     "library": "unicorn",
     "word": "in addition to sth",
     "meaning": "除此之外 =additionally",
@@ -1650,7 +2050,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-166",
+    "id": "unicorn-206",
     "library": "unicorn",
     "word": "in conclusion =to conclude",
     "meaning": "总之",
@@ -1660,7 +2060,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-167",
+    "id": "unicorn-207",
     "library": "unicorn",
     "word": "in contrast",
     "meaning": "相比之下",
@@ -1670,7 +2070,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-168",
+    "id": "unicorn-208",
     "library": "unicorn",
     "word": "in general",
     "meaning": "通常; 大体上；总的来说",
@@ -1680,7 +2080,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-169",
+    "id": "unicorn-209",
     "library": "unicorn",
     "word": "in short",
     "meaning": "总之",
@@ -1690,7 +2090,27 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-170",
+    "id": "unicorn-210",
+    "library": "unicorn",
+    "word": "in the long run/ term",
+    "meaning": "长远看",
+    "definition": "",
+    "example": "Review the word: in the long run/ term.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-211",
+    "library": "unicorn",
+    "word": "inclusion",
+    "meaning": "包含 n.",
+    "definition": "",
+    "example": "Review the word: inclusion.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-212",
     "library": "unicorn",
     "word": "increase the cost of",
     "meaning": "提高成本",
@@ -1700,7 +2120,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-171",
+    "id": "unicorn-213",
     "library": "unicorn",
     "word": "independent",
     "meaning": "独立的",
@@ -1710,7 +2130,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-172",
+    "id": "unicorn-214",
+    "library": "unicorn",
+    "word": "infer",
+    "meaning": "推断；推理；推论 （inference n.）",
+    "definition": "",
+    "example": "Review the word: infer.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-215",
     "library": "unicorn",
     "word": "informal",
     "meaning": "非正式的",
@@ -1720,7 +2150,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-173",
+    "id": "unicorn-216",
     "library": "unicorn",
     "word": "instruct",
     "meaning": "指示；命令",
@@ -1730,7 +2160,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-174",
+    "id": "unicorn-217",
     "library": "unicorn",
     "word": "instruction",
     "meaning": "指示；操作指南",
@@ -1740,7 +2170,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-175",
+    "id": "unicorn-218",
     "library": "unicorn",
     "word": "instructive",
     "meaning": "指导性的",
@@ -1750,7 +2180,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-176",
+    "id": "unicorn-219",
+    "library": "unicorn",
+    "word": "intangible",
+    "meaning": "无形的",
+    "definition": "",
+    "example": "Review the word: intangible.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-220",
     "library": "unicorn",
     "word": "introduce",
     "meaning": "引进；介绍",
@@ -1760,7 +2200,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-177",
+    "id": "unicorn-221",
     "library": "unicorn",
     "word": "invasive",
     "meaning": "侵入的",
@@ -1770,7 +2210,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-178",
+    "id": "unicorn-222",
     "library": "unicorn",
     "word": "invest",
     "meaning": "投资",
@@ -1780,7 +2220,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-179",
+    "id": "unicorn-223",
     "library": "unicorn",
     "word": "investment",
     "meaning": "投资",
@@ -1790,7 +2230,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-180",
+    "id": "unicorn-224",
     "library": "unicorn",
     "word": "involve",
     "meaning": "使参与",
@@ -1800,7 +2240,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-181",
+    "id": "unicorn-225",
     "library": "unicorn",
     "word": "issue",
     "meaning": "重要议题；争论的问题n.",
@@ -1810,7 +2250,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-182",
+    "id": "unicorn-226",
+    "library": "unicorn",
+    "word": "junk",
+    "meaning": "垃圾食品",
+    "definition": "food food which is unhealthy but quick and easy to eat",
+    "example": "Review the word: junk.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-227",
     "library": "unicorn",
     "word": "kit",
     "meaning": "各种工具箱;成套工具",
@@ -1820,7 +2270,27 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-183",
+    "id": "unicorn-228",
+    "library": "unicorn",
+    "word": "know of",
+    "meaning": "间接听说/知道...存在（认识较浅）",
+    "definition": "",
+    "example": "Review the word: know of.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-229",
+    "library": "unicorn",
+    "word": "landscape",
+    "meaning": "风景；风貌；形势；横版打印",
+    "definition": "",
+    "example": "Review the word: landscape.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-230",
     "library": "unicorn",
     "word": "late shifts",
     "meaning": "倒夜班",
@@ -1830,7 +2300,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-184",
+    "id": "unicorn-231",
+    "library": "unicorn",
+    "word": "latte",
+    "meaning": "拉花",
+    "definition": "rt",
+    "example": "Review the word: latte.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-232",
     "library": "unicorn",
     "word": "lengthen",
     "meaning": "使变长",
@@ -1840,7 +2320,27 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-185",
+    "id": "unicorn-233",
+    "library": "unicorn",
+    "word": "life expectancy",
+    "meaning": "寿命",
+    "definition": "how long a person can expect to live",
+    "example": "Review the word: life expectancy.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-234",
+    "library": "unicorn",
+    "word": "life span",
+    "meaning": "寿命",
+    "definition": "",
+    "example": "Review the word: life span.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-235",
     "library": "unicorn",
     "word": "lift/ elevator",
     "meaning": "电梯",
@@ -1850,7 +2350,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-186",
+    "id": "unicorn-236",
     "library": "unicorn",
     "word": "light rail",
     "meaning": "轻轨",
@@ -1860,7 +2360,37 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-187",
+    "id": "unicorn-237",
+    "library": "unicorn",
+    "word": "limit",
+    "meaning": "限制",
+    "definition": "v.",
+    "example": "Review the word: limit.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-238",
+    "library": "unicorn",
+    "word": "limitless",
+    "meaning": "无限制的",
+    "definition": "",
+    "example": "Review the word: limitless.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-239",
+    "library": "unicorn",
+    "word": "local leisure centers",
+    "meaning": "当地休闲中心",
+    "definition": "",
+    "example": "Review the word: local leisure centers.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-240",
     "library": "unicorn",
     "word": "log",
     "meaning": "木头；日志",
@@ -1870,7 +2400,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-188",
+    "id": "unicorn-241",
     "library": "unicorn",
     "word": "logging",
     "meaning": "伐木作业n.",
@@ -1880,7 +2410,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-189",
+    "id": "unicorn-242",
     "library": "unicorn",
     "word": "look to the future",
     "meaning": "展望未来",
@@ -1890,7 +2420,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-190",
+    "id": "unicorn-243",
+    "library": "unicorn",
+    "word": "magnificent",
+    "meaning": "宏伟的；壮丽的",
+    "definition": "very good; very beautiful",
+    "example": "Review the word: magnificent.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-244",
     "library": "unicorn",
     "word": "major",
     "meaning": "重要的；严重的",
@@ -1900,7 +2440,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-191",
+    "id": "unicorn-245",
     "library": "unicorn",
     "word": "make a difference",
     "meaning": "使不同",
@@ -1910,7 +2450,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-192",
+    "id": "unicorn-246",
+    "library": "unicorn",
+    "word": "make an extra effort",
+    "meaning": "额外努力",
+    "definition": "",
+    "example": "Review the word: make an extra effort.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-247",
     "library": "unicorn",
     "word": "manage",
     "meaning": "管理--manager 经理",
@@ -1920,7 +2470,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-193",
+    "id": "unicorn-248",
     "library": "unicorn",
     "word": "management",
     "meaning": "管理 n.",
@@ -1930,7 +2480,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-194",
+    "id": "unicorn-249",
     "library": "unicorn",
     "word": "mangrove forest",
     "meaning": "红树林",
@@ -1940,7 +2490,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-195",
+    "id": "unicorn-250",
     "library": "unicorn",
     "word": "marsh",
     "meaning": "沼泽",
@@ -1950,7 +2500,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-196",
+    "id": "unicorn-251",
     "library": "unicorn",
     "word": "methane",
     "meaning": "沼气；甲烷 n.",
@@ -1960,7 +2510,27 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-197",
+    "id": "unicorn-252",
+    "library": "unicorn",
+    "word": "moderate",
+    "meaning": "适度的；适中的",
+    "definition": "not too much and not too little",
+    "example": "Review the word: moderate.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-253",
+    "library": "unicorn",
+    "word": "molecule",
+    "meaning": "分子",
+    "definition": "",
+    "example": "Review the word: molecule.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-254",
     "library": "unicorn",
     "word": "motorcycle",
     "meaning": "摩托车",
@@ -1970,7 +2540,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-198",
+    "id": "unicorn-255",
     "library": "unicorn",
     "word": "native",
     "meaning": "当地的；原产于某地的",
@@ -1980,7 +2550,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-199",
+    "id": "unicorn-256",
     "library": "unicorn",
     "word": "natural",
     "meaning": "天然的",
@@ -1990,7 +2560,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-200",
+    "id": "unicorn-257",
     "library": "unicorn",
     "word": "network",
     "meaning": "网络",
@@ -2000,7 +2570,27 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-201",
+    "id": "unicorn-258",
+    "library": "unicorn",
+    "word": "nutritional",
+    "meaning": "有营养的",
+    "definition": "relating to food and the way it affects your health",
+    "example": "Review the word: nutritional.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-259",
+    "library": "unicorn",
+    "word": "obesity",
+    "meaning": "肥胖",
+    "definition": "the condition of weighing more than is healthy",
+    "example": "Review the word: obesity.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-260",
     "library": "unicorn",
     "word": "obvious",
     "meaning": "明显的；显然的",
@@ -2010,7 +2600,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-202",
+    "id": "unicorn-261",
     "library": "unicorn",
     "word": "obvious",
     "meaning": "显而易见的",
@@ -2020,7 +2610,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-203",
+    "id": "unicorn-262",
     "library": "unicorn",
     "word": "occur",
     "meaning": "发生=happen",
@@ -2030,17 +2620,27 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-204",
+    "id": "unicorn-263",
     "library": "unicorn",
-    "word": "on a large scale",
-    "meaning": "大规模",
+    "word": "off-season",
+    "meaning": "淡季",
     "definition": "",
-    "example": "Review the word: on a large scale.",
+    "example": "Review the word: off-season.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-264",
+    "library": "unicorn",
+    "word": "on",
+    "meaning": "大规模",
+    "definition": "large scale",
+    "example": "Review the word: on.",
     "source": "三册2单元补充词单",
     "unit": "unit2"
   },
   {
-    "id": "unicorn-205",
+    "id": "unicorn-265",
     "library": "unicorn",
     "word": "option",
     "meaning": "选择",
@@ -2050,7 +2650,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-206",
+    "id": "unicorn-266",
     "library": "unicorn",
     "word": "optional",
     "meaning": "可选择的a.",
@@ -2060,17 +2660,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-207",
+    "id": "unicorn-267",
     "library": "unicorn",
     "word": "ornament",
     "meaning": "装饰物",
-    "definition": "",
+    "definition": "v.",
     "example": "Review the word: ornament.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4"
   },
   {
-    "id": "unicorn-208",
+    "id": "unicorn-268",
     "library": "unicorn",
     "word": "otherwise",
     "meaning": "否则；要不然",
@@ -2080,7 +2680,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-209",
+    "id": "unicorn-269",
     "library": "unicorn",
     "word": "outskirts",
     "meaning": "市郊；郊区",
@@ -2090,7 +2690,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-210",
+    "id": "unicorn-270",
     "library": "unicorn",
     "word": "overall",
     "meaning": "总之",
@@ -2100,7 +2700,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-211",
+    "id": "unicorn-271",
     "library": "unicorn",
     "word": "oxygen",
     "meaning": "氧气 n.",
@@ -2110,7 +2710,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-212",
+    "id": "unicorn-272",
     "library": "unicorn",
     "word": "paraphrase",
     "meaning": "意译（用自己的话来解释）= rewrite ...in your own words",
@@ -2120,7 +2720,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-213",
+    "id": "unicorn-273",
     "library": "unicorn",
     "word": "particularly",
     "meaning": "尤其",
@@ -2130,7 +2730,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-214",
+    "id": "unicorn-274",
     "library": "unicorn",
     "word": "passenger",
     "meaning": "乘客",
@@ -2140,7 +2740,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-215",
+    "id": "unicorn-275",
     "library": "unicorn",
     "word": "pasture",
     "meaning": "牧场",
@@ -2150,7 +2750,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-216",
+    "id": "unicorn-276",
     "library": "unicorn",
     "word": "pay a fine",
     "meaning": "罚款",
@@ -2160,7 +2760,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-217",
+    "id": "unicorn-277",
+    "library": "unicorn",
+    "word": "performing arts",
+    "meaning": "表演艺术",
+    "definition": "",
+    "example": "Review the word: performing arts.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-278",
     "library": "unicorn",
     "word": "persuade",
     "meaning": "说服；劝说",
@@ -2170,7 +2780,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-218",
+    "id": "unicorn-279",
     "library": "unicorn",
     "word": "persuasion",
     "meaning": "说服；劝说",
@@ -2180,7 +2790,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-219",
+    "id": "unicorn-280",
     "library": "unicorn",
     "word": "persuasive",
     "meaning": "有说服力的",
@@ -2190,7 +2800,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-220",
+    "id": "unicorn-281",
     "library": "unicorn",
     "word": "pest",
     "meaning": "害虫",
@@ -2200,7 +2810,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-221",
+    "id": "unicorn-282",
     "library": "unicorn",
     "word": "petrol",
     "meaning": "石油",
@@ -2210,7 +2820,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-222",
+    "id": "unicorn-283",
+    "library": "unicorn",
+    "word": "physical activity",
+    "meaning": "体育活动",
+    "definition": "moving around and doing things",
+    "example": "Review the word: physical activity.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-284",
     "library": "unicorn",
     "word": "plagiarism",
     "meaning": "剽窃",
@@ -2220,7 +2840,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-223",
+    "id": "unicorn-285",
     "library": "unicorn",
     "word": "platform",
     "meaning": "站台；月台；平台",
@@ -2230,7 +2850,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-224",
+    "id": "unicorn-286",
+    "library": "unicorn",
+    "word": "political / social landscape",
+    "meaning": "政治/社会形势",
+    "definition": "",
+    "example": "Review the word: political / social landscape.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-287",
     "library": "unicorn",
     "word": "pollutant",
     "meaning": "污染物",
@@ -2240,7 +2870,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-225",
+    "id": "unicorn-288",
     "library": "unicorn",
     "word": "pollute",
     "meaning": "污染",
@@ -2250,7 +2880,27 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-226",
+    "id": "unicorn-289",
+    "library": "unicorn",
+    "word": "portion",
+    "meaning": "一份食物",
+    "definition": "the amount of food served to one person",
+    "example": "Review the word: portion.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-290",
+    "library": "unicorn",
+    "word": "portrait",
+    "meaning": "肖像；竖版打印",
+    "definition": "",
+    "example": "Review the word: portrait.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-291",
     "library": "unicorn",
     "word": "possibility",
     "meaning": "可能性",
@@ -2260,7 +2910,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-227",
+    "id": "unicorn-292",
+    "library": "unicorn",
+    "word": "pour-over coffee",
+    "meaning": "手冲咖啡",
+    "definition": "",
+    "example": "Review the word: pour-over coffee.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-293",
     "library": "unicorn",
     "word": "practical",
     "meaning": "实用的",
@@ -2270,7 +2930,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-228",
+    "id": "unicorn-294",
     "library": "unicorn",
     "word": "predict",
     "meaning": "预测v.",
@@ -2280,7 +2940,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-229",
+    "id": "unicorn-295",
     "library": "unicorn",
     "word": "preserve",
     "meaning": "保护；保全",
@@ -2290,7 +2950,37 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-230",
+    "id": "unicorn-296",
+    "library": "unicorn",
+    "word": "preserve one's own unique cultural heritage",
+    "meaning": "保护其独特的文化遗产",
+    "definition": "",
+    "example": "Review the word: preserve one's own unique cultural heritage.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-297",
+    "library": "unicorn",
+    "word": "preserved eggs",
+    "meaning": "松花蛋，also called a thousand-year egg",
+    "definition": "",
+    "example": "Review the word: preserved eggs.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-298",
+    "library": "unicorn",
+    "word": "preserved fruit",
+    "meaning": "水果蜜饯",
+    "definition": "",
+    "example": "Review the word: preserved fruit.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-299",
     "library": "unicorn",
     "word": "prevent",
     "meaning": "阻止；避免",
@@ -2300,7 +2990,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-231",
+    "id": "unicorn-300",
+    "library": "unicorn",
+    "word": "prey",
+    "meaning": "猎物 n. （bird of prey 猛禽）",
+    "definition": "",
+    "example": "Review the word: prey.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-301",
     "library": "unicorn",
     "word": "promote other forms of transport",
     "meaning": "推动其他交通工具",
@@ -2310,7 +3010,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-232",
+    "id": "unicorn-302",
     "library": "unicorn",
     "word": "protect",
     "meaning": "保护",
@@ -2320,7 +3020,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-233",
+    "id": "unicorn-303",
     "library": "unicorn",
     "word": "protection",
     "meaning": "保护",
@@ -2330,7 +3030,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-234",
+    "id": "unicorn-304",
     "library": "unicorn",
     "word": "protection",
     "meaning": "保护",
@@ -2340,7 +3040,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-235",
+    "id": "unicorn-305",
     "library": "unicorn",
     "word": "protective",
     "meaning": "保护的；防护的",
@@ -2350,7 +3050,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-236",
+    "id": "unicorn-306",
     "library": "unicorn",
     "word": "provide",
     "meaning": "提供",
@@ -2360,7 +3060,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-237",
+    "id": "unicorn-307",
     "library": "unicorn",
     "word": "provide (homes to plants)",
     "meaning": "提供",
@@ -2370,7 +3070,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-238",
+    "id": "unicorn-308",
     "library": "unicorn",
     "word": "public transport",
     "meaning": "公共交通",
@@ -2380,7 +3080,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-239",
+    "id": "unicorn-309",
+    "library": "unicorn",
+    "word": "question",
+    "meaning": "质疑",
+    "definition": "",
+    "example": "Review the word: question.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-310",
     "library": "unicorn",
     "word": "rainforest",
     "meaning": "雨林n.",
@@ -2390,7 +3100,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-240",
+    "id": "unicorn-311",
+    "library": "unicorn",
+    "word": "range",
+    "meaning": "范围",
+    "definition": "",
+    "example": "Review the word: range.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-312",
     "library": "unicorn",
     "word": "read between the lines",
     "meaning": "言外之意",
@@ -2400,7 +3120,27 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-241",
+    "id": "unicorn-313",
+    "library": "unicorn",
+    "word": "recognize",
+    "meaning": "认可；认出",
+    "definition": "to understand;to accept that something is true",
+    "example": "Review the word: recognize.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-314",
+    "library": "unicorn",
+    "word": "recognize the importance of",
+    "meaning": "认识到...的重要性",
+    "definition": "",
+    "example": "Review the word: recognize the importance of.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-315",
     "library": "unicorn",
     "word": "redden",
     "meaning": "使变红",
@@ -2410,7 +3150,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-242",
+    "id": "unicorn-316",
     "library": "unicorn",
     "word": "reduce",
     "meaning": "减少",
@@ -2420,7 +3160,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-243",
+    "id": "unicorn-317",
     "library": "unicorn",
     "word": "refuse to do",
     "meaning": "拒绝做",
@@ -2430,7 +3170,17 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-244",
+    "id": "unicorn-318",
+    "library": "unicorn",
+    "word": "regular exercise",
+    "meaning": "规律运动",
+    "definition": "sports or movement that people do at the same time each day,week,month,etc.",
+    "example": "Review the word: regular exercise.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-319",
     "library": "unicorn",
     "word": "relationship",
     "meaning": "关系",
@@ -2440,7 +3190,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-245",
+    "id": "unicorn-320",
     "library": "unicorn",
     "word": "release into",
     "meaning": "释放",
@@ -2450,7 +3200,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-246",
+    "id": "unicorn-321",
     "library": "unicorn",
     "word": "reliable",
     "meaning": "可靠的 (rely v.)",
@@ -2460,7 +3210,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-247",
+    "id": "unicorn-322",
     "library": "unicorn",
     "word": "remain",
     "meaning": "依然；继续",
@@ -2470,7 +3220,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-248",
+    "id": "unicorn-323",
     "library": "unicorn",
     "word": "renewable energy",
     "meaning": "可再生能源",
@@ -2480,7 +3230,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-249",
+    "id": "unicorn-324",
     "library": "unicorn",
     "word": "replace",
     "meaning": "代替；取代",
@@ -2490,7 +3240,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-250",
+    "id": "unicorn-325",
     "library": "unicorn",
     "word": "require",
     "meaning": "需要",
@@ -2500,7 +3250,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-251",
+    "id": "unicorn-326",
     "library": "unicorn",
     "word": "resident",
     "meaning": "居民",
@@ -2510,7 +3260,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-252",
+    "id": "unicorn-327",
     "library": "unicorn",
     "word": "responsibility",
     "meaning": "责任",
@@ -2520,7 +3270,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-253",
+    "id": "unicorn-328",
     "library": "unicorn",
     "word": "restore",
     "meaning": "恢复 v. =return",
@@ -2530,7 +3280,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-254",
+    "id": "unicorn-329",
     "library": "unicorn",
     "word": "restriction",
     "meaning": "限制",
@@ -2540,7 +3290,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-255",
+    "id": "unicorn-330",
     "library": "unicorn",
     "word": "rights",
     "meaning": "权利",
@@ -2550,7 +3300,17 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-256",
+    "id": "unicorn-331",
+    "library": "unicorn",
+    "word": "risk",
+    "meaning": "风险",
+    "definition": "v.",
+    "example": "Review the word: risk.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-332",
     "library": "unicorn",
     "word": "ritual",
     "meaning": "礼节；程序 ['rɪtʃuəl]",
@@ -2560,7 +3320,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-257",
+    "id": "unicorn-333",
     "library": "unicorn",
     "word": "road rage",
     "meaning": "路怒（rage=anger）violence",
@@ -2570,7 +3330,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-258",
+    "id": "unicorn-334",
     "library": "unicorn",
     "word": "run into trouble",
     "meaning": "有麻烦",
@@ -2580,7 +3340,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-259",
+    "id": "unicorn-335",
     "library": "unicorn",
     "word": "sadden",
     "meaning": "使悲伤",
@@ -2590,17 +3350,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-260",
+    "id": "unicorn-336",
     "library": "unicorn",
-    "word": "saudi arabia",
+    "word": "saudi",
     "meaning": "沙特阿拉伯",
-    "definition": "",
-    "example": "Review the word: saudi arabia.",
+    "definition": "rabia",
+    "example": "Review the word: saudi.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4"
   },
   {
-    "id": "unicorn-261",
+    "id": "unicorn-337",
     "library": "unicorn",
     "word": "scale",
     "meaning": "天平；规模；鱼鳞",
@@ -2610,7 +3370,27 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-262",
+    "id": "unicorn-338",
+    "library": "unicorn",
+    "word": "select",
+    "meaning": "精选（for)",
+    "definition": "n.",
+    "example": "Review the word: select.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-339",
+    "library": "unicorn",
+    "word": "self-esteem",
+    "meaning": "自尊",
+    "definition": "being confident and believing in yourself",
+    "example": "Review the word: self-esteem.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-340",
     "library": "unicorn",
     "word": "separate",
     "meaning": "单独的；独立的",
@@ -2620,7 +3400,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-263",
+    "id": "unicorn-341",
     "library": "unicorn",
     "word": "sequel",
     "meaning": "续集",
@@ -2630,7 +3410,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-264",
+    "id": "unicorn-342",
     "library": "unicorn",
     "word": "series",
     "meaning": "一系列",
@@ -2640,7 +3420,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-265",
+    "id": "unicorn-343",
     "library": "unicorn",
     "word": "serious",
     "meaning": "严重的",
@@ -2650,7 +3430,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-266",
+    "id": "unicorn-344",
     "library": "unicorn",
     "word": "serious",
     "meaning": "严重的",
@@ -2660,7 +3440,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-267",
+    "id": "unicorn-345",
+    "library": "unicorn",
+    "word": "serious illness",
+    "meaning": "重病",
+    "definition": "a very bad medical problem",
+    "example": "Review the word: serious illness.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-346",
     "library": "unicorn",
     "word": "shark fin",
     "meaning": "鱼翅",
@@ -2670,7 +3460,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-268",
+    "id": "unicorn-347",
     "library": "unicorn",
     "word": "sharpen",
     "meaning": "使锋利",
@@ -2680,7 +3470,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-269",
+    "id": "unicorn-348",
     "library": "unicorn",
     "word": "shellfish",
     "meaning": "贝类",
@@ -2690,7 +3480,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-270",
+    "id": "unicorn-349",
     "library": "unicorn",
     "word": "shore",
     "meaning": "岸",
@@ -2700,7 +3490,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-271",
+    "id": "unicorn-350",
     "library": "unicorn",
     "word": "shorten",
     "meaning": "使变短",
@@ -2710,7 +3500,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-272",
+    "id": "unicorn-351",
     "library": "unicorn",
     "word": "species",
     "meaning": "物种",
@@ -2720,7 +3510,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-273",
+    "id": "unicorn-352",
     "library": "unicorn",
     "word": "spectacular",
     "meaning": "壮丽的 (extremely good)",
@@ -2730,7 +3520,27 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-274",
+    "id": "unicorn-353",
+    "library": "unicorn",
+    "word": "split the time into 10-minute chunks",
+    "meaning": "把...分成小块",
+    "definition": "",
+    "example": "Review the word: split the time into 10-minute chunks.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-354",
+    "library": "unicorn",
+    "word": "squash",
+    "meaning": "壁球; /skwɒʃ/;西葫芦；南瓜",
+    "definition": "",
+    "example": "Review the word: squash.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-355",
     "library": "unicorn",
     "word": "strengthen",
     "meaning": "使加强",
@@ -2740,7 +3550,37 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-275",
+    "id": "unicorn-356",
+    "library": "unicorn",
+    "word": "strengthen muscles",
+    "meaning": "增强肌肉",
+    "definition": "",
+    "example": "Review the word: strengthen muscles.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-357",
+    "library": "unicorn",
+    "word": "stroke",
+    "meaning": "中风",
+    "definition": "",
+    "example": "Review the word: stroke.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-358",
+    "library": "unicorn",
+    "word": "subconscious",
+    "meaning": "潜意识的",
+    "definition": "",
+    "example": "Review the word: subconscious.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-359",
     "library": "unicorn",
     "word": "subsequent",
     "meaning": "（sub-=under）后来的；随后的 (事情发生的先后关系)",
@@ -2750,7 +3590,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-276",
+    "id": "unicorn-360",
+    "library": "unicorn",
+    "word": "suffer",
+    "meaning": "遭受",
+    "definition": "to experience physical or mental pain",
+    "example": "Review the word: suffer.",
+    "source": "三册5单元基础词汇",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-361",
     "library": "unicorn",
     "word": "summary",
     "meaning": "总结",
@@ -2760,7 +3610,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-277",
+    "id": "unicorn-362",
     "library": "unicorn",
     "word": "surface",
     "meaning": "表面",
@@ -2770,7 +3620,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-278",
+    "id": "unicorn-363",
     "library": "unicorn",
     "word": "survive",
     "meaning": "幸存",
@@ -2780,7 +3630,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-279",
+    "id": "unicorn-364",
     "library": "unicorn",
     "word": "suspicious",
     "meaning": "令人怀疑的；可疑的",
@@ -2790,7 +3640,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-280",
+    "id": "unicorn-365",
     "library": "unicorn",
     "word": "tackle the problem of",
     "meaning": "处理问题",
@@ -2800,7 +3650,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-281",
+    "id": "unicorn-366",
+    "library": "unicorn",
+    "word": "take risks",
+    "meaning": "冒险",
+    "definition": "",
+    "example": "Review the word: take risks.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-367",
     "library": "unicorn",
     "word": "take steps to do",
     "meaning": "采取措施",
@@ -2810,7 +3670,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-282",
+    "id": "unicorn-368",
     "library": "unicorn",
     "word": "take steps/ measures to do",
     "meaning": "采取措施",
@@ -2820,7 +3680,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-283",
+    "id": "unicorn-369",
+    "library": "unicorn",
+    "word": "take the place",
+    "meaning": "取代；替代",
+    "definition": "",
+    "example": "Review the word: take the place.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-370",
     "library": "unicorn",
     "word": "taken together",
     "meaning": "综上",
@@ -2830,7 +3700,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-284",
+    "id": "unicorn-371",
+    "library": "unicorn",
+    "word": "tangible",
+    "meaning": "有形的，可触摸的",
+    "definition": "",
+    "example": "Review the word: tangible.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-372",
     "library": "unicorn",
     "word": "the evening/ morning rush hour",
     "meaning": "晚/早高峰",
@@ -2840,7 +3720,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-285",
+    "id": "unicorn-373",
     "library": "unicorn",
     "word": "the grand canyon",
     "meaning": "（美国）大峡谷",
@@ -2850,7 +3730,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-286",
+    "id": "unicorn-374",
     "library": "unicorn",
     "word": "the greenhouse effect",
     "meaning": "温室效应",
@@ -2860,7 +3740,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-287",
+    "id": "unicorn-375",
     "library": "unicorn",
     "word": "threaten",
     "meaning": "危及；对...构成威胁v.",
@@ -2870,7 +3750,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-288",
+    "id": "unicorn-376",
     "library": "unicorn",
     "word": "topknot",
     "meaning": "顶髻",
@@ -2880,7 +3760,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-289",
+    "id": "unicorn-377",
     "library": "unicorn",
     "word": "tracks",
     "meaning": "轨道= metal bars",
@@ -2890,7 +3770,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-290",
+    "id": "unicorn-378",
     "library": "unicorn",
     "word": "tradition",
     "meaning": "传统",
@@ -2900,7 +3780,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-291",
+    "id": "unicorn-379",
     "library": "unicorn",
     "word": "traditional",
     "meaning": "传统的",
@@ -2910,7 +3790,7 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-292",
+    "id": "unicorn-380",
     "library": "unicorn",
     "word": "traffic congestion",
     "meaning": "交通拥堵",
@@ -2920,7 +3800,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-293",
+    "id": "unicorn-381",
+    "library": "unicorn",
+    "word": "tremendous",
+    "meaning": "巨大的",
+    "definition": "",
+    "example": "Review the word: tremendous.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-382",
     "library": "unicorn",
     "word": "trend",
     "meaning": "趋势n.",
@@ -2930,7 +3820,7 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-294",
+    "id": "unicorn-383",
     "library": "unicorn",
     "word": "tuna",
     "meaning": "金枪鱼",
@@ -2940,7 +3830,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-295",
+    "id": "unicorn-384",
     "library": "unicorn",
     "word": "tunnel",
     "meaning": "隧道",
@@ -2950,7 +3840,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-296",
+    "id": "unicorn-385",
     "library": "unicorn",
     "word": "typically",
     "meaning": "典型地；通常",
@@ -2960,7 +3850,27 @@ const UNICORN_WORDS = [
     "unit": "unit4"
   },
   {
-    "id": "unicorn-297",
+    "id": "unicorn-386",
+    "library": "unicorn",
+    "word": "unconscious",
+    "meaning": "无意识的",
+    "definition": "",
+    "example": "Review the word: unconscious.",
+    "source": "三册5单元扩展词汇1",
+    "unit": "unit5"
+  },
+  {
+    "id": "unicorn-387",
+    "library": "unicorn",
+    "word": "under threat",
+    "meaning": "受到威胁",
+    "definition": "",
+    "example": "Review the word: under threat.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-388",
     "library": "unicorn",
     "word": "underground trains",
     "meaning": "地铁",
@@ -2970,7 +3880,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-298",
+    "id": "unicorn-389",
+    "library": "unicorn",
+    "word": "value to the world",
+    "meaning": "对世界的价值",
+    "definition": "",
+    "example": "Review the word: value to the world.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-390",
     "library": "unicorn",
     "word": "various",
     "meaning": "各种各样的",
@@ -2980,7 +3900,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-299",
+    "id": "unicorn-391",
     "library": "unicorn",
     "word": "vehicle",
     "meaning": "交通工具",
@@ -2990,7 +3910,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-300",
+    "id": "unicorn-392",
     "library": "unicorn",
     "word": "veto",
     "meaning": "否决权",
@@ -3000,7 +3920,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-301",
+    "id": "unicorn-393",
     "library": "unicorn",
     "word": "vote",
     "meaning": "投票",
@@ -3010,7 +3930,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-302",
+    "id": "unicorn-394",
     "library": "unicorn",
     "word": "voter",
     "meaning": "选民",
@@ -3020,7 +3940,17 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-303",
+    "id": "unicorn-395",
+    "library": "unicorn",
+    "word": "wedding ceremony",
+    "meaning": "婚礼仪式",
+    "definition": "",
+    "example": "Review the word: wedding ceremony.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-396",
     "library": "unicorn",
     "word": "whereas",
     "meaning": "然而；尽管",
@@ -3030,7 +3960,7 @@ const UNICORN_WORDS = [
     "unit": "unit1"
   },
   {
-    "id": "unicorn-304",
+    "id": "unicorn-397",
     "library": "unicorn",
     "word": "widen",
     "meaning": "变宽",
@@ -3040,7 +3970,17 @@ const UNICORN_WORDS = [
     "unit": "unit2"
   },
   {
-    "id": "unicorn-305",
+    "id": "unicorn-398",
+    "library": "unicorn",
+    "word": "world heritage sites",
+    "meaning": "世界遗产遗址",
+    "definition": "",
+    "example": "Review the word: world heritage sites.",
+    "source": "三册4单元扩展词汇2",
+    "unit": "unit4"
+  },
+  {
+    "id": "unicorn-399",
     "library": "unicorn",
     "word": "worldwide",
     "meaning": "全世界地",
@@ -3050,7 +3990,7 @@ const UNICORN_WORDS = [
     "unit": "unit3"
   },
   {
-    "id": "unicorn-306",
+    "id": "unicorn-400",
     "library": "unicorn",
     "word": "zoology",
     "meaning": "动物学",

@@ -1,0 +1,8 @@
+name = "word-buddy"
+compatibility_date = "2026-06-26"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "word-buddy-db"
+database_id = "1dd56042-bad4-4820-839e-4c2fc6146d4b"

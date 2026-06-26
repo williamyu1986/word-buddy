@@ -434,6 +434,28 @@ h3 {
   margin: 12px 0;
 }
 
+.form-grid {
+  display: grid;
+  gap: 10px;
+}
+
+.text-input {
+  width: 100%;
+  min-height: 48px;
+  border: 2px solid var(--line);
+  border-radius: 14px;
+  padding: 0 12px;
+  background: #fffdf8;
+  color: var(--ink);
+  font-weight: 800;
+}
+
+.sync-row {
+  display: grid;
+  gap: 8px;
+  margin: 10px 0 14px;
+}
+
 textarea {
   width: 100%;
   min-height: 130px;

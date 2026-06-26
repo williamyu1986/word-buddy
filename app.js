@@ -147,6 +147,7 @@ const WORDS = [
 }));
 
 const STORAGE_KEY = "word-buddy-state-v1";
+const CLOUD_AUTH_KEY = "word-buddy-cloud-auth-v1";
 const todayKey = () => new Date().toISOString().slice(0, 10);
 
 const defaultState = {
@@ -157,16 +158,24 @@ const defaultState = {
   settings: { dailyGoal: 15 },
   progress: {},
   daily: {},
+  auth: { token: "", user: null, status: "未登录", lastSynced: "", error: "" },
   session: null,
   message: ""
 };
 
 let state = loadState();
+let syncTimer = null;
 
 function loadState() {
   try {
     const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
-    return saved ? { ...defaultState, ...saved } : structuredClone(defaultState);
+    const auth = JSON.parse(localStorage.getItem(CLOUD_AUTH_KEY) || "{}");
+    const loaded = saved ? { ...defaultState, ...saved } : structuredClone(defaultState);
+    return {
+      ...loaded,
+      auth: { ...defaultState.auth, ...auth, status: auth.token ? "已登录" : "未登录", error: "" },
+      session: null
+    };
   } catch {
     return structuredClone(defaultState);
   }
@@ -181,6 +190,144 @@ function saveState() {
     progress: state.progress,
     daily: state.daily
   }));
+  localStorage.setItem(CLOUD_AUTH_KEY, JSON.stringify({
+    token: state.auth.token,
+    user: state.auth.user,
+    lastSynced: state.auth.lastSynced
+  }));
+  scheduleCloudSave();
+}
+
+function syncPayload() {
+  return {
+    selectedLibrary: state.selectedLibrary,
+    selectedUnicornUnit: state.selectedUnicornUnit,
+    customWords: state.customWords,
+    settings: state.settings,
+    progress: state.progress,
+    daily: state.daily
+  };
+}
+
+function mergeArraysBy(items, keyFn) {
+  const map = new Map();
+  for (const item of items || []) {
+    map.set(keyFn(item), item);
+  }
+  return [...map.values()];
+}
+
+function mergeProgress(local = {}, remote = {}) {
+  const merged = { ...remote, ...local };
+  for (const id of Object.keys(remote)) {
+    const left = local[id] || {};
+    const right = remote[id] || {};
+    merged[id] = {
+      seen: Math.max(Number(left.seen) || 0, Number(right.seen) || 0),
+      correct: Math.max(Number(left.correct) || 0, Number(right.correct) || 0),
+      wrong: Math.max(Number(left.wrong) || 0, Number(right.wrong) || 0),
+      status: left.status === "wrong" || right.status === "wrong" ? "wrong" : (left.status || right.status || "new"),
+      lastSeen: [left.lastSeen, right.lastSeen].filter(Boolean).sort().pop() || ""
+    };
+  }
+  return merged;
+}
+
+function mergeDaily(local = {}, remote = {}) {
+  const merged = { ...remote, ...local };
+  for (const key of Object.keys(remote)) {
+    const left = local[key] || {};
+    const right = remote[key] || {};
+    merged[key] = {
+      completed: Math.max(Number(left.completed) || 0, Number(right.completed) || 0),
+      learnedIds: [...new Set([...(right.learnedIds || []), ...(left.learnedIds || [])])],
+      stars: Math.max(Number(left.stars) || 0, Number(right.stars) || 0)
+    };
+  }
+  return merged;
+}
+
+function applyCloudState(remote) {
+  if (!remote) return;
+  state.selectedLibrary = remote.selectedLibrary || state.selectedLibrary;
+  state.selectedUnicornUnit = remote.selectedUnicornUnit || state.selectedUnicornUnit;
+  state.customWords = mergeArraysBy(
+    [...(remote.customWords || []), ...state.customWords],
+    item => `${item.word}::${item.meaning}`
+  );
+  state.settings = { ...state.settings, ...(remote.settings || {}) };
+  state.progress = mergeProgress(state.progress, remote.progress);
+  state.daily = mergeDaily(state.daily, remote.daily);
+}
+
+async function cloudRequest(path, options = {}) {
+  const headers = {
+    "content-type": "application/json",
+    ...(options.headers || {})
+  };
+  if (state.auth.token) headers.authorization = `Bearer ${state.auth.token}`;
+  const response = await fetch(path, { ...options, headers });
+  const data = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(data.error || "云同步暂时不可用。");
+  return data;
+}
+
+async function cloudLogin(name, password) {
+  state.auth.status = "登录中...";
+  state.auth.error = "";
+  render();
+  const data = await cloudRequest("/api/auth", {
+    method: "POST",
+    body: JSON.stringify({ name, password })
+  });
+  state.auth.token = data.token;
+  state.auth.user = data.user;
+  state.auth.status = "同步中...";
+  localStorage.setItem(CLOUD_AUTH_KEY, JSON.stringify(state.auth));
+  const remote = await cloudRequest("/api/state");
+  applyCloudState(remote.state);
+  state.auth.status = "已登录";
+  await saveCloudStateNow(true);
+  saveState();
+  render();
+}
+
+function cloudLogout() {
+  state.auth = { ...defaultState.auth };
+  localStorage.removeItem(CLOUD_AUTH_KEY);
+  saveState();
+  render();
+}
+
+function scheduleCloudSave() {
+  if (!state.auth?.token) return;
+  clearTimeout(syncTimer);
+  syncTimer = setTimeout(() => {
+    saveCloudStateNow(true);
+  }, 800);
+}
+
+async function saveCloudStateNow(silent = false) {
+  if (!state.auth?.token) return;
+  try {
+    if (!silent) {
+      state.auth.status = "同步中...";
+      render();
+    }
+    await cloudRequest("/api/state", {
+      method: "POST",
+      body: JSON.stringify({ state: syncPayload() })
+    });
+    state.auth.status = "已同步";
+    state.auth.lastSynced = new Date().toLocaleString();
+    state.auth.error = "";
+    localStorage.setItem(CLOUD_AUTH_KEY, JSON.stringify(state.auth));
+    if (!silent) render();
+  } catch (error) {
+    state.auth.status = "同步失败";
+    state.auth.error = error.message;
+    if (!silent) render();
+  }
 }
 
 function allWords() {
@@ -231,6 +378,7 @@ function unicornUnitLabel(unit) {
     unit2: "第二单元",
     unit3: "第三单元",
     unit4: "第四单元",
+    unit5: "第五单元",
     unknown: "未分单元",
   }[unit] || "全部单元";
 }
@@ -253,6 +401,15 @@ function todayStats() {
     state.daily[key] = { completed: 0, learnedIds: [], stars: 0 };
   }
   return state.daily[key];
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 function stats() {
@@ -548,7 +705,7 @@ function renderLibrary() {
 }
 
 function renderUnicornUnitPicker() {
-  const units = ["all", "unit1", "unit2", "unit3", "unit4"];
+  const units = ["all", "unit1", "unit2", "unit3", "unit4", "unit5"];
   return `
     <article class="card setting-card">
       <h3>选择 Unlock 3 单元</h3>
@@ -793,6 +950,7 @@ function renderSettings() {
         <div class="sticker">设</div>
       </header>
       <div class="stats-list">
+        ${renderCloudSyncCard()}
         <article class="card setting-card">
           <h3>每日新词数量</h3>
           <select id="dailyGoal">
@@ -825,6 +983,35 @@ function renderSettings() {
   `;
 }
 
+function renderCloudSyncCard() {
+  const user = state.auth.user;
+  return `
+    <article class="card setting-card">
+      <h3>云同步登录</h3>
+      ${user ? `
+        <p class="muted">当前使用者：<strong>${escapeHtml(user.name)}</strong></p>
+        <div class="sync-row">
+          <span class="pill blue">${state.auth.status}</span>
+          ${state.auth.lastSynced ? `<span class="muted">上次同步：${state.auth.lastSynced}</span>` : ""}
+        </div>
+        ${state.auth.error ? `<p class="feedback bad">${state.auth.error}</p>` : ""}
+        <div class="button-row">
+          <button class="secondary-btn" data-action="cloud-sync-now">立即同步</button>
+          <button class="ghost-btn" data-action="cloud-logout">退出登录</button>
+        </div>
+      ` : `
+        <p class="muted">输入孩子名字和密码后，进度会自动同步到云端。第一次使用会自动创建档案。</p>
+        <div class="form-grid">
+          <input class="text-input" id="cloudName" placeholder="孩子名字，例如 yoyo" autocomplete="username" />
+          <input class="text-input" id="cloudPassword" placeholder="密码，至少 4 位" type="password" autocomplete="current-password" />
+        </div>
+        ${state.auth.error ? `<p class="feedback bad">${state.auth.error}</p>` : ""}
+        <button class="primary-btn" data-action="cloud-login" style="margin-top:10px">登录 / 创建档案</button>
+      `}
+    </article>
+  `;
+}
+
 function renderNav() {
   const items = [
     ["home", "⌂", "首页"],
@@ -843,7 +1030,7 @@ function renderNav() {
   `;
 }
 
-document.addEventListener("click", event => {
+document.addEventListener("click", async event => {
   const target = event.target.closest("button");
   if (!target) return;
 
@@ -938,9 +1125,27 @@ document.addEventListener("click", event => {
     saveState();
     render();
   }
+  if (action === "cloud-login") {
+    const name = document.querySelector("#cloudName")?.value || "";
+    const password = document.querySelector("#cloudPassword")?.value || "";
+    try {
+      await cloudLogin(name, password);
+    } catch (error) {
+      state.auth.status = "登录失败";
+      state.auth.error = error.message;
+      render();
+    }
+  }
+  if (action === "cloud-sync-now") {
+    await saveCloudStateNow(false);
+  }
+  if (action === "cloud-logout") {
+    cloudLogout();
+  }
   if (action === "clear-data") {
     if (confirm("确认清空所有本地学习记录和自定义词库吗？")) {
       localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(CLOUD_AUTH_KEY);
       state = structuredClone(defaultState);
       render();
     }
