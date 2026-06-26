@@ -149,6 +149,7 @@ const WORDS = [
 const EXAM_BANKS = typeof EXAM_WORD_BANKS === "undefined" ? {} : EXAM_WORD_BANKS;
 const FULL_WORD_BANKS = {
   zhongkao: typeof ZHONGKAO_WORDS === "undefined" ? [] : ZHONGKAO_WORDS,
+  gaokao: typeof GAOKAO_WORDS === "undefined" ? [] : GAOKAO_WORDS,
   ket: typeof KET_WORDS === "undefined" ? [] : KET_WORDS
 };
 const FULL_WORDS = Object.values(FULL_WORD_BANKS).flat();
@@ -376,11 +377,11 @@ function libraryMeta() {
       empty: "可以切换到黑龙江中考词库，或在家长设置里导入自定义词。",
     },
     gaokao: {
-      title: "高考核心词",
-      short: "高考核心词",
-      badge: "高考核心",
-      subtitle: `高考核心词 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
-      empty: "高考核心词库暂时没有词，可以切换其他词库。",
+      title: "高考新课标词库",
+      short: "高考新课标",
+      badge: "高考新课标",
+      subtitle: `高考新课标完整版 · 每日 ${Number(state.settings.dailyGoal) || 15} 个 · 错词优先复习`,
+      empty: "高考新课标词库暂时没有词，可以切换其他词库。",
     },
     ket: {
       title: "KET 常用词",
@@ -775,7 +776,7 @@ function renderLibrary() {
       </header>
       <div class="library-list">
         ${libraryCard("zhongkao", "黑龙江中考词库", `${examCount("zhongkao")} 个基础词`, "基础版")}
-        ${libraryCard("gaokao", "高考核心词", `${examCount("gaokao")} 个核心词`, "高考")}
+        ${libraryCard("gaokao", "高考新课标词库", `${examCount("gaokao")} 个词`, "完整版")}
         ${libraryCard("ket", "KET 常用词", `${examCount("ket")} 个常用词`, "KET")}
         ${libraryCard("pet", "PET 常用词", `${examCount("pet")} 个常用词`, "PET")}
         ${libraryCard("unicorn", "独角兽背单词", `${unicornUnitCount(state.selectedUnicornUnit)} / ${UNICORN_WORDS.length} 个词/短语`, "Unlock 3")}
