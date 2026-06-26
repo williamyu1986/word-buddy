@@ -424,6 +424,22 @@ h3 {
   font-size: 20px;
 }
 
+.tiny-sound-btn {
+  flex: 0 0 auto;
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  min-height: 34px;
+  border: 1px solid rgba(39, 48, 67, 0.18);
+  border-radius: 999px;
+  padding: 0;
+  background: #e7f1ff;
+  color: var(--ink);
+  font-size: 13px;
+  box-shadow: none;
+}
+
 .meaning-box {
   margin: 16px 0;
   padding: 14px;
@@ -436,6 +452,17 @@ h3 {
   border-left: 4px solid var(--mint);
   color: var(--muted);
   line-height: 1.55;
+}
+
+.sentence-audio {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.sentence-audio p {
+  flex: 1;
+  margin: 0;
 }
 
 .quiz-prompt {

@@ -622,6 +622,16 @@ function promptLine(word) {
   return word.definition || word.example || "";
 }
 
+function renderSentenceAudio(text, extraClass = "") {
+  if (!text) return "";
+  return `
+    <div class="sentence-audio ${extraClass}">
+      <p>${escapeHtml(text)}</p>
+      <button class="tiny-sound-btn" data-action="speak" data-text="${escapeHtml(text)}" aria-label="朗读句子">▶</button>
+    </div>
+  `;
+}
+
 function stats() {
   const progressValues = Object.values(state.progress);
   const learned = progressValues.filter(item => item.seen > 0).length;
@@ -1192,8 +1202,8 @@ function renderCard(word, count) {
           <div class="word-main">${word.word}</div>
           ${phoneticLine(word)}
           <div class="meaning-box">${formattedMeaning(word)}</div>
-          ${word.definition ? `<p class="definition-box">${word.definition}</p>` : ""}
-          ${cardPrompt ? `<p class="example">${cardPrompt}</p>` : ""}
+          ${word.definition ? renderSentenceAudio(word.definition, "definition-box") : ""}
+          ${cardPrompt ? renderSentenceAudio(cardPrompt, "example") : ""}
         </div>
         <div class="button-row">
           <button class="ghost-btn" data-action="back-to-choice">回到选择题</button>
@@ -1226,7 +1236,7 @@ function renderChoice(word, count) {
         <button class="sound-btn" data-action="speak" data-word="${word.word}" aria-label="朗读 ${word.word}">▶</button>
       </header>
       <article class="card quiz-card">
-        ${prompt ? `<p class="example quiz-prompt">${prompt}</p>` : ""}
+        ${prompt ? renderSentenceAudio(prompt, "example quiz-prompt") : ""}
         <div class="choice-list">
           ${state.session.choices.map(choice => `<button class="${choiceButtonClass(choice, word)}" data-action="answer-choice" data-choice="${escapeHtml(choice.value)}" ${state.session.feedback ? "disabled" : ""}>${escapeHtml(choice.label)}</button>`).join("")}
         </div>
@@ -1276,7 +1286,7 @@ function renderSpell(word, count) {
         <button class="sound-btn" data-action="speak" data-word="${word.word}" aria-label="朗读 ${word.word}">▶</button>
       </header>
       <article class="card quiz-card">
-        ${isDefinitionPrompt ? `<div class="definition-box large">${word.definition}</div><div class="meaning-hint">中文提示：${word.meaning}</div>` : ""}
+        ${isDefinitionPrompt ? `${renderSentenceAudio(word.definition, "definition-box large")}<div class="meaning-hint">中文提示：${word.meaning}</div>` : ""}
         <input class="spell-input" id="spellInput" placeholder="输入英文单词" autocomplete="off" ${state.session.feedback ? "disabled" : ""} />
         <p class="feedback ${state.session.feedback ? (state.session.feedback.includes("正确") ? "good" : "bad") : ""}">${state.session.feedback}</p>
         ${renderFeedbackActions()}
@@ -1473,7 +1483,7 @@ document.addEventListener("click", async event => {
   if (action === "review-wrong") startSession(true);
   if (action === "speak") {
     const word = currentWord();
-    speak(target.dataset.word, word?.audio || "");
+    speak(target.dataset.text || target.dataset.word, target.dataset.text ? "" : (word?.audio || ""));
   }
   if (action === "next-stage") nextStage();
   if (action === "skip-word") {
