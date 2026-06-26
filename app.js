@@ -167,6 +167,8 @@ const EXAM_WORDS = Object.entries(EXAM_BANKS).flatMap(([library, words]) =>
 );
 
 const STORAGE_KEY = "word-buddy-state-v1";
+const ANONYMOUS_STORAGE_KEY = "word-buddy-anonymous-state-v1";
+const PROFILE_STORAGE_PREFIX = "word-buddy-profile-state-v1:";
 const CLOUD_AUTH_KEY = "word-buddy-cloud-auth-v1";
 const todayKey = () => new Date().toISOString().slice(0, 10);
 
@@ -192,8 +194,11 @@ let syncTimer = null;
 
 function loadState() {
   try {
-    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY));
     const auth = JSON.parse(localStorage.getItem(CLOUD_AUTH_KEY) || "{}");
+    const anonymous = JSON.parse(localStorage.getItem(ANONYMOUS_STORAGE_KEY) || "null");
+    const legacy = JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
+    const profile = auth.user ? loadLearningProfile(auth.user) : null;
+    const saved = profile || anonymous || legacy;
     const loaded = saved ? { ...defaultState, ...saved } : structuredClone(defaultState);
     return {
       ...loaded,
@@ -205,40 +210,78 @@ function loadState() {
   }
 }
 
-function saveState() {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify({
-    selectedLibrary: state.selectedLibrary,
-    selectedUnicornUnit: state.selectedUnicornUnit,
-    selectedCore2000Book: state.selectedCore2000Book,
-    selectedCore2000Unit: state.selectedCore2000Unit,
-    selectedEEW4000Book: state.selectedEEW4000Book,
-    selectedEEW4000Unit: state.selectedEEW4000Unit,
-    customWords: state.customWords,
-    settings: state.settings,
-    progress: state.progress,
-    daily: state.daily
-  }));
+function profileStorageKey(user) {
+  const id = user?.id || user?.name || "unknown";
+  return `${PROFILE_STORAGE_PREFIX}${String(id).trim().toLowerCase()}`;
+}
+
+function learningSnapshot(source = state) {
+  return {
+    selectedLibrary: source.selectedLibrary,
+    selectedUnicornUnit: source.selectedUnicornUnit,
+    selectedCore2000Book: source.selectedCore2000Book,
+    selectedCore2000Unit: source.selectedCore2000Unit,
+    selectedEEW4000Book: source.selectedEEW4000Book,
+    selectedEEW4000Unit: source.selectedEEW4000Unit,
+    customWords: source.customWords,
+    settings: source.settings,
+    progress: source.progress,
+    daily: source.daily
+  };
+}
+
+function loadLearningProfile(user) {
+  try {
+    return JSON.parse(localStorage.getItem(profileStorageKey(user)) || "null");
+  } catch {
+    return null;
+  }
+}
+
+function applyLearningSnapshot(snapshot) {
+  const loaded = snapshot ? { ...defaultState, ...snapshot } : structuredClone(defaultState);
+  state.selectedLibrary = loaded.selectedLibrary;
+  state.selectedUnicornUnit = loaded.selectedUnicornUnit;
+  state.selectedCore2000Book = loaded.selectedCore2000Book;
+  state.selectedCore2000Unit = loaded.selectedCore2000Unit;
+  state.selectedEEW4000Book = loaded.selectedEEW4000Book;
+  state.selectedEEW4000Unit = loaded.selectedEEW4000Unit;
+  state.customWords = loaded.customWords || [];
+  state.settings = { ...defaultState.settings, ...(loaded.settings || {}) };
+  state.progress = loaded.progress || {};
+  state.daily = loaded.daily || {};
+  state.session = null;
+}
+
+function saveLocalState() {
+  const snapshot = learningSnapshot();
+  if (state.auth?.user) {
+    localStorage.setItem(profileStorageKey(state.auth.user), JSON.stringify(snapshot));
+  } else {
+    localStorage.setItem(ANONYMOUS_STORAGE_KEY, JSON.stringify(snapshot));
+  }
   localStorage.setItem(CLOUD_AUTH_KEY, JSON.stringify({
     token: state.auth.token,
     user: state.auth.user,
     lastSynced: state.auth.lastSynced
   }));
+}
+
+function loadAnonymousProfile() {
+  try {
+    return JSON.parse(localStorage.getItem(ANONYMOUS_STORAGE_KEY) || "null");
+  } catch {
+    return null;
+  }
+}
+
+function saveState() {
+  saveLocalState();
   scheduleCloudSave();
 }
 
 function syncPayload() {
-  return {
-    selectedLibrary: state.selectedLibrary,
-    selectedUnicornUnit: state.selectedUnicornUnit,
-    selectedCore2000Book: state.selectedCore2000Book,
-    selectedCore2000Unit: state.selectedCore2000Unit,
-    selectedEEW4000Book: state.selectedEEW4000Book,
-    selectedEEW4000Unit: state.selectedEEW4000Unit,
-    customWords: state.customWords,
-    settings: state.settings,
-    progress: state.progress,
-    daily: state.daily
-  };
+  return learningSnapshot();
 }
 
 function mergeArraysBy(items, keyFn) {
@@ -309,6 +352,7 @@ async function cloudRequest(path, options = {}) {
 }
 
 async function cloudLogin(name, password) {
+  saveLocalState();
   state.auth.status = "登录中...";
   state.auth.error = "";
   render();
@@ -316,6 +360,7 @@ async function cloudLogin(name, password) {
     method: "POST",
     body: JSON.stringify({ name, password })
   });
+  applyLearningSnapshot(loadLearningProfile(data.user));
   state.auth.token = data.token;
   state.auth.user = data.user;
   state.auth.status = "同步中...";
@@ -329,8 +374,10 @@ async function cloudLogin(name, password) {
 }
 
 function cloudLogout() {
+  saveLocalState();
   state.auth = { ...defaultState.auth };
   localStorage.removeItem(CLOUD_AUTH_KEY);
+  applyLearningSnapshot(loadAnonymousProfile());
   saveState();
   render();
 }
@@ -1212,7 +1259,7 @@ function renderSettings() {
         <div>
           <p class="eyebrow">家长设置</p>
           <h1>管理学习节奏</h1>
-          <p class="muted">所有记录只保存在当前浏览器。</p>
+          <p class="muted">本地记录会按登录名字分开保存，登录后也会同步到云端。</p>
         </div>
         <div class="sticker">设</div>
       </header>
@@ -1242,7 +1289,7 @@ function renderSettings() {
         </article>
         <article class="card setting-card">
           <h3>清空本地数据</h3>
-          <p class="muted">换设备或清浏览器数据会丢失记录。这里可以手动重置学习记录和自定义词库。</p>
+          <p class="muted">这里只清空当前浏览器里当前使用者的学习记录和自定义词库，不会清空其他名字的本地记录。</p>
           <button class="danger-btn" data-action="clear-data" style="width:100%">一键清空</button>
         </article>
       </div>
@@ -1432,10 +1479,15 @@ document.addEventListener("click", async event => {
     cloudLogout();
   }
   if (action === "clear-data") {
-    if (confirm("确认清空所有本地学习记录和自定义词库吗？")) {
-      localStorage.removeItem(STORAGE_KEY);
-      localStorage.removeItem(CLOUD_AUTH_KEY);
-      state = structuredClone(defaultState);
+    if (confirm("确认清空当前使用者在这台浏览器里的学习记录和自定义词库吗？")) {
+      if (state.auth?.user) {
+        localStorage.removeItem(profileStorageKey(state.auth.user));
+      } else {
+        localStorage.removeItem(ANONYMOUS_STORAGE_KEY);
+      }
+      applyLearningSnapshot(null);
+      state.message = "已清空当前使用者的本地学习记录。";
+      saveLocalState();
       render();
     }
   }
