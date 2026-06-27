@@ -66,7 +66,7 @@ function loadAudioHarness({
   for (const file of ["unicorn-words.js", "exam-words.js", "zhongkao-words.js", "gaokao-words.js", "ket-words.js", "pet-words.js", "core2000-words.js", "eew4000-words.js"]) {
     vm.runInNewContext(fs.readFileSync(new URL(`../${file}`, import.meta.url), "utf8"), sandbox);
   }
-  vm.runInNewContext(`${fs.readFileSync(new URL("../app.js", import.meta.url), "utf8")}\nthis.__speak = speak; this.__state = state;`, sandbox);
+  vm.runInNewContext(`${fs.readFileSync(new URL("../app.js", import.meta.url), "utf8")}\nthis.__speak = speak; this.__renderSentenceAudio = renderSentenceAudio; this.__state = state;`, sandbox);
   return { sandbox, played, rates, spoken };
 }
 
@@ -78,17 +78,12 @@ test("single word audio prefers mainland-friendly online pronunciation", async (
   assert.deepEqual(spoken, []);
 });
 
-test("sentence audio uses online word-by-word playback on mobile", async () => {
-  const { sandbox, played, spoken } = loadAudioHarness();
-  await sandbox.__speak("A doctor helps sick people.");
-  assert.deepEqual(played, [
-    "https://dict.youdao.com/dictvoice?audio=A&type=2",
-    "https://dict.youdao.com/dictvoice?audio=doctor&type=2",
-    "https://dict.youdao.com/dictvoice?audio=helps&type=2",
-    "https://dict.youdao.com/dictvoice?audio=sick&type=2",
-    "https://dict.youdao.com/dictvoice?audio=people&type=2"
-  ]);
-  assert.deepEqual(spoken, []);
+test("sentence hints do not render an audio button while sentence audio is paused", () => {
+  const { sandbox } = loadAudioHarness();
+  const html = sandbox.__renderSentenceAudio("A doctor helps sick people.");
+  assert.match(html, /A doctor helps sick people\./);
+  assert.doesNotMatch(html, /data-action="speak"/);
+  assert.doesNotMatch(html, /tiny-sound-btn/);
 });
 
 test("dictionary lookup remains as fallback when direct online audio fails", async () => {

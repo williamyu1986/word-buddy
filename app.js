@@ -663,7 +663,6 @@ function renderSentenceAudio(text, extraClass = "") {
   return `
     <div class="sentence-audio ${extraClass}">
       <p>${escapeHtml(text)}</p>
-      <button class="tiny-sound-btn" data-action="speak" data-text="${escapeHtml(text)}" aria-label="朗读句子">▶</button>
     </div>
   `;
 }
@@ -1706,7 +1705,8 @@ document.addEventListener("click", async event => {
   if (action === "review-wrong") startSession(true);
   if (action === "speak") {
     const word = currentWord();
-    speak(target.dataset.text || target.dataset.word, target.dataset.text ? "" : (word?.audio || ""));
+    if (target.dataset.text) return;
+    speak(target.dataset.word, word?.audio || "");
   }
   if (action === "enable-audio") enableAudio();
   if (action === "next-stage") nextStage();
