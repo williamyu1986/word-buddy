@@ -4237,10 +4237,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "dining room",
     "meaning": "饭厅",
-    "example": "I can use \"dining room\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "D",
-    "pos": "n"
+    "pos": "n",
+    "definition": "a room used for dining"
   },
   {
     "id": "ket-full-422",
@@ -5607,10 +5607,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "fill in",
     "meaning": "填充, 填写, 填满, 替代",
-    "example": "I can use \"fill in\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "F",
-    "pos": "phr v"
+    "pos": "phr v",
+    "definition": "someone who takes the place of another (as when things get dangerous or difficult)"
   },
   {
     "id": "ket-full-559",
@@ -7337,10 +7337,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "hip hop",
     "meaning": "希普霍普",
-    "example": "I can use \"hip hop\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "H",
-    "pos": "n"
+    "pos": "n",
+    "definition": "an urban youth culture associated with rap music and the fashions of African-American residents of the inner city"
   },
   {
     "id": "ket-full-732",
@@ -8807,10 +8807,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "living room",
     "meaning": "客厅, 起居室",
-    "example": "I can use \"living room\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "L",
-    "pos": "n"
+    "pos": "n",
+    "definition": "a room in a private house or establishment where people can sit and talk and relax"
   },
   {
     "id": "ket-full-879",
@@ -11817,10 +11817,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "post office",
     "meaning": "邮局",
-    "example": "I can use \"post office\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "P",
-    "pos": "n"
+    "pos": "n",
+    "definition": "See under 4th Post."
   },
   {
     "id": "ket-full-1180",
@@ -12077,10 +12077,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "put on",
     "meaning": "把...放上去, 穿上, 假装, 增加, 上演, 使...上场, 使起作用, 施加于",
-    "example": "I can use \"put on\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "P",
-    "pos": "phr v"
+    "pos": "phr v",
+    "definition": "a composition that imitates or misrepresents somebody's style, usually in a humorous way"
   },
   {
     "id": "ket-full-1206",
@@ -12557,10 +12557,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "right hand",
     "meaning": "右手",
-    "example": "I can use \"right hand\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "R",
-    "pos": "adj"
+    "pos": "adj",
+    "definition": "located on or directed toward the right"
   },
   {
     "id": "ket-full-1254",
@@ -13537,10 +13537,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "sit down",
     "meaning": "坐下",
-    "example": "I can use \"sit down\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "S",
-    "pos": "phr v"
+    "pos": "phr v",
+    "definition": "a strike in which workers refuse to leave the workplace until a settlement is reached"
   },
   {
     "id": "ket-full-1352",
@@ -15847,10 +15847,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "try on",
     "meaning": "试穿, 试验",
-    "example": "I can use \"try on\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "T",
-    "pos": "phr v"
+    "pos": "phr v",
+    "definition": "putting clothes on to see whether they fit"
   },
   {
     "id": "ket-full-1583",
@@ -16617,10 +16617,10 @@ const KET_WORDS = [
     "library": "ket",
     "word": "well known",
     "meaning": "著名的",
-    "example": "I can use \"well known\" in a short sentence.",
     "source": "Cambridge A2 Key Vocabulary List August 2025",
     "section": "W",
-    "pos": "adj"
+    "pos": "adj",
+    "definition": "widely or fully known"
   },
   {
     "id": "ket-full-1660",

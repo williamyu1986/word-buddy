@@ -171,6 +171,7 @@ const ANONYMOUS_STORAGE_KEY = "word-buddy-anonymous-state-v1";
 const PROFILE_STORAGE_PREFIX = "word-buddy-profile-state-v1:";
 const CLOUD_AUTH_KEY = "word-buddy-cloud-auth-v1";
 const todayKey = () => new Date().toISOString().slice(0, 10);
+let cachedVoices = [];
 
 const defaultState = {
   view: "home",
@@ -185,6 +186,7 @@ const defaultState = {
   progress: {},
   daily: {},
   auth: { token: "", user: null, status: "未登录", lastSynced: "", error: "" },
+  audio: { ready: false, status: "", error: "" },
   session: null,
   message: ""
 };
@@ -623,8 +625,21 @@ function phoneticLine(word) {
   return phonetic ? `<p class="phonetic">/${escapeHtml(phonetic.replace(/^\/|\/$/g, ""))}/</p>` : "";
 }
 
+function isPlaceholderHint(value) {
+  const text = String(value || "").trim();
+  return !text
+    || /^I learned the word ".+" today\.$/.test(text)
+    || /^I can use the word ".+" in (?:an English sentence|English)\.$/.test(text)
+    || /^I can use ".+" in a short sentence\.$/.test(text)
+    || /^Try to use ".+" in a short sentence\.$/.test(text)
+    || /^Try to use .+ in a sentence\.$/.test(text)
+    || /^Review the word: .+\.$/.test(text);
+}
+
 function promptLine(word) {
-  return word.definition || word.example || "";
+  const definition = isPlaceholderHint(word.definition) ? "" : word.definition;
+  const example = isPlaceholderHint(word.example) ? "" : word.example;
+  return definition || example || "";
 }
 
 function renderSentenceAudio(text, extraClass = "") {
@@ -635,6 +650,17 @@ function renderSentenceAudio(text, extraClass = "") {
       <button class="tiny-sound-btn" data-action="speak" data-text="${escapeHtml(text)}" aria-label="朗读句子">▶</button>
     </div>
   `;
+}
+
+function initSpeechVoices() {
+  if (!("speechSynthesis" in window)) return [];
+  cachedVoices = window.speechSynthesis.getVoices();
+  return cachedVoices;
+}
+
+if ("speechSynthesis" in window) {
+  initSpeechVoices();
+  window.speechSynthesis.addEventListener?.("voiceschanged", initSpeechVoices);
 }
 
 function stats() {
@@ -810,7 +836,7 @@ function autoAdvanceToCard(wordId, selectedChoice) {
 }
 
 function stageSequence(word) {
-  if (word.library === "unicorn" && word.definition) return ["choice", "card", "spell"];
+  if (word.library === "unicorn" && promptLine(word)) return ["choice", "card", "spell"];
   if (word.library === "unicorn") return ["choice", "card", "reverse-choice"];
   return ["choice", "card", "spell"];
 }
@@ -866,7 +892,7 @@ function makeWordChoices(word) {
 
 function bestEnglishVoice() {
   if (!("speechSynthesis" in window)) return null;
-  const voices = window.speechSynthesis.getVoices();
+  const voices = cachedVoices.length ? cachedVoices : initSpeechVoices();
   const preferred = [
     "samantha",
     "google us english",
@@ -886,16 +912,20 @@ function bestEnglishVoice() {
 }
 
 function speak(text, audioSrc = "") {
+  if (!text) return;
   if (audioSrc) {
     const audio = new Audio(audioSrc);
+    audio.setAttribute("playsinline", "");
     audio.play().catch(() => speak(text));
     return;
   }
   if (!("speechSynthesis" in window)) {
-    state.message = "当前浏览器暂不支持朗读。";
+    state.audio = { ready: false, status: "不可用", error: "当前浏览器暂不支持朗读。" };
+    state.message = state.audio.error;
     render();
     return;
   }
+  initSpeechVoices();
   window.speechSynthesis.cancel();
   const utterance = new SpeechSynthesisUtterance(text);
   const voice = bestEnglishVoice();
@@ -903,7 +933,48 @@ function speak(text, audioSrc = "") {
   utterance.lang = voice?.lang || "en-US";
   utterance.rate = 0.82;
   utterance.pitch = 1.03;
+  let started = false;
+  utterance.onstart = () => {
+    started = true;
+    state.audio = { ready: true, status: "声音已开启", error: "" };
+  };
+  utterance.onerror = () => {
+    state.audio = {
+      ready: false,
+      status: "声音未开启",
+      error: "手机浏览器没有放出声音，请先点“启用声音”，并确认手机没有静音。"
+    };
+    state.message = state.audio.error;
+    render();
+  };
+  window.speechSynthesis.resume?.();
   window.speechSynthesis.speak(utterance);
+  setTimeout(() => {
+    if (!started && !window.speechSynthesis.speaking) {
+      state.audio = {
+        ready: false,
+        status: "声音未开启",
+        error: "如果手机没声音，请点“启用声音”，并调高媒体音量。"
+      };
+      state.message = state.audio.error;
+      render();
+    }
+  }, 900);
+}
+
+function renderAudioHelp() {
+  if (state.audio?.ready) return "";
+  return `
+    <article class="audio-help">
+      <span>手机没声音时，先点一次启用声音。</span>
+      <button class="tiny-action-btn" data-action="enable-audio">启用声音</button>
+    </article>
+  `;
+}
+
+function enableAudio() {
+  state.message = "";
+  speak("Sound is ready.");
 }
 
 function parseCustomWords(raw) {
@@ -1191,9 +1262,12 @@ function renderStudy() {
 
 function renderCard(word, count) {
   const meta = libraryMeta();
-  const cardPrompt = word.definition ? word.example : promptLine(word);
+  const definition = isPlaceholderHint(word.definition) ? "" : word.definition;
+  const example = isPlaceholderHint(word.example) ? "" : word.example;
+  const cardPrompt = definition ? example : promptLine(word);
   return `
     <section class="screen">
+      ${renderAudioHelp()}
       <header class="topbar">
         <div>
           <p class="eyebrow">学习卡 ${count}</p>
@@ -1207,7 +1281,7 @@ function renderCard(word, count) {
           <div class="word-main">${word.word}</div>
           ${phoneticLine(word)}
           <div class="meaning-box">${formattedMeaning(word)}</div>
-          ${word.definition ? renderSentenceAudio(word.definition, "definition-box") : ""}
+          ${definition ? renderSentenceAudio(definition, "definition-box") : ""}
           ${cardPrompt ? renderSentenceAudio(cardPrompt, "example") : ""}
         </div>
         <div class="button-row">
@@ -1231,6 +1305,7 @@ function renderChoice(word, count) {
   const prompt = promptLine(word);
   return `
     <section class="screen">
+      ${renderAudioHelp()}
       <header class="topbar">
         <div>
           <p class="eyebrow">选择题 ${count}</p>
@@ -1279,19 +1354,22 @@ function renderReverseChoice(word, count) {
 }
 
 function renderSpell(word, count) {
-  const isDefinitionPrompt = word.library === "unicorn" && word.definition;
+  const definition = isPlaceholderHint(word.definition) ? "" : word.definition;
+  const isDefinitionPrompt = word.library === "unicorn" && definition;
+  const spellHint = String(promptLine(word) || "").replace(word.word, "_____");
   return `
     <section class="screen">
+      ${renderAudioHelp()}
       <header class="topbar">
         <div>
           <p class="eyebrow">${isDefinitionPrompt ? "英文释义拼写" : "拼写题"} ${count}</p>
           <h1>${isDefinitionPrompt ? "根据英文释义写单词" : word.meaning}</h1>
-          <p class="muted">${isDefinitionPrompt ? "先读懂英文解释，再输入对应单词。" : word.example.replace(word.word, "_____")}</p>
+          <p class="muted">${isDefinitionPrompt ? "先读懂英文解释，再输入对应单词。" : escapeHtml(spellHint)}</p>
         </div>
         <button class="sound-btn" data-action="speak" data-word="${word.word}" aria-label="朗读 ${word.word}">▶</button>
       </header>
       <article class="card quiz-card">
-        ${isDefinitionPrompt ? `${renderSentenceAudio(word.definition, "definition-box large")}<div class="meaning-hint">中文提示：${word.meaning}</div>` : ""}
+        ${isDefinitionPrompt ? `${renderSentenceAudio(definition, "definition-box large")}<div class="meaning-hint">中文提示：${word.meaning}</div>` : ""}
         <input class="spell-input" id="spellInput" placeholder="输入英文单词" autocomplete="off" ${state.session.feedback ? "disabled" : ""} />
         <p class="feedback ${state.session.feedback ? (state.session.feedback.includes("正确") ? "good" : "bad") : ""}">${state.session.feedback}</p>
         ${renderFeedbackActions()}
@@ -1365,7 +1443,7 @@ function renderWrong() {
         ${wrongWords.length ? wrongWords.map(word => `
           <article class="card word-row">
             <h3>${word.word}</h3>
-            <p class="muted">${word.meaning} · ${word.example}</p>
+            <p class="muted">${word.meaning} · ${promptLine(word) || "暂无提示句"}</p>
             <button class="ghost-btn" data-action="mark-known" data-id="${word.id}">标记已掌握</button>
           </article>
         `).join("") : `
@@ -1490,6 +1568,7 @@ document.addEventListener("click", async event => {
     const word = currentWord();
     speak(target.dataset.text || target.dataset.word, target.dataset.text ? "" : (word?.audio || ""));
   }
+  if (action === "enable-audio") enableAudio();
   if (action === "next-stage") nextStage();
   if (action === "skip-word") {
     completeWord(false);
