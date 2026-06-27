@@ -170,8 +170,11 @@ const STORAGE_KEY = "word-buddy-state-v1";
 const ANONYMOUS_STORAGE_KEY = "word-buddy-anonymous-state-v1";
 const PROFILE_STORAGE_PREFIX = "word-buddy-profile-state-v1:";
 const CLOUD_AUTH_KEY = "word-buddy-cloud-auth-v1";
+const WORD_AUDIO_CACHE_KEY = "word-buddy-word-audio-cache-v1";
 const todayKey = () => new Date().toISOString().slice(0, 10);
 let cachedVoices = [];
+let wordAudioCache = loadWordAudioCache();
+const pendingWordAudio = new Set();
 
 const defaultState = {
   view: "home",
@@ -267,6 +270,18 @@ function saveLocalState() {
     user: state.auth.user,
     lastSynced: state.auth.lastSynced
   }));
+}
+
+function loadWordAudioCache() {
+  try {
+    return JSON.parse(localStorage.getItem(WORD_AUDIO_CACHE_KEY) || "{}");
+  } catch {
+    return {};
+  }
+}
+
+function saveWordAudioCache() {
+  localStorage.setItem(WORD_AUDIO_CACHE_KEY, JSON.stringify(wordAudioCache));
 }
 
 function loadAnonymousProfile() {
@@ -652,6 +667,57 @@ function renderSentenceAudio(text, extraClass = "") {
   `;
 }
 
+function wordAudioKey(text) {
+  return String(text || "").trim().toLowerCase();
+}
+
+function isSimpleAudioWord(text) {
+  return /^[a-z][a-z'-]*$/i.test(String(text || "").trim());
+}
+
+function playableAudioUrl(url) {
+  const text = String(url || "").trim();
+  return /^https:\/\/.+\.(mp3|ogg)(?:$|\?)/i.test(text) ? text : "";
+}
+
+async function lookupOnlineWordAudio(text) {
+  const word = wordAudioKey(text);
+  if (!isSimpleAudioWord(word)) return "";
+  if (wordAudioCache[word]) return wordAudioCache[word];
+  if (pendingWordAudio.has(word)) return "";
+  pendingWordAudio.add(word);
+  try {
+    const response = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+    if (!response.ok) return "";
+    const data = await response.json();
+    const audio = data
+      .flatMap(entry => entry.phonetics || [])
+      .map(item => playableAudioUrl(item.audio))
+      .find(Boolean);
+    if (audio) {
+      wordAudioCache[word] = audio;
+      saveWordAudioCache();
+    }
+    return audio || "";
+  } catch {
+    return "";
+  } finally {
+    pendingWordAudio.delete(word);
+  }
+}
+
+function primeWordAudio(text) {
+  const word = wordAudioKey(text);
+  if (!isSimpleAudioWord(word) || wordAudioCache[word] || pendingWordAudio.has(word)) return;
+  lookupOnlineWordAudio(word);
+}
+
+function primeVisibleWordAudio() {
+  if (state.view !== "study") return;
+  const word = currentWord();
+  if (word?.word) primeWordAudio(word.word);
+}
+
 function initSpeechVoices() {
   if (!("speechSynthesis" in window)) return [];
   cachedVoices = window.speechSynthesis.getVoices();
@@ -911,14 +977,48 @@ function bestEnglishVoice() {
     || null;
 }
 
-function speak(text, audioSrc = "") {
+function playAudioUrl(url) {
+  const audio = new Audio(url);
+  audio.setAttribute("playsinline", "");
+  audio.preload = "auto";
+  return audio.play();
+}
+
+async function speak(text, audioSrc = "") {
   if (!text) return;
   if (audioSrc) {
-    const audio = new Audio(audioSrc);
-    audio.setAttribute("playsinline", "");
-    audio.play().catch(() => speak(text));
+    playAudioUrl(audioSrc).catch(() => speakWithDeviceVoice(text));
     return;
   }
+  const word = wordAudioKey(text);
+  if (isSimpleAudioWord(word)) {
+    const cachedAudio = wordAudioCache[word];
+    if (cachedAudio) {
+      try {
+        await playAudioUrl(cachedAudio);
+        state.audio = { ready: true, status: "在线发音已播放", error: "" };
+        return;
+      } catch {
+        delete wordAudioCache[word];
+        saveWordAudioCache();
+      }
+    }
+    const foundAudio = await lookupOnlineWordAudio(word);
+    if (foundAudio) {
+      state.audio = {
+        ready: false,
+        status: "单词发音已准备好",
+        error: "手机已经准备好这个单词的在线发音，请再点一次播放。"
+      };
+      state.message = state.audio.error;
+      render();
+      return;
+    }
+  }
+  speakWithDeviceVoice(text);
+}
+
+function speakWithDeviceVoice(text) {
   if (!("speechSynthesis" in window)) {
     state.audio = { ready: false, status: "不可用", error: "当前浏览器暂不支持朗读。" };
     state.message = state.audio.error;
@@ -966,15 +1066,17 @@ function renderAudioHelp() {
   if (state.audio?.ready) return "";
   return `
     <article class="audio-help">
-      <span>手机没声音时，先点一次启用声音。</span>
-      <button class="tiny-action-btn" data-action="enable-audio">启用声音</button>
+      <span>手机没声音时，先点一次声音测试；单词会优先用在线发音。</span>
+      <button class="tiny-action-btn" data-action="enable-audio">声音测试</button>
     </article>
   `;
 }
 
 function enableAudio() {
   state.message = "";
-  speak("Sound is ready.");
+  speakWithDeviceVoice("Sound is ready.");
+  const word = currentWord();
+  if (word?.word) primeWordAudio(word.word);
 }
 
 function parseCustomWords(raw) {
@@ -1005,6 +1107,7 @@ function parseCustomWords(raw) {
 function render() {
   const root = document.querySelector("#app");
   root.innerHTML = `${renderView()}${renderNav()}`;
+  primeVisibleWordAudio();
 }
 
 function renderView() {
