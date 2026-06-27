@@ -60,6 +60,7 @@ const UNICORN_WORDS = [
     "word": "absorb",
     "meaning": "吸收 v.",
     "definition": "to take in a liquid or gas through a surface and hold it",
+    "example": "Review the word: absorb.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
     "unit": "unit2",
     "part": "v"
@@ -69,7 +70,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "absorption",
     "meaning": "吸收 n.",
-    "definition": "(chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid",
+    "definition": "",
+    "example": "Review the word: absorption.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -80,6 +82,7 @@ const UNICORN_WORDS = [
     "word": "access",
     "meaning": "接触的机会；使用权",
     "definition": "the method or possibility of getting near to a place or person",
+    "example": "Review the word: access.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n, v"
@@ -101,6 +104,7 @@ const UNICORN_WORDS = [
     "word": "active",
     "meaning": "好动的；活跃的",
     "definition": "doing things which involve moving and using energy",
+    "example": "Review the word: active.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "adj, n"
@@ -133,6 +137,7 @@ const UNICORN_WORDS = [
     "word": "advertising campaign",
     "meaning": "广告宣传活动",
     "definition": "media projects to convince people to buy a product or change their behaviour",
+    "example": "Review the word: advertising campaign.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -143,6 +148,7 @@ const UNICORN_WORDS = [
     "word": "affect",
     "meaning": "影响",
     "definition": "to influence or cause something to change",
+    "example": "Review the word: affect.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v, n"
@@ -164,6 +170,7 @@ const UNICORN_WORDS = [
     "word": "alter",
     "meaning": "改变",
     "definition": "= change",
+    "example": "Review the word: alter.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "v"
@@ -173,7 +180,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "alternative",
     "meaning": "可替代的 (alter v.改变) [ɔ:lˈtɜ:nətɪv]",
-    "definition": "necessitating a choice between mutually exclusive possibilities",
+    "definition": "",
+    "example": "Review the word: alternative.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n, adj"
@@ -183,7 +191,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "alternative",
     "meaning": "可替换的 n.",
-    "definition": "necessitating a choice between mutually exclusive possibilities",
+    "definition": "",
+    "example": "Review the word: alternative.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -194,6 +203,7 @@ const UNICORN_WORDS = [
     "word": "alternatively",
     "meaning": "或者",
     "definition": "= or",
+    "example": "Review the word: alternatively.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "adv"
@@ -203,7 +213,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "amount",
     "meaning": "数量 of +不可数名词",
-    "definition": "the relative magnitude of something with reference to a criterion",
+    "definition": "",
+    "example": "Review the word: amount.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n, v"
@@ -213,7 +224,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "annotate",
     "meaning": "注释； 给...注解/评注",
-    "definition": "add explanatory notes to or supply with critical comments",
+    "definition": "",
+    "example": "Review the word: annotate.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "v"
@@ -224,6 +236,7 @@ const UNICORN_WORDS = [
     "word": "annual",
     "meaning": "每年的 a.",
     "definition": "happening or produced once a year",
+    "example": "Review the word: annual.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n, adj"
@@ -233,7 +246,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "antelope",
     "meaning": "羚羊",
-    "definition": "graceful Old World ruminant with long legs and horns directed upward and backward; includes gazelles; springboks; impalas; addax; gerenuks; blackbu...",
+    "definition": "",
+    "example": "Review the word: antelope.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -244,6 +258,7 @@ const UNICORN_WORDS = [
     "word": "appearance",
     "meaning": "外貌；外表",
     "definition": "the way someone or something looks",
+    "example": "Review the word: appearance.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -254,6 +269,7 @@ const UNICORN_WORDS = [
     "word": "aspect",
     "meaning": "方面",
     "definition": "one part of a situation,problem,subject",
+    "example": "Review the word: aspect.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -263,7 +279,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "asthma",
     "meaning": "哮喘",
-    "definition": "respiratory disorder characterized by wheezing; usually of allergic origin",
+    "definition": "",
+    "example": "Review the word: asthma.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -273,7 +290,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "at a rapid rate / speed",
     "meaning": "快速地",
-    "definition": "distance travelled per unit time",
+    "definition": "",
+    "example": "Review the word: at a rapid rate / speed.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "phr"
@@ -295,6 +313,7 @@ const UNICORN_WORDS = [
     "word": "atmosphere",
     "meaning": "大气层n.",
     "definition": "the layer of gases around the Earth",
+    "example": "Review the word: atmosphere.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -316,6 +335,7 @@ const UNICORN_WORDS = [
     "word": "attempt",
     "meaning": "尝试",
     "definition": "if you make an attempt to do something,you try to do it",
+    "example": "Review the word: attempt.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n, v"
@@ -337,6 +357,7 @@ const UNICORN_WORDS = [
     "word": "balanced diet",
     "meaning": "均衡膳食",
     "definition": "a daily eating programme which has a healthy mixture of different kinds of food",
+    "example": "Review the word: balanced diet.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -346,7 +367,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "bank",
     "meaning": "岸；银行",
-    "definition": "sloping land (especially the slope beside a body of water)",
+    "definition": "",
+    "example": "Review the word: bank.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -356,7 +378,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "battle",
     "meaning": "战争",
-    "definition": "a hostile meeting of opposing military forces in the course of a war",
+    "definition": "",
+    "example": "Review the word: battle.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n, v"
@@ -411,6 +434,7 @@ const UNICORN_WORDS = [
     "word": "belief",
     "meaning": "看法；信念",
     "definition": "an idea that you are sure is true",
+    "example": "Review the word: belief.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -420,7 +444,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "biochemistry",
     "meaning": "生物化学",
-    "definition": "the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry",
+    "definition": "",
+    "example": "Review the word: biochemistry.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -430,7 +455,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "biodiversity",
     "meaning": "生物多样性",
-    "definition": "the diversity of plant and animal life in a particular habitat (or in the world as a whole)",
+    "definition": "",
+    "example": "Review the word: biodiversity.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -440,7 +466,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "blog",
     "meaning": "博客",
-    "definition": "read, write, or edit a shared on-line journal",
+    "definition": "",
+    "example": "Review the word: blog.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -451,6 +478,7 @@ const UNICORN_WORDS = [
     "word": "bow",
     "meaning": "鞠躬;点头 (owl)",
     "definition": "v.",
+    "example": "Review the word: bow.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n, v"
@@ -460,7 +488,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "brazil",
     "meaning": "巴西 n.",
-    "definition": "the largest Latin American country and the largest Portuguese speaking country in the world; located in the central and northeastern part of South...",
+    "definition": "",
+    "example": "Review the word: brazil.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n"
@@ -470,7 +499,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "brazilian",
     "meaning": "巴西的； n.巴西人",
-    "definition": "a native or inhabitant of Brazil",
+    "definition": "",
+    "example": "Review the word: brazilian.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n, adj"
@@ -502,7 +532,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "breeding",
     "meaning": "生育；繁殖",
-    "definition": "elegance by virtue of fineness of manner and expression",
+    "definition": "",
+    "example": "Review the word: breeding.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -513,6 +544,7 @@ const UNICORN_WORDS = [
     "word": "brief",
     "meaning": "短暂的；简洁的",
     "definition": "short",
+    "example": "Review the word: brief.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n, adj, v"
@@ -522,7 +554,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "broaden",
     "meaning": "变宽",
-    "definition": "make broader",
+    "definition": "",
+    "example": "Review the word: broaden.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -543,7 +576,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "caffeine",
     "meaning": "咖啡因 [ˈkæfi:n]",
-    "definition": "a bitter alkaloid found in coffee and tea that is responsible for their stimulating effects",
+    "definition": "",
+    "example": "Review the word: caffeine.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -554,6 +588,7 @@ const UNICORN_WORDS = [
     "word": "calories",
     "meaning": "卡路里；热量",
     "definition": "the measurement of the amount of energy found in food",
+    "example": "Review the word: calories.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "n"
@@ -563,7 +598,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "cambodia",
     "meaning": "柬埔寨 (Phnom Penh金边）",
-    "definition": "a nation in southeastern Asia; was part of Indochina under French rule until 1946",
+    "definition": "",
+    "example": "Review the word: cambodia.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -574,6 +610,7 @@ const UNICORN_WORDS = [
     "word": "campaign （",
     "meaning": "宣传）活动",
     "definition": "a group of activities designed to motivate people to take action,such as giving money or changing their behaviour",
+    "example": "Review the word: campaign （.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -583,7 +620,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "canyon",
     "meaning": "峡谷",
-    "definition": "a ravine formed by a river in an area with little rainfall",
+    "definition": "",
+    "example": "Review the word: canyon.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -604,7 +642,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "case",
     "meaning": "病例",
-    "definition": "an occurrence of something",
+    "definition": "",
+    "example": "Review the word: case.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -614,7 +653,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "cattle",
     "meaning": "牛群",
-    "definition": "domesticated bovine animals as a group regardless of sex or age",
+    "definition": "",
+    "example": "Review the word: cattle.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -625,6 +665,7 @@ const UNICORN_WORDS = [
     "word": "cause",
     "meaning": "原因；起因n.",
     "definition": "someone or something that makes something happen",
+    "example": "Review the word: cause.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -645,7 +686,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "cavern",
     "meaning": "大山洞n.",
-    "definition": "any large dark enclosed space",
+    "definition": "",
+    "example": "Review the word: cavern.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -656,6 +698,7 @@ const UNICORN_WORDS = [
     "word": "ceremony",
     "meaning": "仪式",
     "definition": "a formal event with special traditions,activities or words,such as a wedding",
+    "example": "Review the word: ceremony.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -666,6 +709,7 @@ const UNICORN_WORDS = [
     "word": "certain",
     "meaning": "某事；某人",
     "definition": "used to refer to a particular person or thing without naming or describing them",
+    "example": "Review the word: certain.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "adj"
@@ -676,6 +720,7 @@ const UNICORN_WORDS = [
     "word": "challenge",
     "meaning": "挑战n.",
     "definition": "something that is difficult and that tests someone's ability or determination",
+    "example": "Review the word: challenge.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -686,6 +731,7 @@ const UNICORN_WORDS = [
     "word": "chemical",
     "meaning": "化学制品",
     "definition": "a man-made or natural solid, liquid or gas made by changing atoms",
+    "example": "Review the word: chemical.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -718,6 +764,7 @@ const UNICORN_WORDS = [
     "word": "climate",
     "meaning": "气候n.",
     "definition": "the general weather conditions usually found in a particular place",
+    "example": "Review the word: climate.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -728,6 +775,7 @@ const UNICORN_WORDS = [
     "word": "common",
     "meaning": "常见的",
     "definition": "happening often or existing in large numbers",
+    "example": "Review the word: common.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -738,6 +786,7 @@ const UNICORN_WORDS = [
     "word": "common",
     "meaning": "常见的；普遍的",
     "definition": "happening often or existing in large numbers",
+    "example": "Review the word: common.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "adj"
@@ -747,7 +796,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "community",
     "meaning": "社区；社团；社群",
-    "definition": "a group of people living in a particular local area",
+    "definition": "",
+    "example": "Review the word: community.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -758,6 +808,7 @@ const UNICORN_WORDS = [
     "word": "commuter",
     "meaning": "通勤者",
     "definition": "someone who travels between home and work,or university,regularly",
+    "example": "Review the word: commuter.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -789,7 +840,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "congest",
     "meaning": "拥塞 v.",
-    "definition": "become or cause to become obstructed",
+    "definition": "",
+    "example": "Review the word: congest.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "v"
@@ -799,7 +851,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "congestion",
     "meaning": "堵塞",
-    "definition": "excessive accumulation of blood or other fluid in a body part",
+    "definition": "",
+    "example": "Review the word: congestion.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -810,6 +863,7 @@ const UNICORN_WORDS = [
     "word": "connect",
     "meaning": "连接",
     "definition": "to join two things or places together",
+    "example": "Review the word: connect.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -819,7 +873,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "conscious",
     "meaning": "有意识的",
-    "definition": "knowing and perceiving; having awareness of surroundings and sensations and thoughts",
+    "definition": "",
+    "example": "Review the word: conscious.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "adj"
@@ -830,6 +885,7 @@ const UNICORN_WORDS = [
     "word": "consequences",
     "meaning": "后果；结果n.",
     "definition": "the results of an action or situation, especially bad results",
+    "example": "Review the word: consequences.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -839,7 +895,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "consequently",
     "meaning": "因此；所以 as a result (因果关系)",
-    "definition": "(sentence connectors) because of the reason given",
+    "definition": "",
+    "example": "Review the word: consequently.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "adv"
@@ -849,7 +906,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "conservation",
     "meaning": "保护",
-    "definition": "an occurrence of improvement by virtue of preventing loss or injury or other change",
+    "definition": "",
+    "example": "Review the word: conservation.",
     "source": "第一单元拓展词汇2.jpg",
     "unit": "unit1",
     "part": "n"
@@ -860,6 +918,7 @@ const UNICORN_WORDS = [
     "word": "consider",
     "meaning": "考虑；细想",
     "definition": "to think carefully about a decision or something you might do",
+    "example": "Review the word: consider.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -881,6 +940,7 @@ const UNICORN_WORDS = [
     "word": "constant",
     "meaning": "不断的a.",
     "definition": "happening a lot or all the time",
+    "example": "Review the word: constant.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n, adj"
@@ -890,7 +950,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "construct",
     "meaning": "建设",
-    "definition": "make by combining materials and parts",
+    "definition": "",
+    "example": "Review the word: construct.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "v, n"
@@ -901,6 +962,7 @@ const UNICORN_WORDS = [
     "word": "construction",
     "meaning": "施工；建造n.",
     "definition": "the process of building something, usually large structures such as houses, roads or bridges",
+    "example": "Review the word: construction.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -910,7 +972,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "constructive",
     "meaning": "建设性的",
-    "definition": "constructing or tending to construct or improve or promote development",
+    "definition": "",
+    "example": "Review the word: constructive.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "adj"
@@ -920,7 +983,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "contend",
     "meaning": "认为",
-    "definition": "maintain or assert",
+    "definition": "",
+    "example": "Review the word: contend.",
     "source": "第一单元拓展词汇2.jpg",
     "unit": "unit1",
     "part": "v"
@@ -931,6 +995,7 @@ const UNICORN_WORDS = [
     "word": "contribute to",
     "meaning": "导致",
     "definition": "to be one of the causes of an event or a situation",
+    "example": "Review the word: contribute to.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
     "unit": "unit2",
     "part": "phr"
@@ -940,7 +1005,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "convention",
     "meaning": "传统",
-    "definition": "a large formal assembly",
+    "definition": "",
+    "example": "Review the word: convention.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n"
@@ -950,7 +1016,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "conventional",
     "meaning": "传统的",
-    "definition": "following accepted customs and proprieties",
+    "definition": "",
+    "example": "Review the word: conventional.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "adj"
@@ -961,6 +1028,7 @@ const UNICORN_WORDS = [
     "word": "cooperate",
     "meaning": "合作",
     "definition": "to work together for a particular purpose",
+    "example": "Review the word: cooperate.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -970,7 +1038,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "craft",
     "meaning": "工艺",
-    "definition": "a vehicle designed for navigation in or on water or air or through outer space",
+    "definition": "",
+    "example": "Review the word: craft.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, v"
@@ -981,6 +1050,7 @@ const UNICORN_WORDS = [
     "word": "create",
     "meaning": "创造",
     "definition": "to make something new,or invent something",
+    "example": "Review the word: create.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -990,7 +1060,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "crown",
     "meaning": "皇冠；头冠",
-    "definition": "the Crown (or the reigning monarch) as the symbol of the power and authority of a monarchy",
+    "definition": "",
+    "example": "Review the word: crown.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n, v"
@@ -1001,6 +1072,7 @@ const UNICORN_WORDS = [
     "word": "cruel",
     "meaning": "残忍的",
     "definition": "causing pain or making someone or something suffer on purpose",
+    "example": "Review the word: cruel.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -1011,6 +1083,7 @@ const UNICORN_WORDS = [
     "word": "culture",
     "meaning": "文化",
     "definition": "the way of life,especially customs and beliefs,of a group of people",
+    "example": "Review the word: culture.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n, v"
@@ -1021,6 +1094,7 @@ const UNICORN_WORDS = [
     "word": "cycle",
     "meaning": "骑行",
     "definition": "to travel by bicycle",
+    "example": "Review the word: cycle.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n, v"
@@ -1031,6 +1105,7 @@ const UNICORN_WORDS = [
     "word": "damage",
     "meaning": "破坏",
     "definition": "to harm or spoil something",
+    "example": "Review the word: damage.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "n, v"
@@ -1051,7 +1126,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "decaffeinated",
     "meaning": "去咖啡因的(decaf)",
-    "definition": "remove caffeine from (coffee)",
+    "definition": "",
+    "example": "Review the word: decaffeinated.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "adj"
@@ -1061,7 +1137,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "decide",
     "meaning": "决定",
-    "definition": "reach, make, or come to a decision about something",
+    "definition": "",
+    "example": "Review the word: decide.",
     "source": "三册3单元扩展词汇2.doc",
     "unit": "unit3",
     "part": "v"
@@ -1071,7 +1148,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "decision",
     "meaning": "决定",
-    "definition": "the act of making up your mind about something",
+    "definition": "",
+    "example": "Review the word: decision.",
     "source": "三册3单元扩展词汇2.doc",
     "unit": "unit3",
     "part": "n"
@@ -1081,7 +1159,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "decisive",
     "meaning": "决定性的；关键的",
-    "definition": "determining or having the power to determine an outcome",
+    "definition": "",
+    "example": "Review the word: decisive.",
     "source": "三册3单元扩展词汇2.doc",
     "unit": "unit3",
     "part": "adj"
@@ -1091,7 +1170,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "definition",
     "meaning": "定义",
-    "definition": "a concise explanation of the meaning of a word or phrase or symbol",
+    "definition": "",
+    "example": "Review the word: definition.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1101,7 +1181,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "deforest",
     "meaning": "砍掉某地的树林",
-    "definition": "remove the trees from",
+    "definition": "",
+    "example": "Review the word: deforest.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -1111,7 +1192,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "deforest",
     "meaning": "砍掉森林=cut down =remove trees",
-    "definition": "remove the trees from",
+    "definition": "",
+    "example": "Review the word: deforest.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "v"
@@ -1121,7 +1203,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "deforestation",
     "meaning": "滥伐森林；毁林",
-    "definition": "the state of being clear of trees",
+    "definition": "",
+    "example": "Review the word: deforestation.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1131,7 +1214,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "dementia",
     "meaning": "老年痴呆 n.",
-    "definition": "mental deterioration of organic or functional origin",
+    "definition": "",
+    "example": "Review the word: dementia.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -1142,6 +1226,7 @@ const UNICORN_WORDS = [
     "word": "demonstrate",
     "meaning": "说明；证明",
     "definition": "to show or make something clear",
+    "example": "Review the word: demonstrate.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -1162,7 +1247,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "dependent",
     "meaning": "依靠的",
-    "definition": "relying on or requiring a person or thing for support, supply, or what is needed",
+    "definition": "",
+    "example": "Review the word: dependent.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -1173,6 +1259,7 @@ const UNICORN_WORDS = [
     "word": "destination",
     "meaning": "目的地",
     "definition": "the place where someone or something is going",
+    "example": "Review the word: destination.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -1183,6 +1270,7 @@ const UNICORN_WORDS = [
     "word": "destroy",
     "meaning": "毁灭",
     "definition": "to damage something very badly; to cause it to not exist",
+    "example": "Review the word: destroy.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -1193,6 +1281,7 @@ const UNICORN_WORDS = [
     "word": "destruction",
     "meaning": "毁灭；破坏n.",
     "definition": "the act of causing so much damage to something that it stops existing because it cannot be repaired",
+    "example": "Review the word: destruction.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -1202,7 +1291,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "destructive",
     "meaning": "破坏性的",
-    "definition": "causing destruction or much damage",
+    "definition": "",
+    "example": "Review the word: destructive.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "adj"
@@ -1212,7 +1302,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "diabetes",
     "meaning": "糖尿病",
-    "definition": "a polygenic disease characterized by abnormally high glucose levels in the blood; any of several metabolic disorders marked by excessive urination...",
+    "definition": "",
+    "example": "Review the word: diabetes.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -1234,6 +1325,7 @@ const UNICORN_WORDS = [
     "word": "disease",
     "meaning": "疾病",
     "definition": "illness; a serious health condition which requires care",
+    "example": "Review the word: disease.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1243,7 +1335,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "diverse",
     "meaning": "多样的",
-    "definition": "distinctly dissimilar or unlike",
+    "definition": "",
+    "example": "Review the word: diverse.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "adj"
@@ -1253,7 +1346,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "diversity",
     "meaning": "多样性",
-    "definition": "the condition or result of being changeable",
+    "definition": "",
+    "example": "Review the word: diversity.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n"
@@ -1275,6 +1369,7 @@ const UNICORN_WORDS = [
     "word": "due to",
     "meaning": "由于；因为",
     "definition": "because of; as a result of",
+    "example": "Review the word: due to.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "phr"
@@ -1284,7 +1379,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "duty-free",
     "meaning": "免税的",
-    "definition": "exempt from duty",
+    "definition": "",
+    "example": "Review the word: duty-free.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "adj"
@@ -1294,7 +1390,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "ecology",
     "meaning": "生态学",
-    "definition": "the environment as it relates to living organisms",
+    "definition": "",
+    "example": "Review the word: ecology.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1316,6 +1413,7 @@ const UNICORN_WORDS = [
     "word": "ecosystem",
     "meaning": "生态系统n.",
     "definition": "all the living things in an area and the effect they have on each other and the environment",
+    "example": "Review the word: ecosystem.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -1326,6 +1424,7 @@ const UNICORN_WORDS = [
     "word": "educational programme",
     "meaning": "教育课程； 科普项目",
     "definition": "classes or material to teach people about a particular topic",
+    "example": "Review the word: educational programme.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -1336,6 +1435,7 @@ const UNICORN_WORDS = [
     "word": "effect",
     "meaning": "结果；影响n.",
     "definition": "result; a change which happens because of a cause",
+    "example": "Review the word: effect.",
     "source": "三册2单元基础词汇; 三册2单元补充词单",
     "unit": "unit2",
     "part": "n, v"
@@ -1345,7 +1445,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "egret",
     "meaning": "白鹭",
-    "definition": "any of various usually white herons having long plumes during breeding season",
+    "definition": "",
+    "example": "Review the word: egret.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1356,6 +1457,7 @@ const UNICORN_WORDS = [
     "word": "emergency",
     "meaning": "紧急情况",
     "definition": "an unexpected situation which requires immediate action",
+    "example": "Review the word: emergency.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -1365,7 +1467,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enable",
     "meaning": "使能够",
-    "definition": "render capable or able for some task",
+    "definition": "",
+    "example": "Review the word: enable.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1375,7 +1478,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enact",
     "meaning": "扮演",
-    "definition": "act out; represent or perform as if in a play",
+    "definition": "",
+    "example": "Review the word: enact.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1385,7 +1489,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "encourage",
     "meaning": "鼓励",
-    "definition": "inspire with confidence; give hope or courage to",
+    "definition": "",
+    "example": "Review the word: encourage.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1395,7 +1500,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "endanger",
     "meaning": "危及；危害",
-    "definition": "pose a threat to; present a danger to",
+    "definition": "",
+    "example": "Review the word: endanger.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1406,6 +1512,7 @@ const UNICORN_WORDS = [
     "word": "endangered",
     "meaning": "濒危的",
     "definition": "used to describe plants and animals that may disappear soon",
+    "example": "Review the word: endangered.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -1415,7 +1522,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enforce",
     "meaning": "强迫；迫使",
-    "definition": "ensure observance of laws and rules;",
+    "definition": "",
+    "example": "Review the word: enforce.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1426,6 +1534,7 @@ const UNICORN_WORDS = [
     "word": "engineering",
     "meaning": "工程（设计）",
     "definition": "the activity of designing and building things like bridges,roads,machines,etc.",
+    "example": "Review the word: engineering.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -1435,7 +1544,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enjoy",
     "meaning": "享受；欣赏",
-    "definition": "derive or receive pleasure from; get enjoyment from; take pleasure in",
+    "definition": "",
+    "example": "Review the word: enjoy.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1445,7 +1555,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enlarge",
     "meaning": "扩大",
-    "definition": "make larger",
+    "definition": "",
+    "example": "Review the word: enlarge.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1455,7 +1566,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enrich",
     "meaning": "使丰富；使富有",
-    "definition": "make better or improve in quality",
+    "definition": "",
+    "example": "Review the word: enrich.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1465,7 +1577,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "enrol",
     "meaning": "注册",
-    "definition": "register formally as a participant or member",
+    "definition": "",
+    "example": "Review the word: enrol.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1475,7 +1588,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "entail",
     "meaning": "牵涉；需要",
-    "definition": "land received by fee tail",
+    "definition": "",
+    "example": "Review the word: entail.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v, n"
@@ -1485,7 +1599,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "erode",
     "meaning": "侵蚀",
-    "definition": "become ground down or deteriorate",
+    "definition": "",
+    "example": "Review the word: erode.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "v"
@@ -1495,7 +1610,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "erosion",
     "meaning": "侵蚀",
-    "definition": "(geology) the mechanical process of wearing or grinding something down (as by particles washing over it)",
+    "definition": "",
+    "example": "Review the word: erosion.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -1505,7 +1621,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "escalator",
     "meaning": "滚梯",
-    "definition": "a stairway whose steps move continuously on a circulating belt",
+    "definition": "",
+    "example": "Review the word: escalator.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -1515,7 +1632,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "ever-changing",
     "meaning": "不断变化的",
-    "definition": "marked by continuous change or effective action",
+    "definition": "",
+    "example": "Review the word: ever-changing.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "adj"
@@ -1526,6 +1644,7 @@ const UNICORN_WORDS = [
     "word": "exchange",
     "meaning": "交换",
     "definition": "to give something to someone,and receive something that they give you",
+    "example": "Review the word: exchange.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n, v"
@@ -1536,6 +1655,7 @@ const UNICORN_WORDS = [
     "word": "expect",
     "meaning": "期待",
     "definition": "to think that something will or should happen",
+    "example": "Review the word: expect.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "v"
@@ -1545,7 +1665,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "extinct",
     "meaning": "已灭绝的",
-    "definition": "no longer in existence; lost or especially having died out leaving no living representatives",
+    "definition": "",
+    "example": "Review the word: extinct.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -1555,7 +1676,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "extinction",
     "meaning": "灭绝",
-    "definition": "no longer active; extinguished",
+    "definition": "",
+    "example": "Review the word: extinction.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1588,6 +1710,7 @@ const UNICORN_WORDS = [
     "word": "farming",
     "meaning": "农场经营；务农n.",
     "definition": "the job of working on a farm or organizing work on a farm",
+    "example": "Review the word: farming.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -1597,7 +1720,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "fasten",
     "meaning": "系牢",
-    "definition": "cause to be firmly attached",
+    "definition": "",
+    "example": "Review the word: fasten.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1608,6 +1732,7 @@ const UNICORN_WORDS = [
     "word": "fatal",
     "meaning": "致命的",
     "definition": "causing death",
+    "example": "Review the word: fatal.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -1617,7 +1742,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "ferry",
     "meaning": "摆渡船；轮渡",
-    "definition": "a boat that transports people or vehicles across a body of water and operates on a regular schedule",
+    "definition": "",
+    "example": "Review the word: ferry.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -1628,6 +1754,7 @@ const UNICORN_WORDS = [
     "word": "filter",
     "meaning": "过滤（器）",
     "definition": "v.",
+    "example": "Review the word: filter.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, v"
@@ -1648,7 +1775,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "fin",
     "meaning": "鱼鳍",
-    "definition": "a stabilizer on a ship that resembles the fin of a fish",
+    "definition": "",
+    "example": "Review the word: fin.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, v"
@@ -1702,7 +1830,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "flexibility",
     "meaning": "灵活；弹性n.",
-    "definition": "the property of being flexible; easily bent or shaped",
+    "definition": "",
+    "example": "Review the word: flexibility.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n"
@@ -1712,7 +1841,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "flexible",
     "meaning": "灵活的；有弹性的 a.",
-    "definition": "capable of being changed",
+    "definition": "",
+    "example": "Review the word: flexible.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj"
@@ -1733,7 +1863,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "form",
     "meaning": "形成； n.表格；形式",
-    "definition": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
+    "definition": "",
+    "example": "Review the word: form.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -1744,6 +1875,7 @@ const UNICORN_WORDS = [
     "word": "formal",
     "meaning": "正式的",
     "definition": "(of clothes,behaviour or language) serious or very polite",
+    "example": "Review the word: formal.",
     "source": "三册4单元基础词汇; 三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "adj, n"
@@ -1753,7 +1885,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "formal",
     "meaning": "正式的",
-    "definition": "being in accord with established forms and conventions and requirements (as e.g. of formal dress)",
+    "definition": "",
+    "example": "Review the word: formal.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "adj, n"
@@ -1763,7 +1896,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "format",
     "meaning": "格式",
-    "definition": "the organization of information according to preset specifications (usually for computer processing)",
+    "definition": "",
+    "example": "Review the word: format.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -1774,6 +1908,7 @@ const UNICORN_WORDS = [
     "word": "fossil fuel",
     "meaning": "化石燃料",
     "definition": "a source of energy like coal,gas and petroleum, that was formed inside the Earth millions of years ago",
+    "example": "Review the word: fossil fuel.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -1783,7 +1918,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "frighten",
     "meaning": "使害怕",
-    "definition": "cause fear in",
+    "definition": "",
+    "example": "Review the word: frighten.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -1794,6 +1930,7 @@ const UNICORN_WORDS = [
     "word": "fuel",
     "meaning": "燃料",
     "definition": "a substance like gas or coal which produces energy when it is burnt",
+    "example": "Review the word: fuel.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n, v"
@@ -1803,7 +1940,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "fuel duty/tax",
     "meaning": "燃油税",
-    "definition": "charge against a citizen's person or property or activity for the support of government",
+    "definition": "",
+    "example": "Review the word: fuel duty/tax.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "phr"
@@ -1813,7 +1951,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "funding",
     "meaning": "基金",
-    "definition": "financial resources provided to make some project possible",
+    "definition": "",
+    "example": "Review the word: funding.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -1823,7 +1962,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "furthermore",
     "meaning": "（递进关系）此外；而且；再者 moreover",
-    "definition": "in addition; furthermore, their quality is improving\"; moreover, mice nested there\"",
+    "definition": "",
+    "example": "Review the word: furthermore.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "adv"
@@ -1845,6 +1985,7 @@ const UNICORN_WORDS = [
     "word": "generation",
     "meaning": "一代人",
     "definition": "all the people in a society or family who are approximately the same age",
+    "example": "Review the word: generation.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -1887,7 +2028,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "glacier",
     "meaning": "冰川 n.",
-    "definition": "a slowly moving mass of ice",
+    "definition": "",
+    "example": "Review the word: glacier.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -1898,6 +2040,7 @@ const UNICORN_WORDS = [
     "word": "global warming",
     "meaning": "全球变暖",
     "definition": "an increase in the Earth's temperature because of pollution",
+    "example": "Review the word: global warming.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -1907,7 +2050,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "globalization",
     "meaning": "全球化",
-    "definition": "growth to a global or worldwide scale",
+    "definition": "",
+    "example": "Review the word: globalization.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n"
@@ -1917,7 +2061,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "globe",
     "meaning": "球体；地球；世界；地球仪",
-    "definition": "a sphere on which a map (especially of the earth) is represented",
+    "definition": "",
+    "example": "Review the word: globe.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, v"
@@ -1928,6 +2073,7 @@ const UNICORN_WORDS = [
     "word": "government",
     "meaning": "政府",
     "definition": "the group of people that controls a country or city and makes decisions about laws,taxes,education,etc.",
+    "example": "Review the word: government.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -1937,7 +2083,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "graze",
     "meaning": "放牧",
-    "definition": "a superficial abrasion",
+    "definition": "",
+    "example": "Review the word: graze.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n, v"
@@ -1948,6 +2095,7 @@ const UNICORN_WORDS = [
     "word": "greenhouse gas",
     "meaning": "温室气体",
     "definition": "a gas which makes the air around the Earth warmer",
+    "example": "Review the word: greenhouse gas.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -1958,6 +2106,7 @@ const UNICORN_WORDS = [
     "word": "greet",
     "meaning": "问候",
     "definition": "to welcome someone with particular words or actions",
+    "example": "Review the word: greet.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "v"
@@ -1967,7 +2116,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "habitat",
     "meaning": "栖息地",
-    "definition": "the type of environment in which an organism or group normally lives or occurs",
+    "definition": "",
+    "example": "Review the word: habitat.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -2011,6 +2161,7 @@ const UNICORN_WORDS = [
     "word": "healthy lifestyle",
     "meaning": "健康的生活方式",
     "definition": "a strong and well way of living",
+    "example": "Review the word: healthy lifestyle.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -2021,6 +2172,7 @@ const UNICORN_WORDS = [
     "word": "heart disease",
     "meaning": "心脏病",
     "definition": "an illness of the heart",
+    "example": "Review the word: heart disease.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -2030,7 +2182,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "heritage",
     "meaning": "遗产",
-    "definition": "practices that are handed down from the past by tradition",
+    "definition": "",
+    "example": "Review the word: heritage.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n"
@@ -2040,7 +2193,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "heroin",
     "meaning": "海洛因",
-    "definition": "a narcotic that is considered a hard drug; a highly addictive morphine derivative; intravenous injection provides the fastest and most intense rush",
+    "definition": "",
+    "example": "Review the word: heroin.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -2050,7 +2204,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "heron",
     "meaning": "鹭",
-    "definition": "grey or white wading bird with long neck and long legs and (usually) long bill",
+    "definition": "",
+    "example": "Review the word: heron.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -2072,6 +2227,7 @@ const UNICORN_WORDS = [
     "word": "huge",
     "meaning": "巨大的",
     "definition": "extremely large in size or amount",
+    "example": "Review the word: huge.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "adj"
@@ -2081,7 +2237,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "illustrate",
     "meaning": "阐明；（举例）说明；加插图",
-    "definition": "depict with an illustration",
+    "definition": "",
+    "example": "Review the word: illustrate.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "v"
@@ -2146,7 +2303,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "in the long run/ term",
     "meaning": "长远看",
-    "definition": "a word or expression used for some particular thing",
+    "definition": "",
+    "example": "Review the word: in the long run/ term.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "phr"
@@ -2156,7 +2314,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "inclusion",
     "meaning": "包含 n.",
-    "definition": "the state of being included",
+    "definition": "",
+    "example": "Review the word: inclusion.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n"
@@ -2177,7 +2336,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "independent",
     "meaning": "独立的",
-    "definition": "free from external control and constraint",
+    "definition": "",
+    "example": "Review the word: independent.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -2187,7 +2347,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "infer",
     "meaning": "推断；推理；推论 （inference n.）",
-    "definition": "reason by deduction; establish by deduction",
+    "definition": "",
+    "example": "Review the word: infer.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "v"
@@ -2197,7 +2358,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "informal",
     "meaning": "非正式的",
-    "definition": "not formal",
+    "definition": "",
+    "example": "Review the word: informal.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "adj"
@@ -2207,7 +2369,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "instruct",
     "meaning": "指示；命令",
-    "definition": "give instructions or directions for some task",
+    "definition": "",
+    "example": "Review the word: instruct.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "v"
@@ -2217,7 +2380,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "instruction",
     "meaning": "指示；操作指南",
-    "definition": "(computer science) a line of code written as part of a computer program",
+    "definition": "",
+    "example": "Review the word: instruction.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n"
@@ -2227,7 +2391,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "instructive",
     "meaning": "指导性的",
-    "definition": "serving to instruct or enlighten or inform",
+    "definition": "",
+    "example": "Review the word: instructive.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "adj"
@@ -2237,7 +2402,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "intangible",
     "meaning": "无形的",
-    "definition": "assets that are saleable though not material or physical",
+    "definition": "",
+    "example": "Review the word: intangible.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "adj"
@@ -2248,6 +2414,7 @@ const UNICORN_WORDS = [
     "word": "introduce",
     "meaning": "引进；介绍",
     "definition": "to put something into a place for the first time",
+    "example": "Review the word: introduce.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -2257,7 +2424,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "invasive",
     "meaning": "侵入的",
-    "definition": "relating to a technique in which the body is entered by puncture or incision",
+    "definition": "",
+    "example": "Review the word: invasive.",
     "source": "第一单元拓展词汇2.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -2267,7 +2435,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "invest",
     "meaning": "投资",
-    "definition": "make an investment",
+    "definition": "",
+    "example": "Review the word: invest.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "v"
@@ -2277,7 +2446,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "investment",
     "meaning": "投资",
-    "definition": "money that is invested with an expectation of profit",
+    "definition": "",
+    "example": "Review the word: investment.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -2287,7 +2457,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "involve",
     "meaning": "使参与",
-    "definition": "connect closely and often incriminatingly",
+    "definition": "",
+    "example": "Review the word: involve.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "v"
@@ -2298,6 +2469,7 @@ const UNICORN_WORDS = [
     "word": "issue",
     "meaning": "重要议题；争论的问题n.",
     "definition": "an important subject or problem that people are discussing",
+    "example": "Review the word: issue.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -2308,6 +2480,7 @@ const UNICORN_WORDS = [
     "word": "junk",
     "meaning": "垃圾食品",
     "definition": "food food which is unhealthy but quick and easy to eat",
+    "example": "Review the word: junk.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "n"
@@ -2317,7 +2490,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "kit",
     "meaning": "各种工具箱;成套工具",
-    "definition": "a case for containing a set of articles",
+    "definition": "",
+    "example": "Review the word: kit.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n"
@@ -2338,7 +2512,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "landscape",
     "meaning": "风景；风貌；形势；横版打印",
-    "definition": "an expanse of scenery that can be seen in a single view",
+    "definition": "",
+    "example": "Review the word: landscape.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, v"
@@ -2360,6 +2535,7 @@ const UNICORN_WORDS = [
     "word": "latte",
     "meaning": "拉花",
     "definition": "rt",
+    "example": "Review the word: latte.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -2369,7 +2545,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "lengthen",
     "meaning": "使变长",
-    "definition": "make longer",
+    "definition": "",
+    "example": "Review the word: lengthen.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -2380,6 +2557,7 @@ const UNICORN_WORDS = [
     "word": "life expectancy",
     "meaning": "寿命",
     "definition": "how long a person can expect to live",
+    "example": "Review the word: life expectancy.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -2400,7 +2578,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "lift/ elevator",
     "meaning": "电梯",
-    "definition": "the act of giving temporary assistance",
+    "definition": "",
+    "example": "Review the word: lift/ elevator.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "phr"
@@ -2422,6 +2601,7 @@ const UNICORN_WORDS = [
     "word": "limit",
     "meaning": "限制",
     "definition": "v.",
+    "example": "Review the word: limit.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, v"
@@ -2431,7 +2611,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "limitless",
     "meaning": "无限制的",
-    "definition": "without limits in extent or size or quantity",
+    "definition": "",
+    "example": "Review the word: limitless.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "adj"
@@ -2452,7 +2633,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "log",
     "meaning": "木头；日志",
-    "definition": "a segment of the trunk of a tree when stripped of branches",
+    "definition": "",
+    "example": "Review the word: log.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n, v"
@@ -2463,6 +2645,7 @@ const UNICORN_WORDS = [
     "word": "logging",
     "meaning": "伐木作业n.",
     "definition": "the activity or business of cutting down trees for wood",
+    "example": "Review the word: logging.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -2484,6 +2667,7 @@ const UNICORN_WORDS = [
     "word": "magnificent",
     "meaning": "宏伟的；壮丽的",
     "definition": "very good; very beautiful",
+    "example": "Review the word: magnificent.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "adj"
@@ -2494,6 +2678,7 @@ const UNICORN_WORDS = [
     "word": "major",
     "meaning": "重要的；严重的",
     "definition": "most serious or important",
+    "example": "Review the word: major.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj, v"
@@ -2525,7 +2710,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "manage",
     "meaning": "管理--manager 经理",
-    "definition": "be in charge of, act on, or dispose of",
+    "definition": "",
+    "example": "Review the word: manage.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "v"
@@ -2535,7 +2721,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "management",
     "meaning": "管理 n.",
-    "definition": "the act of managing something",
+    "definition": "",
+    "example": "Review the word: management.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -2556,7 +2743,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "marsh",
     "meaning": "沼泽",
-    "definition": "low-lying wet land with grassy vegetation; usually is a transition zone between land and water",
+    "definition": "",
+    "example": "Review the word: marsh.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -2566,7 +2754,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "methane",
     "meaning": "沼气；甲烷 n.",
-    "definition": "a colorless odorless gas used as a fuel",
+    "definition": "",
+    "example": "Review the word: methane.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -2577,6 +2766,7 @@ const UNICORN_WORDS = [
     "word": "moderate",
     "meaning": "适度的；适中的",
     "definition": "not too much and not too little",
+    "example": "Review the word: moderate.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "adj, v"
@@ -2586,7 +2776,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "molecule",
     "meaning": "分子",
-    "definition": "(physics and chemistry) the simplest structural unit of an element or compound",
+    "definition": "",
+    "example": "Review the word: molecule.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n"
@@ -2596,7 +2787,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "motorcycle",
     "meaning": "摩托车",
-    "definition": "a motor vehicle with two wheels and a strong frame",
+    "definition": "",
+    "example": "Review the word: motorcycle.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -2607,6 +2799,7 @@ const UNICORN_WORDS = [
     "word": "native",
     "meaning": "当地的；原产于某地的",
     "definition": "used to describe animals and plants which grow naturally in a place",
+    "example": "Review the word: native.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -2617,6 +2810,7 @@ const UNICORN_WORDS = [
     "word": "natural",
     "meaning": "天然的",
     "definition": "as found in nature; not made or caused by people",
+    "example": "Review the word: natural.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -2626,7 +2820,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "network",
     "meaning": "网络",
-    "definition": "an interconnected system of things or people",
+    "definition": "",
+    "example": "Review the word: network.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -2637,6 +2832,7 @@ const UNICORN_WORDS = [
     "word": "nutritional",
     "meaning": "有营养的",
     "definition": "relating to food and the way it affects your health",
+    "example": "Review the word: nutritional.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "adj"
@@ -2647,6 +2843,7 @@ const UNICORN_WORDS = [
     "word": "obesity",
     "meaning": "肥胖",
     "definition": "the condition of weighing more than is healthy",
+    "example": "Review the word: obesity.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "n"
@@ -2657,6 +2854,7 @@ const UNICORN_WORDS = [
     "word": "obvious",
     "meaning": "明显的；显然的",
     "definition": "easy to understand or see",
+    "example": "Review the word: obvious.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "adj"
@@ -2666,7 +2864,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "obvious",
     "meaning": "显而易见的",
-    "definition": "easily perceived by the senses or grasped by the mind",
+    "definition": "",
+    "example": "Review the word: obvious.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj"
@@ -2676,7 +2875,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "occur",
     "meaning": "发生=happen",
-    "definition": "come to one's mind; suggest itself",
+    "definition": "",
+    "example": "Review the word: occur.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "v"
@@ -2686,7 +2886,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "off-season",
     "meaning": "淡季",
-    "definition": "the season when travel is least active and rates are lowest",
+    "definition": "",
+    "example": "Review the word: off-season.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, adj"
@@ -2697,6 +2898,7 @@ const UNICORN_WORDS = [
     "word": "on",
     "meaning": "大规模",
     "definition": "large scale",
+    "example": "Review the word: on.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "prep, adv, adj"
@@ -2706,7 +2908,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "option",
     "meaning": "选择",
-    "definition": "the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited",
+    "definition": "",
+    "example": "Review the word: option.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n"
@@ -2716,7 +2919,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "optional",
     "meaning": "可选择的a.",
-    "definition": "possible but not necessary; left to personal choice",
+    "definition": "",
+    "example": "Review the word: optional.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj"
@@ -2727,6 +2931,7 @@ const UNICORN_WORDS = [
     "word": "ornament",
     "meaning": "装饰物",
     "definition": "v.",
+    "example": "Review the word: ornament.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n, v"
@@ -2736,7 +2941,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "otherwise",
     "meaning": "否则；要不然",
-    "definition": "other than as supposed or expected",
+    "definition": "",
+    "example": "Review the word: otherwise.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "adv"
@@ -2747,6 +2953,7 @@ const UNICORN_WORDS = [
     "word": "outskirts",
     "meaning": "市郊；郊区",
     "definition": "the outer area of a city or town",
+    "example": "Review the word: outskirts.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -2756,7 +2963,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "overall",
     "meaning": "总之",
-    "definition": "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)",
+    "definition": "",
+    "example": "Review the word: overall.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj, adv, n"
@@ -2766,7 +2974,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "oxygen",
     "meaning": "氧气 n.",
-    "definition": "a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere...",
+    "definition": "",
+    "example": "Review the word: oxygen.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -2776,7 +2985,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "paraphrase",
     "meaning": "意译（用自己的话来解释）= rewrite ...in your own words",
-    "definition": "rewording for the purpose of clarification",
+    "definition": "",
+    "example": "Review the word: paraphrase.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n, v"
@@ -2786,7 +2996,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "particularly",
     "meaning": "尤其",
-    "definition": "to a distinctly greater extent or degree than is common",
+    "definition": "",
+    "example": "Review the word: particularly.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "adv"
@@ -2796,7 +3007,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "passenger",
     "meaning": "乘客",
-    "definition": "a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it",
+    "definition": "",
+    "example": "Review the word: passenger.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -2806,7 +3018,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "pasture",
     "meaning": "牧场",
-    "definition": "a field covered with grass or herbage and suitable for grazing by livestock",
+    "definition": "",
+    "example": "Review the word: pasture.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n, v"
@@ -2838,7 +3051,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "persuade",
     "meaning": "说服；劝说",
-    "definition": "cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm",
+    "definition": "",
+    "example": "Review the word: persuade.",
     "source": "三册3单元扩展词汇2.doc",
     "unit": "unit3",
     "part": "v"
@@ -2848,7 +3062,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "persuasion",
     "meaning": "说服；劝说",
-    "definition": "the act of persuading (or attempting to persuade); communication intended to induce belief or action",
+    "definition": "",
+    "example": "Review the word: persuasion.",
     "source": "三册3单元扩展词汇2.doc",
     "unit": "unit3",
     "part": "n"
@@ -2858,7 +3073,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "persuasive",
     "meaning": "有说服力的",
-    "definition": "intended or having the power to induce action or belief",
+    "definition": "",
+    "example": "Review the word: persuasive.",
     "source": "三册3单元扩展词汇2.doc",
     "unit": "unit3",
     "part": "adj"
@@ -2868,7 +3084,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "pest",
     "meaning": "害虫",
-    "definition": "a persistently annoying person",
+    "definition": "",
+    "example": "Review the word: pest.",
     "source": "第一单元拓展词汇2.jpg",
     "unit": "unit1",
     "part": "n"
@@ -2878,7 +3095,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "petrol",
     "meaning": "石油",
-    "definition": "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combust...",
+    "definition": "",
+    "example": "Review the word: petrol.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -2889,6 +3107,7 @@ const UNICORN_WORDS = [
     "word": "physical activity",
     "meaning": "体育活动",
     "definition": "moving around and doing things",
+    "example": "Review the word: physical activity.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -2898,7 +3117,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "plagiarism",
     "meaning": "剽窃",
-    "definition": "a piece of writing that has been copied from someone else and is presented as being your own work",
+    "definition": "",
+    "example": "Review the word: plagiarism.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n"
@@ -2908,7 +3128,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "platform",
     "meaning": "站台；月台；平台",
-    "definition": "a raised horizontal surface",
+    "definition": "",
+    "example": "Review the word: platform.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -2918,7 +3139,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "political / social landscape",
     "meaning": "政治/社会形势",
-    "definition": "involving or characteristic of politics or parties or politicians",
+    "definition": "",
+    "example": "Review the word: political / social landscape.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "phr"
@@ -2928,7 +3150,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "pollutant",
     "meaning": "污染物",
-    "definition": "waste matter that contaminates the water or air or soil",
+    "definition": "",
+    "example": "Review the word: pollutant.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -2939,6 +3162,7 @@ const UNICORN_WORDS = [
     "word": "pollute",
     "meaning": "污染",
     "definition": "to make the air, water or land dirty and unhealthy",
+    "example": "Review the word: pollute.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -2949,6 +3173,7 @@ const UNICORN_WORDS = [
     "word": "portion",
     "meaning": "一份食物",
     "definition": "the amount of food served to one person",
+    "example": "Review the word: portion.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "n, v"
@@ -2958,7 +3183,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "portrait",
     "meaning": "肖像；竖版打印",
-    "definition": "any likeness of a person, in any medium",
+    "definition": "",
+    "example": "Review the word: portrait.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n"
@@ -2968,7 +3194,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "possibility",
     "meaning": "可能性",
-    "definition": "a future prospect or potential",
+    "definition": "",
+    "example": "Review the word: possibility.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n"
@@ -2990,6 +3217,7 @@ const UNICORN_WORDS = [
     "word": "practical",
     "meaning": "实用的",
     "definition": "useful; suitable for the situation it is being used for",
+    "example": "Review the word: practical.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "adj"
@@ -3000,6 +3228,7 @@ const UNICORN_WORDS = [
     "word": "predict",
     "meaning": "预测v.",
     "definition": "to say what you think will happen in the future",
+    "example": "Review the word: predict.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "v"
@@ -3010,6 +3239,7 @@ const UNICORN_WORDS = [
     "word": "preserve",
     "meaning": "保护；保全",
     "definition": "to keep something the same,or prevent it from being damaged or destroyed",
+    "example": "Review the word: preserve.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "v, n"
@@ -3053,6 +3283,7 @@ const UNICORN_WORDS = [
     "word": "prevent",
     "meaning": "阻止；避免",
     "definition": "to stop something happening or to stop someone doing something",
+    "example": "Review the word: prevent.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -3062,7 +3293,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "prey",
     "meaning": "猎物 n. （bird of prey 猛禽）",
-    "definition": "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence",
+    "definition": "",
+    "example": "Review the word: prey.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, v"
@@ -3084,6 +3316,7 @@ const UNICORN_WORDS = [
     "word": "protect",
     "meaning": "保护",
     "definition": "to keep something or someone safe from damage or injury",
+    "example": "Review the word: protect.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -3093,7 +3326,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "protection",
     "meaning": "保护",
-    "definition": "the activity of protecting someone or something",
+    "definition": "",
+    "example": "Review the word: protection.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -3104,6 +3338,7 @@ const UNICORN_WORDS = [
     "word": "protection",
     "meaning": "保护",
     "definition": "the act of keeping someone or something safe from injury,damage or loss",
+    "example": "Review the word: protection.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -3113,7 +3348,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "protective",
     "meaning": "保护的；防护的",
-    "definition": "intended or adapted to afford protection of some kind",
+    "definition": "",
+    "example": "Review the word: protective.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "adj"
@@ -3124,6 +3360,7 @@ const UNICORN_WORDS = [
     "word": "provide",
     "meaning": "提供",
     "definition": "to give someone something that they need",
+    "example": "Review the word: provide.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -3145,6 +3382,7 @@ const UNICORN_WORDS = [
     "word": "public transport",
     "meaning": "公共交通",
     "definition": "a system of vehicles,such as buses and trains,which operate at regular times for public use",
+    "example": "Review the word: public transport.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -3154,7 +3392,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "question",
     "meaning": "质疑",
-    "definition": "an instance of questioning",
+    "definition": "",
+    "example": "Review the word: question.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, v"
@@ -3165,6 +3404,7 @@ const UNICORN_WORDS = [
     "word": "rainforest",
     "meaning": "雨林n.",
     "definition": "a forest in a tropical area with a rainfall of 250 cm or more per year",
+    "example": "Review the word: rainforest.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n"
@@ -3174,7 +3414,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "range",
     "meaning": "范围",
-    "definition": "the limits within which something can be effective",
+    "definition": "",
+    "example": "Review the word: range.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, v"
@@ -3196,6 +3437,7 @@ const UNICORN_WORDS = [
     "word": "recognize",
     "meaning": "认可；认出",
     "definition": "to understand;to accept that something is true",
+    "example": "Review the word: recognize.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "v"
@@ -3216,7 +3458,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "redden",
     "meaning": "使变红",
-    "definition": "make red",
+    "definition": "",
+    "example": "Review the word: redden.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -3227,6 +3470,7 @@ const UNICORN_WORDS = [
     "word": "reduce",
     "meaning": "减少",
     "definition": "to make something less",
+    "example": "Review the word: reduce.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -3248,6 +3492,7 @@ const UNICORN_WORDS = [
     "word": "regular exercise",
     "meaning": "规律运动",
     "definition": "sports or movement that people do at the same time each day,week,month,etc.",
+    "example": "Review the word: regular exercise.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -3258,6 +3503,7 @@ const UNICORN_WORDS = [
     "word": "relationship",
     "meaning": "关系",
     "definition": "the way two people or groups feel and behave towards each other",
+    "example": "Review the word: relationship.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -3278,7 +3524,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "reliable",
     "meaning": "可靠的 (rely v.)",
-    "definition": "worthy of reliance or trust",
+    "definition": "",
+    "example": "Review the word: reliable.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "adj"
@@ -3289,6 +3536,7 @@ const UNICORN_WORDS = [
     "word": "remain",
     "meaning": "依然；继续",
     "definition": "to stay in the same place or in the same condition",
+    "example": "Review the word: remain.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -3310,6 +3558,7 @@ const UNICORN_WORDS = [
     "word": "replace",
     "meaning": "代替；取代",
     "definition": "to take the place of something or someone",
+    "example": "Review the word: replace.",
     "source": "第一单元基础词汇1.jpg",
     "unit": "unit1",
     "part": "v"
@@ -3320,6 +3569,7 @@ const UNICORN_WORDS = [
     "word": "require",
     "meaning": "需要",
     "definition": "to need or demand something",
+    "example": "Review the word: require.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "v"
@@ -3330,6 +3580,7 @@ const UNICORN_WORDS = [
     "word": "resident",
     "meaning": "居民",
     "definition": "a person who lives or has their home in a place",
+    "example": "Review the word: resident.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n, adj"
@@ -3339,7 +3590,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "responsibility",
     "meaning": "责任",
-    "definition": "a form of trustworthiness; the trait of being answerable to someone for something or being responsible for one's conduct",
+    "definition": "",
+    "example": "Review the word: responsibility.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n"
@@ -3349,7 +3601,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "restore",
     "meaning": "恢复 v. =return",
-    "definition": "return to its original or usable and functioning condition",
+    "definition": "",
+    "example": "Review the word: restore.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "v"
@@ -3359,7 +3612,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "restriction",
     "meaning": "限制",
-    "definition": "a principle that limits the extent of something",
+    "definition": "",
+    "example": "Review the word: restriction.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -3369,7 +3623,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "rights",
     "meaning": "权利",
-    "definition": "an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"",
+    "definition": "",
+    "example": "Review the word: rights.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n"
@@ -3380,6 +3635,7 @@ const UNICORN_WORDS = [
     "word": "risk",
     "meaning": "风险",
     "definition": "v.",
+    "example": "Review the word: risk.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, v"
@@ -3389,7 +3645,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "ritual",
     "meaning": "礼节；程序 ['rɪtʃuəl]",
-    "definition": "any customary observance or practice",
+    "definition": "",
+    "example": "Review the word: ritual.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n, adj"
@@ -3421,7 +3678,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "sadden",
     "meaning": "使悲伤",
-    "definition": "make unhappy",
+    "definition": "",
+    "example": "Review the word: sadden.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -3432,6 +3690,7 @@ const UNICORN_WORDS = [
     "word": "saudi",
     "meaning": "沙特阿拉伯",
     "definition": "rabia",
+    "example": "Review the word: saudi.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "adj"
@@ -3441,7 +3700,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "scale",
     "meaning": "天平；规模；鱼鳞",
-    "definition": "an ordered reference standard",
+    "definition": "",
+    "example": "Review the word: scale.",
     "source": "三册2单元补充词单",
     "unit": "unit2",
     "part": "n, v"
@@ -3452,6 +3712,7 @@ const UNICORN_WORDS = [
     "word": "select",
     "meaning": "精选（for)",
     "definition": "n.",
+    "example": "Review the word: select.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "adj, v, n"
@@ -3462,6 +3723,7 @@ const UNICORN_WORDS = [
     "word": "self-esteem",
     "meaning": "自尊",
     "definition": "being confident and believing in yourself",
+    "example": "Review the word: self-esteem.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "n"
@@ -3472,6 +3734,7 @@ const UNICORN_WORDS = [
     "word": "separate",
     "meaning": "单独的；独立的",
     "definition": "not joined or touching anything else",
+    "example": "Review the word: separate.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n, adj, v"
@@ -3481,7 +3744,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "sequel",
     "meaning": "续集",
-    "definition": "something that follows something else",
+    "definition": "",
+    "example": "Review the word: sequel.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "n"
@@ -3492,6 +3756,7 @@ const UNICORN_WORDS = [
     "word": "series",
     "meaning": "一系列",
     "definition": "a group of similar things that happen one after another",
+    "example": "Review the word: series.",
     "source": "第一单元基础词汇2.jpg",
     "unit": "unit1",
     "part": "n"
@@ -3502,6 +3767,7 @@ const UNICORN_WORDS = [
     "word": "serious",
     "meaning": "严重的",
     "definition": "a serious problem or situation is bad and makes people worry",
+    "example": "Review the word: serious.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "adj"
@@ -3511,7 +3777,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "serious",
     "meaning": "严重的",
-    "definition": "concerned with work or important matters rather than play or trivialities",
+    "definition": "",
+    "example": "Review the word: serious.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj"
@@ -3522,6 +3789,7 @@ const UNICORN_WORDS = [
     "word": "serious illness",
     "meaning": "重病",
     "definition": "a very bad medical problem",
+    "example": "Review the word: serious illness.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "phr"
@@ -3542,7 +3810,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "sharpen",
     "meaning": "使锋利",
-    "definition": "make sharp or sharper",
+    "definition": "",
+    "example": "Review the word: sharpen.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -3552,7 +3821,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "shellfish",
     "meaning": "贝类",
-    "definition": "meat of edible aquatic invertebrate with a shell (especially a mollusk or crustacean)",
+    "definition": "",
+    "example": "Review the word: shellfish.",
     "source": "第一单元拓展词汇2.jpg",
     "unit": "unit1",
     "part": "n"
@@ -3562,7 +3832,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "shore",
     "meaning": "岸",
-    "definition": "the land along the edge of a body of water",
+    "definition": "",
+    "example": "Review the word: shore.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, v"
@@ -3572,7 +3843,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "shorten",
     "meaning": "使变短",
-    "definition": "make shorter than originally intended; reduce or retrench in length or duration",
+    "definition": "",
+    "example": "Review the word: shorten.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -3582,7 +3854,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "species",
     "meaning": "物种",
-    "definition": "(biology) taxonomic group whose members can interbreed",
+    "definition": "",
+    "example": "Review the word: species.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -3592,7 +3865,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "spectacular",
     "meaning": "壮丽的 (extremely good)",
-    "definition": "a lavishly produced performance",
+    "definition": "",
+    "example": "Review the word: spectacular.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "adj, n"
@@ -3613,7 +3887,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "squash",
     "meaning": "壁球; /skwɒʃ/;西葫芦；南瓜",
-    "definition": "any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits",
+    "definition": "",
+    "example": "Review the word: squash.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, v"
@@ -3623,7 +3898,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "strengthen",
     "meaning": "使加强",
-    "definition": "make strong or stronger",
+    "definition": "",
+    "example": "Review the word: strengthen.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -3644,7 +3920,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "stroke",
     "meaning": "中风",
-    "definition": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+    "definition": "",
+    "example": "Review the word: stroke.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, v"
@@ -3654,7 +3931,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "subconscious",
     "meaning": "潜意识的",
-    "definition": "just below the level of consciousness",
+    "definition": "",
+    "example": "Review the word: subconscious.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "n, adj"
@@ -3664,7 +3942,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "subsequent",
     "meaning": "（sub-=under）后来的；随后的 (事情发生的先后关系)",
-    "definition": "following in time or order",
+    "definition": "",
+    "example": "Review the word: subsequent.",
     "source": "三册2单元扩展词汇",
     "unit": "unit2",
     "part": "adj"
@@ -3675,6 +3954,7 @@ const UNICORN_WORDS = [
     "word": "suffer",
     "meaning": "遭受",
     "definition": "to experience physical or mental pain",
+    "example": "Review the word: suffer.",
     "source": "三册5单元基础词汇",
     "unit": "unit5",
     "part": "v"
@@ -3684,7 +3964,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "summary",
     "meaning": "总结",
-    "definition": "a brief statement that presents the main points in a concise form",
+    "definition": "",
+    "example": "Review the word: summary.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj"
@@ -3694,7 +3975,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "surface",
     "meaning": "表面",
-    "definition": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+    "definition": "",
+    "example": "Review the word: surface.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n, adj, v"
@@ -3705,6 +3987,7 @@ const UNICORN_WORDS = [
     "word": "survive",
     "meaning": "幸存",
     "definition": "to stay alive; to continue to exist after a danger",
+    "example": "Review the word: survive.",
     "source": "第一单元基础词汇2.jpg",
     "unit": "unit1",
     "part": "v"
@@ -3714,7 +3997,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "suspicious",
     "meaning": "令人怀疑的；可疑的",
-    "definition": "openly distrustful and unwilling to confide",
+    "definition": "",
+    "example": "Review the word: suspicious.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "adj"
@@ -3790,7 +4074,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "tangible",
     "meaning": "有形的，可触摸的",
-    "definition": "perceptible by the senses especially the sense of touch",
+    "definition": "",
+    "example": "Review the word: tangible.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "n, adj"
@@ -3834,6 +4119,7 @@ const UNICORN_WORDS = [
     "word": "threaten",
     "meaning": "危及；对...构成威胁v.",
     "definition": "to be likely to damage or harm something",
+    "example": "Review the word: threaten.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "v"
@@ -3843,7 +4129,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "topknot",
     "meaning": "顶髻",
-    "definition": "headdress consisting of a decorative ribbon or bow worn in the hair",
+    "definition": "",
+    "example": "Review the word: topknot.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "n"
@@ -3853,7 +4140,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "tracks",
     "meaning": "轨道= metal bars",
-    "definition": "a line or route along which something travels or moves",
+    "definition": "",
+    "example": "Review the word: tracks.",
     "source": "三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "n"
@@ -3863,7 +4151,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "tradition",
     "meaning": "传统",
-    "definition": "an inherited pattern of thought or action",
+    "definition": "",
+    "example": "Review the word: tradition.",
     "source": "三册4单元基础词汇",
     "unit": "unit4",
     "part": "n"
@@ -3873,7 +4162,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "traditional",
     "meaning": "传统的",
-    "definition": "consisting of or derived from tradition",
+    "definition": "",
+    "example": "Review the word: traditional.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "adj"
@@ -3884,6 +4174,7 @@ const UNICORN_WORDS = [
     "word": "traffic congestion",
     "meaning": "交通拥堵",
     "definition": "when too many vehicles use a road network and it results in slower speeds,or no movement at all",
+    "example": "Review the word: traffic congestion.",
     "source": "三册3单元基础词汇; 三册3单元扩展词汇1",
     "unit": "unit3",
     "part": "phr"
@@ -3893,7 +4184,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "tremendous",
     "meaning": "巨大的",
-    "definition": "extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman",
+    "definition": "",
+    "example": "Review the word: tremendous.",
     "source": "三册4单元扩展词汇2",
     "unit": "unit4",
     "part": "adj"
@@ -3904,6 +4196,7 @@ const UNICORN_WORDS = [
     "word": "trend",
     "meaning": "趋势n.",
     "definition": "a general development or change in a situation",
+    "example": "Review the word: trend.",
     "source": "三册2单元基础词汇",
     "unit": "unit2",
     "part": "n, v"
@@ -3913,7 +4206,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "tuna",
     "meaning": "金枪鱼",
-    "definition": "tropical American prickly pear of Jamaica",
+    "definition": "",
+    "example": "Review the word: tuna.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
@@ -3923,7 +4217,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "tunnel",
     "meaning": "隧道",
-    "definition": "a passageway through or under something, usually underground (especially one for trains or cars)",
+    "definition": "",
+    "example": "Review the word: tunnel.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n, v"
@@ -3933,7 +4228,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "typically",
     "meaning": "典型地；通常",
-    "definition": "in a typical manner",
+    "definition": "",
+    "example": "Review the word: typically.",
     "source": "三册4单元扩展词汇1",
     "unit": "unit4",
     "part": "adv"
@@ -3943,7 +4239,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "unconscious",
     "meaning": "无意识的",
-    "definition": "not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead",
+    "definition": "",
+    "example": "Review the word: unconscious.",
     "source": "三册5单元扩展词汇1",
     "unit": "unit5",
     "part": "adj"
@@ -3986,7 +4283,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "various",
     "meaning": "各种各样的",
-    "definition": "of many different kinds purposefully arranged but lacking any uniformity",
+    "definition": "",
+    "example": "Review the word: various.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj"
@@ -3997,6 +4295,7 @@ const UNICORN_WORDS = [
     "word": "vehicle",
     "meaning": "交通工具",
     "definition": "any machine which travels on roads,such as cars,buses,etc.",
+    "example": "Review the word: vehicle.",
     "source": "三册3单元基础词汇",
     "unit": "unit3",
     "part": "n"
@@ -4006,7 +4305,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "veto",
     "meaning": "否决权",
-    "definition": "a vote that blocks a decision",
+    "definition": "",
+    "example": "Review the word: veto.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n, v"
@@ -4016,7 +4316,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "vote",
     "meaning": "投票",
-    "definition": "a choice that is made by counting the number of people in favor of each alternative",
+    "definition": "",
+    "example": "Review the word: vote.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n, v"
@@ -4026,7 +4327,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "voter",
     "meaning": "选民",
-    "definition": "a citizen who has a legal right to vote",
+    "definition": "",
+    "example": "Review the word: voter.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "n"
@@ -4047,7 +4349,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "whereas",
     "meaning": "然而；尽管",
-    "definition": "At which place; where.",
+    "definition": "",
+    "example": "Review the word: whereas.",
     "source": "第一单元拓展词汇2.jpg",
     "unit": "unit1",
     "part": "conj"
@@ -4057,7 +4360,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "widen",
     "meaning": "变宽",
-    "definition": "become broader or wider or more extensive",
+    "definition": "",
+    "example": "Review the word: widen.",
     "source": "三册2单元扩展词汇.doc",
     "unit": "unit2",
     "part": "v"
@@ -4078,7 +4382,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "worldwide",
     "meaning": "全世界地",
-    "definition": "spanning or extending throughout the entire world",
+    "definition": "",
+    "example": "Review the word: worldwide.",
     "source": "三册3单元扩展词汇2",
     "unit": "unit3",
     "part": "adj"
@@ -4088,7 +4393,8 @@ const UNICORN_WORDS = [
     "library": "unicorn",
     "word": "zoology",
     "meaning": "动物学",
-    "definition": "the branch of biology that studies animals",
+    "definition": "",
+    "example": "Review the word: zoology.",
     "source": "第一单元拓展词汇1.jpg",
     "unit": "unit1",
     "part": "n"
