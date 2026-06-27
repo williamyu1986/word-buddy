@@ -171,6 +171,7 @@ const ANONYMOUS_STORAGE_KEY = "word-buddy-anonymous-state-v1";
 const PROFILE_STORAGE_PREFIX = "word-buddy-profile-state-v1:";
 const CLOUD_AUTH_KEY = "word-buddy-cloud-auth-v1";
 const WORD_AUDIO_CACHE_KEY = "word-buddy-word-audio-cache-v1";
+const ONLINE_AUDIO_RATE = 1.12;
 const todayKey = () => new Date().toISOString().slice(0, 10);
 let cachedVoices = [];
 let wordAudioCache = loadWordAudioCache();
@@ -680,6 +681,20 @@ function playableAudioUrl(url) {
   return /^https:\/\/.+\.(mp3|ogg)(?:$|\?)/i.test(text) ? text : "";
 }
 
+function youdaoAudioUrl(text) {
+  return `https://dict.youdao.com/dictvoice?audio=${encodeURIComponent(text)}&type=2`;
+}
+
+function audioTokens(text) {
+  return String(text || "")
+    .replace(/[“”]/g, '"')
+    .match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g) || [];
+}
+
+function isLongTextAudio(text) {
+  return audioTokens(text).length > 1;
+}
+
 async function lookupOnlineWordAudio(text) {
   const word = wordAudioKey(text);
   if (!isSimpleAudioWord(word)) return "";
@@ -977,11 +992,26 @@ function bestEnglishVoice() {
     || null;
 }
 
-function playAudioUrl(url) {
+function playAudioUrl(url, rate = ONLINE_AUDIO_RATE) {
   const audio = new Audio(url);
   audio.setAttribute("playsinline", "");
   audio.preload = "auto";
+  audio.playbackRate = rate;
   return audio.play();
+}
+
+function playAudioSequence(urls) {
+  return urls.reduce(
+    (chain, url) => chain.then(() => playAudioUrl(url)),
+    Promise.resolve()
+  );
+}
+
+function playTextOnline(text) {
+  const tokens = audioTokens(text);
+  if (!tokens.length) return Promise.reject(new Error("No playable English text."));
+  if (tokens.length === 1) return playAudioUrl(youdaoAudioUrl(tokens[0]));
+  return playAudioSequence(tokens.map(token => youdaoAudioUrl(token)));
 }
 
 async function speak(text, audioSrc = "") {
@@ -990,8 +1020,15 @@ async function speak(text, audioSrc = "") {
     playAudioUrl(audioSrc).catch(() => speakWithDeviceVoice(text));
     return;
   }
+  try {
+    await playTextOnline(text);
+    state.audio = { ready: true, status: "在线发音已播放", error: "" };
+    return;
+  } catch {
+    // Keep going to the existing dictionary/browser fallbacks.
+  }
   const word = wordAudioKey(text);
-  if (isSimpleAudioWord(word)) {
+  if (isSimpleAudioWord(word) && !isLongTextAudio(text)) {
     const cachedAudio = wordAudioCache[word];
     if (cachedAudio) {
       try {
@@ -1031,7 +1068,7 @@ function speakWithDeviceVoice(text) {
   const voice = bestEnglishVoice();
   if (voice) utterance.voice = voice;
   utterance.lang = voice?.lang || "en-US";
-  utterance.rate = 0.82;
+  utterance.rate = 0.92;
   utterance.pitch = 1.03;
   let started = false;
   utterance.onstart = () => {
@@ -1066,7 +1103,7 @@ function renderAudioHelp() {
   if (state.audio?.ready) return "";
   return `
     <article class="audio-help">
-      <span>手机没声音时，先点一次声音测试；单词会优先用在线发音。</span>
+      <span>手机没声音时，先点一次声音测试；单词和例句会优先用在线发音。</span>
       <button class="tiny-action-btn" data-action="enable-audio">声音测试</button>
     </article>
   `;

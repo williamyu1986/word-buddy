@@ -18,8 +18,13 @@ function makeStorage(initial = {}) {
   };
 }
 
-function loadAudioHarness({ cache = {}, fetchImpl = async () => ({ ok: false, json: async () => [] }) } = {}) {
+function loadAudioHarness({
+  cache = {},
+  fetchImpl = async () => ({ ok: false, json: async () => [] }),
+  rejectAudio = () => false
+} = {}) {
   const played = [];
+  const rates = [];
   const spoken = [];
   const storage = makeStorage({
     "word-buddy-word-audio-cache-v1": JSON.stringify(cache)
@@ -48,6 +53,8 @@ function loadAudioHarness({ cache = {}, fetchImpl = async () => ({ ok: false, js
       this.setAttribute = () => {};
       this.play = () => {
         played.push(url);
+        rates.push(this.playbackRate);
+        if (rejectAudio(url)) return Promise.reject(new Error("audio blocked"));
         return Promise.resolve();
       };
     },
@@ -60,33 +67,39 @@ function loadAudioHarness({ cache = {}, fetchImpl = async () => ({ ok: false, js
     vm.runInNewContext(fs.readFileSync(new URL(`../${file}`, import.meta.url), "utf8"), sandbox);
   }
   vm.runInNewContext(`${fs.readFileSync(new URL("../app.js", import.meta.url), "utf8")}\nthis.__speak = speak; this.__state = state;`, sandbox);
-  return { sandbox, played, spoken };
+  return { sandbox, played, rates, spoken };
 }
 
-test("single word audio prefers cached online pronunciation", async () => {
-  const { sandbox, played, spoken } = loadAudioHarness({
-    cache: { doctor: "https://example.com/doctor.mp3" }
-  });
+test("single word audio prefers mainland-friendly online pronunciation", async () => {
+  const { sandbox, played, rates, spoken } = loadAudioHarness();
   await sandbox.__speak("doctor");
-  assert.deepEqual(played, ["https://example.com/doctor.mp3"]);
+  assert.deepEqual(played, ["https://dict.youdao.com/dictvoice?audio=doctor&type=2"]);
+  assert.deepEqual(rates, [1.12]);
   assert.deepEqual(spoken, []);
 });
 
-test("sentence audio still falls back to device speech", async () => {
+test("sentence audio uses online word-by-word playback on mobile", async () => {
   const { sandbox, played, spoken } = loadAudioHarness();
   await sandbox.__speak("A doctor helps sick people.");
-  assert.deepEqual(played, []);
-  assert.deepEqual(spoken, ["A doctor helps sick people."]);
+  assert.deepEqual(played, [
+    "https://dict.youdao.com/dictvoice?audio=A&type=2",
+    "https://dict.youdao.com/dictvoice?audio=doctor&type=2",
+    "https://dict.youdao.com/dictvoice?audio=helps&type=2",
+    "https://dict.youdao.com/dictvoice?audio=sick&type=2",
+    "https://dict.youdao.com/dictvoice?audio=people&type=2"
+  ]);
+  assert.deepEqual(spoken, []);
 });
 
-test("first online lookup caches audio and asks for a second tap on mobile", async () => {
+test("dictionary lookup remains as fallback when direct online audio fails", async () => {
   const { sandbox, played } = loadAudioHarness({
+    rejectAudio: url => url.includes("dict.youdao.com"),
     fetchImpl: async () => ({
       ok: true,
       json: async () => [{ phonetics: [{ audio: "https://example.com/body.mp3" }] }]
     })
   });
   await sandbox.__speak("body");
-  assert.deepEqual(played, []);
+  assert.deepEqual(played, ["https://dict.youdao.com/dictvoice?audio=body&type=2"]);
   assert.match(sandbox.__state.message, /再点一次播放/);
 });
